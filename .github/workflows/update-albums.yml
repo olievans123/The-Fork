@@ -1,0 +1,31 @@
+name: Update albums
+
+on:
+  schedule:
+    - cron: '0 8 * * *' # daily at 8am UTC
+  workflow_dispatch: # manual trigger
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Scrape new reviews
+        run: node scrape.js --update
+
+      - name: Sync full dataset
+        run: node sync.js
+
+      - name: Commit and push if changed
+        run: |
+          git diff --quiet albums.json && echo "No new albums" && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add albums.json albums.full.json
+          git commit -m "Update albums $(date -u +%Y-%m-%d)"
+          git push
