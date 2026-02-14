@@ -9,7 +9,8 @@
     "serve": "node serve.js",
     "scrape": "node scrape.js",
     "scrape:sitemap": "node scrape-sitemap.js",
-    "enrich": "node enrich.js"
+    "enrich": "node enrich.js",
+    "enrich:years": "node enrich-years.js"
   },
   "keywords": [],
   "author": "",
