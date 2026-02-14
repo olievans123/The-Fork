@@ -1105,6 +1105,15 @@ function init() {
   initTheme();
   urlToState();
 
+  // On mobile, move Score and Country into "More Filters"
+  if (window.matchMedia('(max-width: 700px)').matches) {
+    const filtersMore = document.getElementById('filtersMore');
+    const scoreGroup = document.getElementById('filterScore').closest('.control-group');
+    const countryGroup = document.getElementById('countryFilterGroup');
+    filtersMore.prepend(countryGroup);
+    filtersMore.prepend(scoreGroup);
+  }
+
   // Controls
   const bindSelect = (id, key) => {
     document.getElementById(id).addEventListener('change', e => { state[key] = e.target.value; applyFilters(); });
