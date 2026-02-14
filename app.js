@@ -402,9 +402,9 @@ function buildArtistCountryFallbacks(albums, enrichData) {
 
 /* ── Data Loading ── */
 async function loadData() {
+  const cacheBust = '?v=' + Date.now();
   try {
     const dataSources = ['albums.full.json', 'albums.json'];
-    const cacheBust = '?v=' + Date.now();
     let loaded = false;
     for (const file of dataSources) {
       try {
