@@ -21,6 +21,9 @@ jobs:
       - name: Enrich release years for new albums
         run: node enrich-years.js
 
+      - name: Enrich original years for reissues
+        run: node enrich-original-years.js
+
       - name: Sync full dataset
         run: node sync.js
 
