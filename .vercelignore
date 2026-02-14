@@ -1,0 +1,17 @@
+node_modules
+test-results
+tests
+screenshots
+*.backfill-test.json
+scrape.js
+scrape-sitemap.js
+enrich.js
+enrich-artists.js
+analyze-site.js
+audit.js
+fill-remaining.js
+fix-xw.js
+sync.js
+backfill-images.js
+serve.js
+playwright.config.js
