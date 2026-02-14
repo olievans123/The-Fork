@@ -404,10 +404,11 @@ function buildArtistCountryFallbacks(albums, enrichData) {
 async function loadData() {
   try {
     const dataSources = ['albums.full.json', 'albums.json'];
+    const cacheBust = '?v=' + Date.now();
     let loaded = false;
     for (const file of dataSources) {
       try {
-        const resp = await fetch(file);
+        const resp = await fetch(file + cacheBust);
         if (!resp.ok) continue;
         allAlbums = await resp.json();
         loaded = true;
@@ -460,8 +461,8 @@ async function loadData() {
   let artistCountryFallbacks = new Map();
   try {
     const [enrichResp, artistResp] = await Promise.all([
-      fetch('enrichment.json'),
-      fetch('artist-cache.json'),
+      fetch('enrichment.json' + cacheBust),
+      fetch('artist-cache.json' + cacheBust),
     ]);
 
     if (enrichResp.ok) {
