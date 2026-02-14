@@ -13,6 +13,7 @@
  *   node enrich-original-years.js                    # Enrich reissues missing originalYear
  *   node enrich-original-years.js --workers 6        # Faster with more workers
  *   node enrich-original-years.js --limit 50         # Stop after 50 lookups
+ *   node enrich-original-years.js --all              # Check ALL albums, not just BNR/keyword
  *   node enrich-original-years.js --dry-run          # Preview without saving
  *   node enrich-original-years.js --force            # Re-fetch even if originalYear exists
  */
@@ -25,24 +26,30 @@ const UA = 'TheFork/1.0 (album-review-browser)';
 const DEFAULT_DELAY_MS = 350;
 const DEFAULT_WORKERS = 4;
 const DEFAULT_SAVE_EVERY = 50;
-const REISSUE_TITLE_PATTERN = /\b(remaster|reissue|re-?issue|anniversary|box set)\b/i;
+const REISSUE_TITLE_PATTERN = /\b(remaster|reissue|re-?issue|anniversary|box set|deluxe|expanded|edition)\b/i;
 const MIN_YEAR_GAP = 3; // Only set originalYear if it's 3+ years before releaseYear
 
 function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
 
 function cleanTitle(title) {
-  return String(title || '')
+  const cleaned = String(title || '')
     .replace(/&amp;/g, '&')
+    .replace(/&#8212;/g, '—').replace(/&#8211;/g, '–').replace(/&#39;/g, "'")
+    .replace(/&#\d+;/g, ' ')
     // Strip parenthetical/bracketed groups containing reissue keywords
     .replace(/\s*\([^\)]*?(remaster|reissue|anniversary|deluxe|expanded|edition|box set|bonus)[^\)]*?\)/gi, '')
     .replace(/\s*\[[^\]]*?(remaster|reissue|anniversary|deluxe|expanded|edition|box set|bonus)[^\]]*?\]/gi, '')
-    // Strip non-parenthetical suffixes like ": Expanded Edition", " - Deluxe"
-    .replace(/\s*[-–:]\s*(expanded|deluxe|remaster|reissue|anniversary).*$/i, '')
-    // Strip "'82" or similar year markers appended to titles
-    .replace(/\s*[''\u2019]?\d{2,4}\s*$/g, '')
+    // Strip non-parenthetical suffixes like ": Expanded Edition", " - Deluxe", "— Expanded"
+    .replace(/\s*[-–—:]\s*(?:the\s+)?(?:\d+\w*\s+)?(expanded|deluxe|remaster|reissue|anniversary|super|box set).*$/i, '')
+    // Strip trailing reissue keywords (e.g. "Purple Rain Deluxe" -> "Purple Rain")
+    .replace(/\s+(deluxe|expanded|remastered|remaster|super)\s*$/i, '')
+    // Strip "'82" or similar year markers appended to titles (but not if the title IS a number)
+    .replace(/(?<=\S\s+)[''\u2019]?\d{2,4}\s*$/g, '')
     // Normalize special chars (E•MO•TION -> EMOTION)
     .replace(/[•·]/g, '')
     .trim();
+  // If cleaning removed everything (e.g. title was just "1999"), return original minus HTML entities
+  return cleaned || String(title || '').replace(/&amp;/g, '&').replace(/&#\d+;/g, ' ').trim();
 }
 
 function normalizeText(s) {
@@ -82,24 +89,22 @@ async function fetchJson(url, delayMs) {
 
 async function lookupOriginalYear(artist, title, delayMs) {
   const cleanedTitle = cleanTitle(title);
-  const artistEsc = String(artist).replace(/&amp;/g, '&').replace(/["\\]/g, ' ').trim();
+  const artistEsc = String(artist).replace(/&amp;/g, '&').replace(/&#\d+;/g, ' ').replace(/["\\]/g, ' ').trim();
   const titleEsc = String(cleanedTitle).replace(/["\\]/g, ' ').trim();
 
-  // Prepare a raw version (strips edition suffix but keeps special chars like •)
-  const rawTitleEsc = String(title || '')
-    .replace(/&amp;/g, '&')
-    .replace(/\s*\([^\)]*?(remaster|reissue|anniversary|deluxe|expanded|edition|box set|bonus)[^\)]*?\)/gi, '')
-    .replace(/\s*\[[^\]]*?(remaster|reissue|anniversary|deluxe|expanded|edition|box set|bonus)[^\]]*?\]/gi, '')
-    .replace(/\s*[-–:]\s*(expanded|deluxe|remaster|reissue|anniversary).*$/i, '')
-    .replace(/["\\]/g, ' ')
-    .trim();
+  // For collab credits like "Prince / The Revolution", also try the primary artist
+  const primaryArtist = artistEsc.split(/\s*[\/&]\s*/)[0].trim();
 
-  const queries = [
-    `artist:"${artistEsc}" AND releasegroup:"${titleEsc}"`,
-    `artist:"${artistEsc}" AND releasegroup:${titleEsc}`,
-  ];
-  if (rawTitleEsc !== titleEsc) {
-    queries.push(`artist:"${artistEsc}" AND releasegroup:"${rawTitleEsc}"`);
+  // For multi-album reviews like "Kill 'Em All/Ride the Lightning", try each part
+  const titleParts = titleEsc.includes('/') ? titleEsc.split(/\s*\/\s*/) : [titleEsc];
+
+  const queries = [];
+  for (const tp of titleParts) {
+    queries.push(`artist:"${artistEsc}" AND releasegroup:"${tp}"`);
+    if (primaryArtist !== artistEsc) {
+      queries.push(`artist:"${primaryArtist}" AND releasegroup:"${tp}"`);
+    }
+    queries.push(`artist:"${artistEsc}" AND releasegroup:${tp}`);
   }
 
   const candidates = new Map();
@@ -117,7 +122,8 @@ async function lookupOriginalYear(artist, title, delayMs) {
 
   const groups = [...candidates.values()];
   const targetArtist = normalizeText(artist);
-  const targetTitle = normalizeText(cleanedTitle);
+  const targetPrimary = normalizeText(primaryArtist);
+  const targetTitles = titleParts.map(t => normalizeText(t));
 
   let best = null;
   let bestScore = -1;
@@ -132,11 +138,15 @@ async function lookupOriginalYear(artist, title, delayMs) {
       (rg['artist-credit'] || []).map(a => a?.name || a?.artist?.name || '').join(' ')
     );
 
-    if (rgTitle === targetTitle) score += 40;
-    else if (rgTitle.includes(targetTitle) || targetTitle.includes(rgTitle)) score += 20;
+    // Match against any title part (for multi-album reviews)
+    const titleMatch = targetTitles.some(t => rgTitle === t);
+    const titlePartial = targetTitles.some(t => rgTitle.includes(t) || t.includes(rgTitle));
+    if (titleMatch) score += 40;
+    else if (titlePartial) score += 20;
 
-    if (rgArtists === targetArtist) score += 30;
-    else if (rgArtists.includes(targetArtist) || targetArtist.includes(rgArtists)) score += 15;
+    // Match against full artist or primary artist
+    if (rgArtists === targetArtist || rgArtists === targetPrimary) score += 30;
+    else if (rgArtists.includes(targetPrimary) || targetPrimary.includes(rgArtists)) score += 15;
 
     if (score > bestScore) { bestScore = score; best = rg; }
   }
@@ -155,7 +165,7 @@ async function lookupOriginalYear(artist, title, delayMs) {
   return { originalYear: year, matchedTitle: best.title };
 }
 
-function isReissueCandidate(album) {
+function isReissueCandidate(album, allMode) {
   if (!album.releaseYear || !album.url) return false;
   // Already has originalYear and we're not forcing
   if (album.originalYear) return false;
@@ -166,11 +176,17 @@ function isReissueCandidate(album) {
   // If releaseYear is already far from review date, it might already be correct
   if (gap > 5) return false;
 
+  // --all mode: check every album that doesn't already have originalYear
+  if (allMode) return true;
+
   // BNR flag = definite reissue
   if (album.bnr) return true;
 
   // Title contains reissue keywords
   if (REISSUE_TITLE_PATTERN.test(album.title)) return true;
+
+  // Multi-album reviews (e.g. "Kill 'Em All / Ride the Lightning") are almost always reissues
+  if (/\s\/\s/.test(album.title) && !/\s*[,&]\s/.test(album.artist.split('/')[0])) return true;
 
   return false;
 }
@@ -181,6 +197,7 @@ async function main() {
     ? parseInt(args[args.indexOf('--limit') + 1], 10) || Infinity
     : Infinity;
   const force = args.includes('--force');
+  const allMode = args.includes('--all');
   const dryRun = args.includes('--dry-run');
   const workers = args.includes('--workers')
     ? Math.max(1, parseInt(args[args.indexOf('--workers') + 1], 10) || DEFAULT_WORKERS)
@@ -201,9 +218,9 @@ async function main() {
 
   const candidates = albums.filter(a => {
     if (force) {
-      return (a.bnr || REISSUE_TITLE_PATTERN.test(a.title)) && a.url;
+      return (allMode || a.bnr || REISSUE_TITLE_PATTERN.test(a.title)) && a.url;
     }
-    return isReissueCandidate(a);
+    return isReissueCandidate(a, allMode);
   });
 
   const alreadyEnriched = albums.filter(a => a.originalYear).length;
@@ -215,6 +232,7 @@ async function main() {
   console.log(`Reissue candidates: ${candidates.length}`);
   console.log(`To look up: ${Math.min(candidates.length, limit)}`);
   console.log(`Workers: ${workers}, Delay: ${delayMs}ms`);
+  console.log(`All mode: ${allMode ? 'ON' : 'OFF'}`);
   console.log(`Dry run: ${dryRun ? 'ON' : 'OFF'}`);
   console.log(`Force mode: ${force ? 'ON' : 'OFF'}\n`);
 
