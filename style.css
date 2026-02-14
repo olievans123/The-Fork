@@ -1198,20 +1198,48 @@ main {
 }
 
 @media (max-width: 700px) {
-  header { height: 44px; padding: 0 16px; }
+  header { height: 44px; padding: 0 12px; }
   .controls-wrapper { top: 44px; }
-  .controls { padding: 10px 16px; }
-  main { padding: 16px 16px 60px; }
+  .controls { padding: 8px 12px; }
+  main { padding: 12px 12px 60px; }
   .header-stats { display: none; }
   .stats-panel-inner { grid-template-columns: 1fr; }
-  .album-grid { grid-template-columns: repeat(2, 1fr); gap: 16px 12px; }
+  .album-grid { grid-template-columns: repeat(2, 1fr); gap: 12px 10px; }
+  .album-artist { font-size: 13px; }
+  .album-title { font-size: 12px; }
+  .album-meta { font-size: 11px; }
+  .album-cover { margin-bottom: 6px; }
+  .score-badge { width: 34px; height: 34px; min-width: 34px; font-size: 13px; bottom: 6px; left: 6px; }
   .list-header, .list-row { grid-template-columns: 40px 36px 1.5fr 2fr 50px; gap: 8px; font-size: 13px; }
   .list-cover { width: 36px; height: 36px; }
   .list-genre, .list-user-score { display: none; }
   .modal-hero { flex-direction: column; gap: 16px; padding: 24px 20px 0; }
   .modal-cover { width: 100%; height: auto; aspect-ratio: 1; }
   .modal-body { padding: 20px; }
-  .filters-row { gap: 8px; }
-  .display-row { gap: 8px; }
-  .more-filters-btn { padding: 6px 10px; font-size: 11px; }
+
+  /* Compact filters */
+  .search-group { margin-bottom: 6px; }
+  #search { font-size: 14px; padding: 8px 32px 8px 32px; }
+  .filters-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 6px;
+  }
+  .control-group { gap: 4px; }
+  .control-group label { font-size: 10px; min-width: 0; }
+  select { font-size: 12px; padding: 6px 24px 6px 8px; }
+  .more-filters-btn { padding: 6px 10px; font-size: 10px; }
+  .filters-more.open {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 6px;
+  }
+  .display-row {
+    gap: 6px;
+    margin-top: 6px;
+    padding-top: 6px;
+  }
+  .display-row select { font-size: 12px; }
+  .sort-dir-btn { width: 30px; height: 30px; }
+  .view-btn { width: 30px; height: 30px; }
 }
