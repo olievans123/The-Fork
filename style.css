@@ -961,7 +961,7 @@ main {
 .modal {
   background: var(--bg);
   width: 100%;
-  max-width: 640px;
+  max-width: 860px;
   max-height: 90vh;
   overflow-y: auto;
   position: relative;
@@ -994,12 +994,12 @@ main {
 .modal-hero {
   display: flex;
   gap: 24px;
-  padding: 32px 32px 0;
+  padding: 32px;
 }
 
 .modal-cover {
-  width: 200px;
-  height: 200px;
+  width: 280px;
+  height: 280px;
   flex-shrink: 0;
   background: var(--bg-alt);
   overflow: hidden;
@@ -1010,17 +1010,17 @@ main {
 .modal-info { flex: 1; padding-top: 4px; }
 
 .modal-artist {
-  font-size: 15px;
+  font-size: 17px;
   font-weight: 600;
-  margin-bottom: 2px;
+  margin-bottom: 4px;
 }
 
 .modal-title {
   font-family: var(--font-serif);
-  font-size: 24px;
+  font-size: 28px;
   font-weight: 700;
   font-style: italic;
-  margin-bottom: 12px;
+  margin-bottom: 14px;
   line-height: 1.2;
 }
 
@@ -1032,7 +1032,7 @@ main {
 }
 
 .modal-score {
-  font-size: 36px;
+  font-size: 42px;
   font-weight: 700;
   line-height: 1;
 }
@@ -1048,22 +1048,20 @@ main {
 }
 
 .modal-meta {
-  font-size: 13px;
+  font-size: 14px;
   color: var(--fg-secondary);
   line-height: 1.8;
 }
 
 .modal-meta strong { color: var(--fg); font-weight: 600; }
 
-.modal-body {
-  padding: 24px 32px 32px;
-}
-
 .modal-description {
   font-size: 15px;
   line-height: 1.7;
   color: var(--fg-secondary);
-  margin-bottom: 24px;
+  margin-top: 16px;
+  font-style: italic;
+  font-family: var(--font-serif);
 }
 
 .modal-link {
@@ -1074,7 +1072,7 @@ main {
   letter-spacing: 0.5px;
   color: var(--red);
   text-decoration: none;
-  margin-bottom: 24px;
+  margin-top: 14px;
 }
 
 .modal-link:hover { text-decoration: underline; }

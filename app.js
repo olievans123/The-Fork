@@ -331,9 +331,17 @@ function buildArtistProfiles(artistCache) {
   return profiles;
 }
 
+// Secondary English-speaking distribution markets — release country from these
+// almost never reflects the artist's actual origin. US and GB are kept because
+// the vast majority of Pitchfork-reviewed artists genuinely are American or British.
+const SECONDARY_DIST_COUNTRIES = new Set(['CA', 'AU', 'NZ', 'IE']);
+
 function canUseEnrichmentCountry(country, language) {
   if (!isKnownTag(country)) return false;
   if (country === 'XW' || country === 'XE' || country === 'XU') return false;
+  // Don't trust secondary distribution markets as artist origin —
+  // a Beyoncé album released in Canada doesn't make her Canadian.
+  if (SECONDARY_DIST_COUNTRIES.has(country)) return false;
 
   const primary = PRIMARY_LANGUAGE_BY_COUNTRY[country];
   if (!primary) return false;
@@ -377,6 +385,11 @@ function buildArtistCountryFallbacks(albums, enrichData) {
     });
 
     if (!bestCountry) return;
+    // If all release countries are secondary distribution markets (CA/AU/NZ/IE),
+    // the data is just distribution noise, not artist origin.
+    const allSecondary = [...voteMap.keys()].every(c => SECONDARY_DIST_COUNTRIES.has(c));
+    if (allSecondary) return;
+
     const singleCountry = voteMap.size === 1;
     const clearWinner = bestVotes >= secondVotes + 1;
     if (singleCountry || clearWinner || bestVotes >= 3) {
@@ -469,11 +482,16 @@ async function loadData() {
   allAlbums.forEach(a => {
     const entry = (a.url && enrichData[a.url]) ? enrichData[a.url] : null;
     const profile = artistProfiles.get(artistKey(a.artist));
+    // For collabs like "Drake / 21 Savage", also try the first artist name.
+    const primaryName = a.artist.split(/\s*[\/&]\s*/)[0].trim();
+    const primaryProfile = primaryName !== a.artist ? artistProfiles.get(artistKey(primaryName)) : null;
     let country = null;
     let language = null;
 
     if (profile?.country) country = profile.country;
+    else if (primaryProfile?.country) country = primaryProfile.country;
     if (profile?.language) language = profile.language;
+    else if (primaryProfile?.language) language = primaryProfile.language;
 
     if (!country) {
       country = inferCountryFromText(a.description);
@@ -1001,11 +1019,9 @@ function renderModal(album) {
           ${album.language && album.language !== 'Unknown' ? `<div><strong>Language</strong> ${esc(languageName(album.language))}</div>` : ''}
           ${album.dateFormatted ? `<div><strong>Published</strong> ${esc(album.dateFormatted)}</div>` : ''}
         </div>
+        ${album.description ? `<p class="modal-description">${esc(album.description)}</p>` : ''}
+        ${pitchforkUrl ? `<a class="modal-link" href="${esc(pitchforkUrl)}" target="_blank" rel="noopener">Read full review on Pitchfork &rarr;</a>` : ''}
       </div>
-    </div>
-    <div class="modal-body">
-      ${album.description ? `<p class="modal-description">${esc(album.description)}</p>` : ''}
-      ${pitchforkUrl ? `<a class="modal-link" href="${esc(pitchforkUrl)}" target="_blank" rel="noopener">Read full review on Pitchfork &rarr;</a>` : ''}
     </div>
   `;
 }
