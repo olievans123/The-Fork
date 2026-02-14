@@ -125,7 +125,7 @@ function normalizeReleaseYear(value) {
 }
 
 function albumYear(album) {
-  return normalizeReleaseYear(album?.releaseYear);
+  return normalizeReleaseYear(album?.originalYear) || normalizeReleaseYear(album?.releaseYear);
 }
 
 function albumDecade(album) {
