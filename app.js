@@ -20,7 +20,7 @@ const albumById = new Map();
 const state = {
   view: 'grid',
   groupBy: 'none',
-  sortBy: 'date',
+  sortBy: 'score',
   sortDir: 'desc',
   filterGenre: 'all',
   filterDecade: 'all',
@@ -533,7 +533,7 @@ const URL_PARAM_MAP = {
 const STATE_DEFAULTS = {
   search: '', filterGenre: 'all', filterDecade: 'all', filterYear: 'all',
   filterScore: 'all', filterCountry: 'all', filterLanguage: 'all',
-  sortBy: 'date', sortDir: 'desc', view: 'grid', groupBy: 'none',
+  sortBy: 'score', sortDir: 'desc', view: 'grid', groupBy: 'none',
 };
 
 function stateToUrl() {
@@ -1126,6 +1126,15 @@ function init() {
   bindSelect('filterLanguage', 'filterLanguage');
   bindSelect('groupBy', 'groupBy');
   bindSelect('sortBy', 'sortBy');
+
+  // Logo click: reset all filters
+  document.querySelector('.logo').addEventListener('click', e => {
+    e.preventDefault();
+    Object.assign(state, STATE_DEFAULTS);
+    document.getElementById('search').value = '';
+    document.querySelectorAll('select').forEach(s => { s.value = state[s.id] || 'all'; });
+    applyFilters();
+  });
 
   // More filters toggle
   const moreFiltersBtn = document.getElementById('moreFiltersBtn');
