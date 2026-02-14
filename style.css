@@ -1198,13 +1198,15 @@ main {
 }
 
 @media (max-width: 700px) {
+  html { overflow-x: hidden; }
   header { height: 44px; padding: 0 12px; }
   .controls-wrapper { top: 44px; }
   .controls { padding: 8px 12px; }
   main { padding: 12px 12px 60px; }
   .header-stats { display: none; }
   .stats-panel-inner { grid-template-columns: 1fr; }
-  .album-grid { grid-template-columns: repeat(2, 1fr); gap: 12px 10px; }
+  .album-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px 10px; }
+  .album-card { min-width: 0; }
   .album-artist { font-size: 13px; }
   .album-title { font-size: 12px; }
   .album-meta { font-size: 11px; }
@@ -1225,10 +1227,19 @@ main {
     grid-template-columns: 1fr 1fr;
     gap: 6px;
   }
-  .control-group { gap: 4px; }
-  .control-group label { font-size: 10px; min-width: 0; }
-  select { font-size: 12px; padding: 6px 24px 6px 8px; }
-  .more-filters-btn { padding: 6px 10px; font-size: 10px; }
+  .control-group {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 2px;
+  }
+  .control-group label { font-size: 10px; }
+  select { font-size: 13px; padding: 8px 28px 8px 8px; width: 100%; }
+  .more-filters-btn {
+    grid-column: 1 / -1;
+    padding: 8px 10px;
+    font-size: 10px;
+    justify-content: center;
+  }
   .filters-more.open {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -1239,7 +1250,8 @@ main {
     margin-top: 6px;
     padding-top: 6px;
   }
-  .display-row select { font-size: 12px; }
-  .sort-dir-btn { width: 30px; height: 30px; }
-  .view-btn { width: 30px; height: 30px; }
+  .display-row .control-group { flex-direction: row; align-items: center; }
+  .display-row select { font-size: 13px; width: auto; }
+  .sort-dir-btn { width: 32px; height: 32px; }
+  .view-btn { width: 32px; height: 32px; }
 }

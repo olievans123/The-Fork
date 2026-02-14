@@ -26,6 +26,15 @@ function sleep(ms) {
   return new Promise(r => setTimeout(r, ms));
 }
 
+function normalizeUrl(url) {
+  if (!url) return '';
+  let p = String(url).trim();
+  try { p = new URL(p).pathname; } catch { /* already a path */ }
+  p = p.replace(/\/{2,}/g, '/');
+  if (!p.endsWith('/')) p += '/';
+  return p;
+}
+
 function stripHtml(html) {
   return html.replace(/<[^>]*>/g, '').trim();
 }
@@ -98,10 +107,10 @@ async function main() {
 
   // Load existing data for update mode
   let existing = [];
-  let existingIds = new Set();
+  let existingUrls = new Set();
   if (fs.existsSync(DATA_FILE)) {
     existing = JSON.parse(fs.readFileSync(DATA_FILE, 'utf-8'));
-    existingIds = new Set(existing.map(a => a.id));
+    existingUrls = new Set(existing.map(a => normalizeUrl(a.url)));
     console.log(`Loaded ${existing.length} existing albums from cache.`);
   }
 
@@ -116,7 +125,7 @@ async function main() {
   console.log(`Pages to fetch: ${pagesToFetch} of ${totalPages}\n`);
 
   let allItems = [...first.items];
-  let newCount = first.items.filter(i => !existingIds.has(i.id)).length;
+  let newCount = first.items.filter(i => !existingUrls.has(normalizeUrl(i.url))).length;
 
   if (isUpdate && newCount === 0) {
     console.log('No new reviews found on page 1. Data is up to date.');
@@ -133,7 +142,7 @@ async function main() {
       allItems.push(...result.items);
 
       if (isUpdate) {
-        const pageNewCount = result.items.filter(i => !existingIds.has(i.id)).length;
+        const pageNewCount = result.items.filter(i => !existingUrls.has(normalizeUrl(i.url))).length;
         if (pageNewCount === 0) {
           console.log(`\nNo new reviews on page ${page}. Stopping update.`);
           break;
@@ -148,11 +157,11 @@ async function main() {
 
   console.log(`\n\nFetched ${allItems.length} reviews.`);
 
-  // Merge with existing (dedup by id)
+  // Merge with existing (dedup by url)
   if (isUpdate && existing.length > 0) {
     const merged = new Map();
-    for (const a of existing) merged.set(a.id, a);
-    for (const a of allItems) merged.set(a.id, a);
+    for (const a of existing) merged.set(normalizeUrl(a.url), a);
+    for (const a of allItems) merged.set(normalizeUrl(a.url), a);
     allItems = [...merged.values()];
     console.log(`Merged to ${allItems.length} total (${allItems.length - existing.length} new).`);
   }

@@ -2,3 +2,4 @@ node_modules/
 test-results/
 screenshots/
 *.backfill-test.json
+.vercel
