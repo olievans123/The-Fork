@@ -161,7 +161,11 @@ async function main() {
   if (isUpdate && existing.length > 0) {
     const merged = new Map();
     for (const a of existing) merged.set(normalizeUrl(a.url), a);
-    for (const a of allItems) merged.set(normalizeUrl(a.url), a);
+    for (const a of allItems) {
+      const url = normalizeUrl(a.url);
+      const prev = merged.get(url);
+      merged.set(url, prev ? { ...prev, ...a } : a);
+    }
     allItems = [...merged.values()];
     console.log(`Merged to ${allItems.length} total (${allItems.length - existing.length} new).`);
   }

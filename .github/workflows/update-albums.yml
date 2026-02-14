@@ -18,6 +18,9 @@ jobs:
       - name: Scrape new reviews
         run: node scrape.js --update
 
+      - name: Enrich release years for new albums
+        run: node enrich-years.js
+
       - name: Sync full dataset
         run: node sync.js
 
