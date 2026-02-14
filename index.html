@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Fork — Album Reviews</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Header -->
+  <header id="header">
+    <div class="header-inner">
+      <a class="logo" href="#">THE <span>FORK</span></a>
+      <div class="header-stats" id="headerStats" aria-live="polite" aria-atomic="true">
+        <span><strong id="statCount">—</strong> reviews</span>
+        <span>avg <strong id="statAvg">—</strong></span>
+        <span><strong id="statBnm">—</strong> BNM</span>
+      </div>
+      <div class="header-actions">
+        <button class="icon-btn" id="statsToggle" title="Statistics" aria-label="Toggle statistics panel" aria-expanded="false">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="12" width="4" height="9"/><rect x="10" y="7" width="4" height="14"/><rect x="17" y="3" width="4" height="18"/></svg>
+        </button>
+        <button class="icon-btn" id="themeToggle" title="Toggle dark mode" aria-label="Toggle dark mode">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Stats Panel -->
+  <div class="stats-panel" id="statsPanel">
+    <div class="stats-panel-inner">
+      <div class="stats-section">
+        <h3>Score Distribution</h3>
+        <div class="score-chart" id="scoreChart"></div>
+      </div>
+      <div class="stats-section">
+        <h3>Top Genres</h3>
+        <div class="genre-chart" id="genreChart"></div>
+      </div>
+      <div class="stats-section">
+        <h3>Reviews by Year</h3>
+        <div class="year-chart" id="yearChart"></div>
+      </div>
+      <div class="stats-section">
+        <h3>Quick Numbers</h3>
+        <div class="quick-stats" id="quickStats"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Controls -->
+  <div class="controls-wrapper" id="controlsWrapper">
+    <div class="controls">
+      <div class="control-group search-group">
+        <svg class="search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+        <input type="text" id="search" placeholder="Search artists, albums, reviewers..." autocomplete="off" aria-label="Search artists, albums, and reviewers">
+        <kbd class="search-kbd">/</kbd>
+      </div>
+
+      <div class="filters-row">
+        <div class="control-group">
+          <label>Genre</label>
+          <select id="filterGenre"><option value="all">All</option></select>
+        </div>
+        <div class="control-group">
+          <label>Decade</label>
+          <select id="filterDecade"><option value="all">All</option></select>
+        </div>
+        <div class="control-group">
+          <label>Score</label>
+          <select id="filterScore">
+            <option value="all">All</option>
+            <option value="9-10">9.0 – 10.0</option>
+            <option value="8-9">8.0 – 8.9</option>
+            <option value="7-8">7.0 – 7.9</option>
+            <option value="6-7">6.0 – 6.9</option>
+            <option value="0-6">Below 6.0</option>
+          </select>
+        </div>
+        <div class="control-group" id="countryFilterGroup">
+          <label>Country</label>
+          <select id="filterCountry"><option value="all">All</option></select>
+        </div>
+        <button class="more-filters-btn" id="moreFiltersBtn">More filters <svg width="8" height="5" viewBox="0 0 8 5" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M1 1l3 3 3-3"/></svg></button>
+      </div>
+
+      <div class="filters-more" id="filtersMore">
+        <div class="control-group">
+          <label>Year</label>
+          <select id="filterYear"><option value="all">All</option></select>
+        </div>
+        <div class="control-group" id="languageFilterGroup">
+          <label>Language</label>
+          <select id="filterLanguage"><option value="all">All</option></select>
+        </div>
+        <div class="control-group">
+          <label>Group by</label>
+          <select id="groupBy">
+            <option value="none">None</option>
+            <option value="genre">Genre</option>
+            <option value="year">Year</option>
+            <option value="decade">Decade</option>
+            <option value="score">Score Range</option>
+            <option value="reviewer">Reviewer</option>
+            <option value="country">Country</option>
+            <option value="language">Language</option>
+            <option value="bnm">BNM Status</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="display-row">
+        <div class="control-group">
+          <label>Sort</label>
+          <select id="sortBy">
+            <option value="date">Date</option>
+            <option value="score">Score</option>
+            <option value="year">Year</option>
+          </select>
+        </div>
+        <button class="sort-dir-btn" id="sortDirBtn" title="Toggle sort direction">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M12 5v14M5 12l7 7 7-7"/></svg>
+        </button>
+
+        <div class="control-spacer"></div>
+
+        <div class="active-filters" id="activeFilters"></div>
+
+        <div class="view-toggle">
+          <button class="view-btn active" data-view="grid" title="Grid view">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>
+          </button>
+          <button class="view-btn" data-view="list" title="List view">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Main Content -->
+  <main id="main">
+    <div class="loading" id="loading">
+      <div class="loading-spinner"></div>
+      <p>Loading reviews...</p>
+    </div>
+    <div id="albumContainer"></div>
+    <div class="load-more" id="loadMore">
+      <button class="load-more-btn" id="loadMoreBtn">Load more</button>
+      <span class="load-more-count" id="loadMoreCount"></span>
+    </div>
+  </main>
+
+  <!-- Album Detail Modal -->
+  <div class="modal-overlay" id="modalOverlay" role="dialog" aria-modal="true" aria-label="Album details">
+    <div class="modal" id="modal">
+      <button class="modal-close" id="modalClose" aria-label="Close">&times;</button>
+      <div class="modal-content" id="modalContent"></div>
+    </div>
+  </div>
+
+  <!-- Toast -->
+  <div class="toast" id="toast"></div>
+
+  <script src="app.js"></script>
+</body>
+</html>

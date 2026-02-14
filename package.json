@@ -1,0 +1,24 @@
+{
+  "name": "pitchfork-albums",
+  "version": "1.0.0",
+  "description": "",
+  "main": "analyze-site.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:ui": "npx playwright test --ui",
+    "serve": "node serve.js",
+    "scrape": "node scrape.js",
+    "scrape:sitemap": "node scrape-sitemap.js",
+    "enrich": "node enrich.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "playwright": "^1.58.2"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.58.2"
+  }
+}
