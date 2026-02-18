@@ -105,7 +105,9 @@ function languageName(code) { return (code && LANGUAGE_NAMES[code]) || code || '
 /* ── Helpers ── */
 function esc(str) {
   const d = document.createElement('div');
-  d.textContent = str;
+  d.innerHTML = str;
+  const text = d.textContent;
+  d.textContent = text;
   return d.innerHTML;
 }
 
