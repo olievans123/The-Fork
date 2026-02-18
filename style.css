@@ -155,6 +155,26 @@ header {
   border-color: var(--red);
 }
 
+.coffee-btn {
+  width: auto;
+  padding: 0 10px;
+  gap: 6px;
+  font-size: 0.75rem;
+  font-weight: 500;
+  text-decoration: none;
+  border-radius: 6px;
+}
+
+.coffee-label {
+  display: none;
+}
+
+@media (min-width: 640px) {
+  .coffee-label {
+    display: inline;
+  }
+}
+
 /* ── Stats Panel ── */
 .stats-panel {
   max-height: 0;
