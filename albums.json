@@ -1,5 +1,77 @@
 [
   {
+    "id": "69b2d7945ef6143b49257a1c",
+    "artist": "Laurel Halo",
+    "title": "Midnight Zone (Original Soundtrack)",
+    "score": 7.9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-03-16T04:03:00.000Z",
+    "dateFormatted": "March 16, 2026",
+    "url": "/reviews/albums/laurel-halo-midnight-zone-original-soundtrack/",
+    "description": "On the soundtrack for a film that follows a lighthouse lens deep into the ocean, the producer’s lightless, airless drones capture the vertiginous feeling of endless freefall.",
+    "reviewer": "Philip Sherburne",
+    "image": "https://media.pitchfork.com/photos/69b2d744c55dbbfbcd0c495d/1:1/w_768,c_limit/Laurel%20Halo-Midnight%20Zone%20(Original%20Soundtrack).jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69b30dd5c55dbbfbcd0c4b2b",
+    "artist": "Ora Cogan",
+    "title": "Hard Hearted Woman",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Folk/Country"
+    ],
+    "date": "2026-03-16T04:02:00.000Z",
+    "dateFormatted": "March 16, 2026",
+    "url": "/reviews/albums/ora-cogan-hard-hearted-woman/",
+    "description": "The Canadian songwriter draws from gothic Americana, psychedelic folk, and ghostly bluegrass on an album of hypnotic ballads that land like incantations.",
+    "reviewer": "Emma Madden",
+    "image": "https://media.pitchfork.com/photos/69b30d65da2f411b7ab63594/1:1/w_768,c_limit/Ora%20Cogan-Hard%20Hearted%20Woman.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69b446d7d0ae27c0d86fc201",
+    "artist": "Bill Orcutt",
+    "title": "Music in Continuous Motion",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-03-16T04:01:00.000Z",
+    "dateFormatted": "March 16, 2026",
+    "url": "/reviews/albums/bill-orcutt-music-in-continuous-motion/",
+    "description": "Building on the approach of 2022’s <em>Music for Four Guitars</em>, the experimental guitarist spins time-bending drones from minimalist, melodic phrases.",
+    "reviewer": "Vanessa Ague",
+    "image": "https://media.pitchfork.com/photos/69b44634281c66708d4685d2/1:1/w_768,c_limit/Bill%20Orcutt%20Music%20in%20Continuous%20Motion.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69b2ef6bf225e3feefbe0594",
+    "artist": "Reemo",
+    "title": "Kyriemo Irving",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-03-16T04:00:00.000Z",
+    "dateFormatted": "March 16, 2026",
+    "url": "/reviews/albums/reemo-kyriemo-irving/",
+    "description": "Full of hungry day-in-the-life raps and light on gimmicks, the Philly drill rapper’s new mixtape makes a strong statement in an impossibly complicated scene.",
+    "reviewer": "Alphonse Pierre",
+    "image": "https://media.pitchfork.com/photos/69b2ef0a54c55b95bfa9f1cd/1:1/w_768,c_limit/Reemo%20-%20Kyriemo%20Irving%20album%20art.png",
+    "releaseYear": 2026
+  },
+  {
     "id": "69b446c6281c66708d4685d7",
     "artist": "Low",
     "title": "I Could Live in Hope",
