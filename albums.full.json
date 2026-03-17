@@ -1,5 +1,79 @@
 [
   {
+    "id": "69b82e2f9761c3c4d99e908e",
+    "artist": "Jack Harlow",
+    "title": "Monica",
+    "score": 3.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap",
+      "Pop/R&B"
+    ],
+    "date": "2026-03-17T04:03:00.000Z",
+    "dateFormatted": "March 17, 2026",
+    "url": "/reviews/albums/jack-harlow-monica/",
+    "description": "Jack Harlow’s sexless new album demonstrates a fundamental misunderstanding of neo-soul. His coffee shop crooning is a transparent exercise in personal rebranding.",
+    "reviewer": "Alphonse Pierre",
+    "image": "https://media.pitchfork.com/photos/69b82dc09761c3c4d99e9089/1:1/w_768,c_limit/Jack%20Harlow%20-%20Monica%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69b821afb05a0ebef2b4828d",
+    "artist": "Gregory Uhlmann",
+    "title": "Extra Stars",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Jazz",
+      "Experimental"
+    ],
+    "date": "2026-03-17T04:02:00.000Z",
+    "dateFormatted": "March 17, 2026",
+    "url": "/reviews/albums/gregory-uhlmann-extra-stars/",
+    "description": "The SML guitarist slides among instruments, modes, and moods on his restlessly inquisitive new solo album.",
+    "reviewer": "Grayson Haver Currin",
+    "image": "https://media.pitchfork.com/photos/69b820f73ffdbf76d8c0b0f5/1:1/w_768,c_limit/Gregory%20Uhlmann%20Extra%20Stars.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69b2f353dd9165eda59994d7",
+    "artist": "Bassvictim",
+    "title": "?",
+    "score": 7.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-03-17T04:01:00.000Z",
+    "dateFormatted": "March 17, 2026",
+    "url": "/reviews/albums/bassvictim-question-mark/",
+    "description": "On a low-stakes follow-up to last year’s <em>Forever</em>, the London duo continues its evolution from wubby electroclash to toylike pop ditties and microwaved lullabies.",
+    "reviewer": "Samuel Hyland",
+    "image": "https://media.pitchfork.com/photos/69b2f3d154c55b95bfa9f1e2/1:1/w_768,c_limit/Bassvictim%20-%20",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69b818253ffdbf76d8c0b0f0",
+    "artist": "PUP",
+    "title": "Megacity Madness (The Official Live Recordings)",
+    "score": 7.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-03-17T04:00:00.000Z",
+    "dateFormatted": "March 17, 2026",
+    "url": "/reviews/albums/pup-megacity-madness-the-official-live-recordings/",
+    "description": "The Toronto punks’ vinyl-only live album documents a unique hometown “tour” that took them to a range of venues throughout the city, capturing the communal catharsis at the heart of the band’s appeal.",
+    "reviewer": "Zach Schonfeld",
+    "image": "https://media.pitchfork.com/photos/69b81797e3b27e8a37c075cc/1:1/w_768,c_limit/Pup-Megacity%20Madness.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "69b2d7945ef6143b49257a1c",
     "artist": "Laurel Halo",
     "title": "Midnight Zone (Original Soundtrack)",
