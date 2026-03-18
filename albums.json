@@ -1,5 +1,75 @@
 [
   {
+    "id": "69b993e47019a7942aead90d",
+    "artist": "Unknown",
+    "title": "HELP(2)",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [],
+    "date": "2026-03-18T04:03:00.000Z",
+    "dateFormatted": "March 18, 2026",
+    "url": "/reviews/albums/various-artists-help2/",
+    "description": "Thirty-one years after War Child’s first charity compilation, the nonprofit recruits a roomful of heavy hitters&#8212;Arctic Monkeys, Big Thief, Olivia Rodrigo&#8212;to raise money for kids in war-torn countries.",
+    "reviewer": "Hannah Jocelyn",
+    "image": "https://media.pitchfork.com/photos/69a7221b0ec519fa9ad09742/1:1/w_768,c_limit/Help2_4000X4000.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69b9971cdc52761edd2c10a5",
+    "artist": "Slayr",
+    "title": "Half Blood (BloodLuxe)",
+    "score": 6.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-03-18T04:02:00.000Z",
+    "dateFormatted": "March 18, 2026",
+    "url": "/reviews/albums/slayr-half-blood-bloodluxe/",
+    "description": "On an expanded edition of his 2025 release, the 18-year-old Philadelphia rapper makes maximalist, crowd-pleasing rage rap that prioritizes craft over feeling.",
+    "reviewer": "Mano Sundaresan",
+    "image": "https://media.pitchfork.com/photos/69b995627407a7ead75651de/1:1/w_768,c_limit/Slayr%20Half%20Blood%20BloodLuxe.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69b9a49fb6a3a21f2047395d",
+    "artist": "Land Whales",
+    "title": "How to Make a Breakfast",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-03-18T04:01:00.000Z",
+    "dateFormatted": "March 18, 2026",
+    "url": "/reviews/albums/land-whales-how-to-make-a-breakfast/",
+    "description": "The Cuba-based band’s second album is a fusion of grunge, post-hardcore, and shoegaze that pays homage to the past without succumbing to pastiche.",
+    "reviewer": "Philip Sherburne",
+    "image": "https://media.pitchfork.com/photos/69b9a3dad290bcd68cd03d7d/1:1/w_768,c_limit/land%20whales%20How%20to%20Make%20a%20Breakfast%20.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69b97fee5b3d38172edc9b70",
+    "artist": "Cashier",
+    "title": "The Weight EP",
+    "score": 7.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-03-18T04:00:00.000Z",
+    "dateFormatted": "March 18, 2026",
+    "url": "/reviews/albums/cashier-the-weight-ep/",
+    "description": "On its debut EP, the Louisiana quartet clouds the familiar sounds of off-kilter alt-rock with layers of static and distortion, pairing moments of euphoria with squealing dissonance.",
+    "reviewer": "Colin Joyce",
+    "image": "https://media.pitchfork.com/photos/69b97f707019a7942aead747/1:1/w_768,c_limit/Cashier-The%20Weight%20EP.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "69b82e2f9761c3c4d99e908e",
     "artist": "Jack Harlow",
     "title": "Monica",
