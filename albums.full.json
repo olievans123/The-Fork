@@ -1,5 +1,78 @@
 [
   {
+    "id": "69baef4e9494e2f12583a867",
+    "artist": "Dagmar Zuniga",
+    "title": "in filth your mystery is kingdom / far smile peasant in yellow music",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Folk/Country",
+      "Experimental"
+    ],
+    "date": "2026-03-19T04:03:00.000Z",
+    "dateFormatted": "March 19, 2026",
+    "url": "/reviews/albums/dagmar-zuniga-in-filth-your-mystery-is-kingdom-far-smile-peasant-in-yellow-music/",
+    "description": "The Brooklyn psych-folk artist’s 2025 debut, newly reissued by AD 93, is dissonant, ghostly, and otherworldly, summoning complex emotions with sparse tools.",
+    "reviewer": "Vrinda Jagota",
+    "image": "https://media.pitchfork.com/photos/69baee7033ec75028054cece/1:1/w_768,c_limit/Dagmar%20Zuniga.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69bac9ea89ab4f5f403d2f8d",
+    "artist": "Ca7riel & Paco Amoroso",
+    "title": "Free Spirits",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-03-19T04:02:00.000Z",
+    "dateFormatted": "March 19, 2026",
+    "url": "/reviews/albums/ca7riel-paco-amoroso-free-spirits/",
+    "description": "The Argentine duo shot to fame fueled by hooky songs and gonzo provocations. On their new album&#8212;a madcap blend of Latin pop, trance beats, and globe-trotting sampledelia&#8212;they commit fully to the bit.",
+    "reviewer": "Maria Nenet Barrios",
+    "image": "https://media.pitchfork.com/photos/69bac61945ba657123d54fcd/1:1/w_768,c_limit/Ca7riel%20&%20Paco%20Amoroso%20-%20Free%20Spirits.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69bad574555f04af4f912d31",
+    "artist": "Kiss Facility",
+    "title": "KHAZNA",
+    "score": 7.9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-03-19T04:01:00.000Z",
+    "dateFormatted": "March 19, 2026",
+    "url": "/reviews/albums/kiss-facility-khazna/",
+    "description": "Sega Bodega’s new duo with singer Mayah Alkhateri takes a familiar sound, shoegaze, and refracts it through Arabic-language singing and ultra-modern club pop, to gorgeously unexpected effect.",
+    "reviewer": "Kiana Mickles",
+    "image": "https://media.pitchfork.com/photos/69bad36333ec75028054ce0a/1:1/w_768,c_limit/Kiss%20Facility%20-%20KHAZNA.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69baacc4555f04af4f912a93",
+    "artist": "Amy Gadiaga",
+    "title": "BabyGoated EP",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Jazz"
+    ],
+    "date": "2026-03-19T04:00:00.000Z",
+    "dateFormatted": "March 19, 2026",
+    "url": "/reviews/albums/amy-gadiaga-babygoated-ep/",
+    "description": "The London-via-Paris jazz artist embraces her neo-soul leanings and experimental impulses on an EP that explores the pleasures and perils of gassing yourself up.",
+    "reviewer": "Lily Goldberg",
+    "image": "https://media.pitchfork.com/photos/69baac5421d429d99fb8641e/1:1/w_768,c_limit/Amy%20Gadiaga-BabyGoated.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "69b993e47019a7942aead90d",
     "artist": "Unknown",
     "title": "HELP(2)",
