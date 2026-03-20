@@ -1,5 +1,78 @@
 [
   {
+    "id": "69b32d04fc862c2ac72fe4f9",
+    "artist": "Grace Ives",
+    "title": "Girlfriend",
+    "score": 8.4,
+    "bnm": true,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-03-20T04:03:00.000Z",
+    "dateFormatted": "March 20, 2026",
+    "url": "/reviews/albums/grace-ives-girlfriend/",
+    "description": "The reigning champ of indie pop returns with a razor-sharp, refreshingly self-serious album that plays like a travelogue from disarray to recovery.",
+    "reviewer": "Hattie Lindert",
+    "image": "https://media.pitchfork.com/photos/69987e7049d58e1fbf82aa65/1:1/w_768,c_limit/GRACE%20IVES_GIRLFRIEND%20COVER.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69bc4629699006dba36e67b3",
+    "artist": "Luke Combs",
+    "title": "The Way I Am",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Folk/Country"
+    ],
+    "date": "2026-03-20T04:02:00.000Z",
+    "dateFormatted": "March 20, 2026",
+    "url": "/reviews/albums/luke-combs-the-way-i-am/",
+    "description": "Balanced between ballads and sports-bar anthems, the country singer’s sixth studio album delivers classic stories in a familiar fashion, occasionally accented by modern flourishes.",
+    "reviewer": "Stephen Thomas Erlewine",
+    "image": "https://media.pitchfork.com/photos/69bc45243ed4676eab6c935e/1:1/w_768,c_limit/Luke%20Combs-The%20Way%20I%20Am.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69bc3d8a699006dba36e6760",
+    "artist": "Gladie",
+    "title": "No Need to Be Lonely",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-03-20T04:01:00.000Z",
+    "dateFormatted": "March 20, 2026",
+    "url": "/reviews/albums/gladie-no-need-to-be-lonely/",
+    "description": "Produced by Jeff Rosenstock, the new album from ex-Cayetana songwriter Augusta Koch revisits her old band’s punky power-pop with hard-hitting lyrics about self-improvement and communal uplift.",
+    "reviewer": "Tatiana Tenreyro",
+    "image": "https://media.pitchfork.com/photos/69bc3c4c699006dba36e6756/1:1/w_768,c_limit/Gladie%20No%20Need%20to%20Be%20Lonely.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69bc4aeb24905f14d8679638",
+    "artist": "Anjimile",
+    "title": "You’re Free to Go",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Folk/Country",
+      "Experimental"
+    ],
+    "date": "2026-03-20T04:00:00.000Z",
+    "dateFormatted": "March 20, 2026",
+    "url": "/reviews/albums/anjimile-youre-free-to-go/",
+    "description": "The singer-songwriter finds emotional and creative rejuvenation on his third album, exploring vast emotional territory within conventional song structures.",
+    "reviewer": "Ben Cardew",
+    "image": "https://media.pitchfork.com/photos/69bc4a2654c6118de2ccd878/1:1/w_768,c_limit/Anjimile-%20You%E2%80%99re%20Free%20to%20Go.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "69baef4e9494e2f12583a867",
     "artist": "Dagmar Zuniga",
     "title": "in filth your mystery is kingdom / far smile peasant in yellow music",
@@ -20,7 +93,7 @@
   },
   {
     "id": "69bac9ea89ab4f5f403d2f8d",
-    "artist": "Ca7riel & Paco Amoroso",
+    "artist": "CA7RIEL & Paco Amoroso",
     "title": "Free Spirits",
     "score": 7.8,
     "bnm": false,
