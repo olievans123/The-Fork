@@ -1,5 +1,23 @@
 [
   {
+    "id": "69bd8b5424905f14d867a8f1",
+    "artist": "Avalon Emerson",
+    "title": "Written Into Changes",
+    "score": 8.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-03-21T04:00:00.000Z",
+    "dateFormatted": "March 21, 2026",
+    "url": "/reviews/albums/avalon-emerson-written-into-changes/",
+    "description": "On an album of spectral love songs, the DJ and producer’s misty dream pop feels bigger, bolder, and decidedly grown-up.",
+    "reviewer": "Shaad D’Souza",
+    "image": "https://media.pitchfork.com/photos/697143639cfa33770e04fad3/1:1/w_768,c_limit/Avalon-Emerson-&-the-Charm-Written-Into-Changes.jpeg",
+    "releaseYear": 2026
+  },
+  {
     "id": "69b32d04fc862c2ac72fe4f9",
     "artist": "Grace Ives",
     "title": "Girlfriend",
