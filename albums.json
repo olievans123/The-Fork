@@ -1,5 +1,24 @@
 [
   {
+    "id": "69bc46e4699006dba36e67bf",
+    "artist": "Patrice Rushen",
+    "title": "Straight From the Heart",
+    "score": 8.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Jazz",
+      "Pop/R&B"
+    ],
+    "date": "2026-03-22T04:00:00.000Z",
+    "dateFormatted": "March 22, 2026",
+    "url": "/reviews/albums/patrice-rushen-straight-from-the-heart/",
+    "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we look back at the 1982 breakthrough from a California pianist and songwriter whose effortless fusion of R&amp;B, disco, and jazz defied any attempts to pin her down.",
+    "reviewer": "Matthew Ritchie",
+    "image": "https://media.pitchfork.com/photos/69bc460978061dd9bee887ec/1:1/w_768,c_limit/Patrice%20Rushen%20-%20Straight%20From%20the%20Heart.jpg",
+    "releaseYear": 1982
+  },
+  {
     "id": "69bd8b5424905f14d867a8f1",
     "artist": "Avalon Emerson",
     "title": "Written Into Changes",
