@@ -1,5 +1,79 @@
 [
   {
+    "id": "69bd7c7e1c60b28f16246e90",
+    "artist": "underscores",
+    "title": "U",
+    "score": 8.6,
+    "bnm": true,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-03-23T04:03:00.000Z",
+    "dateFormatted": "March 23, 2026",
+    "url": "/reviews/albums/underscores-u/",
+    "description": "The former electro-pop enfant terrible swings big on her latest album, compressing all her split personalities and eclectic tastes into a high-gloss, high-stakes gamble to remake pop on her own terms.",
+    "reviewer": "Walden Green",
+    "image": "https://media.pitchfork.com/photos/69a2041ce473192849553978/1:1/w_768,c_limit/Underscores-U.jpeg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69bd865e9cd8797a023f17b9",
+    "artist": "more eaze",
+    "title": "sentence structure in the country",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-03-23T04:02:00.000Z",
+    "dateFormatted": "March 23, 2026",
+    "url": "/reviews/albums/more-eaze-sentence-structure-in-the-country/",
+    "description": "The experimental musician brings her treated vocals to the forefront on a poignant set that merges country and folk idioms with sputtering electronic production.",
+    "reviewer": "James Gui",
+    "image": "https://media.pitchfork.com/photos/69bad28c89ab4f5f403d2f98/1:1/w_768,c_limit/unnamed%20(39).jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69bd2191bb6610e7e4dba745",
+    "artist": "Xylitol",
+    "title": "Blumenfantasie",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-03-23T04:01:00.000Z",
+    "dateFormatted": "March 23, 2026",
+    "url": "/reviews/albums/xylitol-blumenfantasie/",
+    "description": "The UK producer pairs two longstanding obsessions&#8212;breakneck-tempo drum’n’bass and ethereal European synthesizer music&#8212;to strike a balance between frenzied rhythms and eerie, atmospheric melodies.",
+    "reviewer": "Andrew Ryce",
+    "image": "https://media.pitchfork.com/photos/69bd20f4699006dba36e6c8e/1:1/w_768,c_limit/Xylitol%20-%20Blumenfantasie.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69bc4a219ecf7f4591cc4c6b",
+    "artist": "Whitney Johnson / Lia Kohl / Macie Stewart",
+    "title": "BODY SOUND",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental",
+      "Experimental",
+      "Rock"
+    ],
+    "date": "2026-03-23T04:00:00.000Z",
+    "dateFormatted": "March 23, 2026",
+    "url": "/reviews/albums/whitney-johnson-lia-kohl-macie-stewart-body-sound/",
+    "description": "Blending cello, viola, violin, voice, and manual tape processing, the Chicago trio reaffirms the pleasure of collective music-making in contemplative improvisations that are both patient and restorative.",
+    "reviewer": "Rob Arcand",
+    "image": "https://media.pitchfork.com/photos/69bc48586f0b8c96dfd20eb1/1:1/w_768,c_limit/Whitney%20Johnson,%20Lia%20Kohl,%20Macie%20Stewart%20-%20BODY%20SOUND.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "69bc46e4699006dba36e67bf",
     "artist": "Patrice Rushen",
     "title": "Straight From the Heart",
