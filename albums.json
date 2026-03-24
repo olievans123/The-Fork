@@ -1,5 +1,78 @@
 [
   {
+    "id": "69c19366c53f51d4aa0aaa7c",
+    "artist": "BTS",
+    "title": "ARIRANG",
+    "score": 5.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-03-24T04:03:00.000Z",
+    "dateFormatted": "March 24, 2026",
+    "url": "/reviews/albums/bts-arirang/",
+    "description": "There’s a lot riding on the sensational K-pop group’s first album in four years, but its generic songs ring hollow and lack the vim and vigor of the band’s best work.",
+    "reviewer": "Joshua Minsoo Kim",
+    "image": "https://media.pitchfork.com/photos/69c1938b8af583ef7c3466eb/1:1/w_768,c_limit/Arirang%20BTS%20cover.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69c14ee1efdf324bab9a2f8d",
+    "artist": "Elucid / Sebb Bash",
+    "title": "I Guess U Had to Be There",
+    "score": 7.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap",
+      "Rap"
+    ],
+    "date": "2026-03-24T04:02:00.000Z",
+    "dateFormatted": "March 24, 2026",
+    "url": "/reviews/albums/elucid-sebb-bash-i-guess-u-had-to-be-there/",
+    "description": "The adventurous rapper and producer take a more refined approach on a collaborative album full of wandering thoughts and odd, understated beats.",
+    "reviewer": "Stephen Kearse",
+    "image": "https://media.pitchfork.com/photos/696814db47762ac621b40e25/1:1/w_768,c_limit/unnamed%20(7).jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69c15232be85121030f38b95",
+    "artist": "Otracami",
+    "title": "Runoff",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-03-24T04:01:00.000Z",
+    "dateFormatted": "March 24, 2026",
+    "url": "/reviews/albums/otracami-runoff/",
+    "description": "The Brooklyn singer-songwriter considers new beginnings and emotional overload on an album of clean-lined folk rock crosscut with carefully chosen field recordings.",
+    "reviewer": "Marissa Lorusso",
+    "image": "https://media.pitchfork.com/photos/69c14fff3c4a126be33df4c4/1:1/w_768,c_limit/Otracami%20-%20Runoff.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69c148ad18e2e22f0f408e8b",
+    "artist": "Landowner",
+    "title": "Assumption",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-03-24T04:00:00.000Z",
+    "dateFormatted": "March 24, 2026",
+    "url": "/reviews/albums/landowner-assumption/",
+    "description": "Musician Dan Shaw and his bandmates continue to refine their jittery post-punk on the group’s fifth album, adding welcome spaciousness to their studied precision.",
+    "reviewer": "Nina Corcoran",
+    "image": "https://media.pitchfork.com/photos/69c19a07e824f3dc4977331f/1:1/w_768,c_limit/landowner%20assumption%20large.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "69bd7c7e1c60b28f16246e90",
     "artist": "underscores",
     "title": "U",
