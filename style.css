@@ -376,11 +376,6 @@ header {
 .search-group {
   position: relative;
   margin-bottom: 10px;
-  display: none;
-}
-
-.search-group.open {
-  display: block;
 }
 
 .search-icon {
