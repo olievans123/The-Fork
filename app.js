@@ -1146,9 +1146,26 @@ function init() {
     moreFiltersBtn.classList.toggle('active');
   });
 
+  // Search toggle
+  const searchGroup = document.querySelector('.search-group');
+  const searchToggle = document.getElementById('searchToggle');
+  const searchInput = document.getElementById('search');
+  searchToggle.addEventListener('click', () => {
+    const open = searchGroup.classList.toggle('open');
+    searchToggle.classList.toggle('active', open);
+    searchToggle.setAttribute('aria-expanded', open);
+    if (open) searchInput.focus();
+    else { searchInput.value = ''; state.search = ''; applyFilters(); }
+  });
+  if (state.search) {
+    searchGroup.classList.add('open');
+    searchToggle.classList.add('active');
+    searchInput.value = state.search;
+  }
+
   // Search with debounce
   let searchTimeout;
-  document.getElementById('search').addEventListener('input', e => {
+  searchInput.addEventListener('input', e => {
     clearTimeout(searchTimeout);
     searchTimeout = setTimeout(() => { state.search = e.target.value; applyFilters(); }, 200);
   });
@@ -1214,7 +1231,10 @@ function init() {
     // "/" to focus search
     if (e.key === '/' && document.activeElement.tagName !== 'INPUT' && document.activeElement.tagName !== 'TEXTAREA') {
       e.preventDefault();
-      document.getElementById('search').focus();
+      searchGroup.classList.add('open');
+      searchToggle.classList.add('active');
+      searchToggle.setAttribute('aria-expanded', 'true');
+      searchInput.focus();
     }
     // Focus trap inside modal
     if (e.key === 'Tab' && modalOverlay.classList.contains('open')) {
