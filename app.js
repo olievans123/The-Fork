@@ -20,7 +20,7 @@ const albumById = new Map();
 const state = {
   view: 'grid',
   groupBy: 'none',
-  sortBy: 'score',
+  sortBy: 'date',
   sortDir: 'desc',
   filterGenre: 'all',
   filterDecade: 'all',
@@ -535,7 +535,7 @@ const URL_PARAM_MAP = {
 const STATE_DEFAULTS = {
   search: '', filterGenre: 'all', filterDecade: 'all', filterYear: 'all',
   filterScore: 'all', filterCountry: 'all', filterLanguage: 'all',
-  sortBy: 'score', sortDir: 'desc', view: 'grid', groupBy: 'none',
+  sortBy: 'date', sortDir: 'desc', view: 'grid', groupBy: 'none',
 };
 
 function stateToUrl() {
