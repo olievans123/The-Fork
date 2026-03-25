@@ -1,5 +1,79 @@
 [
   {
+    "id": "69c2d6df8b111fceb4b5d216",
+    "artist": "Mclusky",
+    "title": "i sure am getting sick of this bowling alley",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-03-25T04:03:00.000Z",
+    "dateFormatted": "March 25, 2026",
+    "url": "/reviews/albums/mclusky-i-sure-am-getting-sick-of-this-bowling-alley/",
+    "description": "On a new mini-album, the reunited Welsh noise-rock trio returns with berserk energy, jagged one-liners, and a surprisingly moving reflection on fatherhood.",
+    "reviewer": "Alex Robert Ross",
+    "image": "https://media.pitchfork.com/photos/69c2d599ce39cf37de2eaa05/1:1/w_768,c_limit/Mclusky%20I%20Sure%20Am%20Getting%20Sick%20of%20This%20Bowlign%20Alley.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69c2ade2ce39cf37de2ea8bb",
+    "artist": "Dylan Brady",
+    "title": "Needle Guy EP",
+    "score": 6.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic",
+      "Experimental"
+    ],
+    "date": "2026-03-25T04:02:00.000Z",
+    "dateFormatted": "March 25, 2026",
+    "url": "/reviews/albums/dylan-brady-needle-guy-ep/",
+    "description": "On his first solo release in eight years, 100 gecs’ mutant-pop prankster turns his attention to relatively straightforward big-tent EDM&#8212;but not without a little noise-scene provocation.",
+    "reviewer": "Colin Joyce",
+    "image": "https://media.pitchfork.com/photos/69c2a7fbcc7af870a4d0ad5a/1:1/w_768,c_limit/Dylan%20Brady%20-%20Needle%20Guy.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69c2c561b3ef87dacd369772",
+    "artist": "Simo Cell / Abdullah Miniawy",
+    "title": "Dying Is the Internet",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic",
+      "Experimental"
+    ],
+    "date": "2026-03-25T04:01:00.000Z",
+    "dateFormatted": "March 25, 2026",
+    "url": "/reviews/albums/simo-cell-and-abdullah-miniawy-dying-is-the-internet/",
+    "description": "The French producer and the Egyptian singer and trumpeter reunite for a heavy, heady collaborative album with burnt-out 808s and a powerfully labyrinthine effect.",
+    "reviewer": "Philip Sherburne",
+    "image": "https://media.pitchfork.com/photos/69c2c4e0ce39cf37de2ea8e9/1:1/w_768,c_limit/Simo%20Cell%20&%20Abdullah%20Miniawy%20-%20Dying%20Is%20the%20Internet%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69c1a1dff51a23116cc2fb8d",
+    "artist": "Joshua Idehen",
+    "title": "I know you’re hurting, everyone is hurting, everyone is trying, you have got to try",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-03-25T04:00:00.000Z",
+    "dateFormatted": "March 25, 2026",
+    "url": "/reviews/albums/joshua-idehen-i-know-youre-hurting-everyone-is-hurting-everyone-is-trying-you-have-got-to-try/",
+    "description": "Earnest and intersectional, the spoken word artist’s debut solo album seizes upon the power of club music to preach about gender equality, personal transformation, and communal uplift.",
+    "reviewer": "Jesse Dorris",
+    "image": "https://media.pitchfork.com/photos/69c1a079cc7af870a4d0a4c3/1:1/w_768,c_limit/Joshua%20Idehen-%20I%20know%20you're%20hurting.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "69c19366c53f51d4aa0aaa7c",
     "artist": "BTS",
     "title": "ARIRANG",
