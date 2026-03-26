@@ -1,5 +1,79 @@
 [
   {
+    "id": "69c43956192ce26a1c0f6c2d",
+    "artist": "Neurosis",
+    "title": "An Undying Love for a Burning World",
+    "score": 8.3,
+    "bnm": true,
+    "bnr": false,
+    "genres": [
+      "Metal"
+    ],
+    "date": "2026-03-26T04:03:00.000Z",
+    "dateFormatted": "March 26, 2026",
+    "url": "/reviews/albums/neurosis-an-undying-love-for-a-burning-world/",
+    "description": "On their surprise-released first album in 10 years, the psychedelic Bay Area metal veterans launch a vital and affirming second act with new vocalist Aaron Turner.",
+    "reviewer": "Grayson Haver Currin",
+    "image": "https://media.pitchfork.com/photos/69c438d6ad154c688dda316c/1:1/w_768,c_limit/Neurosis%20An%20Undying%20Love%20for%20a%20Burning%20World.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69c2a53fce39cf37de2ea858",
+    "artist": "Anna Calvi",
+    "title": "Is This All There Is? EP",
+    "score": 6.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-03-26T04:02:00.000Z",
+    "dateFormatted": "March 26, 2026",
+    "url": "/reviews/albums/anna-calvi-is-this-all-there-is-ep/",
+    "description": "Iggy Pop, Laurie Anderson, Perfume Genius, and Matt Berninger guest on the UK singer-songwriter’s latest EP, a moody grab bag of original songs and covers of Kraftwerk and Bonnie “Prince” Billy.",
+    "reviewer": "Ben Cardew",
+    "image": "https://media.pitchfork.com/photos/6989fd2588a4871cdccb12be/1:1/w_768,c_limit/is%20this%20all%20there%20is.jpeg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69c4251af05c99a81155c665",
+    "artist": "GRRL",
+    "title": "Beetle",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic",
+      "Experimental"
+    ],
+    "date": "2026-03-26T04:01:00.000Z",
+    "dateFormatted": "March 26, 2026",
+    "url": "/reviews/albums/grrl-beetle/",
+    "description": "On PC Music’s first release of new material since 2023, the North Carolina-based DJ and producer fuses the caustic energy of digital experimentalism with the raucous spirit of club music.",
+    "reviewer": "Benny Sun",
+    "image": "https://media.pitchfork.com/photos/69c4248ff7593454bcdf8e42/1:1/w_768,c_limit/GRRL-Beetle.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69c43137f05c99a81155c673",
+    "artist": "Ana Tijoux / DJ Dacel",
+    "title": "97 EP",
+    "score": 7.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B",
+      "Experimental"
+    ],
+    "date": "2026-03-26T04:00:00.000Z",
+    "dateFormatted": "March 26, 2026",
+    "url": "/reviews/albums/ana-tijoux-dj-dacel-97-ep/",
+    "description": "The Franco-Chilean conscious hip-hop icon reunites with collaborator DJ Dacel for a mixtape-inspired EP celebrating friendship and resilience.",
+    "reviewer": "E.R. Pulgar",
+    "image": "https://media.pitchfork.com/photos/69c4309dcc02ec40cfbbc6b9/1:1/w_768,c_limit/Ana%20Tijoux%20DJ%20Dacel%20-%2097%20EP%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "69c2d6df8b111fceb4b5d216",
     "artist": "Mclusky",
     "title": "i sure am getting sick of this bowling alley",
