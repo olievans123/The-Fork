@@ -1,5 +1,77 @@
 [
   {
+    "id": "69c43a8433c50bde1ff6f72c",
+    "artist": "Robyn",
+    "title": "Sexistential",
+    "score": 7.9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-03-27T04:03:00.000Z",
+    "dateFormatted": "March 27, 2026",
+    "url": "/reviews/albums/robyn-sexistential/",
+    "description": "Robyn sounds right at home on a kooky new album that refines the luminous synth palpitations of <em>Body Talk</em> to explore sexuality, sentimentality, and the creation of life.",
+    "reviewer": "Molly Mary O’Brien",
+    "image": "https://media.pitchfork.com/photos/695d7ef3d626b3fdbc0a6728/1:1/w_768,c_limit/1%20(1).jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69c54ce2c401dc6cbd2ae646",
+    "artist": "Courtney Barnett",
+    "title": "Creature of Habit",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-03-27T04:02:00.000Z",
+    "dateFormatted": "March 27, 2026",
+    "url": "/reviews/albums/courtney-barnett-creature-of-habit/",
+    "description": "With a guest appearance from Waxahatchee and production from John Congleton, the latest from the Australian singer-songwriter gently furthers her career-long search for inner peace.",
+    "reviewer": "Ethan Beck",
+    "image": "https://media.pitchfork.com/photos/696fc82427db788c52719dab/1:1/w_768,c_limit/Courtney-Barnett-Creature-of-Habit.jpeg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69c57fe98463f85a48f50e06",
+    "artist": "Rocketship",
+    "title": "A Certain Smile, A Certain Sadness",
+    "score": 8.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-03-27T04:01:00.000Z",
+    "dateFormatted": "March 27, 2026",
+    "url": "/reviews/albums/rocketship-a-certain-smile-a-certain-sadness/",
+    "description": "The American band’s 1996 debut spun indie pop gold from heartache and secondhand Hammond organ. A new 30th-anniversary reissue can hardly do much to improve it.",
+    "reviewer": "David Glickman",
+    "image": "https://media.pitchfork.com/photos/69c57e1b8463f85a48f50df2/1:1/w_768,c_limit/Rocketship%20-%20A%20Certain%20Smile,%20A%20Certain%20Sadness%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69c4260d33c50bde1ff6f66e",
+    "artist": "Shinichi Atobe",
+    "title": "Silent Way",
+    "score": 7.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-03-27T04:00:00.000Z",
+    "dateFormatted": "March 27, 2026",
+    "url": "/reviews/albums/shinichi-atobe-silent-way/",
+    "description": "On his first album for his own Plastic &amp; Sounds label, the Japanese producer sounds pricklier than ever, lacing hypnotic house and techno with microtonal dissonance and clashing textures.",
+    "reviewer": "Maxie Younger",
+    "image": "https://media.pitchfork.com/photos/69c424b7c401dc6cbd2adfee/1:1/w_768,c_limit/Shinichi%20Atobe%20-%20Silent%20Way.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "69c43956192ce26a1c0f6c2d",
     "artist": "Neurosis",
     "title": "An Undying Love for a Burning World",
