@@ -1,5 +1,23 @@
 [
   {
+    "id": "69c556741e83d49030b89de6",
+    "artist": "Flea",
+    "title": "Honora",
+    "score": 7.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Jazz"
+    ],
+    "date": "2026-03-28T04:00:00.000Z",
+    "dateFormatted": "March 28, 2026",
+    "url": "/reviews/albums/flea-honora/",
+    "description": "The Red Hot Chili Peppers bassist reignited his childhood love of the trumpet to make his first solo album: a mature, sophisticated collection of songs featuring stars of the L.A. jazz scene.",
+    "reviewer": "Sadie Sartini Garner",
+    "image": "https://media.pitchfork.com/photos/6966bce5d5fd17a3427eb83e/1:1/w_768,c_limit/Flea-Honora.jpeg",
+    "releaseYear": 2026
+  },
+  {
     "id": "69c43a8433c50bde1ff6f72c",
     "artist": "Robyn",
     "title": "Sexistential",
