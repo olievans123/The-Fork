@@ -1,5 +1,23 @@
 [
   {
+    "id": "69c6dac240d4cb90edf40bb0",
+    "artist": "Brandy",
+    "title": "Full Moon",
+    "score": 9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-03-29T04:00:00.000Z",
+    "dateFormatted": "March 29, 2026",
+    "url": "/reviews/albums/brandy-full-moon/",
+    "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we look back at Brandy’s futuristic, full-hearted 2002 record, an album so lush and expertly crafted that it became the new blueprint for the pop-R&amp;B sound.",
+    "reviewer": "Jackson Howard",
+    "image": "https://media.pitchfork.com/photos/69c6d9c414b86bd6770a4066/1:1/w_768,c_limit/Brandy%20-%20Full%20Moon%20album%20art.jpg",
+    "releaseYear": 2002
+  },
+  {
     "id": "69c556741e83d49030b89de6",
     "artist": "Flea",
     "title": "Honora",
