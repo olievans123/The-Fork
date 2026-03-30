@@ -1,5 +1,79 @@
 [
   {
+    "id": "69c6cdf9f0b99ed7f58164c5",
+    "artist": "Snail Mail",
+    "title": "Ricochet",
+    "score": 6.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-03-30T04:03:00.000Z",
+    "dateFormatted": "March 30, 2026",
+    "url": "/reviews/albums/snail-mail-ricochet/",
+    "description": "Lindsey Jordan’s third LP of grungy, dreamy guitar rock aims for the same affective highs and lows of her previous records, but the hooks don’t sink as deep, and the production sounds frustratingly anonymous.",
+    "reviewer": "Grace Robins-Somerville",
+    "image": "https://media.pitchfork.com/photos/696f9da6947c396fa92caf35/1:1/w_768,c_limit/Snail-Mail-Ricochet.jpeg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69c6e64040d4cb90edf40c00",
+    "artist": "Lauren Auder",
+    "title": "Whole World as Vigil",
+    "score": 7.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B",
+      "Experimental"
+    ],
+    "date": "2026-03-30T04:02:00.000Z",
+    "dateFormatted": "March 30, 2026",
+    "url": "/reviews/albums/lauren-auder-whole-world-as-vigil/",
+    "description": "The singer and producer’s second album embraces grandiose pop balladry, which still means it’s full of unpredictable production choices and lyrics on the edge of comprehension.",
+    "reviewer": "Hannah Jocelyn",
+    "image": "https://media.pitchfork.com/photos/69c6e58540d4cb90edf40bfb/1:1/w_768,c_limit/Lauren%20Auder%20-%20Whole%20World%20as%20Vigil%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69c6abebde50a6cc01fb3fa0",
+    "artist": "Bekor Qilish",
+    "title": "Consecrated Abysses of Dread",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Metal"
+    ],
+    "date": "2026-03-30T04:01:00.000Z",
+    "dateFormatted": "March 30, 2026",
+    "url": "/reviews/albums/bekor-qilish-consecrated-abysses-of-dread/",
+    "description": "The Italian experimentalist goes absolutely haywire on a very overwhelming, very fun half-hour of ecstatic avant metal.",
+    "reviewer": "Sam Goldner",
+    "image": "https://media.pitchfork.com/photos/69c6ab3614b86bd6770a3ea2/1:1/w_768,c_limit/Bekor%20Qilish%20Consecrated%20Abysses%20of%20Dread.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69c55488ad154c688dda34a6",
+    "artist": "Brian Foote / Paul Dickow",
+    "title": "High Cube",
+    "score": 7.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic",
+      "Experimental"
+    ],
+    "date": "2026-03-30T04:00:00.000Z",
+    "dateFormatted": "March 30, 2026",
+    "url": "/reviews/albums/brian-foote-paul-dickow-high-cube/",
+    "description": "Working with strict limitations&#8212;no more than five instruments; just one hour to make each track&#8212;the two West Coast leftfield vets turn out a surprisingly expansive set of wooly electronic jams.",
+    "reviewer": "Daniel Bromfield",
+    "image": "https://media.pitchfork.com/photos/69c5538fcc02ec40cfbbcc84/1:1/w_768,c_limit/Foote-Dickow%20-%20High%20Cube.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "69c6dac240d4cb90edf40bb0",
     "artist": "Brandy",
     "title": "Full Moon",
