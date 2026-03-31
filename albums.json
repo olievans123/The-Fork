@@ -1,5 +1,77 @@
 [
   {
+    "id": "69cac2551e85686dbb2790e4",
+    "artist": "Fcukers",
+    "title": "Ö",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-03-31T04:03:00.000Z",
+    "dateFormatted": "March 31, 2026",
+    "url": "/reviews/albums/fcukers-o/",
+    "description": "Downtown New York’s breakout dance stars play to their club-rat reputation while stocking their debut with Y2K electro-pop and UK garage beats.",
+    "reviewer": "Lydia Wei",
+    "image": "https://media.pitchfork.com/photos/69656ef806f790ad5d8f815b/1:1/w_768,c_limit/Fcukers-O%CC%88.jpeg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69c6a95bf0b99ed7f581631d",
+    "artist": "The Twilight Sad",
+    "title": "It’s the Long Goodbye",
+    "score": 7.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-03-31T04:02:00.000Z",
+    "dateFormatted": "March 31, 2026",
+    "url": "/reviews/albums/the-twilight-sad-its-the-long-goodbye/",
+    "description": "No stranger to melancholy, the Scottish duo grapples more vigorously with grief than ever on an album shadowed by loss, soaked in guitars, and assisted by the Cure’s Robert Smith.",
+    "reviewer": "Stephen Thomas Erlewine",
+    "image": "https://media.pitchfork.com/photos/69c6a80c3c599c252e2f6274/1:1/w_768,c_limit/The%20Twilight%20Sad%20-%20It's%20the%20Long%20Goodbye.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69ca9705a049c32c0be9f811",
+    "artist": "Charlotte Cornfield",
+    "title": "Hurts Like Hell",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-03-31T04:01:00.000Z",
+    "dateFormatted": "March 31, 2026",
+    "url": "/reviews/albums/charlotte-cornfield-hurts-like-hell/",
+    "description": "The Toronto songwriter fills her twangy sixth album with reflections on new motherhood and wistful character studies, backed by collaborators including Feist, Buck Meek, and Palehound’s El Kempner.",
+    "reviewer": "Madison Bloom",
+    "image": "https://media.pitchfork.com/photos/69ca9662bd450c6ac64dee15/1:1/w_768,c_limit/Charlotte%20Cornfield-Hurts%20Like%20Hell.jpeg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69cab91e560f0180af62e905",
+    "artist": "Këkht Aräkh",
+    "title": "Morning Star",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Metal"
+    ],
+    "date": "2026-03-31T04:00:00.000Z",
+    "dateFormatted": "March 31, 2026",
+    "url": "/reviews/albums/kekht-arakh-morning-star/",
+    "description": "On a campy and subversive new album featuring Bladee, the Ukrainian black metal artist aspires to make the notoriously forbidding genre a little warmer.",
+    "reviewer": "Sadie Sartini Garner",
+    "image": "https://media.pitchfork.com/photos/69cab89f1a4af75771df1086/1:1/w_768,c_limit/Ke%CC%88kht%20Ara%CC%88kh%20Morning%20Star.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "69c6cdf9f0b99ed7f58164c5",
     "artist": "Snail Mail",
     "title": "Ricochet",
@@ -56,7 +128,7 @@
   },
   {
     "id": "69c55488ad154c688dda34a6",
-    "artist": "Brian Foote / Paul Dickow",
+    "artist": "Foote/Dickow",
     "title": "High Cube",
     "score": 7.2,
     "bnm": false,
