@@ -1,5 +1,77 @@
 [
   {
+    "id": "69cc25917daacc0cac001ad3",
+    "artist": "Kanye West",
+    "title": "Bully",
+    "score": 3.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-04-01T04:03:00.000Z",
+    "dateFormatted": "April 1, 2026",
+    "url": "/reviews/albums/kanye-west-bully/",
+    "description": "After a public apology, Ye returns to music as a hollowed-out shell of his former self.",
+    "reviewer": "Kieran Press-Reynolds",
+    "image": "https://media.pitchfork.com/photos/69c5fbebde50a6cc01fb39ea/1:1/w_768,c_limit/0692788731278_cover.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69cc1e876371a7beb84f00d5",
+    "artist": "Chief Keef",
+    "title": "Skeletor",
+    "score": 6.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-04-01T04:02:00.000Z",
+    "dateFormatted": "April 1, 2026",
+    "url": "/reviews/albums/chief-keef-skeletor/",
+    "description": "The good songs are solid on Keef’s new album, which demonstrates his accomplished production without the thrilling highs of his best recent releases.",
+    "reviewer": "Dylan Green",
+    "image": "https://media.pitchfork.com/photos/69cc1a749bbac070da112bcb/1:1/w_768,c_limit/Chief%20Keef%20-%20Skeletor%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69cc067edc8aa913bfc9c2b9",
+    "artist": "Sluice",
+    "title": "Companion",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Folk/Country"
+    ],
+    "date": "2026-04-01T04:01:00.000Z",
+    "dateFormatted": "April 1, 2026",
+    "url": "/reviews/albums/sluice-companion/",
+    "description": "The North Carolina folk-rock band’s quiet and rambling third album exists in a cloud of dreamy contemplation.",
+    "reviewer": "Jayson Greene",
+    "image": "https://media.pitchfork.com/photos/69cc05bf459055f6d4553ac4/1:1/w_768,c_limit/Sluice%20Companion.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69cc0ca0dc8aa913bfc9c314",
+    "artist": "smokedope2016",
+    "title": "THE COMEDOWN",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-04-01T04:00:00.000Z",
+    "dateFormatted": "April 1, 2026",
+    "url": "/reviews/albums/smokedope2016-the-comedown/",
+    "description": "Cloud rap’s golden era lives on this trilogy-closing new album from smokedope2016, whose candidly emotional raps and misty, holographic production recall Yung Lean.",
+    "reviewer": "Billie Bugara",
+    "image": "https://media.pitchfork.com/photos/69cc0c4e6371a7beb84f0030/1:1/w_768,c_limit/Smokedope2016%20-%20The%20Comedown%20albumm%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "69cac2551e85686dbb2790e4",
     "artist": "Fcukers",
     "title": "Ö",
@@ -235123,7 +235195,8 @@
     "reviewer": "Marc Masters",
     "image": "https://media.pitchfork.com/photos/5929a5b09d034d5c69bf335c/master/w_120,c_limit/3a09bb06.jpg",
     "url": "/reviews/albums/18982-foetus-jg-thirlwell-soak-the-blue-eyes-ost/",
-    "releaseYear": 2013
+    "releaseYear": 2013,
+    "originalYear": 2010
   },
   {
     "id": "sm__reviews_albums_18984_modern_baseball_youre_gonna_miss_it_all_",
