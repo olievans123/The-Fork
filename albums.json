@@ -1,5 +1,77 @@
 [
   {
+    "id": "69cd5b5f02588de6f6cc983f",
+    "artist": "Slayyyter",
+    "title": "WOR$T GIRL IN AMERICA",
+    "score": 8.2,
+    "bnm": true,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-04-02T04:03:00.000Z",
+    "dateFormatted": "April 2, 2026",
+    "url": "/reviews/albums/slayyyter-worst-girl-in-america/",
+    "description": "Smelling like burnt rubber and mall body mist, the pop provocateur’s loud, wild new album swerves hard into club antagonism.",
+    "reviewer": "Harry Tafoya",
+    "image": "https://media.pitchfork.com/photos/69cd5ad80c5bb9f902012376/1:1/w_768,c_limit/Slayyyter%20-%20WOR$T%20GIRL%20IN%20AMERICA%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69cd595f02588de6f6cc983b",
+    "artist": "Larrison",
+    "title": "Connecters Vol. 1: Original Recordings, 1992&#8211;1999",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-04-02T04:02:00.000Z",
+    "dateFormatted": "April 2, 2026",
+    "url": "/reviews/albums/larrison-connecters-vol-1-original-recordings-1992-1999/",
+    "description": "In the ’90s, an obscure Casio spelunker sent his tape to a local zine and never heard back. A new reissue pairs the album with home recordings for a delightfully amateurish, evocative set of songs.",
+    "reviewer": "Sam Goldner",
+    "image": "https://media.pitchfork.com/photos/69cd5896fb14ae3e567572ea/1:1/w_768,c_limit/Larrison-Connecters%20Vol.%201.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69cd6affe8916ffc614d5c7d",
+    "artist": "RAYE",
+    "title": "THIS MUSIC MAY CONTAIN HOPE.",
+    "score": 6.9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-04-02T04:01:00.000Z",
+    "dateFormatted": "April 2, 2026",
+    "url": "/reviews/albums/raye-this-music-may-contain-hope/",
+    "description": "The British singer’s second album is all curated melancholy and aestheticized heartache, winding its way through jazz, orchestral pop, and R&amp;B with melodramatic flair.",
+    "reviewer": "Boutayna Chokrane",
+    "image": "https://media.pitchfork.com/photos/69cd6a9cc10007ebbc500b3b/1:1/w_768,c_limit/RAYE-THIS%20MUSIC%20MAY%20CONTAIN%20HOPE..jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69cc0d68459055f6d4553ba3",
+    "artist": "Ladytron",
+    "title": "Paradises",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-04-02T04:00:00.000Z",
+    "dateFormatted": "April 2, 2026",
+    "url": "/reviews/albums/ladytron-paradises/",
+    "description": "The iconic UK electro-pop band turns on the sunlamps with a new double album that gives its signature gothic chill a faintly kooky, naturalistic bent.",
+    "reviewer": "Jesse Dorris",
+    "image": "https://media.pitchfork.com/photos/69bad2e621d429d99fb86625/1:1/w_768,c_limit/unnamed%20(40).jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "69cc25917daacc0cac001ad3",
     "artist": "Kanye West",
     "title": "Bully",
