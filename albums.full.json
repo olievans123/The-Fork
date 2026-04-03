@@ -1,5 +1,77 @@
 [
   {
+    "id": "69cebfda35b2ad658ccde1cb",
+    "artist": "Angine de Poitrine",
+    "title": "Vol. II",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-04-03T04:18:45.114Z",
+    "dateFormatted": "April 3, 2026",
+    "url": "/reviews/albums/angine-de-poitrine-vol-ii/",
+    "description": "On the heels of viral success, the anonymous, polka-dotted math-punk duo takes the throne as the world’s weirdest party band.",
+    "reviewer": "Christopher R. Weingarten",
+    "image": "https://media.pitchfork.com/photos/69cebdaab39c4bdc133ddc74/1:1/w_768,c_limit/Angine%20de%20Poitrine%20Vol.II.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69ce729712472fa901c5785a",
+    "artist": "Robber Robber",
+    "title": "Two Wheels Move the Soul",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-04-03T04:13:16.673Z",
+    "dateFormatted": "April 3, 2026",
+    "url": "/reviews/albums/robber-robber-two-wheels-move-the-soul/",
+    "description": "On its second album, made in the wake of an apartment fire, the Vermont band confronts upheaval and disaster through a controlled chaos of noisy guitars, lurching rhythms, and oblique lyrics.",
+    "reviewer": "Nina Corcoran",
+    "image": "https://media.pitchfork.com/photos/69ce72c0b39c4bdc133ddaad/1:1/w_768,c_limit/Robber%20Robber-Two%20Wheels%20Move%20the%20Soul.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69ceb9d54c68ddce3b4883ef",
+    "artist": "Bruce Hornsby",
+    "title": "Indigo Park",
+    "score": 7.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Folk/Country"
+    ],
+    "date": "2026-04-03T04:02:00.000Z",
+    "dateFormatted": "April 3, 2026",
+    "url": "/reviews/albums/bruce-hornsby-indigo-park/",
+    "description": "The Hornsbissaince continues with a diverse album that reflects the gigantic and exploratory spirit of the songwriter, featuring Ezra Koenig, Bob Weir, Bonnie Raitt, and more.",
+    "reviewer": "Sam Sodomsky",
+    "image": "https://media.pitchfork.com/photos/69ceb7fe35b2ad658ccde1c6/1:1/w_768,c_limit/Bruce%20Hornsby%20Indigo%20Park%20.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69ce7a8cb39c4bdc133ddab5",
+    "artist": "Arlo Parks",
+    "title": "Ambiguous Desire",
+    "score": 7.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-04-03T04:01:00.000Z",
+    "dateFormatted": "April 3, 2026",
+    "url": "/reviews/albums/arlo-parks-ambiguous-desire/",
+    "description": "Inspired by an immersion into New York City nightlife, the English songwriter embraces the sounds of dance music on a set of studied, introspective pop songs.",
+    "reviewer": "Aimee Cliff",
+    "image": "https://media.pitchfork.com/photos/69ce79ea12472fa901c5785f/1:1/w_768,c_limit/Arlo%20Parks%20Ambiguous%20Desire.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "69cd5b5f02588de6f6cc983f",
     "artist": "Slayyyter",
     "title": "WOR$T GIRL IN AMERICA",
