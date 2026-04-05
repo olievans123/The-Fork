@@ -1,5 +1,23 @@
 [
   {
+    "id": "69cfbeda8391079fe1068376",
+    "artist": "Generation X",
+    "title": "Generation X",
+    "score": 8.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-04-05T04:00:00.000Z",
+    "dateFormatted": "April 5, 2026",
+    "url": "/reviews/albums/generation-x-generation-x/",
+    "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we look back at Billy Idol’s first band, a combustible 1978 record with a punk sound and pop politics.",
+    "reviewer": "Alex Robert Ross",
+    "image": "https://media.pitchfork.com/photos/69cfbc8614a7b4c7c01f07cf/1:1/w_768,c_limit/generation%20x%20albo%20art.png",
+    "releaseYear": 1978
+  },
+  {
     "id": "69c6b81c1e961792ae21cc01",
     "artist": "Sunn O)))",
     "title": "Sunn O)))",
