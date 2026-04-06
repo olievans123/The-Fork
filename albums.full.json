@@ -1,5 +1,79 @@
 [
   {
+    "id": "69cfc4758391079fe1068380",
+    "artist": "Earl Sweatshirt / MIKE / Surf Gang",
+    "title": "POMPEII // UTILITY",
+    "score": 7.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap",
+      "Rap",
+      "Rap"
+    ],
+    "date": "2026-04-06T04:03:00.000Z",
+    "dateFormatted": "April 6, 2026",
+    "url": "/reviews/albums/earl-sweatshirt-mike-surf-gang-pompeii-utility/",
+    "description": "Two of this century’s coldest, most martyrial rap auteurs flex new muscles over a decent batch of ambient plugg beats.",
+    "reviewer": "Olivier Lafontant",
+    "image": "https://media.pitchfork.com/photos/69cfc386caf2ea720cb5bf3e/1:1/w_768,c_limit/Pompeii%20:%20Utility%20earl%20mike.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69ced6e9f751dde6c4847496",
+    "artist": "Charley Crockett",
+    "title": "Age of the Ram",
+    "score": 7.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Folk/Country"
+    ],
+    "date": "2026-04-06T04:02:00.000Z",
+    "dateFormatted": "April 6, 2026",
+    "url": "/reviews/albums/charley-crockett-age-of-the-ram/",
+    "description": "The Texan songwriter concludes his Sagebrush Trilogy with a rangy, rambling set of songs about a loner who lives just outside the law, filled with nods to outlaw country icons.",
+    "reviewer": "Stephen Thomas Erlewine",
+    "image": "https://media.pitchfork.com/photos/69961964a1ebee3b386789fa/1:1/w_768,c_limit/Age%20Of%20The%20Ram%20Artwork.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69cfbe82f87bf9150fc46551",
+    "artist": "Poison Ruïn",
+    "title": "Hymns From the Hills",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-04-06T04:01:00.000Z",
+    "dateFormatted": "April 6, 2026",
+    "url": "/reviews/albums/poison-ruin-hymns-from-the-hills/",
+    "description": "The medieval-themed Philadelphia punk band embraces cleaner production, catchier melodies, and wider-ranging influences to illustrate just how far we haven’t come.",
+    "reviewer": "Brad Sanders",
+    "image": "https://media.pitchfork.com/photos/69cfbdb1fb16a4f86f1007d4/1:1/w_768,c_limit/Poison%20Rui%CC%88n%20Hymns%20From%20the%20Hills.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69cfc8e39604e1ebdefe7719",
+    "artist": "Daryl Groetsch",
+    "title": "Fathoms",
+    "score": 6.9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-04-06T04:00:00.000Z",
+    "dateFormatted": "April 6, 2026",
+    "url": "/reviews/albums/daryl-groetsch-fathoms/",
+    "description": "On a new ambient suite, the Pulse Emitter composer takes you to the bottom of the ocean. It’s not the most adventurous trip, but you’re in good hands.",
+    "reviewer": "Daniel Bromfield",
+    "image": "https://media.pitchfork.com/photos/69cfc72f575344a78a5a0ef7/1:1/w_768,c_limit/Daryl%20Groetsch%20Fathoms.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "69cfbeda8391079fe1068376",
     "artist": "Generation X",
     "title": "Generation X",
