@@ -1,5 +1,78 @@
 [
   {
+    "id": "69d40c5ef32adc6a50607777",
+    "artist": "Thundercat",
+    "title": "Distracted",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Jazz",
+      "Pop/R&B"
+    ],
+    "date": "2026-04-07T04:03:00.000Z",
+    "dateFormatted": "April 7, 2026",
+    "url": "/reviews/albums/thundercat-distracted/",
+    "description": "Tapping celebrity guests like A$AP Rocky and Tame Impala for an album of silky cosmic funk, Thundercat channels the id of the geeky, emotionally maladjusted loner.",
+    "reviewer": "Daniel Felsenthal",
+    "image": "https://media.pitchfork.com/photos/69d40c28b8fabafeb1ad578c/1:1/w_768,c_limit/Thundercat%20-%20Distracted%20album%20art.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69d3f6fb9b47e47f54491bdc",
+    "artist": "Juvenile",
+    "title": "Boiling Point",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-04-07T04:02:00.000Z",
+    "dateFormatted": "April 7, 2026",
+    "url": "/reviews/albums/juvenile-boiling-point/",
+    "description": "On his first solo album in a decade, the New Orleans legend acts his age. This is backyard chill-out music, delivered with confidence and charisma.",
+    "reviewer": "Sadie Sartini Garner",
+    "image": "https://media.pitchfork.com/photos/69d3f5a20cc7ae2481cf1b4f/1:1/w_768,c_limit/Juvenile%20Boiling%20Point.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69d3c74bb8fabafeb1ad55e1",
+    "artist": "Ashley Monroe",
+    "title": "Dear Nashville",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Folk/Country"
+    ],
+    "date": "2026-04-07T04:01:00.000Z",
+    "dateFormatted": "April 7, 2026",
+    "url": "/reviews/albums/ashley-monroe-dear-nashville/",
+    "description": "Music City is an emotionally manipulative lover on the country singer’s latest release: a concise, spare album about heartache, self-worth, and resilience.",
+    "reviewer": "Stephen M. Deusner",
+    "image": "https://media.pitchfork.com/photos/69d3c6e90e9f20c845d79185/1:1/w_768,c_limit/Ashley%20Monroe-Dear%20Nashville.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69d3f9f13fc6af3622a086a6",
+    "artist": "Sofia Kourtesis",
+    "title": "DJ-Kicks",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-04-07T04:00:00.000Z",
+    "dateFormatted": "April 7, 2026",
+    "url": "/reviews/albums/sofia-kourtesis-dj-kicks/",
+    "description": "In her contribution to the long-running mix series, the Peruvian-born, Berlin-based DJ assembles a wide-ranging set of emotive house music that illustrates her ethos of “less perfection, more corazón.”",
+    "reviewer": "Matthew Ismael Ruiz",
+    "image": "https://media.pitchfork.com/photos/69d3f8efc8624cedb7457736/1:1/w_768,c_limit/Sofia%20Kourtesis%20-%20DJ-Kicks.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "69cfc4758391079fe1068380",
     "artist": "Earl Sweatshirt / MIKE / Surf Gang",
     "title": "POMPEII // UTILITY",
