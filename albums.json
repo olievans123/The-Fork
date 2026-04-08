@@ -1,5 +1,77 @@
 [
   {
+    "id": "69d50458bed662398dbfacc1",
+    "artist": "Bon Iver",
+    "title": "VOLUMES: ONE “SELECTIONS FROM MUSIC CONCERTS 2019-2023 BON IVER 6 PIECE BAND”",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-04-08T04:03:00.000Z",
+    "dateFormatted": "April 8, 2026",
+    "url": "/reviews/albums/bon-iver-volumes-one-selections-from-music-concerts-2019-2023-bon-iver-6-piece-band/",
+    "description": "The first installment in Justin Vernon’s new archival series offers inspired, communal renditions of the band’s last 10 years of work, spotlighting accompanists like Jenn Wasner and S. Carey.",
+    "reviewer": "Mitch Therieau",
+    "image": "https://media.pitchfork.com/photos/69caec6e560f0180af62ec37/1:1/w_768,c_limit/600x600bb%20(58).jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69d554ac3eb1f7a2731a2fdb",
+    "artist": "The New Pornographers",
+    "title": "The Former Site Of",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-04-08T04:02:00.000Z",
+    "dateFormatted": "April 8, 2026",
+    "url": "/reviews/albums/the-new-pornographers-the-former-site-of/",
+    "description": "The veteran Canadian indie rockers survey the wreckage on their 10th album, contemplating the end of empire and the stubborn persistence of faith in stylish, somber, elegiac songs.",
+    "reviewer": "Elizabeth Nelson",
+    "image": "https://media.pitchfork.com/photos/69d553bcbed662398dbfb288/1:1/w_768,c_limit/The%20New%20Pornographers%20-%20The%20Former%20Site%20Of.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69d524db3f2d2d0aab87806e",
+    "artist": "Jeune Morty",
+    "title": "Jeune Morty Vol.1",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-04-08T04:01:00.000Z",
+    "dateFormatted": "April 8, 2026",
+    "url": "/reviews/albums/jeune-morty-jeune-morty-vol-1/",
+    "description": "The Ivorian French rapper’s new tape is a goofy, glitchy mix of plugg, cloud rap, and club bruisers with nostalgic coupé-décalé flair.",
+    "reviewer": "Alphonse Pierre",
+    "image": "https://media.pitchfork.com/photos/69d524658ecda80ca60c084f/1:1/w_768,c_limit/Jeune%20Morty%20-%20Jeune%20Morty%20Vol%201%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69d5212a3eb1f7a2731a2cfc",
+    "artist": "Star Moles",
+    "title": "Highway to Hell",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-04-08T04:00:00.000Z",
+    "dateFormatted": "April 8, 2026",
+    "url": "/reviews/albums/star-moles-highway-to-hell/",
+    "description": "The Philadelphia singer-songwriter seeks out the mystical potential of quotidian misfortunes in a set of psychedelic-of-center bedroom pop songs.",
+    "reviewer": "Lily Goldberg",
+    "image": "https://media.pitchfork.com/photos/69d5207163f35afaaacffe54/1:1/w_768,c_limit/Star%20Moles-%20Highway%20to%20Hell.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "69d40c5ef32adc6a50607777",
     "artist": "Thundercat",
     "title": "Distracted",
