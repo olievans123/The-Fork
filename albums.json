@@ -1,5 +1,78 @@
 [
   {
+    "id": "69d6a619fb43b4012c9d2cee",
+    "artist": "Wendy Eisenberg",
+    "title": "Wendy Eisenberg",
+    "score": 8.2,
+    "bnm": true,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-04-09T04:03:00.000Z",
+    "dateFormatted": "April 9, 2026",
+    "url": "/reviews/albums/wendy-eisenberg-wendy-eisenberg/",
+    "description": "On a daring new album, the singer-songwriter and guitar virtuoso examines happiness, love, and memory with a forensic curiosity.",
+    "reviewer": "Jayson Greene",
+    "image": "https://media.pitchfork.com/photos/69d6a561117a16414f93f9e4/1:1/w_768,c_limit/Wendy%20Eisenberg%20Wendy%20Eisenberg.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69d68f93b9bba6a6dfd7a586",
+    "artist": "Actress / Suzanne Ciani",
+    "title": "Concrète Waves",
+    "score": 7.9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic",
+      "Experimental"
+    ],
+    "date": "2026-04-09T04:02:00.000Z",
+    "dateFormatted": "April 9, 2026",
+    "url": "/reviews/albums/actress-suzanne-ciani-concrete-waves/",
+    "description": "Two distinct styles collide on a pair of intergenerational live recordings pitting the Buchla pioneer’s undulating sequences against the lo-fi techno producer’s scuffed textures.",
+    "reviewer": "Andrew Ryce",
+    "image": "https://media.pitchfork.com/photos/69d68efee68f96f44c932635/1:1/w_768,c_limit/Actress%20&%20Suzanne%20Ciani%20-%20Concrete%20Waves.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69d545f93eb1f7a2731a2f20",
+    "artist": "Tyler Friedman",
+    "title": "METLASR",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-04-09T04:01:00.000Z",
+    "dateFormatted": "April 9, 2026",
+    "url": "/reviews/albums/tyler-friedman-metlasr/",
+    "description": "Sampling gamelan, marimba, mbira, and other idiophones, Friedman summons a microtonal riot of weightless pings that disorients and delights in equal measure.",
+    "reviewer": "Daniel Bromfield",
+    "image": "https://media.pitchfork.com/photos/69d53e6f8163c2e0ae180933/1:1/w_768,c_limit/Tyler%20Friedman%20-%20METALASR.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69d6a74db7ae73eea8920271",
+    "artist": "svn4vr",
+    "title": "herts on fire",
+    "score": 6.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap",
+      "Pop/R&B"
+    ],
+    "date": "2026-04-09T04:00:00.000Z",
+    "dateFormatted": "April 9, 2026",
+    "url": "/reviews/albums/svn4vr-herts-on-fire/",
+    "description": "The UK songwriter reflects on faith and coming of age through a flickering patchwork of folk, nth-wave emo, and punched-in ad-libs that shows all the seams.",
+    "reviewer": "H.D. Angel",
+    "image": "https://media.pitchfork.com/photos/69d6a61b8dae1d2d324ca189/1:1/w_768,c_limit/svn4evr%20-%20herts%20on%20fire%20album%20art.jpg"
+  },
+  {
     "id": "69d50458bed662398dbfacc1",
     "artist": "Bon Iver",
     "title": "VOLUMES: ONE “SELECTIONS FROM MUSIC CONCERTS 2019-2023 BON IVER 6 PIECE BAND”",
@@ -14,7 +87,7 @@
     "url": "/reviews/albums/bon-iver-volumes-one-selections-from-music-concerts-2019-2023-bon-iver-6-piece-band/",
     "description": "The first installment in Justin Vernon’s new archival series offers inspired, communal renditions of the band’s last 10 years of work, spotlighting accompanists like Jenn Wasner and S. Carey.",
     "reviewer": "Mitch Therieau",
-    "image": "https://media.pitchfork.com/photos/69caec6e560f0180af62ec37/1:1/w_768,c_limit/600x600bb%20(58).jpg",
+    "image": "https://media.pitchfork.com/photos/69d65a4faec4a05e7f474b14/1:1/w_768,c_limit/Bon%20Iver%20VOLUMES%20ONE%20SELECTIONS%20FROM%20MUSIC%20CONCERTS%202019-2023%20BON%20IVER%206%20PIECE%20BAND.jpg",
     "releaseYear": 2026
   },
   {
