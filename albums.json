@@ -1,5 +1,77 @@
 [
   {
+    "id": "69d6aea9d5a5f88194a75c99",
+    "artist": "My New Band Believe",
+    "title": "My New Band Believe",
+    "score": 8.4,
+    "bnm": true,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-04-10T04:03:00.000Z",
+    "dateFormatted": "April 10, 2026",
+    "url": "/reviews/albums/my-new-band-believe-my-new-band-believe/",
+    "description": "Former Black Midi bassist Cameron Picton’s dazzlingly complicated solo debut is a tangle of baroque melodies, chamber-punk arrangements, and garden-path lyrics.",
+    "reviewer": "Sam Sodomsky",
+    "image": "https://media.pitchfork.com/photos/69d67c86fb43b4012c9d2abd/1:1/w_768,c_limit/My%20New%20Band%20Believe%20-%20My%20New%20Band%20Believe%20album%20art%20HI%20RES.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69d7d74c550585bd01293b39",
+    "artist": "Los Thuthanaka",
+    "title": "Wak’a EP",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-04-10T04:02:00.000Z",
+    "dateFormatted": "April 10, 2026",
+    "url": "/reviews/albums/los-thuthanaka-waka-ep/",
+    "description": "The siblings extend their distinct, boundaryless sound explorations on a new EP, a companion to recent LPs that commemorates their work to preserve Aymara lore.",
+    "reviewer": "Sasha Geffen",
+    "image": "https://media.pitchfork.com/photos/69d7d6c010afb63f4e612f57/1:1/w_768,c_limit/Los%20Thuthanaka%20-%20Waq'a%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69c5516a12a9af169e275b53",
+    "artist": "Lone",
+    "title": "Hyperphantasia",
+    "score": 6.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-04-10T04:01:00.000Z",
+    "dateFormatted": "April 10, 2026",
+    "url": "/reviews/albums/lone-hyperphantasia/",
+    "description": "The UK producer balances his fondness for vividly detailed, high-octane dance music&#8212;breakbeat hardcore, speed garage, 2-step&#8212;with more conventional pop structures.",
+    "reviewer": "Andrew Ryce",
+    "image": "https://media.pitchfork.com/photos/69c550b0cc02ec40cfbbcc57/1:1/w_768,c_limit/Lone%20-%20Hyperphantasia.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69d6a24c8dae1d2d324ca17c",
+    "artist": "DORIS",
+    "title": "Everything Else",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-04-10T04:00:00.000Z",
+    "dateFormatted": "April 10, 2026",
+    "url": "/reviews/albums/doris-everything-else/",
+    "description": "The rapper and visual artist’s latest compilation combines hypnotic snippets with lengthier suites for a fusion of introspection, bitcrushed textures, and lo-fi samples ruled by dream logic.",
+    "reviewer": "Jude Noel",
+    "image": "https://media.pitchfork.com/photos/69d6a15acd2e2c357353efa3/1:1/w_768,c_limit/Doris-Everything%20Else.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "69d6a619fb43b4012c9d2cee",
     "artist": "Wendy Eisenberg",
     "title": "Wendy Eisenberg",
