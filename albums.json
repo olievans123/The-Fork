@@ -1,5 +1,25 @@
 [
   {
+    "id": "69d6a34d366761f6ae9470c8",
+    "artist": "Scritti Politti",
+    "title": "Songs to Remember (2026 Remaster)",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic",
+      "Rock"
+    ],
+    "date": "2026-04-11T04:00:00.000Z",
+    "dateFormatted": "April 11, 2026",
+    "url": "/reviews/albums/scritti-politti-songs-to-remember-2026-remaster/",
+    "description": "The avant-pop group’s long unavailable, newly reissued debut epitomizes its attempt to meld its art-school background, ’70s punk ethics, and obsession with chart pop into one grand statement.",
+    "reviewer": "Alfred Soto",
+    "image": "https://media.pitchfork.com/photos/698e331d56a31712e43327ef/1:1/w_768,c_limit/Scritti-Politti-Songs-to-Remember-2026-Remaster.jpeg",
+    "releaseYear": 2026,
+    "originalYear": 1982
+  },
+  {
     "id": "69d6aea9d5a5f88194a75c99",
     "artist": "My New Band Believe",
     "title": "My New Band Believe",
