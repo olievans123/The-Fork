@@ -1,5 +1,24 @@
 [
   {
+    "id": "69d948f710afb63f4e6138eb",
+    "artist": "Cris Williamson",
+    "title": "The Changer and the Changed",
+    "score": 8.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Folk/Country",
+      "Rock"
+    ],
+    "date": "2026-04-12T04:00:00.000Z",
+    "dateFormatted": "April 12, 2026",
+    "url": "/reviews/albums/cris-williamson-the-changer-and-the-changed/",
+    "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit the spare, gentle, semi-forgotten singer-songwriter album that’s fueled 50 years of “sapphic pop.”",
+    "reviewer": "Emma Madden",
+    "image": "https://media.pitchfork.com/photos/69d93be3d9d4b607ed9d59e4/1:1/w_768,c_limit/cris-williamson.jpg",
+    "releaseYear": 1975
+  },
+  {
     "id": "69d6a34d366761f6ae9470c8",
     "artist": "Scritti Politti",
     "title": "Songs to Remember (2026 Remaster)",
