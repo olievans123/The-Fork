@@ -1,5 +1,77 @@
 [
   {
+    "id": "69d93c8e630198a1f8dc5ef0",
+    "artist": "upsammy / Valentina Magaletti",
+    "title": "Seismo",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-04-13T04:03:00.000Z",
+    "dateFormatted": "April 13, 2026",
+    "url": "/reviews/albums/upsammy-valentina-magaletti-seismo/",
+    "description": "The Dutch electronic musician and the London-based drummer blur the line between drum programming and organic percussion in a drifting yet groovy set of compositions.",
+    "reviewer": "Philip Sherburne",
+    "image": "https://media.pitchfork.com/photos/69d93bc5e5a162acc60680c3/1:1/w_768,c_limit/upsammy%20valentina%20Seismo.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69d90c89d9d4b607ed9d5767",
+    "artist": "Cancer House",
+    "title": "The Moth",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-04-13T04:02:00.000Z",
+    "dateFormatted": "April 13, 2026",
+    "url": "/reviews/albums/cancer-house-the-moth/",
+    "description": "Channeling ’90s slowcore and post-rock into gorgeously brooding odes to dejection, the Chicago quartet’s debut is downer music at its most alluring.",
+    "reviewer": "Joshua Minsoo Kim",
+    "image": "https://media.pitchfork.com/photos/69d90a1bd9d4b607ed9d5713/1:1/w_768,c_limit/Cancer%20House%20-%20The%20Moth.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69d6a4b8e68f96f44c9328c4",
+    "artist": "Hoavi",
+    "title": "Architectonics",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-04-13T04:01:00.000Z",
+    "dateFormatted": "April 13, 2026",
+    "url": "/reviews/albums/hoavi-architectonics/",
+    "description": "On his latest album, the Russian producer crafts distinctive rhythms inspired by the chiming repetitions of Indonesian gamelan music.",
+    "reviewer": "Sam Goldner",
+    "image": "https://media.pitchfork.com/photos/69d6a459cd2e2c357353efb3/1:1/w_768,c_limit/Hoavi-%20Architectonics.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69d6a6c6bb2aa5f68b342ae2",
+    "artist": "Tiffany Day",
+    "title": "HALO",
+    "score": 6.9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-04-13T04:00:00.000Z",
+    "dateFormatted": "April 13, 2026",
+    "url": "/reviews/albums/tiffany-day-halo/",
+    "description": "The songwriter and producer’s second album pairs bedroom-pop vulnerability with electroclash chaos to capture the emotional overload of growing up.",
+    "reviewer": "Lydia Wei",
+    "image": "https://media.pitchfork.com/photos/69d6a64155f1dc36c99fcb6f/1:1/w_768,c_limit/Tiffany%20Day-HALO.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "69d948f710afb63f4e6138eb",
     "artist": "Cris Williamson",
     "title": "The Changer and the Changed",
