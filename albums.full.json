@@ -1,5 +1,77 @@
 [
   {
+    "id": "69dcff315bf2b1ea1fb155f6",
+    "artist": "Spirit Adrift",
+    "title": "Infinite Illumination",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Metal"
+    ],
+    "date": "2026-04-14T04:03:00.000Z",
+    "dateFormatted": "April 14, 2026",
+    "url": "/reviews/albums/spirit-adrift-infinite-illumination/",
+    "description": "Nate Garrett ends his inspirational, soul-stirring metal project on a high note with the heaviest music he’s made in years.",
+    "reviewer": "Brad Sanders",
+    "image": "https://media.pitchfork.com/photos/69dcfe003fbeea263af88d12/1:1/w_768,c_limit/Spirit%20Adrift%20Infinite%20Illumination.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69dd1b70346c9bdbbdeb0d72",
+    "artist": "HYPER GAL",
+    "title": "Our Hyper",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-04-14T04:02:00.000Z",
+    "dateFormatted": "April 14, 2026",
+    "url": "/reviews/albums/hyper-gal-our-hyper/",
+    "description": "The Japanese noise duo’s third album is its most crushing release, pairing sharper production with punishing layers of noise and a few forays into slower, sludgier territory.",
+    "reviewer": "Jude Noel",
+    "image": "https://media.pitchfork.com/photos/69dd1b09346c9bdbbdeb0d5e/1:1/w_768,c_limit/HYPER%20GAL-%20Our%20Hyper.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69dd1fd65bf2b1ea1fb15887",
+    "artist": "Blaketheman1000",
+    "title": "City of Careless Angels",
+    "score": 6.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-04-14T04:01:00.000Z",
+    "dateFormatted": "April 14, 2026",
+    "url": "/reviews/albums/blaketheman1000-city-of-careless-angels/",
+    "description": "The California-born, New York-based artist may be better known for his online persona, but his full-length debut spotlights his increasingly compelling, perpetually heartbroken bedroom-pop.",
+    "reviewer": "Donald Morrison",
+    "image": "https://media.pitchfork.com/photos/69dd1eee0023bb7a9cc14345/1:1/w_768,c_limit/Blaketheman1000%20City%20of%20Careless%20Angels.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69dd33c4da383e6025d24aef",
+    "artist": "Samba Jean-Baptiste",
+    "title": "+3",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-04-14T04:00:00.000Z",
+    "dateFormatted": "April 14, 2026",
+    "url": "/reviews/albums/samba-jean-baptiste-3/",
+    "description": "The Haitian American singer-songwriter keeps the mood hushed and hazy on his second album, channeling the experimental R&amp;B canon in songs that toggle between sincerity and opacity.",
+    "reviewer": "Emma Madden",
+    "image": "https://media.pitchfork.com/photos/69dd33364c076b7ab0eff880/1:1/w_768,c_limit/Samba%20Jean-Baptiste%20-%20+3.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "69d93c8e630198a1f8dc5ef0",
     "artist": "upsammy / Valentina Magaletti",
     "title": "Seismo",
