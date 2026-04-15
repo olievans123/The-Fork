@@ -1,5 +1,77 @@
 [
   {
+    "id": "69de6d0394b314dffd124280",
+    "artist": "Bossman Dlow",
+    "title": "Chicken Talkin Bastard",
+    "score": 6.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-04-15T04:03:00.000Z",
+    "dateFormatted": "April 15, 2026",
+    "url": "/reviews/albums/bossman-dlow-chicken-talkin-bastard/",
+    "description": "The Florida rapper never breaks character: He’s a radio hitmaker, and the high-rolling highlights on his new mixtape are designed to be absorbed by osmosis.",
+    "reviewer": "Alphonse Pierre",
+    "image": "https://media.pitchfork.com/photos/69d4253d3eb1f7a2731a2577/1:1/w_768,c_limit/600x600bb%20(65).jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69de918294b314dffd124403",
+    "artist": "Josephine’s Next Million Miles",
+    "title": "Buckle Up",
+    "score": 6.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-04-15T04:02:00.000Z",
+    "dateFormatted": "April 15, 2026",
+    "url": "/reviews/albums/josephines-next-million-miles-buckle-up/",
+    "description": "The New York indie-pop band captures the contradictions of “laptop twee” on a debut LP whose wiggly open world feels shadowed by a sense of innocence lost.",
+    "reviewer": "Samuel Hyland",
+    "image": "https://media.pitchfork.com/photos/69de90e392bf48304ee29720/1:1/w_768,c_limit/Josephine's%20Next%20Million%20Miles%20-%20Buckle%20Up.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69de658b94b314dffd12420e",
+    "artist": "ezcodylee",
+    "title": "STUNT 4 LIFE",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-04-15T04:01:00.000Z",
+    "dateFormatted": "April 15, 2026",
+    "url": "/reviews/albums/ezcodylee-stunt-4-life/",
+    "description": "The SoCal rapper pushes the synthesis of rage rap and alt rock to thunderous new extremes on his latest album, a high-energy tribute to perseverance in the face of adversity.",
+    "reviewer": "Vivian Medithi",
+    "image": "https://media.pitchfork.com/photos/69de62e3d7dad2f36e2bad33/1:1/w_768,c_limit/ezcodylee%20-%20STUNT%204%20LIFE.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69de5bbe92bf48304ee29574",
+    "artist": "King Tuff",
+    "title": "MOO",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-04-15T04:00:00.000Z",
+    "dateFormatted": "April 15, 2026",
+    "url": "/reviews/albums/king-tuff-moo/",
+    "description": "Kyle Thomas returns to his garage-punk roots on his latest record, adding newfound personality and texture to the primal, fuzzed-out sound of his early releases.",
+    "reviewer": "Stephen Thomas Erlewine",
+    "image": "https://media.pitchfork.com/photos/69777863606d50637a9e6f9d/1:1/w_768,c_limit/King-Tuff-Moo.jpeg",
+    "releaseYear": 2026
+  },
+  {
     "id": "69dcff315bf2b1ea1fb155f6",
     "artist": "Spirit Adrift",
     "title": "Infinite Illumination",
@@ -68,7 +140,7 @@
     "url": "/reviews/albums/samba-jean-baptiste-3/",
     "description": "The Haitian American singer-songwriter keeps the mood hushed and hazy on his second album, channeling the experimental R&amp;B canon in songs that toggle between sincerity and opacity.",
     "reviewer": "Emma Madden",
-    "image": "https://media.pitchfork.com/photos/69dd33364c076b7ab0eff880/1:1/w_768,c_limit/Samba%20Jean-Baptiste%20-%20+3.jpg",
+    "image": "https://media.pitchfork.com/photos/69de67cd94b314dffd12422e/1:1/w_768,c_limit/Samba%20Jean-Baptiste%20-%20+3.png",
     "releaseYear": 2026
   },
   {
