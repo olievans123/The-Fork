@@ -1,5 +1,78 @@
 [
   {
+    "id": "69dfa2da97f0c2ea2d2741b7",
+    "artist": "Tokischa",
+    "title": "AMOR &amp; DROGA",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-04-16T04:03:00.000Z",
+    "dateFormatted": "April 16, 2026",
+    "url": "/reviews/albums/tokischa-amor-y-droga/",
+    "description": "Stretching herself across dembow, electro pop, and even surf rock, the Dominican firebrand vies for stardom, keeps it weird, and shows how far she’s come.",
+    "reviewer": "E.R. Pulgar",
+    "image": "https://media.pitchfork.com/photos/69df9dc5dcbf80d94e3c499c/1:1/w_768,c_limit/Tokischa%20-%20Amor%20&%20Droga.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69dfda9d44e71f0c3783eb58",
+    "artist": "Nine Vicious",
+    "title": "EMOTIONS",
+    "score": 4.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-04-16T04:02:00.000Z",
+    "dateFormatted": "April 16, 2026",
+    "url": "/reviews/albums/nine-vicious-emotions/",
+    "description": "On his lethargic new album, the controversy-courting Georgia rapper has never sounded less interesting, engaged, or inspired.",
+    "reviewer": "Olivier Lafontant",
+    "image": "https://media.pitchfork.com/photos/69dfd93e3e071ed6e8fdf882/1:1/w_768,c_limit/Nine%20Vicious%20EMOTIONS.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69dfad3c44e71f0c3783e8ae",
+    "artist": "WU LYF",
+    "title": "A Wave That Will Never Break",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental",
+      "Rock"
+    ],
+    "date": "2026-04-16T04:01:00.000Z",
+    "dateFormatted": "April 16, 2026",
+    "url": "/reviews/albums/wu-lyf-a-wave-that-will-never-break/",
+    "description": "Fourteen years after the Manchester alt rockers called it quits, they return with a second album of outsized yearning and arena-scaled ambitions, with the sincerity turned up to 11.",
+    "reviewer": "Ian Cohen",
+    "image": "https://media.pitchfork.com/photos/69dfac606fd8362af20edbb3/1:1/w_768,c_limit/WU%20LYF%20-%20A%20Wave%20That%20Will%20Never%20Break.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69dfb4fafc6420121c2972b4",
+    "artist": "ADULT.",
+    "title": "Kissing Luck Goodbye",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-04-16T04:00:00.000Z",
+    "dateFormatted": "April 16, 2026",
+    "url": "/reviews/albums/adult-kissing-luck-goodbye/",
+    "description": "For their 10th album, the Detroit electro-punks harness irony, sincerity, and an expanded sample library to celebrate the places where systems fail.",
+    "reviewer": "Sadie Sartini Garner",
+    "image": "https://media.pitchfork.com/photos/69dfb421fc6420121c2972a6/1:1/w_768,c_limit/ADULT.-Kissing%20Luck%20Goodbye.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "69de6d0394b314dffd124280",
     "artist": "Bossman Dlow",
     "title": "Chicken Talkin Bastard",
