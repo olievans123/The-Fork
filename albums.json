@@ -1,5 +1,78 @@
 [
   {
+    "id": "69e136ca3e0327f3b1d48cec",
+    "artist": "M.I.A.",
+    "title": "M.I.7",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-04-17T04:03:00.000Z",
+    "dateFormatted": "April 17, 2026",
+    "url": "/reviews/albums/mia-mi7/",
+    "description": "Buckle up for M.I.A.’s surprisingly moving Christian album, a bass-driven, gospel-infused testament to personal salvation.",
+    "reviewer": "Chal Ravens",
+    "image": "https://media.pitchfork.com/photos/69e135d89cb1ec00875ae04b/1:1/w_768,c_limit/M.I.A.%20-%20M.I.7%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69e1344474557c028052e6f3",
+    "artist": "Zayn",
+    "title": "KONNAKOL",
+    "score": 5.9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-04-17T04:02:00.000Z",
+    "dateFormatted": "April 17, 2026",
+    "url": "/reviews/albums/zayn-konnakol/",
+    "description": "The English singer reunites with an old collaborator and digs deeper into his South Asian musical inheritance, but his fifth album of R&amp;B-laced pop feels only slightly more realized.",
+    "reviewer": "Sameer Rao",
+    "image": "https://media.pitchfork.com/photos/69e133ba3e0327f3b1d48ce7/1:1/w_768,c_limit/Zayn%20-%20Konnakol%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69e0e353416570e8887f1564",
+    "artist": "Souled American",
+    "title": "Sanctions",
+    "score": 7.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-04-17T04:01:00.000Z",
+    "dateFormatted": "April 17, 2026",
+    "url": "/reviews/albums/souled-american-sanctions/",
+    "description": "The pioneering alt-country band returns with its first album in 30 years&#8212;a set of cryptic, languid dirges that feels defiantly out-of-time.",
+    "reviewer": "Zach Schonfeld",
+    "image": "https://media.pitchfork.com/photos/69e0e282d2b3a3b4a12c0294/1:1/w_768,c_limit/Souled%20American%20Sanctions.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69e121f96d937d1d767dd066",
+    "artist": "Bloodz Boi / jackzebra",
+    "title": "Bloodzebra",
+    "score": 7.9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap",
+      "Rap"
+    ],
+    "date": "2026-04-17T04:00:00.000Z",
+    "dateFormatted": "April 17, 2026",
+    "url": "/reviews/albums/bloodz-boi-jackzebra-bloodzebra/",
+    "description": "On a collaborative record where slurred Mandarin intersects with stuttering synths, the Chengdu rapper and his mentor interrogate the disconnect between social life and our internal worlds.",
+    "reviewer": "James Gui",
+    "image": "https://media.pitchfork.com/photos/69e121338c2e7a0d5c59b349/1:1/w_768,c_limit/jackzebra,%20Bloodz%20Boi-Bloodzebra.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "69dfa2da97f0c2ea2d2741b7",
     "artist": "Tokischa",
     "title": "AMOR &amp; DROGA",
