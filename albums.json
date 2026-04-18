@@ -1,5 +1,24 @@
 [
   {
+    "id": "69e28a75b332b8bc9b08a6d2",
+    "artist": "Nine Inch Nails / Boys Noize",
+    "title": "Nine Inch Noize",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock",
+      "Electronic"
+    ],
+    "date": "2026-04-18T04:00:00.000Z",
+    "dateFormatted": "April 18, 2026",
+    "url": "/reviews/albums/nine-inch-nails-boys-noize-nine-inch-noize/",
+    "description": "Trent Reznor reconfigures his band and his music for a sort of live remix album that is unfussy, dancey, and, if you can believe it, fun.",
+    "reviewer": "Will Lynch",
+    "image": "https://media.pitchfork.com/photos/69d6932355f1dc36c99fcb02/1:1/w_768,c_limit/Nine-Inch-Nails-Boys-Noize-Nine-Inch-Noize.jpeg",
+    "releaseYear": 2026
+  },
+  {
     "id": "69e136ca3e0327f3b1d48cec",
     "artist": "M.I.A.",
     "title": "M.I.7",
