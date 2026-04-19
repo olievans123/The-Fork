@@ -1,5 +1,23 @@
 [
   {
+    "id": "69e28d54aa297958e93906cb",
+    "artist": "Dido",
+    "title": "Life for Rent",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-04-19T04:00:00.000Z",
+    "dateFormatted": "April 19, 2026",
+    "url": "/reviews/albums/dido-life-for-rent/",
+    "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit the UK singer’s second album, a fascinatingly normal early-aughts pop record from a woman whose still waters run deep.",
+    "reviewer": "Shaad D’Souza",
+    "image": "https://media.pitchfork.com/photos/69e38a4e819bc35a7080283e/1:1/w_768,c_limit/dido%20life%20for%20rent.jpg",
+    "releaseYear": 2003
+  },
+  {
     "id": "69e28a75b332b8bc9b08a6d2",
     "artist": "Nine Inch Nails / Boys Noize",
     "title": "Nine Inch Noize",
