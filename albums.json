@@ -1,5 +1,78 @@
 [
   {
+    "id": "69e29703472d8be6fa8487c1",
+    "artist": "Jessie Ware",
+    "title": "Superbloom",
+    "score": 6.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-04-20T04:03:00.000Z",
+    "dateFormatted": "April 20, 2026",
+    "url": "/reviews/albums/jessie-ware-superbloom/",
+    "description": "Jessie Ware’s sixth album tips from disco purism into polyester literalism.",
+    "reviewer": "Harry Tafoya",
+    "image": "https://media.pitchfork.com/photos/69e295abaa297958e9390702/1:1/w_768,c_limit/Jessie%20Ware%20-%20Superbloom%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69e262707d9e528d92b7e93d",
+    "artist": "Tiga",
+    "title": "HOTLIFE",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-04-20T04:02:00.000Z",
+    "dateFormatted": "April 20, 2026",
+    "url": "/reviews/albums/tiga-hotlife/",
+    "description": "The Montreal producer and DJ’s consciously raunchy, poignantly flippant new album stages a well-timed return to the sound that made him famous.",
+    "reviewer": "Cameron Cook",
+    "image": "https://media.pitchfork.com/photos/69de4ff2d7dad2f36e2bacce/1:1/w_768,c_limit/a2012840746_10.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69e25be70c59031680d55f04",
+    "artist": "Frog",
+    "title": "Frog for Sale",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-04-20T04:01:00.000Z",
+    "dateFormatted": "April 20, 2026",
+    "url": "/reviews/albums/frog-frog-for-sale/",
+    "description": "The indie-rock brother duo continues its prolific streak with a charmingly off-the-cuff album that exercises Daniel Bateman’s theatrical showmanship.",
+    "reviewer": "Nina Corcoran",
+    "image": "https://media.pitchfork.com/photos/69de4fa06f840fe020135628/1:1/w_768,c_limit/a2101530928_10.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69e10d5e6fb539178fad7bdb",
+    "artist": "Handle",
+    "title": "COLLIDE",
+    "score": 7.9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock",
+      "Experimental"
+    ],
+    "date": "2026-04-20T04:00:00.000Z",
+    "dateFormatted": "April 20, 2026",
+    "url": "/reviews/albums/handle-collide/",
+    "description": "The Manchester trio’s latest album proposes a heady, rhythmic strain of post-punk that references familiar touchstones while sounding genuinely, deliriously disorienting.",
+    "reviewer": "Shaad D’Souza",
+    "image": "https://media.pitchfork.com/photos/69e10a5274557c028052e367/1:1/w_768,c_limit/Handle%20-%20COLLIDE.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "69e28d54aa297958e93906cb",
     "artist": "Dido",
     "title": "Life for Rent",
