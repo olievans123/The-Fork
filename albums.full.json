@@ -1,5 +1,77 @@
 [
   {
+    "id": "69e675f0cd36db300776631b",
+    "artist": "Sexyy Red",
+    "title": "Yo Favorite Trappa Favorite Rappa",
+    "score": 5.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-04-21T04:03:00.000Z",
+    "dateFormatted": "April 21, 2026",
+    "url": "/reviews/albums/sexyy-red-yo-favorite-trappa-favorite-rappa/",
+    "description": "Filled with 1-to-1 recreations of classic trap and hooks that should’ve stayed in the drafts, Sexyy Red’s new album is more boring than it has any right to be.",
+    "reviewer": "Stephen Kearse",
+    "image": "https://media.pitchfork.com/photos/69dfd7b9fc6420121c2973e1/1:1/w_768,c_limit/HF9y_-wbEAA_ICI.jpeg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69e2531d890197450a96c6ce",
+    "artist": "Rikki G. Godd",
+    "title": "Cost of Living",
+    "score": 6.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-04-21T04:02:00.000Z",
+    "dateFormatted": "April 21, 2026",
+    "url": "/reviews/albums/rikki-g-godd-cost-of-living/",
+    "description": "Percussionist and sound artist Colin Blanton mints a new alias for a suite of improvisational industrial jams where distortion is baked in at the atomic level.",
+    "reviewer": "Maxie Younger",
+    "image": "https://media.pitchfork.com/photos/69e252060c59031680d55efb/1:1/w_768,c_limit/Rikki%20G.%20Godd-Cost%20of%20Living.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69e637809326b8381553d087",
+    "artist": "Kathryn Mohr",
+    "title": "Carve",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-04-21T04:01:00.000Z",
+    "dateFormatted": "April 21, 2026",
+    "url": "/reviews/albums/kathryn-mohr-carve/",
+    "description": "Desolation reigns over the Bay Area musician’s skeletal songs for voice and guitar, but her latest album reveals a defiant new edge to her songwriting and fuzzed-out production.",
+    "reviewer": "Colin Joyce",
+    "image": "https://media.pitchfork.com/photos/69e636fd46e9aebca6bacf2b/1:1/w_768,c_limit/Kathryn%20Mohr%20-%20Carve.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69e23447b93cfe7f7d4775b4",
+    "artist": "La Peste",
+    "title": "I Don’t Know Right From Wrong: Lost La Peste 1976-1979, Vol. 1",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-04-21T04:00:00.000Z",
+    "dateFormatted": "April 21, 2026",
+    "url": "/reviews/albums/la-peste-i-dont-know-right-from-wrong-lost-la-peste-1976-1979-vol-1/",
+    "description": "A new anthology of the early Boston punks captures a pivotal moment in the city’s underground history, filling in the timeline between the Modern Lovers and Mission of Burma.",
+    "reviewer": "Eric R. Danton",
+    "image": "https://media.pitchfork.com/photos/69e23361b93cfe7f7d4775af/1:1/w_768,c_limit/La%20Peste%20-%20I%20Don't%20Know%20Right%20From%20Wrong.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "69e29703472d8be6fa8487c1",
     "artist": "Jessie Ware",
     "title": "Superbloom",
