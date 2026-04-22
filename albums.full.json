@@ -1,5 +1,77 @@
 [
   {
+    "id": "69e7ccaf748aa721f47902c5",
+    "artist": "Yaya Bey",
+    "title": "Fidelity",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-04-22T04:03:00.000Z",
+    "dateFormatted": "April 22, 2026",
+    "url": "/reviews/albums/yaya-bey-fidelity/",
+    "description": "The songwriter’s wistful, breezy new album showcases her mood-ring shifts, wry humor, and exquisite sound design. Everything she sings feels like it came to her in the moment.",
+    "reviewer": "Jayson Greene",
+    "image": "https://media.pitchfork.com/photos/6995f0585e4b983b1135cd6f/1:1/w_768,c_limit/image.jpeg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69e7cb7f175d33be382a932e",
+    "artist": "Black Nile",
+    "title": "Indigo Garden",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Jazz"
+    ],
+    "date": "2026-04-22T04:02:00.000Z",
+    "dateFormatted": "April 22, 2026",
+    "url": "/reviews/albums/black-nile-indigo-garden/",
+    "description": "The new album from brothers Aaron and Lawrence Shaw plays to modern Los Angeles jazz tradition with standout performances and a neighborhood feel.",
+    "reviewer": "Dean Van Nguyen",
+    "image": "https://media.pitchfork.com/photos/69e7cb0081912dd21c7a0101/1:1/w_768,c_limit/Black%20Nile%20-%20Indigo%20Garden%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69e7c317db952f2dee079393",
+    "artist": "Justine Skye",
+    "title": "CANDY",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-04-22T04:01:00.000Z",
+    "dateFormatted": "April 22, 2026",
+    "url": "/reviews/albums/justine-skye-candy/",
+    "description": "After years of almost making it as an R&amp;B star, the singer pivots to dance-pop on a club-themed album steeped in Ibiza-themed hedonism and graced with a knowing wink.",
+    "reviewer": "Cameron Cook",
+    "image": "https://media.pitchfork.com/photos/69e7c28ddb952f2dee07938e/1:1/w_768,c_limit/Justine%20Skye%20-%20Candy.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69e7bc08653ba57fc3481b93",
+    "artist": "National Photo Committee",
+    "title": "Red Hot Photo Committee",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-04-22T04:00:00.000Z",
+    "dateFormatted": "April 22, 2026",
+    "url": "/reviews/albums/national-photo-committee-red-hot-photo-committee/",
+    "description": "The Chicago punks pack their debut album with cowboy campfire tales of love and loneliness, putting a Midwestern spin on sunburnt Americana.",
+    "reviewer": "Nina Corcoran",
+    "image": "https://media.pitchfork.com/photos/69e7bbafc69f2cc0a781ade8/1:1/w_768,c_limit/National%20Photo%20Committee-Red%20Hot%20Photo%20Committee.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "69e675f0cd36db300776631b",
     "artist": "Sexyy Red",
     "title": "Yo Favorite Trappa Favorite Rappa",
