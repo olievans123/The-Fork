@@ -1,5 +1,77 @@
 [
   {
+    "id": "69e917a4556614c9bfc04bd2",
+    "artist": "Starker",
+    "title": "LIVING TYPE DANGEROUS Vol. 1",
+    "score": 8.4,
+    "bnm": true,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-04-23T04:03:00.000Z",
+    "dateFormatted": "April 23, 2026",
+    "url": "/reviews/albums/starker-living-type-dangerous-vol-1/",
+    "description": "Retro but never dusty, the rapper’s brilliantly bugged-out new tape sounds like a New York that hardly exists anymore.",
+    "reviewer": "Alphonse Pierre",
+    "image": "https://media.pitchfork.com/photos/69e91650556614c9bfc04bcd/1:1/w_768,c_limit/Starker%20-%20LIVING%20TYPE%20DANGEROUS%20Vol.%201%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69e8f0f5b6c735571b4f60aa",
+    "artist": "Carla dal Forno",
+    "title": "Confession",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-04-23T04:02:00.000Z",
+    "dateFormatted": "April 23, 2026",
+    "url": "/reviews/albums/carla-dal-forno-confession/",
+    "description": "The Australian singer-songwriter’s latest album sounds at first like a chipper fusion of post-punk and dream pop. But the lyrics tell a story of an unhinged narrator and her desperate obsession.",
+    "reviewer": "Andrew Ryce",
+    "image": "https://media.pitchfork.com/photos/69e8ef4f556614c9bfc04831/1:1/w_768,c_limit/Carla%20dal%20Forno%20-%20Confession.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69e8fa6e1123fa00fc4077b1",
+    "artist": "Portrayal of Guilt",
+    "title": "…Beginning of the End",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-04-23T04:01:00.000Z",
+    "dateFormatted": "April 23, 2026",
+    "url": "/reviews/albums/portrayal-of-guilt-beginning-of-the-end/",
+    "description": "From nu-metal to Madchester and beyond, the Austin metal trio’s ambitious fourth album brings all their disparate influences under one roof.",
+    "reviewer": "Patrick Lyons",
+    "image": "https://media.pitchfork.com/photos/69e8f9f61123fa00fc4077ac/1:1/w_768,c_limit/Portrayal%20of%20Guilt%20%E2%80%A6Beginning%20of%20the%20End.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69e8f970556614c9bfc049a9",
+    "artist": "Friko",
+    "title": "Something Worth Waiting For",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-04-23T04:00:00.000Z",
+    "dateFormatted": "April 23, 2026",
+    "url": "/reviews/albums/friko-something-worth-waiting-for/",
+    "description": "For its second record, the Chicago band adds sprawling arrangements to its homespun sound, reaching for the theatrical maximalism of its millennial indie-rock forebears.",
+    "reviewer": "Grace Robins-Somerville",
+    "image": "https://media.pitchfork.com/photos/69e8f1aaf6ceef3c4c3ceadf/1:1/w_768,c_limit/600x600bb%20(68).jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "69e7ccaf748aa721f47902c5",
     "artist": "Yaya Bey",
     "title": "Fidelity",
