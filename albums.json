@@ -1,5 +1,77 @@
 [
   {
+    "id": "69ea66cd8ae8980785feed6e",
+    "artist": "Quiet Light",
+    "title": "Blue Angel Sparkling Silver 2",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-04-24T04:03:00.000Z",
+    "dateFormatted": "April 24, 2026",
+    "url": "/reviews/albums/quiet-light-blue-angel-sparkling-silver-2/",
+    "description": "Texas songwriter Riya Mahesh’s atmospheric beatmaking, gauzy harmonies, and impressionistic songwriting cast a spell. Her new album is her most refined yet.",
+    "reviewer": "Harry Tafoya",
+    "image": "https://media.pitchfork.com/photos/69e8f1eb934387fcd42863ba/1:1/w_768,c_limit/a0376551553_10.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69e8dcb9f6ceef3c4c3ce88f",
+    "artist": "Alvarius B.",
+    "title": "Malarial Dream",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock",
+      "Experimental"
+    ],
+    "date": "2026-04-24T04:02:00.000Z",
+    "dateFormatted": "April 24, 2026",
+    "url": "/reviews/albums/alvarius-b-malarial-dream/",
+    "description": "Alan Bishop’s latest album seems at first like a showcase of his music at its most rocking. But it’s also steeped in psych, folk, and desert blues, making good on Sun City Girls’ exploratory rep.",
+    "reviewer": "Marc Masters",
+    "image": "https://media.pitchfork.com/photos/69e8d9a79f1d499ac2422c35/1:1/w_768,c_limit/Alvarius%20B.%20-%20Malarial%20Dream.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69ea695b4b020a968345ff52",
+    "artist": "Zoumer",
+    "title": "e.a.l. (euro arab lovergirl)",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-04-24T04:01:00.000Z",
+    "dateFormatted": "April 24, 2026",
+    "url": "/reviews/albums/zoumer-eal-euro-arab-lovergirl/",
+    "description": "The Danish Algerian songwriter’s peripatetic new album pulls up at the bustling crossroads of the electroclash comeback and the contemporary Scandinavian school.",
+    "reviewer": "Walden Green",
+    "image": "https://media.pitchfork.com/photos/69ea690b3bd6ebe4838eb425/1:1/w_768,c_limit/Zoumer%20-%20e.a.l.%20(euro%20arab%20lovergirl)%20album%20art.jpg"
+  },
+  {
+    "id": "69ea7a5d4f4abe1cc7c6455f",
+    "artist": "Hedvig Mollestad Weejuns",
+    "title": "Bitches Blues",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Jazz"
+    ],
+    "date": "2026-04-24T04:00:00.000Z",
+    "dateFormatted": "April 24, 2026",
+    "url": "/reviews/albums/hedvig-mollestad-weejuns-bitches-blues/",
+    "description": "Accompanied by organ and drums, the Norwegian guitarist finds introspective new shades of her virtuosic approach.",
+    "reviewer": "Joshua Minsoo Kim",
+    "image": "https://media.pitchfork.com/photos/69ea798c4f4abe1cc7c6455a/1:1/w_768,c_limit/Hedvig%20Mollestad%20Weejuns%20Bitches%20Blues.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "69e917a4556614c9bfc04bd2",
     "artist": "Starker",
     "title": "LIVING TYPE DANGEROUS Vol. 1",
