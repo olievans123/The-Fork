@@ -1,5 +1,23 @@
 [
   {
+    "id": "69eb95e0f4372762e0804af2",
+    "artist": "Foo Fighters",
+    "title": "Your Favorite Toy",
+    "score": 6.9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-04-25T04:00:00.000Z",
+    "dateFormatted": "April 25, 2026",
+    "url": "/reviews/albums/foo-fighters-your-favorite-toy/",
+    "description": "Dave Grohl faces the backlash with the leanest, meanest Foo Fighters album in 30 years.",
+    "reviewer": "Stuart Berman",
+    "image": "https://media.pitchfork.com/photos/69971f16edae7ae52c5af3bd/1:1/w_768,c_limit/Foo-Fighters-Your-Favorite-Toy.jpeg",
+    "releaseYear": 2026
+  },
+  {
     "id": "69ea66cd8ae8980785feed6e",
     "artist": "Quiet Light",
     "title": "Blue Angel Sparkling Silver 2",
