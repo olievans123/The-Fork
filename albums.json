@@ -1,5 +1,23 @@
 [
   {
+    "id": "69e9e8e434e6928cb570a442",
+    "artist": "Book of Love",
+    "title": "Book of Love",
+    "score": 8.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-04-26T04:00:00.000Z",
+    "dateFormatted": "April 26, 2026",
+    "url": "/reviews/albums/book-of-love-book-of-love/",
+    "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we look back at the beguiling debut album from a quartet of art-school students who brought a slyly subversive touch to club-friendly new wave.",
+    "reviewer": "Billie Bugara",
+    "image": "https://media.pitchfork.com/photos/69e9e843121b65234b52ce8e/1:1/w_768,c_limit/Book%20of%20Love%20-%20Book%20of%20Love.jpg",
+    "releaseYear": 1986
+  },
+  {
     "id": "69eb95e0f4372762e0804af2",
     "artist": "Foo Fighters",
     "title": "Your Favorite Toy",
