@@ -1,5 +1,78 @@
 [
   {
+    "id": "69eb999ded941dec146cd00e",
+    "artist": "Loukeman",
+    "title": "Sd-3",
+    "score": 7.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-04-27T04:03:00.000Z",
+    "dateFormatted": "April 27, 2026",
+    "url": "/reviews/albums/loukeman-sd-3/",
+    "description": "The Toronto producer’s new album is an edgeless patchwork of friends, local heroes, and recent-vintage samples. His ingenuity makes familiar sounds leap off the page.",
+    "reviewer": "Hattie Lindert",
+    "image": "https://media.pitchfork.com/photos/69eb98f1fc61c2e4cb5a113e/1:1/w_768,c_limit/Loukeman%20-%20SD-3%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69ea47dc0c49fb06ce685283",
+    "artist": "Sonic Youth",
+    "title": "Diamond Seas",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-04-27T04:02:00.000Z",
+    "dateFormatted": "April 27, 2026",
+    "url": "/reviews/albums/sonic-youth-diamond-seas/",
+    "description": "One of the band’s most remarkable and mutable songs gets the plunderphonic treatment on a vinyl-only release assembled from more than 30 live recordings from the mid-1990s.",
+    "reviewer": "Stephen M. Deusner",
+    "image": "https://media.pitchfork.com/photos/69ea472fa290fe47d0f28078/1:1/w_768,c_limit/Sonic%20Youth-Diamond%20Seas.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69ea2e977fb689121ec0e2b5",
+    "artist": "Tezzus / diamond*",
+    "title": "UY SCUTI BØYZ",
+    "score": 6.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap",
+      "Rap"
+    ],
+    "date": "2026-04-27T04:01:00.000Z",
+    "dateFormatted": "April 27, 2026",
+    "url": "/reviews/albums/tezzus-diamond-uy-scuti-boyz/",
+    "description": "The Atlanta rappers have undeniable chemistry but their guest-heavy collaborative mixtape only tells part of the story.",
+    "reviewer": "Oba Awolowo",
+    "image": "https://media.pitchfork.com/photos/69ea2ce30c49fb06ce6851d5/1:1/w_768,c_limit/Tezzus%20:%20diamond*%20UY%20SCUTTI%20B%C3%98YZ.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69eb97e2ca20c4a5907e556b",
+    "artist": "Xang",
+    "title": "GroakDontCroak vol. 1",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-04-27T04:00:00.000Z",
+    "dateFormatted": "April 27, 2026",
+    "url": "/reviews/albums/xang-groakdontcroak-vol-1/",
+    "description": "The Maryland rapper continues to carve out a niche for himself in hushed ambient rap over a choice selection of psychedelic, nocturnal beats.",
+    "reviewer": "Olivier Lafontant",
+    "image": "https://media.pitchfork.com/photos/69eb975e37b0ecf6d8c17561/1:1/w_768,c_limit/Xang%20-%20GroakDontCroak%20vol%201%20albumm%20art.png",
+    "releaseYear": 2026
+  },
+  {
     "id": "69e9e8e434e6928cb570a442",
     "artist": "Book of Love",
     "title": "Book of Love",
