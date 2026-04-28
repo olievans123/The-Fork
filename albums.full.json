@@ -1,5 +1,75 @@
 [
   {
+    "id": "69ef97973211c8c331df9eb4",
+    "artist": "Kehlani",
+    "title": "Kehlani",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-04-28T04:03:00.000Z",
+    "dateFormatted": "April 28, 2026",
+    "url": "/reviews/albums/kehlani-kehlani/",
+    "description": "With iconic celebrity guests and “Folded” on the tracklist, Kehlani’s self-titled new album makes a confident return to the buoyant, bassy R&amp;B of <em>SweetSexySavage.</em>",
+    "reviewer": "Alfred Soto",
+    "image": "https://media.pitchfork.com/photos/69b98bc1480dc935c83699e9/1:1/w_768,c_limit/PNG_01A_Cover_0420Standard.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69efabfd315da1bf60936ad6",
+    "artist": "Mikaela Davis",
+    "title": "Graceland Way",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Folk/Country"
+    ],
+    "date": "2026-04-28T04:02:00.000Z",
+    "dateFormatted": "April 28, 2026",
+    "url": "/reviews/albums/mikaela-davis-graceland-way/",
+    "description": "The singer-songwriter and harpist cruises around Los Angeles on her light, loose, and rootsy new album.",
+    "reviewer": "Emma Madden",
+    "image": "https://media.pitchfork.com/photos/69e8f25fcb99711ba84a8029/1:1/w_768,c_limit/600x600bb%20(69).jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69ef786bf4fcf0bb0897bd5f",
+    "artist": "Annea Lockwood",
+    "title": "World Rhythms",
+    "score": 7.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-04-28T04:01:00.000Z",
+    "dateFormatted": "April 28, 2026",
+    "url": "/reviews/albums/annea-lockwood-world-rhythms/",
+    "description": "Recorded on five reel-to-reel decks, the composer’s 1975 piece blends everyday and exotic sounds&#8212;human breath, cheeping frogs, bubbling geysers&#8212;into a passionate defense of the raptures of listening.",
+    "reviewer": "Joshua Minsoo Kim",
+    "image": "https://media.pitchfork.com/photos/69ef77d79063b3d1a5b182b9/1:1/w_768,c_limit/Annea%20Lockwood%20-%20World%20Rhythms.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69efb325c684a74569c7a2d2",
+    "artist": "Jump Source",
+    "title": "Fold",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [],
+    "date": "2026-04-28T04:00:00.000Z",
+    "dateFormatted": "April 28, 2026",
+    "url": "/reviews/albums/jump-source-fold/",
+    "description": "The dancefloor duo of Francis Latreille and Patrick Holland blends underground style and big-room sensibilities with a sweaty, sophisticated full-length showcase.",
+    "reviewer": "Reid BG",
+    "image": "https://media.pitchfork.com/photos/69efb28d9193699b18120268/1:1/w_768,c_limit/Jump%20Source-Fold.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "69eb999ded941dec146cd00e",
     "artist": "Loukeman",
     "title": "Sd-3",
