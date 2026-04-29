@@ -1,5 +1,77 @@
 [
   {
+    "id": "69f107d046fc14345d0b72cd",
+    "artist": "Noah Kahan",
+    "title": "The Great Divide",
+    "score": 6.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-04-29T04:03:00.000Z",
+    "dateFormatted": "April 29, 2026",
+    "url": "/reviews/albums/noah-kahan-the-great-divide/",
+    "description": "On the follow-up to his 2022 breakthrough, the very popular New England songwriter stretches beyond his comfort zone with the hopes of growing more self-aware, more complex, and more deserving of the spotlight.",
+    "reviewer": "Hannah Jocelyn",
+    "image": "https://media.pitchfork.com/photos/69f10711e942b25277d6bd6e/1:1/w_768,c_limit/Noah%20Kahan%20The%20Great%20Divide.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69f0cef54f889d41b723d3d0",
+    "artist": "Angelo De Augustine",
+    "title": "Angel in Plainclothes",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-04-29T04:02:00.000Z",
+    "dateFormatted": "April 29, 2026",
+    "url": "/reviews/albums/angelo-de-augustine-angel-in-plainclothes/",
+    "description": "Beneath its placid surface, the songwriter’s delicate, minimalist folk conveys a gossamer strength and dogged persistence.",
+    "reviewer": "Brian Howe",
+    "image": "https://media.pitchfork.com/photos/69f0ce35fe5c257a1227e960/1:1/w_768,c_limit/Angelo%20de%20Augustine%20-%20Angel%20in%20Plainclothes%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69f0d83cd0221f61f9f9339b",
+    "artist": " Gia Margaret",
+    "title": "Singing",
+    "score": 6.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-04-29T04:01:00.000Z",
+    "dateFormatted": "April 29, 2026",
+    "url": "/reviews/albums/gia-margaret-singing/",
+    "description": "The Chicago composer has achieved viral success with her melancholy instrumental music, but her return to traditional singer-songwriter fare yields mixed results.",
+    "reviewer": "Linnie Greene",
+    "image": "https://media.pitchfork.com/photos/69835f0a16daed7047e6425a/1:1/w_768,c_limit/Gia%20Margaret%20-%20Singing%20Album%20Cover.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69f0d6e070fe9bb6a13e5f0a",
+    "artist": "White Fence",
+    "title": "Orange",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-04-29T04:00:00.000Z",
+    "dateFormatted": "April 29, 2026",
+    "url": "/reviews/albums/white-fence-orange/",
+    "description": "On his tightest, most cohesive album, the psych-rocker ditches tape-manipulated obfuscation for a sparkling set of jangle-pop songs that detail the road to recovery.",
+    "reviewer": "Stuart Berman",
+    "image": "https://media.pitchfork.com/photos/698b861d0cc91c82528c13d7/1:1/w_768,c_limit/White-Fence-Orange.jpeg",
+    "releaseYear": 2026
+  },
+  {
     "id": "69ef97973211c8c331df9eb4",
     "artist": "Kehlani",
     "title": "Kehlani",
@@ -66,7 +138,7 @@
     "url": "/reviews/albums/jump-source-fold/",
     "description": "The dancefloor duo of Francis Latreille and Patrick Holland blends underground style and big-room sensibilities with a sweaty, sophisticated full-length showcase.",
     "reviewer": "Reid BG",
-    "image": "https://media.pitchfork.com/photos/69efb28d9193699b18120268/1:1/w_768,c_limit/Jump%20Source-Fold.jpg",
+    "image": "https://media.pitchfork.com/photos/69f0a6263a155d3098ff09e7/1:1/w_768,c_limit/NAFF032%20-%20UPDATED%20COVER.png",
     "releaseYear": 2026
   },
   {
