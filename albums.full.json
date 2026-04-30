@@ -1,5 +1,78 @@
 [
   {
+    "id": "69f0da64b8cafd3941fe48f1",
+    "artist": "Tori Amos",
+    "title": "In Times of Dragons",
+    "score": 6.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-04-30T04:03:00.000Z",
+    "dateFormatted": "April 30, 2026",
+    "url": "/reviews/albums/tori-amos-in-times-of-dragons/",
+    "description": "The veteran songwriter’s new album colorfully dramatizes the reptilian autocrats of American society, but suffers from the literalism that affects much politically reactive art today.",
+    "reviewer": "Emma Madden",
+    "image": "https://media.pitchfork.com/photos/696fde57beeeeef969bd8ac1/1:1/w_768,c_limit/Tori%20Amos%20In%20Times%20of%20Dragons.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69f230a8225af4bafef2c2f0",
+    "artist": "Kneecap",
+    "title": "FENIAN",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-04-30T04:02:00.000Z",
+    "dateFormatted": "April 30, 2026",
+    "url": "/reviews/albums/kneecap-fenian/",
+    "description": "The Irish rap trio capitalizes on its notoriety with a savage second album that offers more sophisticated songcraft, a wider range of beats, and a sharpened political bent.",
+    "reviewer": "Dean Van Nguyen",
+    "image": "https://media.pitchfork.com/photos/69bdc00a54c6118de2ccf9a4/1:1/w_768,c_limit/K-Fenian-3000x3000.jpeg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69f2129c4f889d41b723d483",
+    "artist": "Yu Su",
+    "title": "Foundry",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-04-30T04:01:00.000Z",
+    "dateFormatted": "April 30, 2026",
+    "url": "/reviews/albums/yu-su-foundry/",
+    "description": "The Chinese-born, London-based musician’s leftfield dance music has turned tougher in recent years, but her latest album lurks beguilingly in the overlap between dub techno and ambient.",
+    "reviewer": "Andrew Ryce",
+    "image": "https://media.pitchfork.com/photos/69f20fd03d9ba5c5ef5aafbe/1:1/w_768,c_limit/Yu%20Su%20-%20Foundry.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69f21e9ad0221f61f9f93724",
+    "artist": "kuru",
+    "title": "Backstage hologram",
+    "score": 7.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap",
+      "Electronic"
+    ],
+    "date": "2026-04-30T04:00:00.000Z",
+    "dateFormatted": "April 30, 2026",
+    "url": "/reviews/albums/kuru-backstage-hologram/",
+    "description": "The TooManyStrikers-affiliated rapper-producer sharpens their sound on their latest album, with punchier low end and brattier energy that occasionally resembles the moshpit-ready rage rap.",
+    "reviewer": "Jude Noel",
+    "image": "https://media.pitchfork.com/photos/69f21d62225af4bafef2c194/1:1/w_768,c_limit/kuru%20-%20Backstage%20Hologram.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "69f107d046fc14345d0b72cd",
     "artist": "Noah Kahan",
     "title": "The Great Divide",
