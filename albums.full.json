@@ -1,5 +1,76 @@
 [
   {
+    "id": "69f39b45c42ad8343e9b3a5c",
+    "artist": "Kacey Musgraves",
+    "title": "Middle of Nowhere",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Folk/Country"
+    ],
+    "date": "2026-05-01T04:03:00.000Z",
+    "dateFormatted": "May 1, 2026",
+    "url": "/reviews/albums/kacey-musgraves-middle-of-nowhere/",
+    "description": "After a decade of twists, turns, and experiments, the country star goes back to her roots on an expertly written, guest-heavy new album.",
+    "reviewer": "Molly Mary O’Brien",
+    "image": "https://media.pitchfork.com/photos/69b1d37cc7ee4d1218007135/1:1/w_768,c_limit/Middle%20of%20Nowhere%20by%20Kacey%20Musgraves%20album%20cover.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69f107e770fe9bb6a13e5f1e",
+    "artist": "Knats",
+    "title": "A Great Day in Newcastle",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Jazz"
+    ],
+    "date": "2026-05-01T04:02:00.000Z",
+    "dateFormatted": "May 1, 2026",
+    "url": "/reviews/albums/knats-a-great-day-in-newcastle/",
+    "description": "The UK trio’s second album marries jazz-kid experimentalism with taut punk, sprawling worldbuilding, and social commentary, featuring production from Geordie Greep.",
+    "reviewer": "Archie Forde",
+    "image": "https://media.pitchfork.com/photos/69f1075c35a08151240bf677/1:1/w_768,c_limit/Knats%20-%20A%20Great%20Day%20in%20Newcastle%20album%20art.jpg"
+  },
+  {
+    "id": "69f37c6fb9b9085288c6f859",
+    "artist": "youbet",
+    "title": "youbet",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-05-01T04:01:00.000Z",
+    "dateFormatted": "May 1, 2026",
+    "url": "/reviews/albums/youbet-youbet/",
+    "description": "Now working as a duo, the erstwhile bedroom-pop project embraces its gnarliest impulses on its third album, finding unexpected hope amid clouds of distortion and anxious lyrics.",
+    "reviewer": "Colin Joyce",
+    "image": "https://media.pitchfork.com/photos/69f37bd50d468d9b8a9bd53a/1:1/w_768,c_limit/Youbet-Youbet.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69f32b5ade9ebf13b7bd6632",
+    "artist": "Gobby",
+    "title": "i guess bro",
+    "score": 7.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-05-01T04:00:00.000Z",
+    "dateFormatted": "May 1, 2026",
+    "url": "/reviews/albums/gobby-i-guess-bro/",
+    "description": "The experimental New York beatmaker’s latest album cobbles together deadpan jokes, shroomed-out miniatures, and hard-edged drum maximalism, holding a cracked mirror to a world of information overload.",
+    "reviewer": "Daniel Bromfield",
+    "image": "https://media.pitchfork.com/photos/69f326b4be5ceb5febe4afa2/1:1/w_768,c_limit/gobby%20-%20I%20Guess%20Bro.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "69f0da64b8cafd3941fe48f1",
     "artist": "Tori Amos",
     "title": "In Times of Dragons",
