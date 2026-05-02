@@ -1,5 +1,23 @@
 [
   {
+    "id": "69f508c493953a7c3f093066",
+    "artist": "Lip Critic",
+    "title": "Theft World",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-05-02T04:00:00.000Z",
+    "dateFormatted": "May 2, 2026",
+    "url": "/reviews/albums/lip-critic-theft-world/",
+    "description": "The New York electro-punks’ second album is based on a wild concept that builds out a knotty, eccentric, and surprisingly sentimental world.",
+    "reviewer": "Alastair Shuttleworth",
+    "image": "https://media.pitchfork.com/photos/69f50831fe5c257a1227ef80/1:1/w_768,c_limit/lip%20critic%20theft%20world.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "69f39b45c42ad8343e9b3a5c",
     "artist": "Kacey Musgraves",
     "title": "Middle of Nowhere",
