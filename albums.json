@@ -1,5 +1,21 @@
 [
   {
+    "id": "69f50b0dded9227cb9045cca",
+    "artist": "Fanny",
+    "title": "Fanny Hill",
+    "score": 8.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [],
+    "date": "2026-05-03T04:00:00.000Z",
+    "dateFormatted": "May 3, 2026",
+    "url": "/reviews/albums/fanny-fanny-hill/",
+    "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we look back at the 1972 album from Fanny, a real rock spectacle laced with tenderness, sisterhood, and impeccable riffs that just never got its due.",
+    "reviewer": "Marissa Lorusso",
+    "image": "https://media.pitchfork.com/photos/69f50a4d4f84d5db27d1e8da/1:1/w_768,c_limit/Fanny%20Fanny%20Hill%20.jpg",
+    "releaseYear": 1972
+  },
+  {
     "id": "69f508c493953a7c3f093066",
     "artist": "Lip Critic",
     "title": "Theft World",
