@@ -1,5 +1,78 @@
 [
   {
+    "id": "69f50ce893953a7c3f093070",
+    "artist": "American Football",
+    "title": "American Football (LP4)",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-05-04T04:03:00.000Z",
+    "dateFormatted": "May 4, 2026",
+    "url": "/reviews/albums/american-football-american-football-lp4/",
+    "description": "The veteran emo band’s first album in seven years operates with its own sense of logic and time. It’s a fraught and dizzying triumph.",
+    "reviewer": "Sam Sodomsky",
+    "image": "https://media.pitchfork.com/photos/699602734332cd1e9d52fb64/1:1/w_768,c_limit/american-football-lp4.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69f4ce9b2b636932aa83a638",
+    "artist": "Maya Hawke",
+    "title": "MAITREYA CORSO",
+    "score": 7.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Folk/Country"
+    ],
+    "date": "2026-05-04T04:02:00.000Z",
+    "dateFormatted": "May 4, 2026",
+    "url": "/reviews/albums/maya-hawke-maitreya-corso/",
+    "description": "On her fourth album, the New York singer-songwriter frames big questions about ambition, identity, and self-doubt in deceptively understated folk-pop hybrids.",
+    "reviewer": "Caitlin Wolper Phillips",
+    "image": "https://media.pitchfork.com/photos/69f4c8b1dee7caddda9b8dc5/1:1/w_768,c_limit/Maya%20Hawke%20-%20Maitreya%20Corso.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69f50f01e99ecf0d2940f170",
+    "artist": "Setting",
+    "title": "Setting",
+    "score": 7.9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic",
+      "Experimental"
+    ],
+    "date": "2026-05-04T04:01:00.000Z",
+    "dateFormatted": "May 4, 2026",
+    "url": "/reviews/albums/setting-setting/",
+    "description": "The North Carolina trio’s second studio album combines krautrock grooves and ambient jazz to sculpt sweeping organic improv for the open air.",
+    "reviewer": "Jesse Jarnow",
+    "image": "https://media.pitchfork.com/photos/69f50e9a40d6527f37daf8b2/1:1/w_768,c_limit/setting%20setting.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69f4e2ff2b636932aa83a63c",
+    "artist": "Metric",
+    "title": "Romanticize the Dive",
+    "score": 6.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-05-04T04:00:00.000Z",
+    "dateFormatted": "May 4, 2026",
+    "url": "/reviews/albums/metric-romanticize-the-dive/",
+    "description": "On its tenth album, the Canadian quartet doubles down on its signature millennial synth-rock sound with glossy tones and memorable melodies that spark nostalgia for the band’s heyday.",
+    "reviewer": "Ethan Beck",
+    "image": "https://media.pitchfork.com/photos/69f4e2959f72f8645d548273/1:1/w_768,c_limit/Metric-Romanticize%20The%20Dive.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "69f50b0dded9227cb9045cca",
     "artist": "Fanny",
     "title": "Fanny Hill",
