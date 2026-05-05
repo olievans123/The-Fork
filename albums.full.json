@@ -1,5 +1,77 @@
 [
   {
+    "id": "69f8abed85aca10764377bb4",
+    "artist": "Ana Roxanne",
+    "title": "Poem 1",
+    "score": 8.6,
+    "bnm": true,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-05-05T04:03:00.000Z",
+    "dateFormatted": "May 5, 2026",
+    "url": "/reviews/albums/ana-roxanne-poem-1/",
+    "description": "The ambient musician’s new album is a tremendous leap in scale, a quiet conjuring of vast, prayerlike yearning.",
+    "reviewer": "Jayson Greene",
+    "image": "https://media.pitchfork.com/photos/699483a0916d569fd95d34db/1:1/w_768,c_limit/Ana-Roxanne-Poem-1.jpeg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69f8ebdb93953a7c3f093310",
+    "artist": "Octo Octa",
+    "title": "Sigils for Survival",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-05-05T04:02:00.000Z",
+    "dateFormatted": "May 5, 2026",
+    "url": "/reviews/albums/octo-octa-sigils-for-survival/",
+    "description": "Hewing to house-music tradition while deepening a signature style, the DJ priestess refines her acid grooves for maximum catharsis.",
+    "reviewer": "Delilah Friedler",
+    "image": "https://media.pitchfork.com/photos/69f8ea0fde546361502ce78e/1:1/w_768,c_limit/Octo%20Octa%20-%20Sigils%20for%20Survival.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69f8d5a04eaaa66f088c92e0",
+    "artist": "Julia Cumming",
+    "title": "Julia",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-05-05T04:01:00.000Z",
+    "dateFormatted": "May 5, 2026",
+    "url": "/reviews/albums/julia-cumming-julia/",
+    "description": "On her debut solo album, the Sunflower Bean frontwoman channels ’60s Brill Building pop and ’70s Laurel Canyon songwriters on tracks that tackle personal and creative anxieties.",
+    "reviewer": "Hannah Jocelyn",
+    "image": "https://media.pitchfork.com/photos/69f8d4eda2f2e7b30b9e9ef6/1:1/w_768,c_limit/Julia%20Cumming-Julia.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69f8b3754eaaa66f088c92d8",
+    "artist": " Jai’Len Josey",
+    "title": "Serial Romantic",
+    "score": 6.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-05-05T04:00:00.000Z",
+    "dateFormatted": "May 5, 2026",
+    "url": "/reviews/albums/jailen-josey-serial-romantic/",
+    "description": "The Atlanta singer’s debut is a well-polished R&amp;B fantasy that highlights her exceptional voice.",
+    "reviewer": "Alphonse Pierre",
+    "image": "https://media.pitchfork.com/photos/69f8b27c93953a7c3f093208/1:1/w_768,c_limit/serial%20romantic.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "69f50ce893953a7c3f093070",
     "artist": "American Football",
     "title": "American Football (LP4)",
@@ -79,7 +151,9 @@
     "score": 8.5,
     "bnm": false,
     "bnr": false,
-    "genres": [],
+    "genres": [
+      "Rock"
+    ],
     "date": "2026-05-03T04:00:00.000Z",
     "dateFormatted": "May 3, 2026",
     "url": "/reviews/albums/fanny-fanny-hill/",
