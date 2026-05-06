@@ -1,5 +1,80 @@
 [
   {
+    "id": "69fa008085aca10764377d6d",
+    "artist": "Hekt",
+    "title": "Forever",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic",
+      "Pop/R&B"
+    ],
+    "date": "2026-05-06T04:03:00.000Z",
+    "dateFormatted": "May 6, 2026",
+    "url": "/reviews/albums/hekt-forever/",
+    "description": "Channeling the sugar-rush sonics of 2010s producers like SOPHIE and Hudson Mohawke, the Danish producer’s bright, booming pop-techno playfully conveys a spirit of endless optimism.",
+    "reviewer": "Shaad D’Souza",
+    "image": "https://media.pitchfork.com/photos/69efd235c9c6e5f481690788/1:1/w_768,c_limit/a1253294277_10.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69fa53fff352a8d8a40c2ac3",
+    "artist": "Isaiah Rashad",
+    "title": "IT’S BEEN AWFUL",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-05-06T04:02:00.000Z",
+    "dateFormatted": "May 6, 2026",
+    "url": "/reviews/albums/isaiah-rashad-its-been-awful/",
+    "description": "The iconoclastic TDE rapper’s compelling new album is contemplative and vulnerable, proving he’s at his best when he’s working through a mess of slithering contradictions.",
+    "reviewer": "Brady Brickner-Wood",
+    "image": "https://media.pitchfork.com/photos/69fa5cf83a71f44e17d92f0e/1:1/w_768,c_limit/rashad%20it's%20been%20awful.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69f9fd033a71f44e17d92d8f",
+    "artist": "Seefeel",
+    "title": "Sol.Hz",
+    "score": 8.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic",
+      "Rock"
+    ],
+    "date": "2026-05-06T04:01:00.000Z",
+    "dateFormatted": "May 6, 2026",
+    "url": "/reviews/albums/seefeel-sol-hz/",
+    "description": "The ambient-dub duo returns with a warm and mournful new record that seems to spend most of its runtime fading in and out.",
+    "reviewer": "Philip Sherburne",
+    "image": "https://media.pitchfork.com/photos/69f9fc44de546361502ce89a/1:1/w_768,c_limit/Seefeel%20Sol.Hz.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69fa191ad7b8d612f3b9009a",
+    "artist": "WiFiGawd / Dylvinci",
+    "title": "SOULVINCI",
+    "score": 6.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap",
+      "Rap"
+    ],
+    "date": "2026-05-06T04:00:00.000Z",
+    "dateFormatted": "May 6, 2026",
+    "url": "/reviews/albums/wifigawd-dylvinci-soulvinci/",
+    "description": "The latest in the prolific D.C. rapper’s series of one-producer collaborations strikes a balance between lush plugg production and effortless, stream-of-consciousness rapping.",
+    "reviewer": "Matthew Ritchie",
+    "image": "https://media.pitchfork.com/photos/69fa188508af18414b402b60/1:1/w_768,c_limit/WiFiGawd,%20Dylvinci-%20SOULVINCI.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "69f8abed85aca10764377bb4",
     "artist": "Ana Roxanne",
     "title": "Poem 1",
