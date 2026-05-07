@@ -1,5 +1,77 @@
 [
   {
+    "id": "69fb5dd56e7bfd620ccf81b9",
+    "artist": "Zara Larsson",
+    "title": "Midnight Sun: Girls Trip",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-05-07T04:03:00.000Z",
+    "dateFormatted": "May 7, 2026",
+    "url": "/reviews/albums/zara-larsson-midnight-sun-girls-trip/",
+    "description": "The all-new, all-girls remix album from Swedish pop’s Gen Z ambassador is ready to outmog the original.",
+    "reviewer": "Anna Gaca",
+    "image": "https://media.pitchfork.com/photos/69fb5c662dfa5b0701fe81f6/1:1/w_768,c_limit/Zara%20Larsson-Midnight%20Sun(Girls%20Trip).jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69fb9093994ddb9933555aad",
+    "artist": "The Black Keys",
+    "title": "Peaches!",
+    "score": 6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-05-07T04:02:00.000Z",
+    "dateFormatted": "May 7, 2026",
+    "url": "/reviews/albums/the-black-keys-peaches/",
+    "description": "After a quarter-century as a band, the blues-rock duo offers its second set of covers in just five years. It is weirdly free of feeling.",
+    "reviewer": "Grayson Haver Currin",
+    "image": "https://media.pitchfork.com/photos/6984b4d7eb6d439752527049/1:1/w_768,c_limit/unnamed%20(23).jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69fb91b83a71f44e17d938e0",
+    "artist": "Cola",
+    "title": "Cost of Living Adjustment",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-05-07T04:01:00.000Z",
+    "dateFormatted": "May 7, 2026",
+    "url": "/reviews/albums/cola-cost-of-living-adjustment/",
+    "description": "The third album from the Montreal trio breaks free with restless energy and earnest, worldweary songwriting.",
+    "reviewer": "David Glickman",
+    "image": "https://media.pitchfork.com/photos/69fb9141544dffc2304e3b95/1:1/w_768,c_limit/Cola%20Cost%20of%20Living%20Adjustment.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69fb937fd7b8d612f3b90b47",
+    "artist": "Asake",
+    "title": "M$NEY",
+    "score": 5.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-05-07T04:00:00.000Z",
+    "dateFormatted": "May 7, 2026",
+    "url": "/reviews/albums/asake-money/",
+    "description": "The Nigerian pop star returns with a breezy new album whose clubby production and vague, religious framework make for a disappointingly one-dimensional listen.",
+    "reviewer": "Boutayna Chokrane",
+    "image": "https://media.pitchfork.com/photos/69fb92607b4ee32887d88bc1/1:1/w_768,c_limit/Asake%20M$NEY.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "69fa008085aca10764377d6d",
     "artist": "Hekt",
     "title": "Forever",
