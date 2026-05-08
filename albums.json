@@ -1,5 +1,77 @@
 [
   {
+    "id": "69fcd1748b306cde535e2fdc",
+    "artist": "Aldous Harding",
+    "title": "Train on the Island",
+    "score": 9,
+    "bnm": true,
+    "bnr": false,
+    "genres": [
+      "Folk/Country"
+    ],
+    "date": "2026-05-08T04:03:00.000Z",
+    "dateFormatted": "May 8, 2026",
+    "url": "/reviews/albums/aldous-harding-train-on-the-island/",
+    "description": "On her spellbinding fifth album, Aldous Harding steps closer than ever to the camera lens without coming into focus. It’s an oblique character study of herself, and the best album of her career so far.",
+    "reviewer": "Jayson Greene",
+    "image": "https://media.pitchfork.com/photos/69a74be0d195be68418183f5/1:1/w_768,c_limit/aldous%20harding%20train%20on%20the%20island.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69fcc83708af18414b403350",
+    "artist": "Safety Trance",
+    "title": "sacrificio",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-05-08T04:02:00.000Z",
+    "dateFormatted": "May 8, 2026",
+    "url": "/reviews/albums/safety-trance-sacrificio/",
+    "description": "With witchy atmosphere and guest features by Six Sex, Arca, and Eartheater, the Venezuelan producer’s high-energy experimental club music seeks to defy reggaeton convention.",
+    "reviewer": "Marcos Sanoja",
+    "image": "https://media.pitchfork.com/photos/69fcc7e708af18414b40334b/1:1/w_768,c_limit/Safety%20Trance%20-%20sacrificio.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69fce204994ddb993355608b",
+    "artist": "Namasenda",
+    "title": "Limbo",
+    "score": 7.9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-05-08T04:01:00.000Z",
+    "dateFormatted": "May 8, 2026",
+    "url": "/reviews/albums/namasenda-limbo/",
+    "description": "The Swedish electropop artist’s blissed-out debut confronts body issues with body music, arranging hooks like fridge magnet poetry.",
+    "reviewer": "Walden Green",
+    "image": "https://media.pitchfork.com/photos/69fce171cc8f66ca3e8bd749/1:1/w_768,c_limit/Namasenda%20-%20Limbo%20album%20art.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69fcb9294435e8a55744ba7d",
+    "artist": "media puzzle",
+    "title": "New Racehorse",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-05-08T04:00:00.000Z",
+    "dateFormatted": "May 8, 2026",
+    "url": "/reviews/albums/media-puzzle-new-racehorse/",
+    "description": "Led by the magnetic Tom Peter, the prolific lo-fi post-punk band out of Australia adds a human drummer and turns in a 23-minute burst of nonstop fun and creativity.",
+    "reviewer": "Nina Corcoran",
+    "image": "https://media.pitchfork.com/photos/69fcb6e0054c0ab3cce1faec/1:1/w_768,c_limit/media%20puzzle%20new%20racehorse.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "69fb5dd56e7bfd620ccf81b9",
     "artist": "Zara Larsson",
     "title": "Midnight Sun: Girls Trip",
