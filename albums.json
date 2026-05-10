@@ -1,5 +1,23 @@
 [
   {
+    "id": "69fe41de2e596da39e35d191",
+    "artist": "Carlos Santana",
+    "title": "Caravanserai",
+    "score": 8.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-05-10T04:00:00.000Z",
+    "dateFormatted": "May 10, 2026",
+    "url": "/reviews/albums/santana-caravanserai/",
+    "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we look back at Santana’s transitional fourth album, a transcendental convergence of rock, psych, and Afro-Cuban styles that absolutely rips.",
+    "reviewer": "Mark Richardson",
+    "image": "https://media.pitchfork.com/photos/69fe41864435e8a55744bd0c/1:1/w_768,c_limit/Santana%20-%20Caravanserai%20album%20art.jpg",
+    "releaseYear": 1972
+  },
+  {
     "id": "69fe0bb84afff46b45d07ad0",
     "artist": "Mahito Yokota / Koji Kondo",
     "title": "Super Mario Galaxy / Super Mario Galaxy 2",
