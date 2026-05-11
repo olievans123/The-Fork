@@ -1,5 +1,78 @@
 [
   {
+    "id": "69fde5cbba47e5f0bee1dd95",
+    "artist": "Olof Dreijer",
+    "title": "Loud Bloom",
+    "score": 7.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-05-11T04:03:00.000Z",
+    "dateFormatted": "May 11, 2026",
+    "url": "/reviews/albums/olof-dreijer-loud-bloom/",
+    "description": "In both the Knife and solo, the Swedish producer has honed a uniquely playful style. On his long-awaited debut LP, he turns it toward a radically global vision of pop and dance music.",
+    "reviewer": "Will Lynch",
+    "image": "https://media.pitchfork.com/photos/69b16ea6696a2b9886bca1d9/1:1/w_768,c_limit/Olof-Dreijer-Loud-Bloom.jpeg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69fe329fd7b8d612f3b9106e",
+    "artist": "MUNA",
+    "title": "Dancing on the Wall",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-05-11T04:02:00.000Z",
+    "dateFormatted": "May 11, 2026",
+    "url": "/reviews/albums/muna-dancing-on-the-wall/",
+    "description": "The self-professed “queer joy mini-skirt rollerblade” band embraces a darker palette and angstier themes on its fourth album, though pleasure, community, and sex remain lodestars.",
+    "reviewer": "Marissa Lorusso",
+    "image": "https://media.pitchfork.com/photos/69fe31f78547d272ffefb5dd/1:1/w_768,c_limit/MUNA%20-%20Dancing%20on%20the%20Wall.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69fcca504b85005187278918",
+    "artist": "JWords",
+    "title": "Sound Therapy",
+    "score": 5.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap",
+      "Electronic"
+    ],
+    "date": "2026-05-11T04:01:00.000Z",
+    "dateFormatted": "May 11, 2026",
+    "url": "/reviews/albums/jwords-sound-therapy/",
+    "description": "The Brooklyn producer’s dance music has always felt unusually introspective; now she adds her own vocals, attempting to coax her fusion of footwork, techno, Jersey club out of the shadows.",
+    "reviewer": "Stephen Kearse",
+    "image": "https://media.pitchfork.com/photos/69fcc3904afff46b45d07691/1:1/w_768,c_limit/JWords%20-%20Sound%20Therapy.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "69fe3efb3d419b0928626484",
+    "artist": "أحمد [Ahmed]",
+    "title": "Play Monk",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Jazz"
+    ],
+    "date": "2026-05-11T04:00:00.000Z",
+    "dateFormatted": "May 11, 2026",
+    "url": "/reviews/albums/ahmed-play-monk/",
+    "description": "The jazz quartet interprets the work of Thelonious Monk, expanding classic compositions into absorbing experimental journeys that stretch beyond free jazz.",
+    "reviewer": "Levi Dayan",
+    "image": "https://media.pitchfork.com/photos/69fe3e66736ab97bb77bfef2/1:1/w_768,c_limit/Ahmed%20-%20Play%20Monk%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "69fe41de2e596da39e35d191",
     "artist": "Carlos Santana",
     "title": "Caravanserai",
