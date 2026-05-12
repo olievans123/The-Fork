@@ -1,5 +1,80 @@
 [
   {
+    "id": "6a022c42ec16a28935805b51",
+    "artist": "Chris Brown",
+    "title": "BROWN",
+    "score": 1.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-05-12T04:03:00.000Z",
+    "dateFormatted": "May 12, 2026",
+    "url": "/reviews/albums/chris-brown-brown/",
+    "description": "Chris Brown’s soulless, hit-chasing new album doesn’t justify his return to the public eye.",
+    "reviewer": "Alphonse Pierre",
+    "image": "https://media.pitchfork.com/photos/6a022c0aec16a28935805b4c/1:1/w_768,c_limit/Chris%20Brown%20-%20BROWN%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a022c2e7840d695b42e829f",
+    "artist": "Thaiboy Digital / swedm®",
+    "title": "Paradise",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap",
+      "Electronic"
+    ],
+    "date": "2026-05-12T04:02:00.000Z",
+    "dateFormatted": "May 12, 2026",
+    "url": "/reviews/albums/thaiboy-digital-swedm-paradise/",
+    "description": "The Drain Gang rapper teams with the Swedish production collective for an album whose dreamlike visions of 2010s EDM are tinged with nostalgia and aching melancholy.",
+    "reviewer": "Nathan Evans",
+    "image": "https://media.pitchfork.com/photos/6a022ab611d4b5e1620c60be/1:1/w_768,c_limit/Thaiboy%20Digital%20swedm%20Paradise.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a01ec354d80404354cf1505",
+    "artist": "SUSS",
+    "title": "Counting Sunsets",
+    "score": 7.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-05-12T04:01:00.000Z",
+    "dateFormatted": "May 12, 2026",
+    "url": "/reviews/albums/suss-counting-sunsets/",
+    "description": "The ambient-country group’s latest album takes an artfully atmospheric look at the American West, drawing evocative shapes with pedal steel and synth.",
+    "reviewer": "Brian Howe",
+    "image": "https://media.pitchfork.com/photos/6a01eb96806bf81f0fdda246/1:1/w_768,c_limit/SUSS%20-%20Counting%20Sunsets.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a021402bb42aeb07fd75a87",
+    "artist": "Croz Boyce / Avey Tare / Geologist",
+    "title": "Croz Boyce",
+    "score": 7.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental",
+      "Experimental",
+      "Rock"
+    ],
+    "date": "2026-05-12T04:00:00.000Z",
+    "dateFormatted": "May 12, 2026",
+    "url": "/reviews/albums/croz-boyce-croz-boyce/",
+    "description": "The two Animal Collective members team up for a sunny, unhurried record that foregrounds pastoral acoustic guitar and glitchy synths.",
+    "reviewer": "Ethan Beck",
+    "image": "https://media.pitchfork.com/photos/6a02100f6120cc5d770affe1/1:1/w_768,c_limit/Croz%20Boyce-Croz%20Boyce.png",
+    "releaseYear": 2026
+  },
+  {
     "id": "69fde5cbba47e5f0bee1dd95",
     "artist": "Olof Dreijer",
     "title": "Loud Bloom",
@@ -74,14 +149,12 @@
   },
   {
     "id": "69fe41de2e596da39e35d191",
-    "artist": "Carlos Santana",
+    "artist": "Santana",
     "title": "Caravanserai",
     "score": 8.8,
     "bnm": false,
     "bnr": false,
-    "genres": [
-      "Rock"
-    ],
+    "genres": [],
     "date": "2026-05-10T04:00:00.000Z",
     "dateFormatted": "May 10, 2026",
     "url": "/reviews/albums/santana-caravanserai/",
