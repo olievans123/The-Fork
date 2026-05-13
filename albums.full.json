@@ -1,5 +1,78 @@
 [
   {
+    "id": "6a0350adffc0e1421eb5e526",
+    "artist": "Broken Social Scene",
+    "title": "Remember the Humans",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-05-13T04:03:00.000Z",
+    "dateFormatted": "May 13, 2026",
+    "url": "/reviews/albums/broken-social-scene-remember-the-humans/",
+    "description": "On its first record in nearly nine years, the Toronto indie rock collective uses extended jams and stretches of stillness to highlight the sense of community and connection underpinning its best work.",
+    "reviewer": "Nina Corcoran",
+    "image": "https://media.pitchfork.com/photos/6a035042ffc0e1421eb5e521/1:1/w_768,c_limit/Broken%20Social%20Scene-Remember%20The%20Humans.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a0345a19bf9c29d90580beb",
+    "artist": "Fire-Toolz",
+    "title": "Lavender Networks",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-05-13T04:02:00.000Z",
+    "dateFormatted": "May 13, 2026",
+    "url": "/reviews/albums/fire-toolz-lavender-networks/",
+    "description": "On her Warp debut, Angel Marcloid offers a dialed-in microcosm of her epic discography, blending black and death metal, scorched-earth electronics, and moments of melodramatic beauty.",
+    "reviewer": "Andrew Ryce",
+    "image": "https://media.pitchfork.com/photos/6a0343fa4f6e57ecaeeaa153/1:1/w_768,c_limit/Fire-Toolz-Lavender%20Networks.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a0351ad961a15f41d4c7d42",
+    "artist": "Loraine James",
+    "title": "Detached From the Rest of You",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-05-13T04:01:00.000Z",
+    "dateFormatted": "May 13, 2026",
+    "url": "/reviews/albums/loraine-james-detached-from-the-rest-of-you/",
+    "description": "The London producer has always taken an unusually subdued approach to club music, but her latest album&#8212;a sullen fusion of pop structures and glitchy IDM&#8212;is her most fiercely introspective yet.",
+    "reviewer": "Matthew Blackwell",
+    "image": "https://media.pitchfork.com/photos/69fb4e9f85aca10764377f59/1:1/w_768,c_limit/124199.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a035e2592d37565f2bee9ca",
+    "artist": "Lucy Liyou",
+    "title": "MR COBRA",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic",
+      "Experimental"
+    ],
+    "date": "2026-05-13T04:00:00.000Z",
+    "dateFormatted": "May 13, 2026",
+    "url": "/reviews/albums/lucy-liyou-mr-cobra/",
+    "description": "To exorcise the memory of a predatory relationship, the experimental artist’s new album and theatrical performance recast the story as a daring avant-pop opera.",
+    "reviewer": "Elise Soutar",
+    "image": "https://media.pitchfork.com/photos/69a850619d862987d12459a4/1:1/w_768,c_limit/MR%20COBRA%20by%20Lucy%20Liyou%20Album%20Cover.png",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a022c42ec16a28935805b51",
     "artist": "Chris Brown",
     "title": "BROWN",
