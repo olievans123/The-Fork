@@ -1,5 +1,77 @@
 [
   {
+    "id": "6a04c58d60b7519e314997e9",
+    "artist": "Kevin Morby",
+    "title": "Little Wide Open",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-05-14T04:03:00.000Z",
+    "dateFormatted": "May 14, 2026",
+    "url": "/reviews/albums/kevin-morby-little-wide-open/",
+    "description": "Working with Aaron Dessner, the singer-songwriter balances contentment and mortal anxiety on the most cohesive and tuneful album of his career.",
+    "reviewer": "Will Hermes",
+    "image": "https://media.pitchfork.com/photos/698b44567ab285fd15b1afc3/1:1/w_768,c_limit/Kevin-Morby-Little-Wide-Open.jpeg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a04b5fc3a0b3d0ad33a188c",
+    "artist": "sadie",
+    "title": "Better Angels",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-05-14T04:02:00.000Z",
+    "dateFormatted": "May 14, 2026",
+    "url": "/reviews/albums/sadie-better-angels/",
+    "description": "On her debut album, the New York singer-songwriter combines bedroom-pop vulnerability and electronic flourishes to dissect the end of a decade-long relationship.",
+    "reviewer": "Hannah Jocelyn",
+    "image": "https://media.pitchfork.com/photos/6a04b3acba84c115d37e1fc3/1:1/w_768,c_limit/Sadie-Better%20Angels.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a04c504d9fe22fa4277ea39",
+    "artist": "Father Dionysios Tabakis",
+    "title": "Paradise Metal",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-05-14T04:01:00.000Z",
+    "dateFormatted": "May 14, 2026",
+    "url": "/reviews/albums/father-dionysios-tabakis-paradise-metal/",
+    "description": "The inspiring and idiosyncratic debut from a 53-year-old priest in Greece pinballs between drone metal and techno Christmas carols, field recordings and hymns.",
+    "reviewer": "Grayson Haver Currin",
+    "image": "https://media.pitchfork.com/photos/6a04c381ba84c115d37e1fd5/1:1/w_768,c_limit/Father%20Dionysios%20Tabakis%20Paradise%20Metal.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a04c15e60b7519e314997e1",
+    "artist": "Daughn Gibson",
+    "title": "Lake Mary not mysterious",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Folk/Country"
+    ],
+    "date": "2026-05-14T04:00:00.000Z",
+    "dateFormatted": "May 14, 2026",
+    "url": "/reviews/albums/daughn-gibson-lake-mary-not-mysterious/",
+    "description": "The songwriter’s first album in 11 years transports his suave, smoky style and lounge-lizard character studies to the Florida swamps.",
+    "reviewer": "Daniel Bromfield",
+    "image": "https://media.pitchfork.com/photos/6a04c10d382cbf64dbb31ffb/1:1/w_768,c_limit/Daughn%20Gibson%20-%20Lake%20Mary%20not%20mysterious%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a0350adffc0e1421eb5e526",
     "artist": "Broken Social Scene",
     "title": "Remember the Humans",
