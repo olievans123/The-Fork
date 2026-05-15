@@ -1,5 +1,77 @@
 [
   {
+    "id": "6a06133d3445540e769efd0c",
+    "artist": "Rostam",
+    "title": "American Stories",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-05-15T04:03:00.000Z",
+    "dateFormatted": "May 15, 2026",
+    "url": "/reviews/albums/rostam-american-stories/",
+    "description": "Blending Persian and American folk instrumentation, the alt-pop songwriter and producer expands his signature sound on a sharply focused third solo album.",
+    "reviewer": "Molly Mary O’Brien",
+    "image": "https://media.pitchfork.com/photos/69b035c5ecd4e76a513f34a8/1:1/w_768,c_limit/American%20Stories%20Cover.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a0625a1fdbd719d8979320c",
+    "artist": "Naomi Scott",
+    "title": "F.I.G",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-05-15T04:02:00.000Z",
+    "dateFormatted": "May 15, 2026",
+    "url": "/reviews/albums/naomi-scott-fig/",
+    "description": "With elegant, modern takes on 1980s soft ballads and sophistipop, the former Disney Channel actor’s debut LP is as stylish as it is easygoing.",
+    "reviewer": "Kiana Mickles",
+    "image": "https://media.pitchfork.com/photos/6a06254d12ba97b357b7994a/1:1/w_768,c_limit/Naomi%20Scott%20-%20F.I.G.%20album%20art.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a0612b83445540e769efd08",
+    "artist": "Edward Skeletrix",
+    "title": "Body of Work",
+    "score": 6.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-05-15T04:01:00.000Z",
+    "dateFormatted": "May 15, 2026",
+    "url": "/reviews/albums/edward-skeletrix-body-of-work/",
+    "description": "Conceptual mastermind or serial con man? On his latest album of shaky rapping and abstract interludes, the multi-hyphenate creator finds a strange middle ground.",
+    "reviewer": "Olivier Lafontant",
+    "image": "https://media.pitchfork.com/photos/6a0607c4ecea6c40a2d11ff6/1:1/w_768,c_limit/Edward%20Skeletrix%20-%20Body%20of%20Work.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a05f735ff6c3d6c3b850cc6",
+    "artist": "Smerz",
+    "title": "Easy EP",
+    "score": 7.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-05-15T04:00:00.000Z",
+    "dateFormatted": "May 15, 2026",
+    "url": "/reviews/albums/smerz-easy-ep/",
+    "description": "The Norwegian duo’s latest EP, inspired by the final track of its 2025 album, forgoes straightforward plots for stranger, smudgier snapshots of life on the precipice of adulthood.",
+    "reviewer": "Hattie Lindert",
+    "image": "https://media.pitchfork.com/photos/6a05f691d90f8284f9951e58/1:1/w_768,c_limit/smerz-Easy%20EP.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a04c58d60b7519e314997e9",
     "artist": "Kevin Morby",
     "title": "Little Wide Open",
