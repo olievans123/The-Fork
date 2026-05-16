@@ -1,5 +1,24 @@
 [
   {
+    "id": "6a060417b858ee4c8c37e571",
+    "artist": "Jeff Parker / ETA IVtet",
+    "title": "Happy Today",
+    "score": 8.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Jazz",
+      "Jazz"
+    ],
+    "date": "2026-05-16T04:00:00.000Z",
+    "dateFormatted": "May 16, 2026",
+    "url": "/reviews/albums/jeff-parker-and-eva-ivtet-happy-today/",
+    "description": "The guitarist and his fellow improvisers demonstrate mind-meld rapport and roof-raising intensity on a pair of side-long cuts recorded at L.A.’s Lodge Room last summer.",
+    "reviewer": "Dash Lewis",
+    "image": "https://media.pitchfork.com/photos/6a060271b490736c47405736/1:1/w_768,c_limit/Jeff%20Parker%20EVA%20IVtet%20-%20Happy%20Today.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a06133d3445540e769efd0c",
     "artist": "Rostam",
     "title": "American Stories",
