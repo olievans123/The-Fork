@@ -1,5 +1,23 @@
 [
   {
+    "id": "6a076927c9aadf2bf97130ac",
+    "artist": "10,000 Maniacs",
+    "title": "MTV Unplugged",
+    "score": 8.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-05-17T04:00:00.000Z",
+    "dateFormatted": "May 17, 2026",
+    "url": "/reviews/albums/10000-maniacs-mtv-unplugged/",
+    "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we look back at the alt-rock band’s 1993 acoustic set, a swan song for the sensitive bohemians&#8212;and the biggest hit they’d ever release.",
+    "reviewer": "Dan Kois",
+    "image": "https://media.pitchfork.com/photos/6a0767fd9410bbc937cca168/1:1/w_768,c_limit/10k%20maniacs%20unplugged.jpg",
+    "releaseYear": 1993
+  },
+  {
     "id": "6a060417b858ee4c8c37e571",
     "artist": "Jeff Parker / ETA IVtet",
     "title": "Happy Today",
