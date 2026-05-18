@@ -1,5 +1,77 @@
 [
   {
+    "id": "6a07665c024141a5f0074213",
+    "artist": "Drake",
+    "title": "ICEMAN",
+    "score": 4.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-05-18T04:03:00.000Z",
+    "dateFormatted": "May 18, 2026",
+    "url": "/reviews/albums/drake-iceman/",
+    "description": "Part one of Drake’s comeback trilogy is an attempt to settle the score. He does not succeed.",
+    "reviewer": "Jayson Greene",
+    "image": "https://media.pitchfork.com/photos/6a0718120f0f262e7a7a5f94/1:1/w_768,c_limit/26UMGIM63614.rgb.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a0754a92c7b4ffd3ce76908",
+    "artist": "The Field",
+    "title": "Now You Exist EP",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-05-18T04:02:00.000Z",
+    "dateFormatted": "May 18, 2026",
+    "url": "/reviews/albums/the-field-now-you-exist-ep/",
+    "description": "Eight years since his last record, the Swedish ambient-techno musician still constitutes a category of one. But his trademark style, epic and blissed out as ever, benefits from a newfound looseness.",
+    "reviewer": "Andrew Ryce",
+    "image": "https://media.pitchfork.com/photos/69dfa2d037eb998ced5675f4/1:1/w_768,c_limit/The%20Field%20-%20Now%20You%20Exist%20(Studio%20Barnhus%202026).png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a07580d2c7b4ffd3ce76927",
+    "artist": "Sergeant",
+    "title": "Symbols",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-05-18T04:01:00.000Z",
+    "dateFormatted": "May 18, 2026",
+    "url": "/reviews/albums/sergeant-symbols/",
+    "description": "The Belgian trio brightens up its sound a smidge on its second album, filled with heady, psychedelic songs that house a tenuous optimism.",
+    "reviewer": "Shaad D’Souza",
+    "image": "https://media.pitchfork.com/photos/6a07578c6cd2cee8596308b5/1:1/w_768,c_limit/Sergeant-Symbols.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a07631970e2312339e868b5",
+    "artist": "Dua Saleh",
+    "title": "Of Earth &amp; Wires",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-05-18T04:00:00.000Z",
+    "dateFormatted": "May 18, 2026",
+    "url": "/reviews/albums/dua-saleh-of-earth-and-wires/",
+    "description": "Weaving between Bon Iver features and electronic experimentation, the Minnesota musician and actor’s new album sounds a note of community and composure in a tumultuous world.",
+    "reviewer": "Nia Coats",
+    "image": "https://media.pitchfork.com/photos/69bda4d3bb6610e7e4dbb859/1:1/w_768,c_limit/DuaSaleh-OfEarthandWires.jpeg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a076927c9aadf2bf97130ac",
     "artist": "10,000 Maniacs",
     "title": "MTV Unplugged",
