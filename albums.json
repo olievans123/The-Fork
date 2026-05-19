@@ -1,5 +1,79 @@
 [
   {
+    "id": "6a0b622b7fc6f92eeff42768",
+    "artist": "Drake",
+    "title": "MAID OF HONOUR",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-05-19T04:03:00.000Z",
+    "dateFormatted": "May 19, 2026",
+    "url": "/reviews/albums/drake-maid-of-honour/",
+    "description": "The best album in Drake’s comeback trilogy. He’s desperate to pick up the pieces and reclaim his title as hip-hop’s ultimate hitmaker.",
+    "reviewer": "Alphonse Pierre",
+    "image": "https://media.pitchfork.com/photos/6a07181ea0d561cda5e9f906/1:1/w_768,c_limit/26UMGIM63615.rgb.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a0b571d7fc6f92eeff42754",
+    "artist": "Jesca Hoop",
+    "title": "Long Wave Home",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Folk/Country",
+      "Pop/R&B"
+    ],
+    "date": "2026-05-19T04:02:00.000Z",
+    "dateFormatted": "May 19, 2026",
+    "url": "/reviews/albums/jesca-hoop-long-wave-home/",
+    "description": "In a set of sweet, graceful tunes, the singer-songwriter offers meditations on love and human frailty, plus a few sharply rendered protest songs.",
+    "reviewer": "Philip Sherburne",
+    "image": "https://media.pitchfork.com/photos/6a0b56415f960fe34bde98e2/1:1/w_768,c_limit/Jesca%20Hoop-Long%20Wave%20Home.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a0b2c5c82cadef51b596167",
+    "artist": "Kwes Darko",
+    "title": "God of the Youth",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-05-19T04:01:00.000Z",
+    "dateFormatted": "May 19, 2026",
+    "url": "/reviews/albums/kwes-darko-god-of-the-youth/",
+    "description": "The British electronic producer formerly known as Blue Daisy and Black Dahlia unveils a new solo venture and a menacing new sound heavy on distorted drum machines and blown-out bass.",
+    "reviewer": "Will Pritchard",
+    "image": "https://media.pitchfork.com/photos/6a0b2b2c3b6d81abc2379e5b/1:1/w_768,c_limit/Kwes%20Darko%20-%20God%20of%20the%20Youth.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a0b5af382cadef51b596216",
+    "artist": "Genesis Owusu",
+    "title": "REDSTAR WU &amp; THE WORLDWIDE SCOURGE",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B",
+      "Rap"
+    ],
+    "date": "2026-05-19T04:00:00.000Z",
+    "dateFormatted": "May 19, 2026",
+    "url": "/reviews/albums/genesis-owusu-redstar-wu-and-the-worldwide-scourge/",
+    "description": "Folding together post-industrial dissonance, globe-trotting influences, and stinging social commentary, the Australian musician’s new album isn’t pulling punches.",
+    "reviewer": "Stuart Berman",
+    "image": "https://media.pitchfork.com/photos/6a0b5923a8935ab987031784/1:1/w_768,c_limit/Genesis%20Owusu%20-%20REDSTAR%20WU%20&%20THE%20WORLDWIDE%20SCOURGE%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a07665c024141a5f0074213",
     "artist": "Drake",
     "title": "ICEMAN",
