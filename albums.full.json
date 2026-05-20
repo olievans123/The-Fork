@@ -1,5 +1,77 @@
 [
   {
+    "id": "6a0cbf18bc4c17ba57bce3f8",
+    "artist": "Drake",
+    "title": "HABIBTI",
+    "score": 6.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-05-20T04:03:00.000Z",
+    "dateFormatted": "May 20, 2026",
+    "url": "/reviews/albums/drake-habibti/",
+    "description": "The R&amp;B act of Drake’s triple bill is alternatingly hypnotic and hollow. It peaks when it’s refreshingly loose, and drags when it reverts to stock writing and production.",
+    "reviewer": "Matthew Ritchie",
+    "image": "https://media.pitchfork.com/photos/6a07181da0d561cda5e9f900/1:1/w_768,c_limit/26UMGIM63616.rgb.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a07645235cd683cfd14cb15",
+    "artist": "Lykke Li",
+    "title": "The Afterparty",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-05-20T04:02:00.000Z",
+    "dateFormatted": "May 20, 2026",
+    "url": "/reviews/albums/lykke-li-the-afterparty/",
+    "description": "On a purportedly final album, the Swedish electro-pop singer’s disenchantment takes shape around sparkling synth and light-touch disco beats.",
+    "reviewer": "Caitlin Wolper Phillips",
+    "image": "https://media.pitchfork.com/photos/698e569f9d993f61e83ff682/1:1/w_768,c_limit/ALBUM%20LL-AfterpartyCover-DSP.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a0c79fb32f7e5928579e073",
+    "artist": "Koyo",
+    "title": "Barely Here",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-05-20T04:01:00.000Z",
+    "dateFormatted": "May 20, 2026",
+    "url": "/reviews/albums/koyo-barely-here/",
+    "description": "On its second album, the five-piece carries the torch for Long Island melodic hardcore while injecting the style with contemporary themes of burnout and exhaustion.",
+    "reviewer": "Nick Laskin",
+    "image": "https://media.pitchfork.com/photos/6a0c7903623c72125408514f/1:1/w_768,c_limit/Koyo-Barely%20Here.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a0767cac9aadf2bf971309c",
+    "artist": "Suzy Sheer",
+    "title": "Pure Pulse, Slow Decay, Soft Release",
+    "score": 7.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-05-20T04:00:00.000Z",
+    "dateFormatted": "May 20, 2026",
+    "url": "/reviews/albums/suzy-sheer-pure-pulse-slow-decay-soft-release/",
+    "description": "Frosty and a little unreal, the duo’s languid, atmospheric dream-electroclash unfurls like a gentle 5 a.m. comedown.",
+    "reviewer": "Lydia Wei",
+    "image": "https://media.pitchfork.com/photos/6a06251b5a5d25ad8ed14b75/1:1/w_768,c_limit/Suzy%20Sheer%20-%20Pure%20Pulse,%20Slow%20Decay,%20Soft%20Release%20album%20artwork.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a0b622b7fc6f92eeff42768",
     "artist": "Drake",
     "title": "MAID OF HONOUR",
