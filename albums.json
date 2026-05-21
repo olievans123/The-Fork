@@ -1,5 +1,78 @@
 [
   {
+    "id": "6a0dfdb979bfd694dcc4a2d0",
+    "artist": "Salem",
+    "title": "Red Dragon",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic",
+      "Experimental"
+    ],
+    "date": "2026-05-21T04:03:00.000Z",
+    "dateFormatted": "May 21, 2026",
+    "url": "/reviews/albums/salem-red-dragon/",
+    "description": "Tied to a Supreme merch collab, this 31-track compilation from the chronically inactive witch-house group expands, celebrates, and slightly dampens the legacy of one of the last great millennial mysteries.",
+    "reviewer": "Eli Enis",
+    "image": "https://media.pitchfork.com/photos/6a0dfcf4eb7075e5cbcdeefe/1:1/w_768,c_limit/Salem%20Red%20Dragon.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a0dec18ad11e8dd50bcbc10",
+    "artist": "Kenny Mason",
+    "title": "BULLDAWG",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-05-21T04:02:00.000Z",
+    "dateFormatted": "May 21, 2026",
+    "url": "/reviews/albums/kenny-mason-bulldawg/",
+    "description": "The Atlanta artist treats rap, rock, and gospel like born bedfellows, and the intricacy of his amalgamations speaks to the depth of his grounding in all three genres.",
+    "reviewer": "Dylan Green",
+    "image": "https://media.pitchfork.com/photos/6a0deb72e81ec12b4f758f62/1:1/w_768,c_limit/Kenny%20Mason%20-%20BULLDAWG.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a0dff17ad11e8dd50bcbd37",
+    "artist": "Hiss Golden Messenger",
+    "title": "I’m People",
+    "score": 7.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Folk/Country"
+    ],
+    "date": "2026-05-21T04:01:00.000Z",
+    "dateFormatted": "May 21, 2026",
+    "url": "/reviews/albums/hiss-golden-messenger-im-people/",
+    "description": "The North Carolina songwriter sounds inspired and proudly unselfconscious on a celebratory new album about music and community.",
+    "reviewer": "Stephen M. Deusner",
+    "image": "https://media.pitchfork.com/photos/6a0dfe8551b8c00c3e5d0625/1:1/w_768,c_limit/Hiss%20Golden%20Messenger%20I'm%20People.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a0de90079bfd694dcc4a237",
+    "artist": "Spencer Krug",
+    "title": "Same Fangs",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-05-21T04:00:00.000Z",
+    "dateFormatted": "May 21, 2026",
+    "url": "/reviews/albums/spencer-krug-same-fangs/",
+    "description": "The mischievous and prolific Canadian musician&#8212;formerly of Wolf Parade and Sunset Rubdown&#8212;offers a tour of his idiosyncrasies on a set of rerecorded highlights from his Patreon subscription series.",
+    "reviewer": "Brian Howe",
+    "image": "https://media.pitchfork.com/photos/6a0de87d07aff0b3b05dcf97/1:1/w_768,c_limit/Spencer%20Krug%20-%20Same%20Fangs.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a0cbf18bc4c17ba57bce3f8",
     "artist": "Drake",
     "title": "HABIBTI",
