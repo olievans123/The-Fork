@@ -1,5 +1,78 @@
 [
   {
+    "id": "6a0f188934ddb489335c1870",
+    "artist": "Visible Cloaks",
+    "title": "Paradessence",
+    "score": 7.9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-05-22T04:03:00.000Z",
+    "dateFormatted": "May 22, 2026",
+    "url": "/reviews/albums/visible-cloaks-paradessence/",
+    "description": "Drawing heavily from Japanese kankyō ongaku, the Portland ambient duo explores mind-bending sound design and meditative states in a long-form piece at the nexus of the acoustic and the digital.",
+    "reviewer": "Dash Lewis",
+    "image": "https://media.pitchfork.com/photos/6a0ca5043ac2e3850fae17ef/1:1/w_768,c_limit/62189.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a0f2337822f16761e6bf535",
+    "artist": "Porches",
+    "title": "MASK",
+    "score": 7.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-05-22T04:02:00.000Z",
+    "dateFormatted": "May 22, 2026",
+    "url": "/reviews/albums/porches-mask/",
+    "description": "Aaron Maine’s latest collection is a pared-back, unpolished mixtape, recorded to his trusty four-track. The lack of digital refinement spotlights the songs’ unexpected rhymes and organic melodies.",
+    "reviewer": "Arielle Gordon",
+    "image": "https://media.pitchfork.com/photos/6a0f22bc822f16761e6bf52c/1:1/w_768,c_limit/Porches-%20Mask.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a0f312c822f16761e6bf53d",
+    "artist": "Thomas Dollbaum",
+    "title": "Birds of Paradise",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-05-22T04:01:00.000Z",
+    "dateFormatted": "May 22, 2026",
+    "url": "/reviews/albums/thomas-dollbaum-birds-of-paradise/",
+    "description": "With an assist from MJ Lenderman, the New Orleans singer and poet fine-tunes his storytelling instincts against a backdrop of bracing heartland rock.",
+    "reviewer": "Sam Sodomsky",
+    "image": "https://media.pitchfork.com/photos/6a0ca45e3ac2e3850fae1749/1:1/w_768,c_limit/61467.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a0f1d2b0a78bc13d20aba9a",
+    "artist": "Magic Tuber Stringband",
+    "title": "Heavy Water",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Folk/Country",
+      "Experimental"
+    ],
+    "date": "2026-05-22T04:00:00.000Z",
+    "dateFormatted": "May 22, 2026",
+    "url": "/reviews/albums/magic-tuber-stringband-heavy-water/",
+    "description": "Paying tribute to a South Carolina town destroyed in the 1950s for a nuclear materials plant, the Durham avant-folk trio&#39;s disquieting new album is both a community service and a spiritual offering.",
+    "reviewer": "Lily Goldberg",
+    "image": "https://media.pitchfork.com/photos/6a0f1c362c68b5fde47ac49c/1:1/w_768,c_limit/Magic%20Tuber%20Stringband%20-%20Heavy%20Water.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a0dfdb979bfd694dcc4a2d0",
     "artist": "Salem",
     "title": "Red Dragon",
@@ -67,7 +140,7 @@
     "date": "2026-05-21T04:00:00.000Z",
     "dateFormatted": "May 21, 2026",
     "url": "/reviews/albums/spencer-krug-same-fangs/",
-    "description": "The mischievous and prolific Canadian musician&#8212;formerly of Wolf Parade and Sunset Rubdown&#8212;offers a tour of his idiosyncrasies on a set of rerecorded highlights from his Patreon subscription series.",
+    "description": "The mischievous and prolific Canadian musician (of Wolf Parade and Sunset Rubdown) offers a tour of his idiosyncrasies on a set of rerecorded highlights from his Patreon subscription series.",
     "reviewer": "Brian Howe",
     "image": "https://media.pitchfork.com/photos/6a0de87d07aff0b3b05dcf97/1:1/w_768,c_limit/Spencer%20Krug%20-%20Same%20Fangs.jpg",
     "releaseYear": 2026
