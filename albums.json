@@ -1,5 +1,24 @@
 [
   {
+    "id": "6a108c8571145fc7dcffc6d7",
+    "artist": "Ted Lucas",
+    "title": "Images of Life",
+    "score": 8.5,
+    "bnm": false,
+    "bnr": true,
+    "genres": [
+      "Folk/Country",
+      "Rock"
+    ],
+    "date": "2026-05-23T04:00:00.000Z",
+    "dateFormatted": "May 23, 2026",
+    "url": "/reviews/albums/ted-lucas-images-of-life/",
+    "description": "In 1975, the Detroit singer self-released a perfect document of private-press folk. A rich new box set finally reveals more of his story in psychedelic sound.",
+    "reviewer": "Grayson Haver Currin",
+    "image": "https://media.pitchfork.com/photos/69cc0d3b47880ea207bd6646/1:1/w_768,c_limit/Ted-Lucas-Images-of-Life.jpeg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a0f188934ddb489335c1870",
     "artist": "Visible Cloaks",
     "title": "Paradessence",
