@@ -1,5 +1,23 @@
 [
   {
+    "id": "6a108542916ae6a3c1852dc9",
+    "artist": "Laura Nyro",
+    "title": "New York Tendaberry",
+    "score": 9.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-05-24T04:00:00.000Z",
+    "dateFormatted": "May 24, 2026",
+    "url": "/reviews/albums/laura-nyro-new-york-tendaberry/",
+    "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we look back at the New York songwriter’s third LP, an album so painterly and poetic that it formed its own self-contained world.",
+    "reviewer": "Sam Sodomsky",
+    "image": "https://media.pitchfork.com/photos/6a1085d7e67b884be031f56c/1:1/w_768,c_limit/Laura%20Nyro%20New%20York%20Tendaberry%20(1969)%20album%20art.jpg",
+    "releaseYear": 1969
+  },
+  {
     "id": "6a108c8571145fc7dcffc6d7",
     "artist": "Ted Lucas",
     "title": "Images of Life",
