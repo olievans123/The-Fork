@@ -1,5 +1,151 @@
 [
   {
+    "id": "6a15c1afe053032016e4dd3a",
+    "artist": "fakemink",
+    "title": "Terrified .",
+    "score": 6.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-05-27T04:03:00.000Z",
+    "dateFormatted": "May 27, 2026",
+    "url": "/reviews/albums/fakemink-terrified/",
+    "description": "On his self-produced studio debut, the 21-year-old UK rap phenomenon makes a long, monotonous statement about fame. It could use more of the range and energy that made him famous in the first place.",
+    "reviewer": "Samuel Hyland",
+    "image": "https://media.pitchfork.com/photos/6a021f7e11d4b5e1620c60b2/1:1/w_768,c_limit/Fakemink-Terrified.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a15d03cdd9d424cdf3dc634",
+    "artist": "leroy",
+    "title": "status update music",
+    "score": 7.9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental",
+      "Pop/R&B"
+    ],
+    "date": "2026-05-27T04:02:00.000Z",
+    "dateFormatted": "May 27, 2026",
+    "url": "/reviews/albums/leroy-status-update-music/",
+    "description": "Under their dariacore moniker, Jane Remover cranks up the chaos and playfulness for another set of ecstatic mashups combining digitally fried pop anthems and underground hits.",
+    "reviewer": "Kieran Press-Reynolds",
+    "image": "https://media.pitchfork.com/photos/6a15ce87304c0148f439bc03/1:1/w_768,c_limit/leroy-status%20update%20music.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a15abe70bd0d2182bfaccb3",
+    "artist": "LUCKI",
+    "title": "Dr*gs R Bad",
+    "score": 6.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-05-27T04:01:00.000Z",
+    "dateFormatted": "May 27, 2026",
+    "url": "/reviews/albums/lucki-dr-gs-r-bad/",
+    "description": "The Chicago rapper wrote the book on drug-induced detachment, then put himself back together in time to make a bag off it. Here, he retools his hypnagogic sound to make it more broadly accessible.",
+    "reviewer": "Olivier Lafontant",
+    "image": "https://media.pitchfork.com/photos/6a15ab06bb707b4d71b5eb2a/1:1/w_768,c_limit/LUCKI%20-%20Dr*gs%20R%20Bad.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a15ef04bb707b4d71b5f0d4",
+    "artist": "Bani",
+    "title": "Signing Bonus - Fast",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-05-27T04:00:00.000Z",
+    "dateFormatted": "May 27, 2026",
+    "url": "/reviews/albums/bani-signing-bonus-fast/",
+    "description": "The Florida rapper’s slice-of-life hustles and romantic daydreams come alive as DJ Cut Up Fonks gives his new tape the fast music treatment.",
+    "reviewer": "Mano Sundaresan",
+    "image": "https://media.pitchfork.com/photos/6a15ee6ee053032016e4e0c0/1:1/w_768,c_limit/Bani%20-%20Signing%20Bonus%20-%20Fast%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a10882ecdd971dc49dbee73",
+    "artist": "aja monet",
+    "title": "the color of rain",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Jazz"
+    ],
+    "date": "2026-05-26T04:03:00.000Z",
+    "dateFormatted": "May 26, 2026",
+    "url": "/reviews/albums/aja-monet-the-color-of-rain/",
+    "description": "Mystic and trenchant, the Los Angeles-based writer and performer’s second album feels emphatically musical even as her style remains rooted in slam poetry.",
+    "reviewer": "Stephen Kearse",
+    "image": "https://media.pitchfork.com/photos/6a1087aee67b884be031f572/1:1/w_768,c_limit/aja%20monet%20-%20the%20color%20of%20rain%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a1086e93d2f55281a2a4df3",
+    "artist": "Marisa Anderson",
+    "title": "The Anthology of UnAmerican Folk Music",
+    "score": 7.9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Folk/Country"
+    ],
+    "date": "2026-05-26T04:02:00.000Z",
+    "dateFormatted": "May 26, 2026",
+    "url": "/reviews/albums/marisa-anderson-the-anthology-of-unamerican-folk-music/",
+    "description": "The guitarist reimagines traditional songs from places the United States has been in conflict with during her lifetime, steeping her stunning interpretations in humility and humanity.",
+    "reviewer": "Jayson Greene",
+    "image": "https://media.pitchfork.com/photos/6a0ca62bba37a73551f654cf/1:1/w_768,c_limit/790377065466.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a0f4cdb822f16761e6bf5a0",
+    "artist": "Duval Timothy / Carlos Niño",
+    "title": "rain music",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental",
+      "Experimental"
+    ],
+    "date": "2026-05-26T04:01:00.000Z",
+    "dateFormatted": "May 26, 2026",
+    "url": "/reviews/albums/duval-timothy-carlos-nino-rain-music/",
+    "description": "Pianist and percussionist holed up on a gray London day to improvise and record much of this album, which takes a quieter, indoor approach to widescreen new age and ambient jazz.",
+    "reviewer": "Dash Lewis",
+    "image": "https://media.pitchfork.com/photos/6a0f4c739796caba8eb679be/1:1/w_768,c_limit/Duval%20Timothy%20Carlos%20Nino%20-%20rain%20music%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a106f8fe67b884be031f276",
+    "artist": "Blod",
+    "title": "Förlorarnas Natt",
+    "score": 7.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-05-26T04:00:00.000Z",
+    "dateFormatted": "May 26, 2026",
+    "url": "/reviews/albums/blod-forlorarnas-natt/",
+    "description": "On an album conceived as a score for a nonexistent coming-of-age film, Swedish musician Gustaf Dicksson communicates teenage longing and uncertainty in breezy, 1970s-indebted soft rock.",
+    "reviewer": "Harry Thorfinn-George",
+    "image": "https://media.pitchfork.com/photos/6a106f1575e9106aa900d868/1:1/w_768,c_limit/Blod-F%C3%B6rlorarnas%20Natt.png",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a108542916ae6a3c1852dc9",
     "artist": "Laura Nyro",
     "title": "New York Tendaberry",
