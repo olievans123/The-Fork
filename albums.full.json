@@ -1,5 +1,78 @@
 [
   {
+    "id": "6a17448ce1c825e795c226b2",
+    "artist": "Bladee",
+    "title": "Sulfur Surfer",
+    "score": 6.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap",
+      "Pop/R&B"
+    ],
+    "date": "2026-05-28T04:03:00.000Z",
+    "dateFormatted": "May 28, 2026",
+    "url": "/reviews/albums/bladee-sulfur-surfer/",
+    "description": "The Swedish artist conjures a captivating atmosphere for his songs, even if he starts to walk a fine line between self-mythology and self-seriousness.",
+    "reviewer": "Olivier Lafontant",
+    "image": "https://media.pitchfork.com/photos/6a1743127606ce2c1792e5bf/1:1/w_768,c_limit/bladee%20Sulfur%20Surfer.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a1702209b618e19bf12632b",
+    "artist": "Ed O’Brien",
+    "title": "Blue Morpho",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-05-28T04:02:00.000Z",
+    "dateFormatted": "May 28, 2026",
+    "url": "/reviews/albums/ed-obrien-blue-morpho/",
+    "description": "Radiohead’s resident enigma returns, spinning Brazilian influences, vintage rocktronica, and sumptuous string arrangements into a much more confident, cohesive follow-up to his 2020 solo debut.",
+    "reviewer": "Stuart Berman",
+    "image": "https://media.pitchfork.com/photos/69b95063082acd84b31eea69/1:1/w_768,c_limit/unnamed%20(34).jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a17188f9b618e19bf1264fc",
+    "artist": "Eli",
+    "title": "Stage Girl (Not A Dream Anymore)",
+    "score": 7.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-05-28T04:01:00.000Z",
+    "dateFormatted": "May 28, 2026",
+    "url": "/reviews/albums/eli-stage-girl-not-a-dream-anymore/",
+    "description": "Referential, silly, and filled with trans angst, the pop singer’s debut album gets a deluxe reissue with a handful of new tracks that blend Radio Disney pastiche and 2000s R&amp;B-pop.",
+    "reviewer": "Hannah Jocelyn",
+    "image": "https://media.pitchfork.com/photos/6a1718179b618e19bf1264d1/1:1/w_768,c_limit/Eli-Stage%20Girl.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a170d3b9b618e19bf12646f",
+    "artist": "Car Seat Headrest",
+    "title": "Teen of Denial: Joe’s Story",
+    "score": 6.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-05-28T04:00:00.000Z",
+    "dateFormatted": "May 28, 2026",
+    "url": "/reviews/albums/car-seat-headrest-teen-of-denial-joes-story/",
+    "description": "Will Toledo tinkers with his breakthrough release, rerecording pieces, changing lyrics, and swapping out some tracks. Even its more perplexing choices offer a reminder of the original record’s charm.",
+    "reviewer": "Ethan Beck",
+    "image": "https://media.pitchfork.com/photos/6a0cb11dc470b3acbf4b7052/1:1/w_768,c_limit/1%20(17).jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a15c1afe053032016e4dd3a",
     "artist": "fakemink",
     "title": "Terrified .",
