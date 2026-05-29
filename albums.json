@@ -1,5 +1,78 @@
 [
   {
+    "id": "6a1846f34d767ed313bee1cc",
+    "artist": "Boards of Canada",
+    "title": "Inferno",
+    "score": 8.6,
+    "bnm": true,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-05-29T04:03:00.000Z",
+    "dateFormatted": "May 29, 2026",
+    "url": "/reviews/albums/boards-of-canada-inferno/",
+    "description": "Laced with occult imagery and enigmatic samples, the Scottish duo’s immersive new album&#8212;their first in 13 years&#8212;offers some of the most captivating music of their career.",
+    "reviewer": "Philip Sherburne",
+    "image": "https://media.pitchfork.com/photos/6a184638c26aa3f286532e4a/1:1/w_768,c_limit/Boards%20of%20Canada%20Inferno.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a1890f6c77bf6199c81bcb2",
+    "artist": "JPEGMAFIA",
+    "title": "EXPERIMENTAL RAP",
+    "score": 5.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-05-29T04:02:00.000Z",
+    "dateFormatted": "May 29, 2026",
+    "url": "/reviews/albums/jpegmafia-experimental-rap/",
+    "description": "We&#39;re witnessing the rapper’s journey from a provocative firestarter to a fiercely bitter heel. His latest pushes boundaries and tests patience.",
+    "reviewer": "Dylan Green",
+    "image": "https://media.pitchfork.com/photos/6a1890848538965ecdc983ff/1:1/w_768,c_limit/jpegmafia%20experimental%20rap.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a188417e0daa6e15dd46570",
+    "artist": "Greg Mendez",
+    "title": "Beauty Land",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-05-29T04:01:00.000Z",
+    "dateFormatted": "May 29, 2026",
+    "url": "/reviews/albums/greg-mendez-beauty-land/",
+    "description": "The Philadelphia songwriter’s Dead Oceans debut is a delicate, open-hearted ode to smallness, traveling great emotional distances in short spaces.",
+    "reviewer": "Jayson Greene",
+    "image": "https://media.pitchfork.com/photos/69a7313a581c4efcf1af759b/1:1/w_768,c_limit/Greg%20Mendez%20-%20Beauty%20Land%20_%20Album%20Art%20(1).jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a18510fdd7be0e54baaad65",
+    "artist": "Discovery Zone",
+    "title": "Library Copy Do Not Remove",
+    "score": 7.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic",
+      "Experimental"
+    ],
+    "date": "2026-05-29T04:00:00.000Z",
+    "dateFormatted": "May 29, 2026",
+    "url": "/reviews/albums/discovery-zone-library-copy-do-not-remove/",
+    "description": "Filtering one of Borges’ short stories through the theory that our world is just a computer simulation, JJ Weihl uses ambient synthscapes to frame head-spinning ideas about knowledge and chaos.",
+    "reviewer": "Raphael Helfand",
+    "image": "https://media.pitchfork.com/photos/6a184ff402ea7fcfee1b8918/1:1/w_768,c_limit/Discovery%20Zone%20-%20Library%20Copy%20Do%20Not%20Remove.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a17448ce1c825e795c226b2",
     "artist": "Bladee",
     "title": "Sulfur Surfer",
