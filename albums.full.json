@@ -1,5 +1,23 @@
 [
   {
+    "id": "6a19c7c767b26820db61e86f",
+    "artist": "Bleachers",
+    "title": "everyone for ten minutes",
+    "score": 5.9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-05-30T04:00:00.000Z",
+    "dateFormatted": "May 30, 2026",
+    "url": "/reviews/albums/bleachers-everyone-for-ten-minutes/",
+    "description": "With its shout-along hooks and pop drama, Jack Antonoff’s latest isn’t so different from the others, but his myopic views on modern life and celebrity are becoming harder to bear.",
+    "reviewer": "Walden Green",
+    "image": "https://media.pitchfork.com/photos/6a19c77636c8161963ca6732/1:1/w_768,c_limit/everyone%20for%20ten%20minutes%20bleachers.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a1846f34d767ed313bee1cc",
     "artist": "Boards of Canada",
     "title": "Inferno",
@@ -30,7 +48,7 @@
     "date": "2026-05-29T04:02:00.000Z",
     "dateFormatted": "May 29, 2026",
     "url": "/reviews/albums/jpegmafia-experimental-rap/",
-    "description": "We&#39;re witnessing the rapper’s journey from a provocative firestarter to a fiercely bitter heel. His latest pushes boundaries and tests patience.",
+    "description": "We’re witnessing the rapper’s journey from a provocative firestarter to a fiercely bitter heel. His latest pushes boundaries and tests patience.",
     "reviewer": "Dylan Green",
     "image": "https://media.pitchfork.com/photos/6a1890848538965ecdc983ff/1:1/w_768,c_limit/jpegmafia%20experimental%20rap.jpg",
     "releaseYear": 2026
