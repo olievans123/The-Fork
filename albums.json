@@ -1,5 +1,23 @@
 [
   {
+    "id": "6a19c40dc3e4cb9ebc5c6ae0",
+    "artist": "Miles Davis",
+    "title": "Filles de Kilimanjaro",
+    "score": 9.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Jazz"
+    ],
+    "date": "2026-05-31T04:00:00.000Z",
+    "dateFormatted": "May 31, 2026",
+    "url": "/reviews/albums/miles-davis-filles-de-kilimanjaro/",
+    "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we look back at the first real glimpse of electric Miles and the swan song of his brilliant Second Great Quintet.",
+    "reviewer": "Andy Beta",
+    "image": "https://media.pitchfork.com/photos/6a19c35e6b9362dfdd303d6f/1:1/w_768,c_limit/filles%20de%20kilimanjaro.jpg",
+    "releaseYear": 1968
+  },
+  {
     "id": "6a19c7c767b26820db61e86f",
     "artist": "Bleachers",
     "title": "everyone for ten minutes",
