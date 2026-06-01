@@ -1,5 +1,78 @@
 [
   {
+    "id": "6a19c0d7bb11a31c9bae0e1b",
+    "artist": "Feeble Little Horse",
+    "title": "bitknot",
+    "score": 8.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-06-01T04:03:00.000Z",
+    "dateFormatted": "June 1, 2026",
+    "url": "/reviews/albums/feeble-little-horse-bitknot/",
+    "description": "Now working as a trio, the Pittsburgh band’s second album is heavier, uglier, and far more glitched out than its predecessor. It’s also lovelier, more full of life, and more empathetic.",
+    "reviewer": "Sadie Sartini Garner",
+    "image": "https://media.pitchfork.com/photos/6a19c0990e6e3c641e000c9f/1:1/w_768,c_limit/bitknot%20feeble%20little%20horse.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a199f2e0e6e3c641e000b66",
+    "artist": "Ecca Vandal",
+    "title": "LOOKING FOR PEOPLE TO UNFOLLOW",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-06-01T04:02:00.000Z",
+    "dateFormatted": "June 1, 2026",
+    "url": "/reviews/albums/ecca-vandal-looking-for-people-to-unfollow/",
+    "description": "On her second album, the South Africa-born, Melbourne-raised artist channels a wide range of influences&#8212;jazz vocalists, ’90s alt-rock, bhangra, hip-hop, and more&#8212;through a feminist punk lens.",
+    "reviewer": "Erica Campbell",
+    "image": "https://media.pitchfork.com/photos/6a199eaa6b9362dfdd303c72/1:1/w_768,c_limit/Ecca%20Vandal-LOOKING%20FOR%20PEOPLE%20TO%20UNFOLLOW.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a19a84e8538965ecdc98cfb",
+    "artist": "Shye Ben Tzur / Jonny Greenwood / The Rajasthan Express",
+    "title": "Ranjha",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental",
+      "Experimental"
+    ],
+    "date": "2026-06-01T04:02:00.000Z",
+    "dateFormatted": "June 1, 2026",
+    "url": "/reviews/albums/shye-ben-tzur-jonny-greenwood-the-rajasthan-express-ranjha/",
+    "description": "On their first collaborative album in over a decade, the Qawwali composer joins the Radiohead guitarist at his Oxford studio for a subtle, trance-like set.",
+    "reviewer": "Arman Khan",
+    "image": "https://media.pitchfork.com/photos/69aef5e6ecd4e76a513f30bd/1:1/w_768,c_limit/Ranjha%20-%20Album%20Art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a19a2860e6e3c641e000b6a",
+    "artist": "Yesterdayneverhappened",
+    "title": "search bar",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-06-01T04:01:00.000Z",
+    "dateFormatted": "June 1, 2026",
+    "url": "/reviews/albums/yesterdayneverhappened-search-bar/",
+    "description": "Sparkling with anime and video game influences, the Chicago producer’s second album combines breakcore, footwork, and jungle to summon a cypher that transforms self-narrative into saga.",
+    "reviewer": "Tatiana Lee Rodriguez",
+    "image": "https://media.pitchfork.com/photos/6a19a1f2bb11a31c9bae0c80/1:1/w_768,c_limit/yesterdayneverhappened-searchbar.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a19c40dc3e4cb9ebc5c6ae0",
     "artist": "Miles Davis",
     "title": "Filles de Kilimanjaro",
