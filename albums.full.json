@@ -1,5 +1,78 @@
 [
   {
+    "id": "6a1d9a5a9cd1eba8128dc727",
+    "artist": "Veeze",
+    "title": "Y’all Won",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-06-02T04:03:00.000Z",
+    "dateFormatted": "June 2, 2026",
+    "url": "/reviews/albums/veeze-yall-won/",
+    "description": "Long plagued by leakers, the Detroit rapper takes control on his latest project, cobbling leaked material into a mixtape that benefits from its looseness.",
+    "reviewer": "Matthew Ritchie",
+    "image": "https://media.pitchfork.com/photos/6a1d994715d0cb2d1830c056/1:1/w_768,c_limit/Veeze%20-%20Y'all%20Won.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a1db9c49cd1eba8128dc8ec",
+    "artist": "Kim Petras",
+    "title": "Detour",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-06-02T04:02:00.000Z",
+    "dateFormatted": "June 2, 2026",
+    "url": "/reviews/albums/kim-petras-detour/",
+    "description": "The pop singer makes a break for riskier, more exciting musical territory, swerving between noisy club bangers and newly subtle pop gems.",
+    "reviewer": "Harry Tafoya",
+    "image": "https://media.pitchfork.com/photos/6a1db8cf39436e78244358d9/1:1/w_768,c_limit/Kim%20Petras-Detour.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a1da3b197cb9846a78cd1e7",
+    "artist": "Mabe Fratti / Bill Orcutt",
+    "title": "Almost Waking",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental",
+      "Experimental"
+    ],
+    "date": "2026-06-02T04:01:00.000Z",
+    "dateFormatted": "June 2, 2026",
+    "url": "/reviews/albums/mabe-fratti-bill-orcutt-almost-waking/",
+    "description": "The cellist and guitarist collaborate on a set of relaxed, generous music that conjures ghosts of British folk and Pacific Northwest indie rock.",
+    "reviewer": "Jayson Greene",
+    "image": "https://media.pitchfork.com/photos/6a0ca5558af611f269ab5bfa/1:1/w_768,c_limit/Cover_Square%20copy.jpeg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a1db8da7bd12195f2446909",
+    "artist": "Hyd",
+    "title": "Hold Onto Me Infinity",
+    "score": 6.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-06-02T04:00:00.000Z",
+    "dateFormatted": "June 2, 2026",
+    "url": "/reviews/albums/hyd-hold-onto-me-infinity/",
+    "description": "Dense, glassy electropop gives way to transparent meditations on grief and personal transformation on the new album from PC Music alum Hayden Dunham.",
+    "reviewer": "H.D. Angel",
+    "image": "https://media.pitchfork.com/photos/6a1db8657bd12195f2446904/1:1/w_768,c_limit/Hyd%20-%20Hold%20Onto%20Me%20Infinity%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a19c0d7bb11a31c9bae0e1b",
     "artist": "Feeble Little Horse",
     "title": "bitknot",
