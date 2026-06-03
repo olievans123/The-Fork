@@ -1,5 +1,78 @@
 [
   {
+    "id": "6a1f11813ebf8325371eba72",
+    "artist": "Iceage",
+    "title": "For Love of Grace &amp; the Hereafter",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-06-03T04:03:00.000Z",
+    "dateFormatted": "June 3, 2026",
+    "url": "/reviews/albums/iceage-for-love-of-grace-and-the-hereafter/",
+    "description": "On its exhilarating sixth album, the Danish band channels melodic richness and punk immediacy into a set of subtly pastoral, ominously romantic songs.",
+    "reviewer": "Zach Schonfeld",
+    "image": "https://media.pitchfork.com/photos/6a1f10af2543593b2d612ec9/1:1/w_768,c_limit/Iceage-For%20Love%20of%20Grace%20&%20the%20Hereafter.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a1efb315953023e4c87e067",
+    "artist": "Paul McCartney",
+    "title": "The Boys of Dungeon Lane",
+    "score": 7.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-06-03T04:02:00.000Z",
+    "dateFormatted": "June 3, 2026",
+    "url": "/reviews/albums/paul-mccartney-the-boys-of-dungeon-lane/",
+    "description": "Balancing raucous guitar boogie and dreamy acoustic cuts, the 83-year-old legend shows off his considerable charm and impeccable songwriting chops on an unabashedly sentimental look back at his youth.",
+    "reviewer": "Ben Cardew",
+    "image": "https://media.pitchfork.com/photos/6a1ef525967a4c7a11b62a18/1:1/w_768,c_limit/Paul%20McCartney%20-%20The%20Boys%20of%20Dungeon%20Lane.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a1f19454715c13db662dcc8",
+    "artist": "ear ",
+    "title": "Rumspringa",
+    "score": 7.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic",
+      "Rock"
+    ],
+    "date": "2026-06-03T04:01:00.000Z",
+    "dateFormatted": "June 3, 2026",
+    "url": "/reviews/albums/ear-rumspringa/",
+    "description": "The New York-based electronic duo’s hushed vocals and collagist sound design capture the bliss and ambiguity of youth.",
+    "reviewer": "Samuel Hyland",
+    "image": "https://media.pitchfork.com/photos/6a177bcd7606ce2c1792e64a/1:1/w_768,c_limit/Copy%20of%20Rumspringa%20Cover.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a1f1fd44715c13db662dccc",
+    "artist": "Lelo",
+    "title": "Mastiff : Pink Tiles",
+    "score": 6.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-06-03T04:00:00.000Z",
+    "dateFormatted": "June 3, 2026",
+    "url": "/reviews/albums/lelo-mastiff-pink-tiles/",
+    "description": "The Detroit rapper explores the sounds of his city on a spotty two-part release whose best moments conjure the atmosphere of a strobe-lit warehouse party.",
+    "reviewer": "Anthony Seaman",
+    "image": "https://media.pitchfork.com/photos/6a1f1ef0ac3515f926bb607b/1:1/w_768,c_limit/Lelo%20Mastiff%20Pink%20Tiles.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a1d9a5a9cd1eba8128dc727",
     "artist": "Veeze",
     "title": "Y’all Won",
