@@ -1,5 +1,77 @@
 [
   {
+    "id": "6a206fe0113074a81e92b4e4",
+    "artist": "Kurt Vile",
+    "title": "Philadelphia’s been good to me",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-06-04T04:03:00.000Z",
+    "dateFormatted": "June 4, 2026",
+    "url": "/reviews/albums/kurt-vile-philadelphias-been-good-to-me/",
+    "description": "There’s no place like home on Kurt Vile’s new album, a mellow but poignant consideration of the tension between life as a working musician and a family man.",
+    "reviewer": "Stuart Berman",
+    "image": "https://media.pitchfork.com/photos/69d49029b8fabafeb1ad584c/1:1/w_768,c_limit/Kurt%20Vile%20-%20Philadelphia's%20been%20good%20to%20me%20Album%20Cover%20(1).jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a206e8c6f3c58af85910aac",
+    "artist": "Latto",
+    "title": "Big Mama",
+    "score": 7.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-06-04T04:02:00.000Z",
+    "dateFormatted": "June 4, 2026",
+    "url": "/reviews/albums/latto-big-mama/",
+    "description": "The Atlanta star celebrates love, success, and the birth of her first child on a defiant, triumphant album where the baby-making music is inseparable from her self-made swagger.",
+    "reviewer": "Mankaprr Conteh",
+    "image": "https://media.pitchfork.com/photos/6a206e40af6ee683a4a40bbf/1:1/w_768,c_limit/Latto%20-%20Big%20Mama%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a2038a7d62ed6a1f1be8d19",
+    "artist": "Lil Pete",
+    "title": "REAL IS BACK",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-06-04T04:01:00.000Z",
+    "dateFormatted": "June 4, 2026",
+    "url": "/reviews/albums/lil-pete-real-is-back/",
+    "description": "The San Francisco rapper strikes a reflective tone on a laid-back set about staying true to yourself in a place that’s constantly changing.",
+    "reviewer": "Alphonse Pierre",
+    "image": "https://media.pitchfork.com/photos/6a2036dd02c67393992961d3/1:1/w_768,c_limit/Lil%20Pete%20Real%20Is%20Back.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a2057356672d73dea4eead7",
+    "artist": "Martyn",
+    "title": "Music for Existing",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-06-04T04:00:00.000Z",
+    "dateFormatted": "June 4, 2026",
+    "url": "/reviews/albums/martyn-music-for-existing/",
+    "description": "After years of releasing dubstep/techno hybrids, the Dutch-born, D.C.-based producer recruits his instrumentalist friends for a dynamic fusion of jazz and bass music.",
+    "reviewer": "Philip Sherburne",
+    "image": "https://media.pitchfork.com/photos/6a2056b7d62ed6a1f1be91d4/1:1/w_768,c_limit/Martyn-Music%20for%20Existing.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a1f11813ebf8325371eba72",
     "artist": "Iceage",
     "title": "For Love of Grace &amp; the Hereafter",
@@ -49,7 +121,7 @@
     "date": "2026-06-03T04:01:00.000Z",
     "dateFormatted": "June 3, 2026",
     "url": "/reviews/albums/ear-rumspringa/",
-    "description": "The New York-based electronic duo’s hushed vocals and collagist sound design capture the bliss and ambiguity of youth.",
+    "description": "The electronic duo’s hushed vocals and collagist sound design capture the bliss and ambiguity of youth.",
     "reviewer": "Samuel Hyland",
     "image": "https://media.pitchfork.com/photos/6a177bcd7606ce2c1792e64a/1:1/w_768,c_limit/Copy%20of%20Rumspringa%20Cover.jpg",
     "releaseYear": 2026
