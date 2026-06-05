@@ -1,5 +1,78 @@
 [
   {
+    "id": "6a21c358c0ce040395a79a16",
+    "artist": "Modest Mouse",
+    "title": "An Eraser and a Maze",
+    "score": 6.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-06-05T04:03:00.000Z",
+    "dateFormatted": "June 5, 2026",
+    "url": "/reviews/albums/modest-mouse-an-eraser-and-a-maze/",
+    "description": "On their first independent album in nearly 30 years, the Pacific Northwest legends ponder endurance and mortality as they abandon the polish of recent releases for a looser, no-filter approach.",
+    "reviewer": "Abby Jones",
+    "image": "https://media.pitchfork.com/photos/6a21c2ab6f3c58af859119d5/1:1/w_768,c_limit/Modest%20Mouse%20An%20Eraser%20and%20a%20Maze.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a21c559d62ed6a1f1be9f6c",
+    "artist": "Tara Clerkin Trio",
+    "title": "Somewhere Good",
+    "score": 8.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-06-05T04:02:00.000Z",
+    "dateFormatted": "June 5, 2026",
+    "url": "/reviews/albums/tara-clerkin-trio-somewhere-good/",
+    "description": "The Bristol band’s latest is inventive and restrained, blending influences from trip-hop, folk, and pop for a subtle, uncanny sound that’s all their own.",
+    "reviewer": "Daniel Bromfield",
+    "image": "https://media.pitchfork.com/photos/6a21c4f5c0ce040395a79a37/1:1/w_768,c_limit/Tara%20Clerkin%20Somewhere%20Good.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a207214113074a81e92b4e8",
+    "artist": "horsegiirL",
+    "title": "NATURE IS HEALING",
+    "score": 7.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-06-05T04:01:00.000Z",
+    "dateFormatted": "June 5, 2026",
+    "url": "/reviews/albums/horsegiirl-nature-is-healing/",
+    "description": "Frolicking through 1980s new age, ’90s pop, and 2010s EDM with the promise of universal wellbeing, Stella Stallion’s debut LP is equally silly and sincere.",
+    "reviewer": "Hattie Lindert",
+    "image": "https://media.pitchfork.com/photos/6a21e7fa1238ac1e5c4cb0ff/1:1/w_768,c_limit/horsegiirL%20-%20NATURE%20IS%20HEALING%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a205531feb7e53a02becd6e",
+    "artist": "Little Barrie",
+    "title": "Gravity Freeze",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic",
+      "Rock"
+    ],
+    "date": "2026-06-05T04:00:00.000Z",
+    "dateFormatted": "June 5, 2026",
+    "url": "/reviews/albums/little-barrie-gravity-freeze/",
+    "description": "Hired gun Barrie Cadogan’s group belongs to a long line of bluesy power trios, but its latest album of minimalist psych-funk also reveals a group of bedroom indie-pop eccentrics.",
+    "reviewer": "Stuart Berman",
+    "image": "https://media.pitchfork.com/photos/6a2053cd113074a81e92b3e5/1:1/w_768,c_limit/Little%20Barrie%20-%20Gravity%20Freeze.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a206fe0113074a81e92b4e4",
     "artist": "Kurt Vile",
     "title": "Philadelphia’s been good to me",
