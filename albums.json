@@ -1,5 +1,23 @@
 [
   {
+    "id": "6a21b6066672d73dea4ef422",
+    "artist": "Death Cab for Cutie",
+    "title": "I Built You a Tower",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-06-06T04:00:00.000Z",
+    "dateFormatted": "June 6, 2026",
+    "url": "/reviews/albums/death-cab-for-cutie-i-built-you-a-tower/",
+    "description": "Ben Gibbard and co. sound newly emboldened on their first record in four years, with musicianship that evokes the band’s golden era and a newly mature, self-aware perspective on hardships and grief.",
+    "reviewer": "Nina Corcoran",
+    "image": "https://media.pitchfork.com/photos/69b80cec9b0d68aefcc4aeaf/1:1/w_768,c_limit/Death%20Cab%20for%20Cutie%20_%20IBYAT%20_%20Album%20Art.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a21c358c0ce040395a79a16",
     "artist": "Modest Mouse",
     "title": "An Eraser and a Maze",
