@@ -1,5 +1,23 @@
 [
   {
+    "id": "6a229ef51238ac1e5c4cb167",
+    "artist": "Theo Parrish",
+    "title": "First Floor",
+    "score": 9.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-06-07T04:00:00.000Z",
+    "dateFormatted": "June 7, 2026",
+    "url": "/reviews/albums/theo-parrish-first-floor/",
+    "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we look back at the 1998 debut album from a Chicago-born DJ-producer who heard in house music the spirit of rebellion.",
+    "reviewer": "Dash Lewis",
+    "image": "https://media.pitchfork.com/photos/6a229c0846a46659ea942463/1:1/w_768,c_limit/Theo%20Parrish%20-%20First%20Floor.jpg",
+    "releaseYear": 1998
+  },
+  {
     "id": "6a21b6066672d73dea4ef422",
     "artist": "Death Cab for Cutie",
     "title": "I Built You a Tower",
