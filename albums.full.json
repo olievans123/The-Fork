@@ -1,5 +1,77 @@
 [
   {
+    "id": "6a231e741238ac1e5c4cb711",
+    "artist": "Vince Staples",
+    "title": "Cry Baby",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-06-08T04:03:00.000Z",
+    "dateFormatted": "June 8, 2026",
+    "url": "/reviews/albums/vince-staples-cry-baby/",
+    "description": "The rapper’s brash new rock album is a reflection and rebuttal to American instability, deploying rebellious music for historically grounded critiques of racism, war, and complicity.",
+    "reviewer": "Mankaprr Conteh",
+    "image": "https://media.pitchfork.com/photos/6a1f005947dd31e8244b5af9/1:1/w_768,c_limit/26CRGIM53564.rgb.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a22a96cbb3dc604ca93613a",
+    "artist": "Jake Muir",
+    "title": "Pareidolia",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-06-08T04:02:00.000Z",
+    "dateFormatted": "June 8, 2026",
+    "url": "/reviews/albums/jake-muir-pareidolia/",
+    "description": "After records sampling church bells and gay porn films, the field recordist and ambient musician turns his attention to black metal’s atmospheric interstitials, weaving them into epic, ominous drones.",
+    "reviewer": "Brad Sanders",
+    "image": "https://media.pitchfork.com/photos/6a22a889fc892426f2169f2d/1:1/w_768,c_limit/Jake%20Muir%20-%20Pareidolia.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a229a71fc892426f2169efa",
+    "artist": "K Wata",
+    "title": "Give U Space",
+    "score": 7.9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-06-08T04:01:00.000Z",
+    "dateFormatted": "June 8, 2026",
+    "url": "/reviews/albums/k-wata-give-u-space/",
+    "description": "The New York producer’s debut album is rooted in classic dub techno, but he succeeds in putting his own stamp on the oft-imitated genre, pointing it in new directions.",
+    "reviewer": "Daniel Bromfield",
+    "image": "https://media.pitchfork.com/photos/6a229980bd7a7a6c8164ad53/1:1/w_768,c_limit/K%20Wata%20-%20Give%20U%20Space.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a22f251c0ce040395a7a38d",
+    "artist": "The Bug Club",
+    "title": "Every Single Muscle",
+    "score": 7.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-06-08T04:00:00.000Z",
+    "dateFormatted": "June 8, 2026",
+    "url": "/reviews/albums/the-bug-club-every-single-muscle/",
+    "description": "On its latest album, the prolific Welsh duo takes a warped view of human anatomy in a set of twee-pop and post-punk songs free of innuendo and laced with feral enthusiasm.",
+    "reviewer": "Alex Robert Ross",
+    "image": "https://media.pitchfork.com/photos/6a22f1b3bb3dc604ca9365f2/1:1/w_768,c_limit/The%20Bug%20Club-Every%20Single%20Muscle.png",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a229ef51238ac1e5c4cb167",
     "artist": "Theo Parrish",
     "title": "First Floor",
