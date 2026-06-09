@@ -1,5 +1,78 @@
 [
   {
+    "id": "6a2710b35a0b04ca993e6fb4",
+    "artist": "B0YG1RL / Novagang",
+    "title": "EXIT 2B",
+    "score": 8.2,
+    "bnm": true,
+    "bnr": false,
+    "genres": [
+      "Electronic",
+      "Rap"
+    ],
+    "date": "2026-06-09T04:03:00.000Z",
+    "dateFormatted": "June 9, 2026",
+    "url": "/reviews/albums/b0yg1rl-novagang-exit-2b/",
+    "description": "The Miami duo’s electrifying, boundary-bending combination of Haitian kompa, underground rap, reggaeton, electro-pop, and baile funk is loud as hell and rich in egalitarian spirit.",
+    "reviewer": "Olivier Lafontant",
+    "image": "https://media.pitchfork.com/photos/6a0b5f507fc6f92eeff4275c/1:1/w_768,c_limit/B0YG1RL:%20EXIT%202B.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a26ea142a4c0368cf0f2be9",
+    "artist": "Of Montreal",
+    "title": "Aethermead",
+    "score": 6.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-06-09T04:02:00.000Z",
+    "dateFormatted": "June 9, 2026",
+    "url": "/reviews/albums/of-montreal-aethermead/",
+    "description": "Kevin Barnes’ 20th album is, once again, inspired by a breakup, but the drab music lacks the personality and vision of their best work.",
+    "reviewer": "Ethan Beck",
+    "image": "https://media.pitchfork.com/photos/6a1f02c65953023e4c87e091/1:1/w_768,c_limit/644110053091.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a26bb6cb5f1c32e7c146bd1",
+    "artist": "Vanessa Rossetto",
+    "title": "The Professional",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-06-09T04:01:00.000Z",
+    "dateFormatted": "June 9, 2026",
+    "url": "/reviews/albums/vanessa-rossetto-the-professional/",
+    "description": "The American composer’s latest album of field recordings and fourth-wall slippage is an engrossing travelogue from the outskirts of experimental music.",
+    "reviewer": "Levi Dayan",
+    "image": "https://media.pitchfork.com/photos/6a26b96568f3f9eab30abd24/1:1/w_768,c_limit/Vanessa%20Rossetto%20-%20The%20Professional.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a26e94da249f59340404736",
+    "artist": "Zoh Amba",
+    "title": "Eyes Full",
+    "score": 6.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-06-09T04:00:00.000Z",
+    "dateFormatted": "June 9, 2026",
+    "url": "/reviews/albums/zoh-amba-eyes-full/",
+    "description": "On their Matador debut, the improv musician re-emerges as a traditional singer-songwriter whose character-based narratives and alt-country stylings feel a touch too familiar.",
+    "reviewer": "Hannah Jocelyn",
+    "image": "https://media.pitchfork.com/photos/6a1f03f44715c13db662daf9/1:1/w_768,c_limit/600x600bb%20(80).jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a231e741238ac1e5c4cb711",
     "artist": "Vince Staples",
     "title": "Cry Baby",
