@@ -1,5 +1,77 @@
 [
   {
+    "id": "6a285cbaeca9b16e6ce65726",
+    "artist": "RealYungPhil ",
+    "title": "until something changes",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-06-10T04:03:00.000Z",
+    "dateFormatted": "June 10, 2026",
+    "url": "/reviews/albums/realyungphil-until-something-changes/",
+    "description": "The Connecticut rapper reunites with the Swedish underground producers of <em>Victory Music,</em> combining atmospheric sadboy synths with plainspoken East Coast grit.",
+    "reviewer": "Alphonse Pierre",
+    "image": "https://media.pitchfork.com/photos/6a285c4f9266f324bc1fdaa2/1:1/w_768,c_limit/RealYungPhil%20-%20until%20something%20changes%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a2844f4b76089fb0fd9fe51",
+    "artist": "Navy Blue",
+    "title": "Sir Render",
+    "score": 7.9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-06-10T04:02:00.000Z",
+    "dateFormatted": "June 10, 2026",
+    "url": "/reviews/albums/navy-blue-sir-render/",
+    "description": "Sage Elsesser’s latest is fashioned as a prequel to his last two LPs, detailing the darkness before a spiritual awakening. Over lush, radiant production, it’s his most surefooted rapping yet.",
+    "reviewer": "Dash Lewis",
+    "image": "https://media.pitchfork.com/photos/6a28446ecea2207d28fd03b6/1:1/w_768,c_limit/Navy%20Blue%20-%20Sir%20Render.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a26cedf2a4c0368cf0f2a9b",
+    "artist": "Beatrice M.",
+    "title": "Sinking",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-06-10T04:01:00.000Z",
+    "dateFormatted": "June 10, 2026",
+    "url": "/reviews/albums/beatrice-m-sinking/",
+    "description": "The Paris producer revives the sound of classic, mid-2000s dubstep on their debut album, but subtle, surprisingly moving details keep their music from feeling merely retro.",
+    "reviewer": "Ben Cardew",
+    "image": "https://media.pitchfork.com/photos/6a26ce570d34124b28b2aa24/1:1/w_768,c_limit/Beatrice%20M.%20-%20Sinking.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a282b5eeca9b16e6ce65500",
+    "artist": "Widowspeak",
+    "title": "Roses",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-06-10T04:00:00.000Z",
+    "dateFormatted": "June 10, 2026",
+    "url": "/reviews/albums/widowspeak-roses/",
+    "description": "The duo’s seventh album is a paean to romance, filled with ethereal indie-rock songs where love and daydreaming are an escape from the daily grind.",
+    "reviewer": "Linnie Greene",
+    "image": "https://media.pitchfork.com/photos/6a282abf9266f324bc1fd8de/1:1/w_768,c_limit/Widowspeak-Roses.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a2710b35a0b04ca993e6fb4",
     "artist": "B0YG1RL / Novagang",
     "title": "EXIT 2B",
