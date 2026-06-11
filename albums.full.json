@@ -1,5 +1,78 @@
 [
   {
+    "id": "6a29bf6fc683f423a1fff8a9",
+    "artist": "YHWH Nailgun",
+    "title": "Magazine",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-06-11T04:03:00.000Z",
+    "dateFormatted": "June 11, 2026",
+    "url": "/reviews/albums/yhwh-nailgun-magazine/",
+    "description": "Though only half the length of their 2025 breakthrough debut, the New York quartet’s second album is dense with ideas and enlivened by purpose.",
+    "reviewer": "Grayson Haver Currin",
+    "image": "https://media.pitchfork.com/photos/6a1ed6c7049d13b070a25593/1:1/w_768,c_limit/YHWH_magazine%20packshot%20(3).jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a27ce0db76089fb0fd9f957",
+    "artist": "KatzPascale",
+    "title": "ELEGY EP",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-06-11T04:02:00.000Z",
+    "dateFormatted": "June 11, 2026",
+    "url": "/reviews/albums/katzpascale-elegy-ep/",
+    "description": "The New York cello-saxophone duo trades the strictures of classical music for more exploratory tones and textures, fusing the expansiveness of film scores with the immediacy of pop.",
+    "reviewer": "Emma Madden",
+    "image": "https://media.pitchfork.com/photos/6a27c8421afda97beb764c5f/1:1/w_768,c_limit/KatzPascale%20-%20Elegy.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a297770146023d76d335569",
+    "artist": "Six Sex",
+    "title": "ULTRA",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-06-11T04:01:00.000Z",
+    "dateFormatted": "June 11, 2026",
+    "url": "/reviews/albums/six-sex-ultra/",
+    "description": "On her debut album, the chameleonic Argentine artist offers bouncy club absurdism and Latin electroclash steeped in hedonism, provocation, and sexual autonomy.",
+    "reviewer": "E.R. Pulgar",
+    "image": "https://media.pitchfork.com/photos/6a1f038c4715c13db662dacd/1:1/w_768,c_limit/820233386944.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a299fe7604582f71fef463c",
+    "artist": "Kane Parsons /  Edo Van Breemen",
+    "title": "Backrooms (Original Soundtrack)",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental",
+      "Experimental"
+    ],
+    "date": "2026-06-11T04:00:00.000Z",
+    "dateFormatted": "June 11, 2026",
+    "url": "/reviews/albums/kane-parsons-edo-van-breemen-backrooms-original-soundtrack/",
+    "description": "The dark-ambient score for A24’s hit horror film is at its best when it embraces the offbeat and uncanny.",
+    "reviewer": "Harry Thorfinn-George",
+    "image": "https://media.pitchfork.com/photos/6a299e6be1493afaaaa447d4/1:1/w_768,c_limit/Kane%20Parsons%20:%20Edo%20Van%20Breeman%20Backrooms%20(Original%20Soundtrack)%20.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a285cbaeca9b16e6ce65726",
     "artist": "RealYungPhil ",
     "title": "until something changes",
