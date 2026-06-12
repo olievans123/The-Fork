@@ -1,5 +1,78 @@
 [
   {
+    "id": "6a2b065c604582f71fef55a4",
+    "artist": "Olivia Rodrigo",
+    "title": "you seem pretty sad for a girl so in love",
+    "score": 8.3,
+    "bnm": true,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-06-12T04:03:00.000Z",
+    "dateFormatted": "June 12, 2026",
+    "url": "/reviews/albums/olivia-rodrigo-you-seem-pretty-sad-for-a-girl-so-in-love/",
+    "description": "The pop star’s third album is a heartbreaking account of an intense romance and its demise. Its mood is perfectly reflected in the music, and her evolution as a songwriter is a sight to behold.",
+    "reviewer": "Molly Mary O’Brien",
+    "image": "https://media.pitchfork.com/photos/6a1064f4cdd971dc49dbe97b/1:1/w_768,c_limit/Olivia%20Rodrigo%20-%20You%20Seem%20Pretty%20Sad%20for%20a%20Girl%20So%20in%20Love%20album%20art%20(no%20sticker).png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a2a7ba2604582f71fef4b1e",
+    "artist": "Skrillex",
+    "title": "SOMA",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-06-12T04:02:00.000Z",
+    "dateFormatted": "June 12, 2026",
+    "url": "/reviews/albums/skrillex-soma/",
+    "description": "Brazilian funk, techno, trance, Miami bass, dubstep, and even tech-house all find a place on Sonny Moore’s latest, a stylistic and collaborative free-for-all that rarely settles in one place for long.",
+    "reviewer": "Kiana Mickles",
+    "image": "https://media.pitchfork.com/photos/6a21bc30fc892426f2169b0a/1:1/w_768,c_limit/Soma_Cover_Final.jpeg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a2af14c1e3965e99ceedb4d",
+    "artist": "Baauer",
+    "title": "U",
+    "score": 6.9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-06-12T04:01:00.000Z",
+    "dateFormatted": "June 12, 2026",
+    "url": "/reviews/albums/baauer-u/",
+    "description": "Positioned as a return to the dancefloor, the Brooklyn-based producer’s first album in six years is filled with chopped-up throwback samples. It’s crowd-pleasing and joyful but somewhat anemic.",
+    "reviewer": "Hattie Lindert",
+    "image": "https://media.pitchfork.com/photos/69e7df2081912dd21c7a0155/1:1/w_768,c_limit/Baauer_U%203000.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a2b077440fd58c1e8677725",
+    "artist": "Ali Sethi / Gregory Rogove",
+    "title": "Room Jhoom",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental",
+      "Pop/R&B"
+    ],
+    "date": "2026-06-12T04:00:00.000Z",
+    "dateFormatted": "June 12, 2026",
+    "url": "/reviews/albums/ali-sethi-gregory-rogove-room-jhoom/",
+    "description": "The Pakistani American musician’s latest collaborative album is a quiet meditation on separation and yearning.",
+    "reviewer": "Arman Khan",
+    "image": "https://media.pitchfork.com/photos/6a2b0683146023d76d3367b1/1:1/w_768,c_limit/Ali%20Sethi%20Gregory%20Rogove%20Room%20Jhoom.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a29bf6fc683f423a1fff8a9",
     "artist": "YHWH Nailgun",
     "title": "Magazine",
