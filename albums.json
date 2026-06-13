@@ -1,5 +1,21 @@
 [
   {
+    "id": "6a2c19cc798cb0f312feb935",
+    "artist": "Saint Pepsi",
+    "title": "Hit Vibes",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [],
+    "date": "2026-06-13T04:00:00.000Z",
+    "dateFormatted": "June 13, 2026",
+    "url": "/reviews/albums/saint-pepsi-hit-vibes/",
+    "description": "A new reissue honors the influential vaporwave project’s crowning achievement: a groovy, sample-laden ode to excess that briefly epitomized the genre’s future funk offshoot.",
+    "reviewer": "Billie Bugara",
+    "image": "https://media.pitchfork.com/photos/6a2c19d767e96bbc5cc79829/1:1/w_768,c_limit/Saint%20Pepsi-Hit%20Vibes.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a2b065c604582f71fef55a4",
     "artist": "Olivia Rodrigo",
     "title": "you seem pretty sad for a girl so in love",
