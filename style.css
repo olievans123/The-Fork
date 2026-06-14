@@ -169,6 +169,26 @@ header {
   display: none;
 }
 
+/* Cross-link rendered as a mini wordmark of the sister site */
+.cross-logo {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-family: var(--font-sans);
+  font-weight: 700;
+  font-size: 15px;
+  letter-spacing: -0.4px;
+  text-decoration: none;
+  color: var(--fg);
+  padding: 0 10px;
+  height: 36px;
+  white-space: nowrap;
+  opacity: 0.9;
+  transition: opacity var(--transition);
+}
+.cross-logo:hover { opacity: 1; }
+.cross-logo .x { font-size: 11px; font-weight: 600; color: var(--fg-tertiary); }
+
 /* Header search toggle — search field expands from this icon (all sizes) */
 
 @media (min-width: 640px) {
