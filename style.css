@@ -1323,6 +1323,7 @@ main {
   .controls { padding: 8px 12px; }
   main { padding: 12px 12px 60px; }
   .header-stats { display: none; }
+  #statsToggle { display: none; }   /* hide stats button in header on mobile */
   .stats-panel-inner { grid-template-columns: 1fr; }
   .album-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px 10px; }
   .album-card { min-width: 0; }
