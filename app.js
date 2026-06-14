@@ -574,6 +574,11 @@ async function loadData() {
     a.language = language || 'Unknown';
   });
 
+  // "Updated" date = most recent review in the dataset
+  const latest = allAlbums.reduce((m, a) => (a.date && a.date > m ? a.date : m), '');
+  const dateEl = document.getElementById('attribDate');
+  if (dateEl && latest) dateEl.textContent = 'Updated ' + new Date(latest).toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
+
   document.getElementById('loading').classList.add('hidden');
   populateFilters();
   applyFilters();
