@@ -1,5 +1,23 @@
 [
   {
+    "id": "6a2c31c5dbab91dec3078720",
+    "artist": "Hole",
+    "title": "Celebrity Skin",
+    "score": 9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-06-14T04:00:00.000Z",
+    "dateFormatted": "June 14, 2026",
+    "url": "/reviews/albums/hole-celebrity-skin/",
+    "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we look back at Hole’s third album, Hollywood in the late 1990s, and the redemption of Courtney Love.",
+    "reviewer": "Quinn Moreland",
+    "image": "https://media.pitchfork.com/photos/6a2c315b798cb0f312feba36/1:1/w_768,c_limit/Hole%20-%20Celebrity%20Skin%20album%20art.jpg",
+    "releaseYear": 1998
+  },
+  {
     "id": "6a2c19cc798cb0f312feb935",
     "artist": "Saint Pepsi",
     "title": "Hit Vibes",
