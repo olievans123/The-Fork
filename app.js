@@ -17,6 +17,60 @@ let activeModalAlbumId = null;
 let modalTriggerElement = null;
 const albumById = new Map();
 
+/* ──────────────────────────────────────────────────────────────
+   ADS (Google AdSense)
+   To go live: 1) get approved at https://adsense.google.com
+   2) fill AD_CLIENT with your publisher id (ca-pub-…)
+   3) create two ad units and paste their slot ids below.
+   Leave AD_CLIENT empty to disable ads entirely — the site then
+   renders exactly as before, no ad code loaded, no console noise.
+   EU/UK consent: enable the built-in Google "Privacy & messaging"
+   CMP in the AdSense dashboard — no code needed here.
+   ────────────────────────────────────────────────────────────── */
+const AD_CLIENT = 'ca-pub-8056005739427082';
+// Leave these blank to rely on AdSense "Auto ads" (enabled in the dashboard),
+// or paste manual ad-unit slot ids to use the fixed banner + in-grid placements.
+const AD_SLOT_BANNER = '';       // responsive banner unit slot id
+const AD_SLOT_INGRID = '';       // in-grid native unit slot id
+const AD_INGRID_INTERVAL = 24;   // insert an in-grid ad every N album cards
+
+// The loader <script> lives in index.html's <head>. Manual units only render
+// when their slot id is set; with both blank, Auto ads handle placement.
+const adsEnabled = () => Boolean(AD_CLIENT && AD_SLOT_BANNER);
+const adsInGridEnabled = () => Boolean(AD_CLIENT && AD_SLOT_INGRID);
+
+function loadAdsScript() {
+  if (!AD_CLIENT || document.getElementById('adsbygoogle-js')) return;
+  const s = document.createElement('script');
+  s.id = 'adsbygoogle-js';
+  s.async = true;
+  s.crossOrigin = 'anonymous';
+  s.src = `https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${AD_CLIENT}`;
+  document.head.appendChild(s);
+}
+
+function adInGridHtml() {
+  return `<div class="ad-ingrid"><span class="ad-label">Advertisement</span><ins class="adsbygoogle" style="display:block" data-ad-client="${AD_CLIENT}" data-ad-slot="${AD_SLOT_INGRID}" data-ad-format="auto" data-full-width-responsive="true"></ins></div>`;
+}
+
+function initBannerAd() {
+  if (!adsEnabled()) return;
+  const banner = document.getElementById('adBanner');
+  if (!banner) return;
+  banner.innerHTML = `<span class="ad-label">Advertisement</span><ins class="adsbygoogle" style="display:block" data-ad-client="${AD_CLIENT}" data-ad-slot="${AD_SLOT_BANNER}" data-ad-format="auto" data-full-width-responsive="true"></ins>`;
+  banner.classList.add('visible');
+  mountAds();
+}
+
+// Push any ad slot that hasn't been initialised yet.
+function mountAds() {
+  if (!AD_CLIENT) return;
+  document.querySelectorAll('ins.adsbygoogle:not([data-ad-mounted])').forEach(ins => {
+    ins.setAttribute('data-ad-mounted', '1');
+    try { (window.adsbygoogle = window.adsbygoogle || []).push({}); } catch (e) { /* adsbygoogle not ready */ }
+  });
+}
+
 const state = {
   view: 'grid',
   groupBy: 'none',
@@ -786,6 +840,7 @@ function renderAlbums() {
   }
 
   prefetchReleaseYears(visibleAlbums);
+  mountAds();
 }
 
 function loadMoreAlbums() {
@@ -835,11 +890,22 @@ function loadMoreAlbums() {
   }
 
   prefetchReleaseYears(chunk);
+  mountAds();
+}
+
+function renderGridCards(items) {
+  if (!adsInGridEnabled()) return items.map(renderCard).join('');
+  let out = '';
+  items.forEach((album, i) => {
+    out += renderCard(album);
+    if ((i + 1) % AD_INGRID_INTERVAL === 0 && i + 1 < items.length) out += adInGridHtml();
+  });
+  return out;
 }
 
 function renderAlbumBlock(items) {
   if (state.view === 'grid') {
-    return `<div class="album-grid">${items.map(renderCard).join('')}</div>`;
+    return `<div class="album-grid">${renderGridCards(items)}</div>`;
   } else {
     return `<div class="album-list" role="table">
       <div class="list-header" role="row">
@@ -986,6 +1052,18 @@ function updateActiveFilters() {
   let html = tags.map((t, i) => `<span class="filter-tag" data-idx="${i}">${esc(t.label)} &times;</span>`).join('');
   if (tags.length >= 2) html += '<span class="filter-tag filter-tag-clear" data-action="clear-all">Clear all &times;</span>';
   el.innerHTML = html;
+
+  // Badge the mobile "Filters" button with the active dropdown-filter count
+  const countEl = document.getElementById('filterToggleCount');
+  if (countEl) {
+    const n = FILTER_TAG_CONFIG.filter(c => c.key !== 'search' && state[c.key] !== c.defaultVal).length;
+    if (n) { countEl.textContent = n; countEl.hidden = false; }
+    else { countEl.hidden = true; }
+  }
+
+  // Highlight the header search icon when a query is active
+  const searchToggleEl = document.getElementById('searchToggle');
+  if (searchToggleEl) searchToggleEl.classList.toggle('active', Boolean(state.search));
 
   el.querySelectorAll('.filter-tag').forEach(tag => {
     if (tag.dataset.action === 'clear-all') {
@@ -1138,13 +1216,43 @@ function init() {
     applyFilters();
   });
 
-  // More filters toggle
+  // More filters toggle (desktop secondary filters)
   const moreFiltersBtn = document.getElementById('moreFiltersBtn');
   const filtersMore = document.getElementById('filtersMore');
   moreFiltersBtn.addEventListener('click', () => {
     filtersMore.classList.toggle('open');
     moreFiltersBtn.classList.toggle('active');
   });
+
+  // Mobile "Filters" dropdown toggle — collapses all filters behind one button
+  const filterToggle = document.getElementById('filterToggle');
+  const controlsEl = document.querySelector('.controls');
+  if (filterToggle && controlsEl) {
+    filterToggle.addEventListener('click', () => {
+      const open = controlsEl.classList.toggle('filters-open');
+      filterToggle.classList.toggle('active', open);
+      filterToggle.setAttribute('aria-expanded', String(open));
+    });
+  }
+
+  // Mobile search toggle — reveals the search bar from the header icon
+  const searchToggle = document.getElementById('searchToggle');
+  const openSearch = (open) => {
+    if (!controlsEl) return;
+    controlsEl.classList.toggle('search-open', open);
+    if (searchToggle) searchToggle.setAttribute('aria-expanded', String(open));
+    if (open) requestAnimationFrame(() => document.getElementById('search').focus());
+  };
+  if (searchToggle && controlsEl) {
+    searchToggle.addEventListener('click', () => {
+      openSearch(!controlsEl.classList.contains('search-open'));
+    });
+    // If arriving with a search already applied (from a shared URL), reveal it
+    if (state.search) {
+      controlsEl.classList.add('search-open');
+      searchToggle.setAttribute('aria-expanded', 'true');
+    }
+  }
 
   // Search with debounce
   let searchTimeout;
@@ -1214,6 +1322,7 @@ function init() {
     // "/" to focus search
     if (e.key === '/' && document.activeElement.tagName !== 'INPUT' && document.activeElement.tagName !== 'TEXTAREA') {
       e.preventDefault();
+      openSearch(true);
       document.getElementById('search').focus();
     }
     // Focus trap inside modal
@@ -1233,6 +1342,10 @@ function init() {
 
   // Infinite scroll
   initInfiniteScroll();
+
+  // Ads
+  loadAdsScript();
+  initBannerAd();
 
   // Load data
   loadData();

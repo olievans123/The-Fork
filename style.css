@@ -169,6 +169,8 @@ header {
   display: none;
 }
 
+/* Header search toggle — search field expands from this icon (all sizes) */
+
 @media (min-width: 640px) {
   .coffee-label {
     display: inline;
@@ -373,10 +375,13 @@ header {
   padding: 12px 40px;
 }
 
-.search-group {
-  position: relative;
-  margin-bottom: 10px;
-}
+/* Search collapses behind the header icon on all screen sizes.
+   Note: the element is .control-group.search-group, and .control-group sets
+   display:flex later in the file — so these need the extra .controls specificity
+   to win. */
+.search-group { position: relative; }
+.controls .search-group { display: none; }
+.controls.search-open .search-group { display: flex; margin-bottom: 10px; }
 
 .search-icon {
   position: absolute;
@@ -588,6 +593,80 @@ select:focus { border-color: var(--fg); }
 .view-btn.active { background: var(--fg); color: var(--bg); }
 
 .view-btn:hover:not(.active) { color: var(--fg); }
+
+/* ── Mobile filters toggle (hidden on desktop) ── */
+.filter-toggle {
+  display: none;
+  align-items: center;
+  gap: 6px;
+  font-family: var(--font-sans);
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  padding: 8px 12px;
+  border: 1px solid var(--border);
+  background: var(--bg);
+  color: var(--fg-secondary);
+  cursor: pointer;
+  transition: all var(--transition);
+}
+.filter-toggle.active { border-color: var(--fg); color: var(--fg); }
+.filter-toggle-count {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 17px;
+  height: 17px;
+  padding: 0 4px;
+  border-radius: 9px;
+  background: var(--red);
+  color: #fff;
+  font-size: 11px;
+  line-height: 1;
+}
+.filter-toggle-count[hidden] { display: none; }
+
+/* ── Ads ── */
+.ad-banner {
+  display: none;
+  max-width: 1440px;
+  margin: 16px auto 0;
+  padding: 0 40px;
+  text-align: center;
+}
+.ad-banner.visible { display: block; }
+.ad-ingrid {
+  grid-column: 1 / -1;
+  margin: 8px 0;
+  text-align: center;
+  min-height: 90px;
+}
+.ad-label {
+  display: block;
+  font-family: var(--font-sans);
+  font-size: 9px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--fg-tertiary);
+  margin-bottom: 4px;
+}
+
+/* ── Footer ── */
+.site-footer {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 32px 40px 48px;
+  border-top: 1px solid var(--border);
+  text-align: center;
+  color: var(--fg-tertiary);
+  font-size: 12px;
+  line-height: 1.6;
+}
+.site-footer-links { margin-top: 8px; display: flex; gap: 10px; justify-content: center; align-items: center; }
+.site-footer a { color: var(--fg-secondary); text-decoration: none; }
+.site-footer a:hover { color: var(--fg); text-decoration: underline; }
 
 /* ── Main ── */
 main {
@@ -1239,14 +1318,41 @@ main {
   .modal-cover { width: 100%; height: auto; aspect-ratio: 1; }
   .modal-body { padding: 20px; }
 
-  /* Compact filters */
-  .search-group { margin-bottom: 6px; }
+  /* Collapse all filters behind a single "Filters" dropdown button.
+     Closed state shows only: search, then a compact [Filters][Sort][view] bar. */
+  .controls { display: flex; flex-direction: column; }
+  .search-group { order: 0; margin-bottom: 6px; }
+  .display-row  { order: 1; }
+  .filters-row  { order: 2; }
+  .filters-more { order: 3; }
+
   #search { font-size: 14px; padding: 8px 32px 8px 32px; }
-  .filters-row {
+  .controls.search-open .search-group { margin-bottom: 8px; }
+
+  /* The single Filters toggle replaces the desktop "More filters" button */
+  .filter-toggle { display: inline-flex; }
+  .more-filters-btn { display: none; }
+
+  /* Hide the filter dropdowns until the panel is opened */
+  .filters-row,
+  .filters-more,
+  .filters-more.open { display: none; }
+
+  .controls.filters-open .filters-row,
+  .controls.filters-open .filters-more {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 6px;
+    gap: 8px;
+    margin-top: 8px;
+    padding-top: 10px;
+    border-top: 1px solid var(--border);
   }
+  .controls.filters-open .filters-more {
+    margin-top: 0;
+    padding-top: 8px;
+    border-top: none;
+  }
+
   .control-group {
     flex-direction: column;
     align-items: stretch;
@@ -1254,24 +1360,20 @@ main {
   }
   .control-group label { font-size: 10px; }
   select { font-size: 13px; padding: 8px 28px 8px 8px; width: 100%; }
-  .more-filters-btn {
-    grid-column: 1 / -1;
-    padding: 8px 10px;
-    font-size: 10px;
-    justify-content: center;
-  }
-  .filters-more.open {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 6px;
-  }
+
+  /* Compact control bar */
   .display-row {
-    gap: 6px;
-    margin-top: 6px;
-    padding-top: 6px;
+    gap: 8px;
+    margin-top: 0;
+    padding-top: 0;
+    border-top: none;
   }
   .display-row .control-group { flex-direction: row; align-items: center; }
   .display-row select { font-size: 13px; width: auto; }
+  .active-filters { order: 10; flex-basis: 100%; }
   .sort-dir-btn { width: 32px; height: 32px; }
   .view-btn { width: 32px; height: 32px; }
+
+  .ad-banner { padding: 0 12px; margin-top: 12px; }
+  .site-footer { padding: 24px 16px 40px; }
 }
