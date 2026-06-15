@@ -1506,5 +1506,8 @@ main {
 }
 .drop-launch-close:hover { background: var(--bg-alt); color: var(--fg); }
 @media (max-width: 520px) {
-  .drop-launch { bottom: 12px; right: 12px; left: 12px; width: auto; }
+  .drop-launch { bottom: 12px; right: 12px; left: 12px; width: auto; padding: 14px 16px 16px; }
+  .drop-launch h4 { font-size: 17px; }
+  .drop-launch p { font-size: 12.5px; margin-bottom: 12px; }
+  .drop-launch-pill { margin-bottom: 8px; }
 }
