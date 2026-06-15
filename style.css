@@ -174,6 +174,8 @@ header {
   border-color: var(--red);
 }
 
+.coffee-cta-bar { display: none; }   /* shown only on mobile, in the controls bar */
+
 .coffee-label {
   display: none;
 }
@@ -1358,8 +1360,9 @@ main {
   .controls { padding: 8px 12px; }
   main { padding: 12px 12px 60px; }
   .header-stats { display: none; }
-  #statsToggle { display: none; }   /* hide stats button in header on mobile */
-  .coffee-btn { background: var(--red); color: #fff; border-color: var(--red); }   /* solid fill on mobile, no outline */
+  .header-actions .coffee-btn { display: none; }   /* coffee moves to the controls bar on mobile */
+  .coffee-cta-bar { display: inline-flex; }         /* full labelled CTA beside the grid/list toggle */
+  .coffee-btn { background: var(--red); color: #fff; border-color: var(--red); }   /* solid colour fill, no outline */
   .attrib-strip { font-size: 10.5px; }
   .attrib-inner { padding: 6px 12px; }
   .attrib-date { display: none; }
