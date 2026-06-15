@@ -164,14 +164,14 @@ header {
   text-decoration: none;
   border-radius: 16px;
   background: transparent;
-  color: #e6b24d;
-  border-color: rgba(224, 168, 46, 0.55);
+  color: var(--red);
+  border-color: var(--red);
 }
 
 .coffee-btn:hover {
-  background: rgba(224, 168, 46, 0.12);
-  color: #f0c163;
-  border-color: #e0a82e;
+  background: var(--red-dim);
+  color: var(--red);
+  border-color: var(--red);
 }
 
 .coffee-label {
@@ -1359,6 +1359,7 @@ main {
   main { padding: 12px 12px 60px; }
   .header-stats { display: none; }
   #statsToggle { display: none; }   /* hide stats button in header on mobile */
+  .coffee-btn { background: var(--red); color: #fff; border-color: var(--red); }   /* solid fill on mobile, no outline */
   .attrib-strip { font-size: 10.5px; }
   .attrib-inner { padding: 6px 12px; }
   .attrib-date { display: none; }
