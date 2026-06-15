@@ -1157,10 +1157,8 @@ function closeModal() {
 
 /* ── Dark Mode ── */
 function initTheme() {
-  const saved = localStorage.getItem('fork_theme');
-  if (saved !== 'light') {
-    document.documentElement.setAttribute('data-theme', 'dark');
-  }
+  // Dark mode is always on (toggle removed) — force it regardless of any saved pref.
+  document.documentElement.setAttribute('data-theme', 'dark');
 }
 
 function toggleTheme() {
@@ -1312,9 +1310,6 @@ function init() {
     statsToggle.setAttribute('aria-expanded', String(isOpen));
     if (isOpen) renderStatsPanel(filtered);
   });
-
-  // Dark mode
-  document.getElementById('themeToggle').addEventListener('click', toggleTheme);
 
   // Modal
   const modalOverlay = document.getElementById('modalOverlay');
