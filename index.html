@@ -18,7 +18,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css?v=20260614f">
+  <link rel="stylesheet" href="style.css?v=20260615a">
   <!-- Google AdSense -->
   <script async id="adsbygoogle-js" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8056005739427082" crossorigin="anonymous"></script>
 </head>
@@ -200,6 +200,31 @@
 
   <!-- Toast -->
   <div class="toast" id="toast"></div>
+
+  <!-- The Drop launch card (shown once) -->
+  <div class="drop-launch" id="dropLaunch" role="dialog" aria-label="The Drop has launched">
+    <button class="drop-launch-close" id="dropLaunchClose" aria-label="Dismiss">&times;</button>
+    <span class="drop-launch-pill">New · Sister site</span>
+    <h4>THE <b>DROP</b> is live</h4>
+    <p>Every album <b>Anthony Fantano</b> (The Needledrop) has ever reviewed — scored, searchable and ranked.</p>
+    <a class="drop-launch-cta" href="https://the-drop-reviews.vercel.app" target="_blank" rel="noopener" id="dropLaunchCta">Explore The Drop →</a>
+  </div>
+  <script>
+    (function () {
+      var KEY = 'forkDropLaunchSeen';
+      try { if (localStorage.getItem(KEY)) return; } catch (e) {}
+      var card = document.getElementById('dropLaunch');
+      if (!card) return;
+      function dismiss() {
+        card.classList.remove('show');
+        try { localStorage.setItem(KEY, '1'); } catch (e) {}
+      }
+      document.getElementById('dropLaunchClose').addEventListener('click', dismiss);
+      document.getElementById('dropLaunchCta').addEventListener('click', dismiss);
+      // Show after a short beat so it slides in, not flashes on load
+      setTimeout(function () { card.classList.add('show'); }, 2500);
+    })();
+  </script>
 
   <!-- Footer -->
   <footer class="site-footer">

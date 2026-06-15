@@ -1427,3 +1427,84 @@ main {
   .ad-banner { padding: 0 12px; margin-top: 12px; }
   .site-footer { padding: 24px 16px 40px; }
 }
+
+/* ── The Drop launch card ─────────────────────────────── */
+.drop-launch {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1200;
+  width: 340px;
+  max-width: calc(100vw - 32px);
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-top: 3px solid #d99000;
+  box-shadow: var(--shadow-lg);
+  padding: 18px 20px 20px;
+  transform: translateY(24px);
+  opacity: 0;
+  pointer-events: none;
+  transition: transform 0.35s cubic-bezier(.16,1,.3,1), opacity 0.35s ease;
+}
+.drop-launch.show { transform: translateY(0); opacity: 1; pointer-events: auto; }
+.drop-launch-pill {
+  display: inline-block;
+  font-family: var(--font-sans);
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #d99000;
+  background: #d9900018;
+  padding: 3px 8px;
+  margin-bottom: 10px;
+}
+.drop-launch h4 {
+  font-family: var(--font-serif);
+  font-size: 19px;
+  font-weight: 700;
+  line-height: 1.2;
+  margin-bottom: 6px;
+  color: var(--fg);
+}
+.drop-launch h4 b { color: #d99000; }
+.drop-launch p {
+  font-family: var(--font-sans);
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--fg-secondary);
+  margin-bottom: 14px;
+}
+.drop-launch-cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-family: var(--font-sans);
+  font-size: 13px;
+  font-weight: 600;
+  color: #fff;
+  background: #d99000;
+  padding: 9px 16px;
+  text-decoration: none;
+  transition: background var(--transition);
+}
+.drop-launch-cta:hover { background: #c07f00; }
+.drop-launch-close {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  width: 26px;
+  height: 26px;
+  border: none;
+  background: none;
+  color: var(--fg-tertiary);
+  font-size: 20px;
+  line-height: 1;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: background var(--transition), color var(--transition);
+}
+.drop-launch-close:hover { background: var(--bg-alt); color: var(--fg); }
+@media (max-width: 520px) {
+  .drop-launch { bottom: 12px; right: 12px; left: 12px; width: auto; }
+}
