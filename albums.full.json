@@ -1,5 +1,78 @@
 [
   {
+    "id": "6a2c39db810351509807d3cb",
+    "artist": "Kelsey Lu",
+    "title": "So Help Me God",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-06-15T04:03:00.000Z",
+    "dateFormatted": "June 15, 2026",
+    "url": "/reviews/albums/kelsey-lu-so-help-me-god/",
+    "description": "The cellist and singer-songwriter’s second album traces heartbreak and self-discovery in exuberant and multi-layered orchestral folk-pop, delivered with generosity and style.",
+    "reviewer": "Kiana Mickles",
+    "image": "https://media.pitchfork.com/photos/6a2c399640fd58c1e8678703/1:1/w_768,c_limit/Kelsey%20Lu%20-%20So%20Help%20Me%20God%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a2c1375810351509807d180",
+    "artist": "Sublime",
+    "title": "Until the Sun Explodes",
+    "score": 4.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-06-15T04:02:00.000Z",
+    "dateFormatted": "June 15, 2026",
+    "url": "/reviews/albums/sublime-until-the-sun-explodes/",
+    "description": "Led by the son of their late frontman Bradley Nowell, a reformed Sublime take a studied and airless approach to recapturing their signature sound. It has all the data but little of the soul.",
+    "reviewer": "Sadie Sartini Garner",
+    "image": "https://media.pitchfork.com/photos/69c436eec401dc6cbd2ae105/1:1/w_768,c_limit/Sublime-Until-the-Sun-Explodes.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a2c370d798cb0f312feba9f",
+    "artist": "Káryyn",
+    "title": "Physics Universal Love Language (PULL)",
+    "score": 6.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic",
+      "Pop/R&B"
+    ],
+    "date": "2026-06-15T04:01:00.000Z",
+    "dateFormatted": "June 15, 2026",
+    "url": "/reviews/albums/karyyn-physics-universal-love-language-pull/",
+    "description": "Despite her lofty ambitions, the avant-pop singer is at her most compelling when grounded in the earthly pleasures of four-to-the-floor beats and straightforward, theatrical hooks.",
+    "reviewer": "Alex Robert Ross",
+    "image": "https://media.pitchfork.com/photos/6a2c35c2810351509807d328/1:1/w_768,c_limit/Ka%CC%81ryyn%20Physics%20Universal%20Love%20Language.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a2bc8af67e96bbc5cc79759",
+    "artist": "Soli City",
+    "title": "Poetics of a New Estate",
+    "score": 6.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-06-15T04:00:00.000Z",
+    "dateFormatted": "June 15, 2026",
+    "url": "/reviews/albums/soli-city-poetics-of-a-new-estate/",
+    "description": "Like many of his Copenhagen peers, the Swedish composer is out to unsettle, pairing passages of chamber ambient and spoken-word poetry with stone-faced non sequiturs and moments of jarring ugliness.",
+    "reviewer": "Daniel Bromfield",
+    "image": "https://media.pitchfork.com/photos/6a2bc82c40fd58c1e86782c4/1:1/w_768,c_limit/Soli%20City%20-%20Poetics%20of%20a%20New%20Estate.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a2c31c5dbab91dec3078720",
     "artist": "Hole",
     "title": "Celebrity Skin",
