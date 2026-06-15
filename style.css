@@ -157,12 +157,21 @@ header {
 
 .coffee-btn {
   width: auto;
-  padding: 0 10px;
+  padding: 0 12px;
   gap: 6px;
   font-size: 0.75rem;
-  font-weight: 500;
+  font-weight: 700;
   text-decoration: none;
-  border-radius: 6px;
+  border-radius: 16px;
+  background: #FFDD00;
+  color: #14110d;
+  border-color: #FFDD00;
+}
+
+.coffee-btn:hover {
+  background: #ffd000;
+  color: #14110d;
+  border-color: #ffd000;
 }
 
 .coffee-label {
