@@ -1361,8 +1361,7 @@ main {
   main { padding: 12px 12px 60px; }
   .header-stats { display: none; }
   .header-actions .coffee-btn { display: none; }   /* coffee moves to the controls bar on mobile */
-  .coffee-cta-bar { display: inline-flex; }         /* full labelled CTA beside the grid/list toggle */
-  .coffee-btn { background: var(--red); color: #fff; border-color: var(--red); }   /* solid colour fill, no outline */
+  .coffee-cta-bar { display: inline-flex; margin-left: auto; }   /* desktop-style outline CTA, right-aligned */
   .attrib-strip { font-size: 10.5px; }
   .attrib-inner { padding: 6px 12px; }
   .attrib-date { display: none; }
