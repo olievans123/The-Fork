@@ -1491,14 +1491,17 @@ main {
 .drop-launch-cta:hover { background: #c07f00; }
 .drop-launch-close {
   position: absolute;
-  top: 8px;
-  right: 8px;
-  width: 26px;
-  height: 26px;
+  top: 6px;
+  right: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
   border: none;
   background: none;
   color: var(--fg-tertiary);
-  font-size: 20px;
+  font-size: 24px;
   line-height: 1;
   cursor: pointer;
   border-radius: 4px;
