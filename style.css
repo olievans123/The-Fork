@@ -163,15 +163,15 @@ header {
   font-weight: 700;
   text-decoration: none;
   border-radius: 16px;
-  background: #FFDD00;
-  color: #14110d;
-  border-color: #FFDD00;
+  background: transparent;
+  color: #e6b24d;
+  border-color: rgba(224, 168, 46, 0.55);
 }
 
 .coffee-btn:hover {
-  background: #ffd000;
-  color: #14110d;
-  border-color: #ffd000;
+  background: rgba(224, 168, 46, 0.12);
+  color: #f0c163;
+  border-color: #e0a82e;
 }
 
 .coffee-label {
