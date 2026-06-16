@@ -1,5 +1,79 @@
 [
   {
+    "id": "6a3058aa94399ae803fb10ce",
+    "artist": "Ruth Garbus",
+    "title": "Profound",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-06-16T04:03:00.000Z",
+    "dateFormatted": "June 16, 2026",
+    "url": "/reviews/albums/ruth-garbus-profound/",
+    "description": "The singer-songwriter’s new album is surreal and beautifully austere. The mood is light, the pace is slow, and her reflections are lucid.",
+    "reviewer": "Sam Sodomsky",
+    "image": "https://media.pitchfork.com/photos/6a3059520e20736905179254/1:1/w_768,c_limit/ruth%20garbus%20profound.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a30231235421443a27ba0bf",
+    "artist": "Horse Lords",
+    "title": "Demand to Be Taken to Heaven Alive!",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental",
+      "Rock"
+    ],
+    "date": "2026-06-16T04:02:00.000Z",
+    "dateFormatted": "June 16, 2026",
+    "url": "/reviews/albums/horse-lords-demand-to-be-taken-to-heaven-alive/",
+    "description": "Accompanied by woodwinds and horns and, for the first time, vocals, the Baltimore rock band returns with its prettiest and most welcoming music to date.",
+    "reviewer": "Jayson Greene",
+    "image": "https://media.pitchfork.com/photos/6a272aa92a4c0368cf0f2d39/1:1/w_768,c_limit/63409.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a2bc09f40fd58c1e86782bf",
+    "artist": "Ibrahim Alfa Jnr.",
+    "title": "Infinite Black Inside",
+    "score": 7.9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-06-16T04:01:00.000Z",
+    "dateFormatted": "June 16, 2026",
+    "url": "/reviews/albums/ibrahim-alfa-jnr-infinite-black-inside/",
+    "description": "A ’90s techno veteran long sidelined by health issues delivers an introspective gem full of complex harmonies and intricate drum programming.",
+    "reviewer": "H.D. Angel",
+    "image": "https://media.pitchfork.com/photos/6a2bbe62dbab91dec3078578/1:1/w_768,c_limit/Ibrahim%20Alfa%20Jnr%20-%20Infinite%20Black%20Inside.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a304b4bbc1dfa10adcc3ae7",
+    "artist": "Booker Stardrum / Evan Shornstein",
+    "title": "OOPS!",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental",
+      "Electronic"
+    ],
+    "date": "2026-06-16T04:00:00.000Z",
+    "dateFormatted": "June 16, 2026",
+    "url": "/reviews/albums/booker-stardrum-evan-shornstein-oops/",
+    "description": "The percussionist and producer&#8212;both agile, genre-agnostic improvisers&#8212;team up for a playfully disorienting record that combines acoustic instruments and warped electronic textures.",
+    "reviewer": "Dash Lewis",
+    "image": "https://media.pitchfork.com/photos/6a304ab694399ae803fb101e/1:1/w_768,c_limit/Booker%20Stardrum%20Evan%20Shornstein-OOPS!.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a2c39db810351509807d3cb",
     "artist": "Kelsey Lu",
     "title": "So Help Me God",
@@ -67,7 +141,7 @@
     "date": "2026-06-15T04:00:00.000Z",
     "dateFormatted": "June 15, 2026",
     "url": "/reviews/albums/soli-city-poetics-of-a-new-estate/",
-    "description": "Like many of his Copenhagen peers, the Swedish composer is out to unsettle, pairing passages of chamber ambient and spoken-word poetry with stone-faced non sequiturs and moments of jarring ugliness.",
+    "description": "Like many of his Copenhagen peers, the Danish composer is out to unsettle, pairing passages of chamber ambient and spoken-word poetry with stone-faced non sequiturs and moments of jarring ugliness.",
     "reviewer": "Daniel Bromfield",
     "image": "https://media.pitchfork.com/photos/6a2bc82c40fd58c1e86782c4/1:1/w_768,c_limit/Soli%20City%20-%20Poetics%20of%20a%20New%20Estate.jpg",
     "releaseYear": 2026
@@ -688,7 +762,7 @@
   },
   {
     "id": "6a1f19454715c13db662dcc8",
-    "artist": "ear ",
+    "artist": "ear",
     "title": "Rumspringa",
     "score": 7.3,
     "bnm": false,
