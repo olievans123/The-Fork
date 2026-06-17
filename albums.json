@@ -1,5 +1,99 @@
 [
   {
+    "id": "6a31a720e7b67a37a66f349c",
+    "artist": "Wiki",
+    "title": "Ancient History",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-06-17T04:03:00.000Z",
+    "dateFormatted": "June 17, 2026",
+    "url": "/reviews/albums/wiki-ancient-history/",
+    "description": "Backed by a diverse set of producers, the New York rapper spends his latest pondering the nuances of his hometown and what it means to age gracefully.",
+    "reviewer": "Lei Takanashi",
+    "image": "https://media.pitchfork.com/photos/6a272b0fe09efbb87f55b5e7/1:1/w_768,c_limit/5056818809286.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a31aaae801ab21c70e0c6e3",
+    "artist": "RaiNao",
+    "title": "Macría",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-06-17T04:02:00.000Z",
+    "dateFormatted": "June 17, 2026",
+    "url": "/reviews/albums/rainao-macria/",
+    "description": "The Puerto Rican artist’s third album explodes her signature sound into an immersive, sensory experience that’s both meticulous and playful.",
+    "reviewer": "Tatiana Lee Rodriguez",
+    "image": "https://media.pitchfork.com/photos/6a31aa6fe922f54904a31fd3/1:1/w_768,c_limit/Macri%CC%81a.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a316585e922f54904a31b59",
+    "artist": "Vybz Kartel",
+    "title": "God and Time",
+    "score": 6.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-06-17T04:01:00.000Z",
+    "dateFormatted": "June 17, 2026",
+    "url": "/reviews/albums/vybz-kartel-god-and-time/",
+    "description": "On his first proper album since being released from prison, the dancehall legend lacks some of the roguish spark that made him a star but draws energy from an impressive roster of features.",
+    "reviewer": "Edwin “STATS” Houghton",
+    "image": "https://media.pitchfork.com/photos/6a3164cde922f54904a31b4d/1:1/w_768,c_limit/Vybz%20Kartel-God%20and%20Time.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a31ae41e7b67a37a66f3597",
+    "artist": "Anysia Kym / Tony Seltzer",
+    "title": "Purity (Flips)",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B",
+      "Electronic",
+      "Rap",
+      "Rap"
+    ],
+    "date": "2026-06-17T04:00:00.000Z",
+    "dateFormatted": "June 17, 2026",
+    "url": "/reviews/albums/anysia-kym-tony-seltzer-purity-flips/",
+    "description": "Thirteen producers take on the stems from last year’s <em>Purity,</em> stretching the original tracks from the two Brooklynites into a fascinating array of sounds and styles.",
+    "reviewer": "Benny Sun",
+    "image": "https://media.pitchfork.com/photos/6a31addf3097cc9623857bf0/1:1/w_768,c_limit/purity%20flips.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a30231235421443a27ba0bf",
+    "artist": "Horse Lords",
+    "title": "Demand to Be Taken to Heaven Alive!",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental",
+      "Rock"
+    ],
+    "date": "2026-06-16T20:14:16.000Z",
+    "dateFormatted": "June 16, 2026",
+    "url": "/reviews/albums/horse-lords-demand-to-be-taken-to-heaven-alive/",
+    "description": "Accompanied by woodwinds and horns and, for the first time, vocals, the Baltimore rock band returns with its prettiest and most welcoming music to date.",
+    "reviewer": "Jayson Greene",
+    "image": "https://media.pitchfork.com/photos/6a272aa92a4c0368cf0f2d39/1:1/w_768,c_limit/63409.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a3058aa94399ae803fb10ce",
     "artist": "Ruth Garbus",
     "title": "Profound",
@@ -15,25 +109,6 @@
     "description": "The singer-songwriter’s new album is surreal and beautifully austere. The mood is light, the pace is slow, and her reflections are lucid.",
     "reviewer": "Sam Sodomsky",
     "image": "https://media.pitchfork.com/photos/6a3059520e20736905179254/1:1/w_768,c_limit/ruth%20garbus%20profound.jpg",
-    "releaseYear": 2026
-  },
-  {
-    "id": "6a30231235421443a27ba0bf",
-    "artist": "Horse Lords",
-    "title": "Demand to Be Taken to Heaven Alive!",
-    "score": 7.6,
-    "bnm": false,
-    "bnr": false,
-    "genres": [
-      "Experimental",
-      "Rock"
-    ],
-    "date": "2026-06-16T04:02:00.000Z",
-    "dateFormatted": "June 16, 2026",
-    "url": "/reviews/albums/horse-lords-demand-to-be-taken-to-heaven-alive/",
-    "description": "Accompanied by woodwinds and horns and, for the first time, vocals, the Baltimore rock band returns with its prettiest and most welcoming music to date.",
-    "reviewer": "Jayson Greene",
-    "image": "https://media.pitchfork.com/photos/6a272aa92a4c0368cf0f2d39/1:1/w_768,c_limit/63409.jpg",
     "releaseYear": 2026
   },
   {
