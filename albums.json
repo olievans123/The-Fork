@@ -1,5 +1,78 @@
 [
   {
+    "id": "6a32b920dab06b1214824d85",
+    "artist": "Joseph Shabason / Nicholas Krgovich",
+    "title": "Four Days in June",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Jazz",
+      "Rock"
+    ],
+    "date": "2026-06-18T04:03:00.000Z",
+    "dateFormatted": "June 18, 2026",
+    "url": "/reviews/albums/shabason-krgovich-four-days-in-june/",
+    "description": "The Toronto jazz-pop musicians embrace the soft-focus twang of ’90s country on an album that summons the spirit of a backyard campfire.",
+    "reviewer": "Zach Schonfeld",
+    "image": "https://media.pitchfork.com/photos/6a32b816cf86f787ac967582/1:1/w_768,c_limit/Shabason%20&%20Krgovich%20-%20Four%20Days%20in%20June%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a3167fb3097cc96238578d5",
+    "artist": "Sparklmami",
+    "title": "in this body",
+    "score": 7.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B",
+      "Jazz"
+    ],
+    "date": "2026-06-18T04:02:00.000Z",
+    "dateFormatted": "June 18, 2026",
+    "url": "/reviews/albums/sparklmami-in-this-body/",
+    "description": "The Texas-born, Chicago-based artist draws on jazz, disco, pop, and R&amp;B for a debut album that’s both fantastical and intimate.",
+    "reviewer": "Maria Nenet Barrios",
+    "image": "https://media.pitchfork.com/photos/6a31677224da9f2b0a2fcd2e/1:1/w_768,c_limit/Sparklmami-in%20this%20body.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a32b6e0c843cb137b4fcb57",
+    "artist": "Osees",
+    "title": "OFF COURSE",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-06-18T04:01:00.000Z",
+    "dateFormatted": "June 18, 2026",
+    "url": "/reviews/albums/osees-off-course/",
+    "description": "The latest album from John Dwyer and his fellow garage-psych explorers embraces a fluid, improvisatory approach rooted in sprawling jam sessions and infinitely unspooling grooves.",
+    "reviewer": "Stuart Berman",
+    "image": "https://media.pitchfork.com/photos/6a32b60acf86f787ac96753d/1:1/w_768,c_limit/Osees%20-%20OFF%20COURSE%20album%20art.jpg"
+  },
+  {
+    "id": "6a31b39ee63fb7351f976c7d",
+    "artist": "TYGAPAW",
+    "title": "Together You Gather All Power Applied Worldwide",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-06-18T04:00:00.000Z",
+    "dateFormatted": "June 18, 2026",
+    "url": "/reviews/albums/tygapaw-together-you-gather-all-power-applied-worldwide/",
+    "description": "On their third album of sprawling techno compositions, the producer uses unsettling, abrasive sounds to reckon with contemporary oppression and usher in a world of Black queer liberation.",
+    "reviewer": "Cameron Cook",
+    "image": "https://media.pitchfork.com/photos/6a31b2afc843cb137b4fc8f8/1:1/w_768,c_limit/TYGAPAW-Together%20You%20Gather%20All%20Power%20Applied%20Worldwide.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a31a720e7b67a37a66f349c",
     "artist": "Wiki",
     "title": "Ancient History",
@@ -20,17 +93,17 @@
   {
     "id": "6a31aaae801ab21c70e0c6e3",
     "artist": "RaiNao",
-    "title": "Macría",
+    "title": "Marcriá",
     "score": 8,
     "bnm": false,
     "bnr": false,
     "genres": [
-      "Rap"
+      "Pop/R&B"
     ],
     "date": "2026-06-17T04:02:00.000Z",
     "dateFormatted": "June 17, 2026",
     "url": "/reviews/albums/rainao-macria/",
-    "description": "The Puerto Rican artist’s third album explodes her signature sound into an immersive, sensory experience that’s both meticulous and playful.",
+    "description": "The Puerto Rican artist’s second album explodes her signature sound into an immersive, sensory experience that’s both meticulous and playful.",
     "reviewer": "Tatiana Lee Rodriguez",
     "image": "https://media.pitchfork.com/photos/6a31aa6fe922f54904a31fd3/1:1/w_768,c_limit/Macri%CC%81a.jpg",
     "releaseYear": 2026
