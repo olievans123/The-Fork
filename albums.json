@@ -1,5 +1,77 @@
 [
   {
+    "id": "6a32c61bcf86f787ac96764d",
+    "artist": "Miles Davis",
+    "title": "Miles ’56: The Prestige Recordings",
+    "score": 9,
+    "bnm": false,
+    "bnr": true,
+    "genres": [
+      "Jazz"
+    ],
+    "date": "2026-06-19T04:03:00.000Z",
+    "dateFormatted": "June 19, 2026",
+    "url": "/reviews/albums/miles-davis-miles-56-the-prestige-recordings/",
+    "description": "A new box set, assembled for Davis’ centennial, collects a casually superlative set of recordings from the icon and his all-star quintet that seems to distill jazz’s past and peer into its future.",
+    "reviewer": "Natalie Weiner",
+    "image": "https://media.pitchfork.com/photos/6a346aedb6ad8a5423146121/1:1/w_768,c_limit/image.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a33f36cfd4921a168014c2f",
+    "artist": "Pond",
+    "title": "Terrestrials",
+    "score": 6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-06-19T04:02:00.000Z",
+    "dateFormatted": "June 19, 2026",
+    "url": "/reviews/albums/pond-terrestrials/",
+    "description": "The Australian psych-rock band’s latest features dense, detailed songwriting about corporate greed and the environment, but the music lacks its nuance and ambition.",
+    "reviewer": "Cassidy Sollazzo",
+    "image": "https://media.pitchfork.com/photos/6a33f272f740f76fe6c33a78/1:1/w_768,c_limit/Pond%20Terrestrials.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a34226c32a7f67686897964",
+    "artist": "Deer Tick",
+    "title": "Coin-O-Matic",
+    "score": 6.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-06-19T04:01:00.000Z",
+    "dateFormatted": "June 19, 2026",
+    "url": "/reviews/albums/deer-tick-coin-o-matic/",
+    "description": "The band pays tribute to its Providence, Rhode Island hometown with a self-produced record that marries nostalgic Americana and sincere reflections on age and regret.",
+    "reviewer": "Arman Khan",
+    "image": "https://media.pitchfork.com/photos/6a342141b6ad8a5423145d1a/1:1/w_768,c_limit/Deer%20Tick%20-%20Coin-O-Matic%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a3427e4b7ff7230024a343b",
+    "artist": "Slippers",
+    "title": "Slippers 08",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-06-19T04:00:00.000Z",
+    "dateFormatted": "June 19, 2026",
+    "url": "/reviews/albums/slippers-slippers-08/",
+    "description": "The Los Angeles singer-songwriter’s latest is a crisp and candid twee pop record with unexpected studio touches and gut punches.",
+    "reviewer": "Jude Noel",
+    "image": "https://media.pitchfork.com/photos/6a34278eb6ad8a5423145d81/1:1/w_768,c_limit/Slippers%20-%20Slippers%2008%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a32b920dab06b1214824d85",
     "artist": "Joseph Shabason / Nicholas Krgovich",
     "title": "Four Days in June",
