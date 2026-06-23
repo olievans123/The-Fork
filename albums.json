@@ -1,5 +1,78 @@
 [
   {
+    "id": "6a3949ae3d85cbbe413a9853",
+    "artist": "CFCF",
+    "title": "L.U.V.",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-06-23T04:03:00.000Z",
+    "dateFormatted": "June 23, 2026",
+    "url": "/reviews/albums/cfcf-luv/",
+    "description": "After the Y2K-inspired electronica of his last LP, Montreal’s Mike Silver jumps ahead to the next decade’s strobe-lit dance pop, going heavy on both irony and genuine affection.",
+    "reviewer": "Anna Gaca",
+    "image": "https://media.pitchfork.com/photos/6a3947ba393fc0fa5a741713/1:1/w_768,c_limit/CFCF%20-%20L.U.V..jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a397a6f7da85ddc43e1b39f",
+    "artist": "Cannelle",
+    "title": "CINNA",
+    "score": 6.9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B",
+      "Electronic"
+    ],
+    "date": "2026-06-23T04:02:00.000Z",
+    "dateFormatted": "June 23, 2026",
+    "url": "/reviews/albums/cannelle-cinna/",
+    "description": "The French singer and producer’s debut mixtape is a collection of blingy, EDM-infused electro-pop bonbons with irreverent attitude and real ambition.",
+    "reviewer": "Lydia Wei",
+    "image": "https://media.pitchfork.com/photos/6a397935393fc0fa5a74195d/1:1/w_768,c_limit/Canelle%20-%20CINNA%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a3972b77da85ddc43e1b307",
+    "artist": "Jake Kaufman",
+    "title": "Mina the Hollower (Original Soundtrack)",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-06-23T04:01:00.000Z",
+    "dateFormatted": "June 23, 2026",
+    "url": "/reviews/albums/jake-kaufman-mina-the-hollower-original-soundtrack/",
+    "description": "The chiptune composer’s dynamic and detailed score for the throwback game makes the most out of its limited tools.",
+    "reviewer": "Billie Bugara",
+    "image": "https://media.pitchfork.com/photos/6a39719f8e23c68acbf443aa/1:1/w_768,c_limit/Jake%20Kaufman%20Mina%20the%20Hollower%20Original%20Soundtrack.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a397c5e3d85cbbe413a9c6a",
+    "artist": "zzzahara",
+    "title": "Distant Lands",
+    "score": 6.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-06-23T04:00:00.000Z",
+    "dateFormatted": "June 23, 2026",
+    "url": "/reviews/albums/zzzahara-distant-lands/",
+    "description": "The Los Angeles guitarist and songwriter touches on grief, rejection, and love in lo-fi shoegaze songs that package sunny melodies with comforting gloom.",
+    "reviewer": "Linnie Greene",
+    "image": "https://media.pitchfork.com/photos/6a397bc83d85cbbe413a9c62/1:1/w_768,c_limit/zzzahara%20-%20Distant%20Lands%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a33f5daecc4d5cbd59ba757",
     "artist": "Tucker Zimmerman",
     "title": "Dream Me a Dream",
