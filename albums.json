@@ -1,5 +1,78 @@
 [
   {
+    "id": "6a3ade6e8dd76c696cfcf846",
+    "artist": "Tierra Whack",
+    "title": "WHACK’S MUSEUM",
+    "score": 6.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-06-24T04:03:00.000Z",
+    "dateFormatted": "June 24, 2026",
+    "url": "/reviews/albums/tierra-whack-whacks-museum/",
+    "description": "Tierra Whack flexes cartoonishly imaginative wordplay on a back-to-basics mixtape that highlights her role as a bridge between generations of Philly punchline rap.",
+    "reviewer": "Alphonse Pierre",
+    "image": "https://media.pitchfork.com/photos/6a3addf6d4c4a1314d626fdd/1:1/w_768,c_limit/Tierra%20Whack%20-%20Whack's%20Museum%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a3ac601d9ab673ccf02a6f5",
+    "artist": "Converge",
+    "title": "Hum of Hurt",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Metal"
+    ],
+    "date": "2026-06-24T04:02:00.000Z",
+    "dateFormatted": "June 24, 2026",
+    "url": "/reviews/albums/converge-hum-of-hurt/",
+    "description": "With a heightened sense of urgency, the metalcore band’s second album of the year is heavier and more deliberate than its predecessor.",
+    "reviewer": "Alex Robert Ross",
+    "image": "https://media.pitchfork.com/photos/6a3ac5547da85ddc43e1bf9a/1:1/w_768,c_limit/Converge%20Hum%20of%20Hurt.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a3aba9fd9ab673ccf02a56a",
+    "artist": "DJ Plead",
+    "title": "Please",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-06-24T04:01:00.000Z",
+    "dateFormatted": "June 24, 2026",
+    "url": "/reviews/albums/dj-plead-please/",
+    "description": "The Lebanese Australian producer created his distinctive style by blending sounds from the Arab world with hard-hitting bass music. On his second LP, he puts a similar fusion to more contemplative ends.",
+    "reviewer": "Andrew Ryce",
+    "image": "https://media.pitchfork.com/photos/6a3ab96e8dd76c696cfcf4af/1:1/w_768,c_limit/DJ%20Plead%20-%20Please.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a3acc48d4c4a1314d626f3b",
+    "artist": "LinLin",
+    "title": "DISCO INFERNO",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B",
+      "Rap"
+    ],
+    "date": "2026-06-24T04:00:00.000Z",
+    "dateFormatted": "June 24, 2026",
+    "url": "/reviews/albums/linlin-disco-inferno/",
+    "description": "The French rapper grounds her lean, punchy debut in dance music styles from across the Black diaspora while paying homage to Francophone pop history.",
+    "reviewer": "Cameron Cook",
+    "image": "https://media.pitchfork.com/photos/6a3acbccd9ab673ccf02a71a/1:1/w_768,c_limit/LinLin-Disco%20Inferno.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a3949ae3d85cbbe413a9853",
     "artist": "CFCF",
     "title": "L.U.V.",
