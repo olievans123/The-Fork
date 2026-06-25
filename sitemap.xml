@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://the-fork.vercel.app/</loc><priority>1.0</priority></url>
+<url><loc>https://the-fork.vercel.app/album/jaeychino-if-you-knew</loc><priority>0.6</priority></url>
+<url><loc>https://the-fork.vercel.app/album/gold-panda-ton-up</loc><priority>0.6</priority></url>
+<url><loc>https://the-fork.vercel.app/album/big-brave-in-grief-or-in-hope</loc><priority>0.6</priority></url>
+<url><loc>https://the-fork.vercel.app/album/tyshawn-sorey-members-don-t</loc><priority>0.6</priority></url>
 <url><loc>https://the-fork.vercel.app/album/tierra-whack-whack-s-museum</loc><priority>0.6</priority></url>
 <url><loc>https://the-fork.vercel.app/album/converge-hum-of-hurt</loc><priority>0.6</priority></url>
 <url><loc>https://the-fork.vercel.app/album/dj-plead-please</loc><priority>0.6</priority></url>

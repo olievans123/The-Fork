@@ -1,5 +1,77 @@
 [
   {
+    "id": "6a3bee9b7da85ddc43e1c473",
+    "artist": "Jaeychino",
+    "title": "IF YOU KNEW",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-06-25T04:03:00.000Z",
+    "dateFormatted": "June 25, 2026",
+    "url": "/reviews/albums/jaeychino-if-you-knew/",
+    "description": "The D.C. rapper swings for the fences on his bold, reflective, and bracingly optimistic new album.",
+    "reviewer": "Olivier Lafontant",
+    "image": "https://media.pitchfork.com/photos/6a3bee128dd76c696cfcfa83/1:1/w_768,c_limit/Jayechino%20If%20You%20Knew.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a3c059e62e8b66e75b214aa",
+    "artist": "Gold Panda",
+    "title": "TON UP",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-06-25T04:02:00.000Z",
+    "dateFormatted": "June 25, 2026",
+    "url": "/reviews/albums/gold-panda-ton-up/",
+    "description": "After a string of releases fit for contemplative home listening, the producer takes a delightfully unexpected left turn with a set of exhilarating, unpretentious house jams.",
+    "reviewer": "Philip Sherburne",
+    "image": "https://media.pitchfork.com/photos/6a19e98436c8161963ca6760/1:1/w_768,c_limit/Gold-Panda-Ton-Up.jpeg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a3af006d9ab673ccf02a7ee",
+    "artist": "BIG|BRAVE",
+    "title": "in grief or in hope",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Metal"
+    ],
+    "date": "2026-06-25T04:01:00.000Z",
+    "dateFormatted": "June 25, 2026",
+    "url": "/reviews/albums/big-brave-in-grief-or-in-hope/",
+    "description": "The Montreal experimental trio subtracts drums and enfolds itself within resonant, rumbling guitar tones that summon otherworldly emotion.",
+    "reviewer": "Jayson Greene",
+    "image": "https://media.pitchfork.com/photos/6a3aef28e3e68e27fb3c4d72/1:1/w_768,c_limit/Big%20Brave%20-%20in%20grief%20or%20in%20hope%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a3c120f393fc0fa5a742d1d",
+    "artist": "Tyshawn Sorey",
+    "title": "Members… Don’t!",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Jazz"
+    ],
+    "date": "2026-06-25T04:00:00.000Z",
+    "dateFormatted": "June 25, 2026",
+    "url": "/reviews/albums/tyshawn-sorey-members-dont/",
+    "description": "The acclaimed jazz drummer leads an avant-garde reimagination of Max Roach’s landmark album, informed by improvisation and recorded live as one uninterrupted suite.",
+    "reviewer": "Rae-Aila Crumble",
+    "image": "https://media.pitchfork.com/photos/6a3c114d7da85ddc43e1ce7a/1:1/w_768,c_limit/Tyshawn%20Sorey%20-%20Members...%20Don't!%20album%20artwork.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a3ade6e8dd76c696cfcf846",
     "artist": "Tierra Whack",
     "title": "WHACK’S MUSEUM",
