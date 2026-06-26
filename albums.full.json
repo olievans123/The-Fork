@@ -1,5 +1,78 @@
 [
   {
+    "id": "6a3d7d4cdf62f8501dc0f537",
+    "artist": "Chanel Beads",
+    "title": "Your Day Will Come",
+    "score": 8.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-06-26T04:03:00.000Z",
+    "dateFormatted": "June 26, 2026",
+    "url": "/reviews/albums/chanel-beads-your-day-will-come-2026/",
+    "description": "The band’s second album by the same title is an unclassifiable mood piece: a strangely heightened world of desperate characters and hooks like enervated simulacra of more familiar songs.",
+    "reviewer": "Kieran Press-Reynolds",
+    "image": "https://media.pitchfork.com/photos/69f20d6898e90e9e07ce564f/1:1/w_768,c_limit/Chanel-Beads-Your-Day-Will-Come.jpeg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a3d33a5e3e68e27fb3c62d5",
+    "artist": "Downtown Boys",
+    "title": "Public Luxury",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-06-26T04:02:00.000Z",
+    "dateFormatted": "June 26, 2026",
+    "url": "/reviews/albums/downtown-boys-public-luxury/",
+    "description": "Nine years since their last album, the Providence punks return with another record dripping with righteous fury&#8212;and a punchier, newly polished sound to get the message across as clearly as possible.",
+    "reviewer": "Matthew Ismael Ruiz",
+    "image": "https://media.pitchfork.com/photos/6a3d3255393fc0fa5a743319/1:1/w_768,c_limit/Downtown%20Boys%20-%20Public%20Luxury.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a3d39dce3e68e27fb3c6361",
+    "artist": "River Shook",
+    "title": "River Shook",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Folk/Country",
+      "Rock"
+    ],
+    "date": "2026-06-26T04:01:00.000Z",
+    "dateFormatted": "June 26, 2026",
+    "url": "/reviews/albums/river-shook-river-shook/",
+    "description": "A year after playing the final show with their longtime band, the Disarmers, the Chapel Hill country musician returns with a more focused sound and newly forthright perspective.",
+    "reviewer": "Brad Sanders",
+    "image": "https://media.pitchfork.com/photos/6a3ce7639a42b8c769a69a3a/1:1/w_768,c_limit/River%20Shook%20-%20River%20Shook.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a3d42333d85cbbe413ab23f",
+    "artist": "Félicia Atkinson",
+    "title": "SANS VISAGE",
+    "score": 7.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-06-26T04:00:00.000Z",
+    "dateFormatted": "June 26, 2026",
+    "url": "/reviews/albums/felicia-atkinson-sans-visage/",
+    "description": "The French composer leans into her music’s ghostly qualities on a score for a cult-favorite 1960 horror film, stitching together contrasting layers of sound to conjure the movie’s looming dread.",
+    "reviewer": "Vanessa Ague",
+    "image": "https://media.pitchfork.com/photos/69fca5188b306cde535e2e49/1:1/w_768,c_limit/unnamed%20(21).jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a3bee9b7da85ddc43e1c473",
     "artist": "Jaeychino",
     "title": "IF YOU KNEW",
