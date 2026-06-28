@@ -1,5 +1,24 @@
 [
   {
+    "id": "6a3ecc9faa2ebbaded18c079",
+    "artist": "Bryan Ferry",
+    "title": "Boys and Girls",
+    "score": 8.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic",
+      "Rock"
+    ],
+    "date": "2026-06-28T04:00:00.000Z",
+    "dateFormatted": "June 28, 2026",
+    "url": "/reviews/albums/bryan-ferry-boys-and-girls/",
+    "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we look back at the inimitable chanteur’s 1985 solo record, a dapper work of exquisite pop perfectionism.",
+    "reviewer": "Daniel Felsenthal",
+    "image": "https://media.pitchfork.com/photos/6a3ecbc53d85cbbe413abc99/1:1/w_768,c_limit/bryan%20ferry%20boys%20and%20girls.jpg",
+    "releaseYear": 1985
+  },
+  {
     "id": "6a3d8e379a42b8c769a6a462",
     "artist": "Charanjit Singh",
     "title": "Synthesizing: Ten Ragas to a Disco Beat",
