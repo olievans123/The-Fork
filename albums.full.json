@@ -1,5 +1,59 @@
 [
   {
+    "id": "6a3ea11de3e68e27fb3c78bf",
+    "artist": "Harmony Tividad",
+    "title": "Lifetime",
+    "score": 7.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-06-29T04:02:00.000Z",
+    "dateFormatted": "June 29, 2026",
+    "url": "/reviews/albums/harmony-tividad-lifetime/",
+    "description": "The songwriter returns to her indie-pop roots on her second solo album, splitting the difference between the emotional immediacy of her Girlpool days and the hyperpop irony of her recent work.",
+    "reviewer": "Aimee Cliff",
+    "image": "https://media.pitchfork.com/photos/6a3ea084e3da420706eb3f1e/1:1/w_768,c_limit/Harmony%20Tividad-Lifetime.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a3d86dd9a42b8c769a6a45a",
+    "artist": "Lifted",
+    "title": "Movie",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-06-29T04:01:00.000Z",
+    "dateFormatted": "June 29, 2026",
+    "url": "/reviews/albums/lifted-movie/",
+    "description": "Armed with CDJs and accompanied by a crew of improvising peers, the D.C. duo collages ambient-jazz sketches, Foley sounds, and scraps of dialog into a montage inspired by arthouse cinema.",
+    "reviewer": "H.D. Angel",
+    "image": "https://media.pitchfork.com/photos/6a3d863101a6ab17fa389023/1:1/w_768,c_limit/Lifted%20-%20Movie.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a3d61ed01a6ab17fa388f60",
+    "artist": "Teller Bank$",
+    "title": "3x6x𐕣 =666, 3x1x𐕣=111 3x7x𐕣 =777,3x5x𐕣=555 3x9x𐕣 =999,3x3x𐕣=333",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-06-29T04:00:00.000Z",
+    "dateFormatted": "June 29, 2026",
+    "url": "/reviews/albums/teller-banks-mathematics/",
+    "description": "The Iowa rapper burrows into a dense tangle of memories and cautionary tales, sinking into vaporous deconstructed jazz productions with an ever-shifting flow.",
+    "reviewer": "Dash Lewis",
+    "image": "https://media.pitchfork.com/photos/6a3d61a4e3e68e27fb3c66c6/1:1/w_768,c_limit/Teller%20Bank$%20-%20Mathematics%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a3ecc9faa2ebbaded18c079",
     "artist": "Bryan Ferry",
     "title": "Boys and Girls",
