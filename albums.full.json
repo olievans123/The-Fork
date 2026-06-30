@@ -1,5 +1,78 @@
 [
   {
+    "id": "6a42a56800462b0bf2b738a8",
+    "artist": "SML",
+    "title": "Spontaneous Music Live",
+    "score": 8.4,
+    "bnm": true,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-06-30T04:03:00.000Z",
+    "dateFormatted": "June 30, 2026",
+    "url": "/reviews/albums/sml-spontaneous-music-live/",
+    "description": "The L.A. improv quintet made its first two LPs by remixing key moments from its gigs; now, on a pair of astonishing unedited live takes, the group proves that performance is the heart of its music.",
+    "reviewer": "Sam Goldner",
+    "image": "https://media.pitchfork.com/photos/6a42a44b70798f2594513ffc/1:1/w_768,c_limit/SML%20-%20Spontaneous%20Music%20Live.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a3ecdc3d2c621553e6b3434",
+    "artist": "Madeon",
+    "title": "Victory",
+    "score": 6.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-06-30T04:02:00.000Z",
+    "dateFormatted": "June 30, 2026",
+    "url": "/reviews/albums/madeon-victory/",
+    "description": "The French producer’s first new album in seven years positions him as an eager star on a warp-speed journey through big-tent synth pop.",
+    "reviewer": "Walden Green",
+    "image": "https://media.pitchfork.com/photos/6a3ecd753d85cbbe413abd94/1:1/w_768,c_limit/Victory%20madeon.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a429936131b2da77889023b",
+    "artist": "Jordan Patterson",
+    "title": "Songs From a Valley Girl EP",
+    "score": 7.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-06-30T04:01:00.000Z",
+    "dateFormatted": "June 30, 2026",
+    "url": "/reviews/albums/jordan-patterson-songs-from-a-valley-girl-ep/",
+    "description": "The Los Angeles singer mines the sounds of turn-of-the-millennium radio pop in a set of songs that showcase her distinct, expressive voice.",
+    "reviewer": "Adlan Jackson",
+    "image": "https://media.pitchfork.com/photos/6a429775c695b12bbd30b98b/1:1/w_768,c_limit/Jordan%20Patterson-Songs%20From%20A%20Valley%20Girl.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a429bcace61e80620824049",
+    "artist": "Prophetic Justice Ministry",
+    "title": "Key to World Peace",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Folk/Country",
+      "Experimental"
+    ],
+    "date": "2026-06-30T04:00:00.000Z",
+    "dateFormatted": "June 30, 2026",
+    "url": "/reviews/albums/prophetic-justice-ministry-key-to-world-peace/",
+    "description": "Australian songwriter Sam Perry mixes ambient interludes and acoustic ballads for an atmospheric album with a searching, romantic spirit.",
+    "reviewer": "Shaad D’Souza",
+    "image": "https://media.pitchfork.com/photos/6a429b4e5d77f46a84d07651/1:1/w_768,c_limit/Prophetic%20Justice%20Ministry-%20Key%20to%20World%20Peace.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a3ea11de3e68e27fb3c78bf",
     "artist": "Harmony Tividad",
     "title": "Lifetime",
