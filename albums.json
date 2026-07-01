@@ -1,5 +1,79 @@
 [
   {
+    "id": "6a43f18bee2e41c83368ca96",
+    "artist": "Muse",
+    "title": "The Wow! Signal",
+    "score": 4.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-07-01T04:03:00.000Z",
+    "dateFormatted": "July 1, 2026",
+    "url": "/reviews/albums/muse-the-wow-signal/",
+    "description": "The band’s 10th album makes a return to gargantuan, ambivalent, overleveraged Muse form.",
+    "reviewer": "Liam Inscoe-Jones",
+    "image": "https://media.pitchfork.com/photos/6a43f13a1244b686083fb269/1:1/w_768,c_limit/Muse%20-%20The%20Wow!%20Signal%20album%20art%20large.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a42d80000462b0bf2b73e56",
+    "artist": "Brutalismus 3000",
+    "title": "Harmony",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-07-01T04:02:00.000Z",
+    "dateFormatted": "July 1, 2026",
+    "url": "/reviews/albums/brutalismus-3000-harmony/",
+    "description": "The Berlin duo’s second album, co-produced with Boys Noize and Dylan Brady, adds pop appeal and B-movie drama to twitchy hardstyle techno that’s dystopian but not humorless.",
+    "reviewer": "Lydia Wei",
+    "image": "https://media.pitchfork.com/photos/6a42d79170bee232abda2c57/1:1/w_768,c_limit/Brutalismus%203000%20-%20Harmony%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a43c63000462b0bf2b74057",
+    "artist": "Debit",
+    "title": "Potpourri",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental",
+      "Electronic"
+    ],
+    "date": "2026-07-01T04:01:00.000Z",
+    "dateFormatted": "July 1, 2026",
+    "url": "/reviews/albums/debit-potpourri/",
+    "description": "After recent forays into darkly psychedelic drone music, the Mexican American producer returns to the dancefloor with an album that fuses techno and guaracha into a throbbing polyrhythmic juggernaut.",
+    "reviewer": "Andrew Ryce",
+    "image": "https://media.pitchfork.com/photos/6a43c4e7ee2e41c83368ca11/1:1/w_768,c_limit/Debit%20-%20Potpourri.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a43f2700f20beb5691702ca",
+    "artist": "$quib",
+    "title": "Erring",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic",
+      "Pop/R&B"
+    ],
+    "date": "2026-07-01T04:00:00.000Z",
+    "dateFormatted": "July 1, 2026",
+    "url": "/reviews/albums/squib-erring/",
+    "description": "On the New Jersey artist’s debut album, a steady stream of screwball ideas coalesce into unexpectedly existential laptop twee gems.",
+    "reviewer": "Nick Ayres DeMasi",
+    "image": "https://media.pitchfork.com/photos/6a43f204b53b94f9ac1851e3/1:1/w_768,c_limit/Squib-Erring.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a42a56800462b0bf2b738a8",
     "artist": "SML",
     "title": "Spontaneous Music Live",
