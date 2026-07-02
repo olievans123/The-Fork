@@ -1,5 +1,77 @@
 [
   {
+    "id": "6a4562fb949c5b8810bda9dc",
+    "artist": "Beth Orton",
+    "title": "The Ground Above",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-07-02T04:03:00.000Z",
+    "dateFormatted": "July 2, 2026",
+    "url": "/reviews/albums/beth-orton-the-ground-above/",
+    "description": "On her snowy, self-produced ninth album, the UK songwriter howls from inside the squall.",
+    "reviewer": "Daniel Bromfield",
+    "image": "https://media.pitchfork.com/photos/69e59a17f451ee6e30af494d/1:1/w_768,c_limit/The%20Ground%20Above%20by%20Beth%20Orton%20album%20artwork.jpeg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a455f31949c5b8810bda9b2",
+    "artist": "Mildred",
+    "title": "Fenceline",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-07-02T04:02:00.000Z",
+    "dateFormatted": "July 2, 2026",
+    "url": "/reviews/albums/mildred-fenceline/",
+    "description": "With an eye for novelistic detail, the California quartet conjures a spectral brand of alt-country on its confident and disarming full-length debut.",
+    "reviewer": "Grayson Haver Currin",
+    "image": "https://media.pitchfork.com/photos/6a455e6cf3c92624b6758b64/1:1/w_768,c_limit/Mildred%20Fenceline.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a4531f083152c5e2eb99b3f",
+    "artist": "Fief",
+    "title": "VII",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-07-02T04:01:00.000Z",
+    "dateFormatted": "July 2, 2026",
+    "url": "/reviews/albums/fief-vii/",
+    "description": "The Utah producer reimagines dungeon synth&#8212;a genre rooted in the atmospheric synth intros of vintage black metal&#8212;as a medieval fantasia, complete with liturgical chants and alehouse sound effects.",
+    "reviewer": "Louis Pattison",
+    "image": "https://media.pitchfork.com/photos/6a45304f83152c5e2eb99b3a/1:1/w_768,c_limit/Fief%20-%20VII.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a452a8704a8143cef527b5b",
+    "artist": "Hammok",
+    "title": "When Does This Place Become Our Scene",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-07-02T04:00:00.000Z",
+    "dateFormatted": "July 2, 2026",
+    "url": "/reviews/albums/hammok-when-does-this-place-become-our-scene/",
+    "description": "The Norwegian post-hardcore band’s second album is equal parts claustrophobia and confrontation, unleashing furious lyrics alongside thrashing hooks.",
+    "reviewer": "Nina Corcoran",
+    "image": "https://media.pitchfork.com/photos/6a4529e783e29a3a2789bb02/1:1/w_768,c_limit/Hammok-When%20Does%20This%20Place%20Become%20Our%20Scene.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a43f18bee2e41c83368ca96",
     "artist": "Muse",
     "title": "The Wow! Signal",
