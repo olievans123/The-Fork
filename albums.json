@@ -1,5 +1,77 @@
 [
   {
+    "id": "6a4681f3029dd5407e68e0d5",
+    "artist": "Madonna",
+    "title": "CONFESSIONS II",
+    "score": 8.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-07-03T04:03:00.000Z",
+    "dateFormatted": "July 3, 2026",
+    "url": "/reviews/albums/madonna-confessions-ii/",
+    "description": "Madonna’s back in peak form with a fresh and honest dance record that’s not only her best in 20 years, but a genuinely vital addition to her canon.",
+    "reviewer": "Shaad D’Souza",
+    "image": "https://media.pitchfork.com/photos/69e134fb61e7e43920fec9e7/1:1/w_768,c_limit/Madonna-Confessions-II.jpeg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a4681427624aab31d337ab3",
+    "artist": "Pz’",
+    "title": "No Turning Back",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-07-03T04:02:00.000Z",
+    "dateFormatted": "July 3, 2026",
+    "url": "/reviews/albums/pz-no-turning-back/",
+    "description": "With a remarkably polished debut, the model-turned-rapper who’s picked up cosigns from Carti and Tezzus joins the next generation of Georgia rap.",
+    "reviewer": "Dylan Green",
+    "image": "https://media.pitchfork.com/photos/6a46807083152c5e2eb99d5f/1:1/w_768,c_limit/Pz'%20-%20No%20Turning%20Back%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a4681b16df438025da5f487",
+    "artist": "Ibeyi",
+    "title": "Offering",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-07-03T04:01:00.000Z",
+    "dateFormatted": "July 3, 2026",
+    "url": "/reviews/albums/ibeyi-offering/",
+    "description": "On their fourth album, the French twins&#8212;daughters of Cuban conguero Miguel “Angá” Diaz&#8212;seek solace in the rhythm of change and find freedom in letting go of control.",
+    "reviewer": "Stefanie Fernández",
+    "image": "https://media.pitchfork.com/photos/6a4681356df438025da5f47e/1:1/w_768,c_limit/Ibeyi%20-%20Offering.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a467edc949c5b8810bdadde",
+    "artist": "evilgiane",
+    "title": "#HEAVENSGATE VOL. 2",
+    "score": 7.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-07-03T04:00:00.000Z",
+    "dateFormatted": "July 3, 2026",
+    "url": "/reviews/albums/evilgiane-heavensgate-vol-2/",
+    "description": "The Surf Gang producer stays busy with a new tape that links an eclectic cast of 25 collaborators with his shimmery beats.",
+    "reviewer": "Oba Awolowo",
+    "image": "https://media.pitchfork.com/photos/6a467e6f029dd5407e68e084/1:1/w_768,c_limit/evilgiane%20-%20#HEAVENSGATE%20VOL.%202%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a4562fb949c5b8810bda9dc",
     "artist": "Beth Orton",
     "title": "The Ground Above",
