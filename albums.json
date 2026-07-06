@@ -1,5 +1,78 @@
 [
   {
+    "id": "6a46930f3ac5956716331928",
+    "artist": "Topdown Dialectic",
+    "title": "False LP A",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-07-06T04:03:00.000Z",
+    "dateFormatted": "July 6, 2026",
+    "url": "/reviews/albums/topdown-dialectic-false-lp-a/",
+    "description": "The formerly anonymous electronic musician’s latest album is even more cryptic than his previous work: a vaporous blur of ambient dub techno in which all certainties dissolve.",
+    "reviewer": "Andrew Ryce",
+    "image": "https://media.pitchfork.com/photos/6a46926266415e2e6fa3d75c/1:1/w_768,c_limit/Topdown%20Dialectic%20-%20False%20LP%20A.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a46852d949c5b8810bdae40",
+    "artist": "Maxo Kream",
+    "title": "O.Y.N",
+    "score": 6.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-07-06T04:02:00.000Z",
+    "dateFormatted": "July 6, 2026",
+    "url": "/reviews/albums/maxo-kream-oyn/",
+    "description": "Teaming up with JPEGMAFIA, the Houston rapper sounds invigorated&#8212;venting spleen, talking trash&#8212;but the duo struggles to keep the momentum.",
+    "reviewer": "Dash Lewis",
+    "image": "https://media.pitchfork.com/photos/6a46846b0edbbeb8d3ac9515/1:1/w_768,c_limit/Maxo%20Kream%20-%20O.Y.N.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a466941949c5b8810bdaa75",
+    "artist": "Batu / Donato Dozzy",
+    "title": "Exhale",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic",
+      "Electronic"
+    ],
+    "date": "2026-07-06T04:01:00.000Z",
+    "dateFormatted": "July 6, 2026",
+    "url": "/reviews/albums/batu-donato-dozzy-exhale/",
+    "description": "The UK bass musician joins the Italian techno producer for a musical conversation that bridges generations, genres, and traditions.",
+    "reviewer": "Philip Sherburne",
+    "image": "https://media.pitchfork.com/photos/6a46686666415e2e6fa3d657/1:1/w_768,c_limit/Batu%20Donato%20Dozzy%20Exhale.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a467b2e0edbbeb8d3ac94f2",
+    "artist": "matt proxy",
+    "title": "trojan horse",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-07-06T04:00:00.000Z",
+    "dateFormatted": "July 6, 2026",
+    "url": "/reviews/albums/matt-proxy-trojan-horse/",
+    "description": "Between the ear-splitting tonal shifts and distorted transitions of the Minneapolis rapper’s debut lie angst, grief, and elation.",
+    "reviewer": "Olivier Lafontant",
+    "image": "https://media.pitchfork.com/photos/6a46799dfea7e9cbc394b756/1:1/w_768,c_limit/matt%20proxy%20-%20trojan%20horse%20album%20artwork.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a4681f3029dd5407e68e0d5",
     "artist": "Madonna",
     "title": "CONFESSIONS II",
