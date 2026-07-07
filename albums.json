@@ -1,5 +1,77 @@
 [
   {
+    "id": "6a4be92e4237380946eaedf7",
+    "artist": "GAS",
+    "title": "November 89",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-07-07T04:03:00.000Z",
+    "dateFormatted": "July 7, 2026",
+    "url": "/reviews/albums/gas-november-89/",
+    "description": "Wolfgang Voigt’s 2008 release gets a new vinyl reissue that contextualizes its early archival material as the beginning of the GAS catalog: a prototype for his singularly blank, ominous style.",
+    "reviewer": "Daniel Bromfield",
+    "image": "https://media.pitchfork.com/photos/6a4be8974237380946eaedf2/1:1/w_768,c_limit/GAS%20-%20November%2089%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a4bf5908ca4c51df6cdf18f",
+    "artist": "mary in the junkyard",
+    "title": "Role Model Hermit",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-07-07T04:02:00.000Z",
+    "dateFormatted": "July 7, 2026",
+    "url": "/reviews/album-mary-in-the-junkyard-role-model-hermit/",
+    "description": "The London trio updates the naive humanism of 2000s indie-folk with modern dread and restless experimentation on its ambitious full-length debut.",
+    "reviewer": "Sadie Sartini Garner",
+    "image": "https://media.pitchfork.com/photos/6a4bf5083e562ef9b28434f3/1:1/w_768,c_limit/mary%20in%20the%20junkyard%20Role%20Model%20Hermit.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a4bbff8c4273483fabf1a90",
+    "artist": "Ralph Hill",
+    "title": "Live at Lavender Country",
+    "score": 6.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-07-07T04:01:00.000Z",
+    "dateFormatted": "July 7, 2026",
+    "url": "/reviews/albums-ralph-hill-live-at-lavender-country/",
+    "description": "Devotional music is given an ambient spin in these recordings of a 13-year-old Detroit preacher accompanied by atmospheric synths.",
+    "reviewer": "Lily Goldberg",
+    "image": "https://media.pitchfork.com/photos/6a4bbf913e562ef9b2843336/1:1/w_768,c_limit/Ralph%20Hill%20-Live%20at%20Lavender%20County.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a47ec69db3001f372b339e8",
+    "artist": "Twentythree",
+    "title": "6ix Pop",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-07-07T04:00:00.000Z",
+    "dateFormatted": "July 7, 2026",
+    "url": "/reviews/albums-twentythree-6ix-pop/",
+    "description": "The Toronto rapper’s self-produced music slips down a labyrinthine rabbit hole of regional dance rap styles, filtering West Coast ratchet through EDM rave pop and post-OVO mood music.",
+    "reviewer": "Alphonse Pierre",
+    "image": "https://media.pitchfork.com/photos/6a47e96305e8b4761f83731b/1:1/w_768,c_limit/Twentythree%20-%206ixPop.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a46930f3ac5956716331928",
     "artist": "Topdown Dialectic",
     "title": "False LP A",
