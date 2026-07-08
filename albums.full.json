@@ -1,5 +1,78 @@
 [
   {
+    "id": "6a4d22a41c6650b0fc3d1aa7",
+    "artist": "Smirk",
+    "title": "Speculative Fiction",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-07-08T04:03:00.000Z",
+    "dateFormatted": "July 8, 2026",
+    "url": "/reviews/albums/smirk-speculative-fiction/",
+    "description": "Punk lifer Nick Vicario slows things down on his third album: a broad, complicated ode to reawakening and recovery.",
+    "reviewer": "Abby Jones",
+    "image": "https://media.pitchfork.com/photos/6a4d222fab56fb0035922c02/1:1/w_768,c_limit/Smirk%20Speculative%20Fiction.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a4d121d82b25aaa6fa0c7e9",
+    "artist": "Truck Violence",
+    "title": "The weathervane is my body",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-07-08T04:02:00.000Z",
+    "dateFormatted": "July 8, 2026",
+    "url": "/reviews/albums/truck-violence-the-weathervane-is-my-body/",
+    "description": "The Canadian punks’ second album sounds more polished and a bit less spontaneous as they glide between sludge metal and plucky bluegrass, even approaching Midwest emo.",
+    "reviewer": "Nina Corcoran",
+    "image": "https://media.pitchfork.com/photos/69dd8d3c19555439c2d501c9/1:1/w_768,c_limit/The%20Weathervane%20Is%20My%20Body%20by%20Truck%20Violence.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a47fb94fd0f890f38e1aba5",
+    "artist": "Ambrose Akinmusire / Mary Halvorson",
+    "title": "Slo-Mo Neon Luminate Hoverings",
+    "score": 7.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Jazz",
+      "Jazz"
+    ],
+    "date": "2026-07-08T04:01:00.000Z",
+    "dateFormatted": "July 8, 2026",
+    "url": "/reviews/albums/ambrose-akinmusire-mary-halvorson-slo-mo-neon-luminate-hoverings/",
+    "description": "On their first duo album, the trumpeter and guitarist build on the rapport they’ve been developing for a decade, taking lyrical, atmospheric jazz and pushing it in prickly new directions.",
+    "reviewer": "Rae-Aila Crumble",
+    "image": "https://media.pitchfork.com/photos/6a47faaafea7e9cbc394bb99/1:1/w_768,c_limit/Ambrose%20Akinmusire%20&Mary%20Halvorson%20-%20Slo-Mo%20Neon%20Luminate%20Hoverings.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a4d23b1c4273483fabf2154",
+    "artist": "Styrofoam Winos",
+    "title": "Any River",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-07-08T04:00:00.000Z",
+    "dateFormatted": "July 8, 2026",
+    "url": "/reviews/albums/styrofoam-winos-any-river/",
+    "description": "On its new album, the Nashville trio considers quotidian indignities and existential quandaries in songs built off a communal spirit and a flexible folk-rock sound.",
+    "reviewer": "Arielle Gordon",
+    "image": "https://media.pitchfork.com/photos/6a4d22873e562ef9b284380d/1:1/w_768,c_limit/Styrofoam%20Winos-Any%20River.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a4be92e4237380946eaedf7",
     "artist": "GAS",
     "title": "November 89",
