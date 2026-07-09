@@ -1,5 +1,77 @@
 [
   {
+    "id": "6a4ea1c75b672a73e06b110f",
+    "artist": "Nirosta Steel",
+    "title": "My Skyscraper",
+    "score": 9,
+    "bnm": true,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-07-09T04:03:00.000Z",
+    "dateFormatted": "July 9, 2026",
+    "url": "/reviews/albums/nirosta-steel-my-skyscraper/",
+    "description": "The longtime Arthur Russell collaborator finally gets a solo exhibition: a gorgeously realized and fundamentally incomplete work of sensual art-folk, leftfield disco, and experimental synth-pop. It’s at once an archival triumph and one of the year’s most thrilling new releases.",
+    "reviewer": "Harry Tafoya",
+    "image": "https://media.pitchfork.com/photos/6a4ea158145e5bc58a483445/1:1/w_768,c_limit/Nirosta%20Steel%20-%20My%20Skyscraper%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a4e8064cc06492cb4d050fd",
+    "artist": "Ken Carson",
+    "title": "xperiment",
+    "score": 5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-07-09T04:02:00.000Z",
+    "dateFormatted": "July 9, 2026",
+    "url": "/reviews/albums/ken-carson-xperiment/",
+    "description": "Despite its title, the latest from the Opium protégé offers more of the same. He sounds bored of his rage-rap formula and unsure where to go next.",
+    "reviewer": "Eli Enis",
+    "image": "https://media.pitchfork.com/photos/6a42be0e70bee232abda2bb3/1:1/w_768,c_limit/26UMGIM78337.rgb.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a4d13a582b25aaa6fa0c7f2",
+    "artist": "Tasha",
+    "title": "You Are Spring!",
+    "score": 7.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-07-09T04:01:00.000Z",
+    "dateFormatted": "July 9, 2026",
+    "url": "/reviews/albums-tasha-you-are-spring/",
+    "description": "Gratitude and hope triumph on the songwriter’s new album, which filigrees gentle, sunny folk-pop with clarinet and strings.",
+    "reviewer": "Alex Robert Ross",
+    "image": "https://media.pitchfork.com/photos/6a3bf5d49a42b8c769a68f18/1:1/w_768,c_limit/64377.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a4e94c85b672a73e06b10ab",
+    "artist": "Ultra Lights",
+    "title": "Pleasure’s All Yours",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-07-09T04:00:00.000Z",
+    "dateFormatted": "July 9, 2026",
+    "url": "/reviews/albums/ultra-lights-pleasures-all-yours/",
+    "description": "The Atlanta band plays a throwback style of post-Strokes indie rock with measured looseness and a snotty attitude.",
+    "reviewer": "Jeff Yerger",
+    "image": "https://media.pitchfork.com/photos/6a4e9442b30913ae9711c938/1:1/w_768,c_limit/Ultra%20Lights%20-%20Pleasure%E2%80%99s%20All%20Yours%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a4d22a41c6650b0fc3d1aa7",
     "artist": "Smirk",
     "title": "Speculative Fiction",
