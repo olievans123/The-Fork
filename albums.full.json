@@ -1,5 +1,77 @@
 [
   {
+    "id": "6a4fca23b30913ae9711d393",
+    "artist": "Jack White",
+    "title": "Frozen Charlotte",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-07-10T04:03:00.000Z",
+    "dateFormatted": "July 10, 2026",
+    "url": "/reviews/albums/jack-white-frozen-charlotte/",
+    "description": "Jack White’s seventh solo album delivers night-terror boogie and fleet-fingered car-crash jams with the technical proficiency and liturgical intensity of a rock’n’roll lifer.",
+    "reviewer": "Elizabeth Nelson",
+    "image": "https://media.pitchfork.com/photos/6a4eab80cc06492cb4d05224/1:1/w_768,c_limit/67165.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a4eb13e145e5bc58a483579",
+    "artist": "synecdoche new york",
+    "title": "meanderings EP",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-07-10T04:02:00.000Z",
+    "dateFormatted": "July 10, 2026",
+    "url": "/reviews/albums/synecdoche-new-york-meanderings-ep/",
+    "description": "The Chicago artist leans into denser arrangements and more dynamic songwriting on their latest release, drawing on slowcore and moody ’90s indie rock to depict romance and raw longing.",
+    "reviewer": "Jude Noel",
+    "image": "https://media.pitchfork.com/photos/6a4eb0a84a5266a9ca283972/1:1/w_768,c_limit/synecdoche%20new%20york-meanderings.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a4f9d155b672a73e06b1425",
+    "artist": "Bruno Berle",
+    "title": "Sem Fronteiras",
+    "score": 6.9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-07-10T04:01:00.000Z",
+    "dateFormatted": "July 10, 2026",
+    "url": "/reviews/albums/bruno-berle-sem-fronteiras/",
+    "description": "The Brazilian songwriter blends classic and modern influences into his own dreamy, idyllic sound.",
+    "reviewer": "Romulo Moraes",
+    "image": "https://media.pitchfork.com/photos/6a4f9bd55b672a73e06b1413/1:1/w_768,c_limit/Bruno%20Berle%20Sem%20Fronteiras.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a4fd101bf6e0682682d67f1",
+    "artist": "Tran Uy Duc",
+    "title": "ByyShh",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-07-10T04:00:00.000Z",
+    "dateFormatted": "July 10, 2026",
+    "url": "/reviews/albums/tran-uy-duc-byyshh/",
+    "description": "On his latest album, the Vietnamese experimental musician contorts stock samples and loops into gleefully strange new shapes, juxtaposing intimate emotions with garish textures.",
+    "reviewer": "H.D. Angel",
+    "image": "https://media.pitchfork.com/photos/6a4fcb046b8670450ff19ba1/1:1/w_768,c_limit/Tran%20Uy%20Duc-ByyShh.png",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a4ea1c75b672a73e06b110f",
     "artist": "Nirosta Steel",
     "title": "My Skyscraper",
