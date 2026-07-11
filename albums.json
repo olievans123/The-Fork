@@ -1,5 +1,24 @@
 [
   {
+    "id": "6a4eaf1f4a5266a9ca28390b",
+    "artist": "Pixies",
+    "title": "Complete B Sides: 1988-97 (Remaster)",
+    "score": 8.6,
+    "bnm": false,
+    "bnr": true,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-07-11T04:00:00.000Z",
+    "dateFormatted": "July 11, 2026",
+    "url": "/reviews/albums/pixies-complete-b-sides-1988-97-remaster/",
+    "description": "Originally released in 2001 and newly remastered, the collection of B-sides testifies to the alt-rock icons’ trademark eccentricity while cranking up the deviance.",
+    "reviewer": "Ben Cardew",
+    "image": "https://media.pitchfork.com/photos/6a4eae609b8aa766740a77af/1:1/w_768,c_limit/Pixies-Complete%20B%20Sides-%201988-97.png",
+    "releaseYear": 2026,
+    "originalYear": 2001
+  },
+  {
     "id": "6a4fca23b30913ae9711d393",
     "artist": "Jack White",
     "title": "Frozen Charlotte",
