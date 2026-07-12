@@ -1,5 +1,22 @@
 [
   {
+    "id": "6a512201c2ab37fb0eba2c89",
+    "artist": "Rush",
+    "title": "Power Windows",
+    "score": 8.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-07-12T04:00:00.000Z",
+    "dateFormatted": "July 12, 2026",
+    "url": "/reviews/albums/rush-power-windows/",
+    "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we look back at Rush’s 1985 album, the peak of the prog trio’s synth era, home to both impressive musicianship and pop grandeur.",
+    "reviewer": "Andrew Ryce",
+    "image": "https://media.pitchfork.com/photos/6a5121b8802a4771608bd79a/1:1/w_768,c_limit/Rush%20-%20Power%20Windows%20album%20art.jpg"
+  },
+  {
     "id": "6a4eaf1f4a5266a9ca28390b",
     "artist": "Pixies",
     "title": "Complete B Sides: 1988-97 (Remaster)",
