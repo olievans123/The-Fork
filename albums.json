@@ -1,5 +1,78 @@
 [
   {
+    "id": "6a4ff8e9b30913ae9711d514",
+    "artist": "The Rolling Stones",
+    "title": "Foreign Tongues",
+    "score": 6.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-07-13T04:03:00.000Z",
+    "dateFormatted": "July 13, 2026",
+    "url": "/reviews/albums/the-rolling-stones-foreign-tongues/",
+    "description": "On their second new album in recent years, the Stones find a funkier, more robust rhythm in the <em>Hackney Diamonds</em> overflow.",
+    "reviewer": "Stuart Berman",
+    "image": "https://media.pitchfork.com/photos/6a4eadc9b30913ae9711c9bf/1:1/w_768,c_limit/26UMGIM36901.rgb.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a5125ed9f5037ea3d81dfb9",
+    "artist": "Twisted Teens",
+    "title": "Florida Water Blues",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-07-13T04:02:00.000Z",
+    "dateFormatted": "July 13, 2026",
+    "url": "/reviews/albums/twisted-teens-florida-water-blues/",
+    "description": "The third album from the Montreal trio breaks free with restless energy and earnest, worldweary songwriting.",
+    "reviewer": "David Glickman",
+    "image": "https://media.pitchfork.com/photos/6a4c83868ca4c51df6cdf325/1:1/w_768,c_limit/Twisted-Teens-Florida-Water-Blues-1200.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a512ddabf6e0682682d6e13",
+    "artist": "Akusmi",
+    "title": "Terra Incognita",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-07-13T04:01:00.000Z",
+    "dateFormatted": "July 13, 2026",
+    "url": "/reviews/albums/akusmi-terra-incognita/",
+    "description": "The London saxophonist and his ensemble fuse jazz with diverse strains of global trance music&#8212;Moroccan gnawa, Berlin kosmische&#8212;into a hypnotic, utopian expression of spiritual union.",
+    "reviewer": "Dash Lewis",
+    "image": "https://media.pitchfork.com/photos/6a512d006b8670450ff1a0e5/1:1/w_768,c_limit/Akusmi%20-%20Terra%20Incognita.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a51040bc2ab37fb0eba2bea",
+    "artist": "Jasper Dean",
+    "title": "TOY COLLAGES",
+    "score": 7.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock",
+      "Electronic"
+    ],
+    "date": "2026-07-13T04:00:00.000Z",
+    "dateFormatted": "July 13, 2026",
+    "url": "/reviews/albums/jasper-dean-toy-collages/",
+    "description": "On their debut album, the Detroit musician skewers social-climbing scene darlings and tackles personal existential delusions over a frenetic blend of post-punk and electro-pop.",
+    "reviewer": "Cassidy Sollazzo",
+    "image": "https://media.pitchfork.com/photos/6a510310ebe300cae3600640/1:1/w_768,c_limit/Jasper%20Dean-TOY%20COLLAGES.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a512201c2ab37fb0eba2c89",
     "artist": "Rush",
     "title": "Power Windows",
