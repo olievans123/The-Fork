@@ -1,5 +1,77 @@
 [
   {
+    "id": "6a553cf3ace6e2fdf761b933",
+    "artist": "Panda Bear / Sonic Boom",
+    "title": "A ? of WHEN",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic",
+      "Electronic"
+    ],
+    "date": "2026-07-14T04:03:00.000Z",
+    "dateFormatted": "July 14, 2026",
+    "url": "/reviews/albums/panda-bear-sonic-boom-a-question-of-when/",
+    "description": "The duo’s latest collaborative album is spacious and open-hearted and surprising: a set of patiently constructed terrariums you have to walk around in to fully experience.",
+    "reviewer": "Sadie Sartini Garner",
+    "image": "https://media.pitchfork.com/photos/6a4ead01c1ef40148050fde2/1:1/w_768,c_limit/a3887346146_10.jpg"
+  },
+  {
+    "id": "6a54f73d1650191430b5e48c",
+    "artist": "Baby Rose",
+    "title": "YEARNALISM",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-07-14T04:02:00.000Z",
+    "dateFormatted": "July 14, 2026",
+    "url": "/reviews/albums/baby-rose-yearnalism/",
+    "description": "Armed with a powerhouse voice evocative of soul music’s greats, the singer-songwriter explores the many facets of longing on an album that bridges the genre’s past and future.",
+    "reviewer": "Stephen Thomas Erlewine",
+    "image": "https://media.pitchfork.com/photos/6a54f5f25082c987dd24a68e/1:1/w_768,c_limit/Baby%20Rose%20-%20YEARNALISM.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a55359f3c4f5cb87777d8ea",
+    "artist": "Sad13",
+    "title": "1331",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-07-14T04:01:00.000Z",
+    "dateFormatted": "July 14, 2026",
+    "url": "/reviews/albums/sad13-1331/",
+    "description": "Sadie Dupuis packs flash memoir and activist messages into the busy, bite-sized compositions on her new solo record.",
+    "reviewer": "Grace Robins-Somerville",
+    "image": "https://media.pitchfork.com/photos/6a4ead8d145e5bc58a483561/1:1/w_768,c_limit/127092.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a54f833703010915742465e",
+    "artist": "Gloorp",
+    "title": "Gloorp Life",
+    "score": 7.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-07-14T04:00:00.000Z",
+    "dateFormatted": "July 14, 2026",
+    "url": "/reviews/albums/gloorp-gloorp-life/",
+    "description": "The Philadelphia-based experimental percussionist returns with another set of dense, antic tracks that seesaw between being crowd-pleasing and purposefully unsettling.",
+    "reviewer": "Jayson Greene",
+    "image": "https://media.pitchfork.com/photos/6a54f7bfb1a216421fb4f1f5/1:1/w_768,c_limit/Gloorp-Gloorp%20Life.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a4ff8e9b30913ae9711d514",
     "artist": "The Rolling Stones",
     "title": "Foreign Tongues",
