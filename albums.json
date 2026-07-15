@@ -1,5 +1,77 @@
 [
   {
+    "id": "6a567b921d97036176d5dd68",
+    "artist": "Future",
+    "title": "The Real Me",
+    "score": 5.9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-07-15T04:03:00.000Z",
+    "dateFormatted": "July 15, 2026",
+    "url": "/reviews/albums/future-the-real-me/",
+    "description": "Fifteen years into his career, Future reckons with the blurry line between truth and persona and loses touch with the vulnerability that made his best work so enduring.",
+    "reviewer": "Alphonse Pierre",
+    "image": "https://media.pitchfork.com/photos/6a4f9f04145e5bc58a483a8e/1:1/w_768,c_limit/HMvy8O5XMAAvEH3.jpeg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a56810b6db9600ccf6b6e36",
+    "artist": "Show Me the Body",
+    "title": "Alone Together",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-07-15T04:02:00.000Z",
+    "dateFormatted": "July 15, 2026",
+    "url": "/reviews/albums/show-me-the-body-alone-together/",
+    "description": "Working with producer Kenneth Blume, the New York punk band attempts a spirited reinvention on its sleek, streamlined new album.",
+    "reviewer": "Eli Enis",
+    "image": "https://media.pitchfork.com/photos/6a032ff09bf9c29d90580a26/1:1/w_768,c_limit/Show-Me-the-Body-Alone-Together.jpeg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a5673c26db9600ccf6b6e32",
+    "artist": "M. Geddes Gengras",
+    "title": "Guest List",
+    "score": 7.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-07-15T04:01:00.000Z",
+    "dateFormatted": "July 15, 2026",
+    "url": "/reviews/albums/m-geddes-gengras-guest-list/",
+    "description": "On an album influenced by Chicago post-rock and squirrelly prog, the Woodstock modular synthesist invites some top-notch shredders&#8212;Greg Fox, Ben Chasny, Meg Duffy&#8212;to help him make sparks fly.",
+    "reviewer": "Daniel Bromfield",
+    "image": "https://media.pitchfork.com/photos/6a5671f2e6d2f11cb5750eef/1:1/w_768,c_limit/M.%20Geddes%20Gengras%20-%20Guest%20List.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a566e7d28a5e9dc54a32853",
+    "artist": "Fiddlehead",
+    "title": "Baby I’ll Change EP",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-07-15T04:00:00.000Z",
+    "dateFormatted": "July 15, 2026",
+    "url": "/reviews/albums/fiddlehead-baby-ill-change-ep/",
+    "description": "On a three-song EP rooted in the throes of grief, the Boston hardcore group pays tribute to loved ones lost and reaffirms its bandmates’ mutual bonds.",
+    "reviewer": "Nina Corcoran",
+    "image": "https://media.pitchfork.com/photos/6a566de3735fb24d09c0f791/1:1/w_768,c_limit/Fiddlehead%20-%20Baby%20I'll%20Change.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a553cf3ace6e2fdf761b933",
     "artist": "Panda Bear / Sonic Boom",
     "title": "A ? of WHEN",
