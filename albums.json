@@ -1,5 +1,77 @@
 [
   {
+    "id": "6a56981b735fb24d09c0f8a1",
+    "artist": "Kelela",
+    "title": "new avatar",
+    "score": 8.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-07-16T04:03:00.000Z",
+    "dateFormatted": "July 16, 2026",
+    "url": "/reviews/albums/kelela-new-avatar/",
+    "description": "Weaving psych rock and shoegaze textures into her mellifluous R&amp;B ethos, Kelela’s new album turns to guitars at a moment fraught with social and emotional tension.",
+    "reviewer": "Lawrence Burney",
+    "image": "https://media.pitchfork.com/photos/6a4eaaae4a5266a9ca2838fa/1:1/w_768,c_limit/5056818808807%20(1).png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a57d6f529aaa85dc82c5505",
+    "artist": "Standing on the Corner",
+    "title": "Standing on the Corner II",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-07-16T04:02:00.000Z",
+    "dateFormatted": "July 16, 2026",
+    "url": "/reviews/albums/standing-on-the-corner-standing-on-the-corner-ii/",
+    "description": "The Brooklyn collective is characteristically adventurous and opaque on this 64-minute heat check&#8212;what it lacks in accessibility, it makes up for in depth.",
+    "reviewer": "Matthew Ritchie",
+    "image": "https://media.pitchfork.com/photos/6a57d799da97cd502857a4f3/1:1/w_768,c_limit/Standing%20on%20the%20Corner%20II.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a57d65c6db9600ccf6b730e",
+    "artist": "Loathe",
+    "title": "A Stranger to You",
+    "score": 5.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Metal"
+    ],
+    "date": "2026-07-16T04:01:00.000Z",
+    "dateFormatted": "July 16, 2026",
+    "url": "/reviews/albums/loathe-a-stranger-to-you/",
+    "description": "The breakthrough metalcore band’s latest is hampered by its own omnivorous ambition and bafflingly muddy production.",
+    "reviewer": "Patrick Lyons",
+    "image": "https://media.pitchfork.com/photos/6a57d59744ca42217bc2445e/1:1/w_768,c_limit/Loathe%20A%20Stranger%20to%20You.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a568e954afb929b223608c0",
+    "artist": "Bby Kell",
+    "title": "GIRLY POP",
+    "score": 6.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-07-16T04:00:00.000Z",
+    "dateFormatted": "July 16, 2026",
+    "url": "/reviews/albums/bby-kell-girly-pop/",
+    "description": "On her second release, the Atlanta rapper balances her headstrong flexes and creaky, idiosyncratic voice with clean plugg production and newfound poise.",
+    "reviewer": "Olivier Lafontant",
+    "image": "https://media.pitchfork.com/photos/6a568e2844ca42217bc23f02/1:1/w_768,c_limit/Bby%20Kell-Girlie%20Pop.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a567b921d97036176d5dd68",
     "artist": "Future",
     "title": "The Real Me",
