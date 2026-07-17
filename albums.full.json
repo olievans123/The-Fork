@@ -1,5 +1,77 @@
 [
   {
+    "id": "6a59042e978b6e75f8d8d8a7",
+    "artist": "Gracie Abrams",
+    "title": "Daughter From Hell",
+    "score": 6.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-07-17T04:03:00.000Z",
+    "dateFormatted": "July 17, 2026",
+    "url": "/reviews/albums/gracie-abrams-daughter-from-hell/",
+    "description": "Working once again with Aaron Dessner, the songwriter sticks to her signature blend of bulletproof pop and melancholic indie folk, but the few risks she takes result in her best songs yet.",
+    "reviewer": "Molly Mary O’Brien",
+    "image": "https://media.pitchfork.com/photos/6a5903d82a164c2b958e7375/1:1/w_768,c_limit/Gracie%20Abrams%20-%20Daughter%20From%20Hell.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a568fd84afb929b223608fa",
+    "artist": "Rome Streetz",
+    "title": "Sock It 2 My Pocket",
+    "score": 7.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-07-17T04:02:00.000Z",
+    "dateFormatted": "July 17, 2026",
+    "url": "/reviews/albums/rome-streetz-sock-it-2-my-pocket/",
+    "description": "On his glitzy and paranoid new record, the rapper wrestles with survivor’s guilt while making a case for East Coast boom-bap’s perpetual adaptability.",
+    "reviewer": "Dylan Green",
+    "image": "https://media.pitchfork.com/photos/6a568f844afb929b223608ec/1:1/w_768,c_limit/Rome%20Streetz-Sock%20It%202%20My%20Pocket.jpeg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a5901e5978b6e75f8d8d8a3",
+    "artist": "Rylo Rodriguez",
+    "title": "S.K.A.T.E.",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-07-17T04:01:00.000Z",
+    "dateFormatted": "July 17, 2026",
+    "url": "/reviews/albums/rylo-rodriguez-skate/",
+    "description": "With soulful beats and casual technique, sharp character studies and rude jokes, the Alabama rapper’s new album demonstrates his vision of neotraditionalist Southern rap.",
+    "reviewer": "Drew Millard",
+    "image": "https://media.pitchfork.com/photos/6a5901052a164c2b958e7362/1:1/w_768,c_limit/Rylo%20Rodriguez%20-%20SKATE%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a58f998978b6e75f8d8d7f1",
+    "artist": "Will Sheff",
+    "title": "Extra Mile",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-07-17T04:00:00.000Z",
+    "dateFormatted": "July 17, 2026",
+    "url": "/reviews/albums/will-sheff-extra-mile/",
+    "description": "Recorded with longtime bandmates, the Okkervil River songwriter’s new solo album sounds both cosmically chilled out and neurotically afflicted by the weight of the world.",
+    "reviewer": "Stephen M. Deusner",
+    "image": "https://media.pitchfork.com/photos/6a58f8c8587cbb4741cfb333/1:1/w_768,c_limit/Will%20Sheff%20-%20Extra%20Mile%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a56981b735fb24d09c0f8a1",
     "artist": "Kelela",
     "title": "new avatar",
