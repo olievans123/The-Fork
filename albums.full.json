@@ -1,5 +1,79 @@
 [
   {
+    "id": "6a5a6578f0cf98e956b89a7c",
+    "artist": "Nia Archives",
+    "title": "Emotional Junglist",
+    "score": 7.9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-07-20T04:03:00.000Z",
+    "dateFormatted": "July 20, 2026",
+    "url": "/reviews/albums/nia-archives-emotional-junglist/",
+    "description": "The UK musician sounds emboldened and unguarded on her latest album, building on her drum’n’bass foundations while expanding her expressive range.",
+    "reviewer": "Will Pritchard",
+    "image": "https://media.pitchfork.com/photos/6a5662b4e6d2f11cb5750ed8/1:1/w_768,c_limit/26UMGIM39397.rgb%20(1).jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a5a5a9e6b5ecdb34557f679",
+    "artist": "Eartheater",
+    "title": "Heavenly Body: If I’m the Bottle You’re the Message",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-07-20T04:02:00.000Z",
+    "dateFormatted": "July 20, 2026",
+    "url": "/reviews/albums/eartheater-heavenly-body-if-im-the-bottle-youre-the-message/",
+    "description": "Inspired by the experiences of pregnancy and new motherhood, the art-pop musician brings her experimental approach down to earth for a lucid and restrained new album.",
+    "reviewer": "Colin Joyce",
+    "image": "https://media.pitchfork.com/photos/6a56646128a5e9dc54a32846/1:1/w_768,c_limit/4514%20(1).jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a5a3be7f0cf98e956b897b3",
+    "artist": "Evil Graham Lee",
+    "title": "I Think I’m Alone Now",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Folk/Country"
+    ],
+    "date": "2026-07-20T04:01:00.000Z",
+    "dateFormatted": "July 20, 2026",
+    "url": "/reviews/albums/evil-graham-lee-i-think-im-alone-now/",
+    "description": "Making his solo debut at age 72, the KLF collaborator and longtime Triffids member offers an exquisite picture of the pedal steel’s emotional ambiguity.",
+    "reviewer": "Grayson Haver Currin",
+    "image": "https://media.pitchfork.com/photos/6a5a39b473ff020926f43d1d/1:1/w_768,c_limit/Evil%20Graham%20Lee%20-%20I%20Think%20I'm%20Alone%20Now.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a5a44f373ff020926f43d9b",
+    "artist": "Helado Negro / Reyna Tropical",
+    "title": "Helado Tropical",
+    "score": 7.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic",
+      "Pop/R&B",
+      "Folk/Country"
+    ],
+    "date": "2026-07-20T04:00:00.000Z",
+    "dateFormatted": "July 20, 2026",
+    "url": "/reviews/albums/helado-negro-reyna-tropical-helado-tropical/",
+    "description": "Two of Latin alternative’s gentlest souls combine their heart-on-your-sleeve electronic and indie-folk impulses for a breezy, languorous collaborative record.",
+    "reviewer": "E.R. Pulgar",
+    "image": "https://media.pitchfork.com/photos/6a5a449e73ff020926f43d92/1:1/w_768,c_limit/Helado%20Tropical-Helado%20Tropical.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a5a7bd27687eb98ceb81721",
     "artist": "Opeth",
     "title": "Damnation",
