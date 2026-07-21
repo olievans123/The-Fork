@@ -1,5 +1,77 @@
 [
   {
+    "id": "6a5e440d02a67c7e0322232e",
+    "artist": "Tricky",
+    "title": "Different When It’s Silent",
+    "score": 7.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-07-21T04:03:00.000Z",
+    "dateFormatted": "July 21, 2026",
+    "url": "/reviews/albums/tricky-different-when-its-silent/",
+    "description": "The trip-hop icon’s latest album is stylistically uneven, but he sounds creatively energized, particularly on brooding, desolate songs where he grapples with parental grief.",
+    "reviewer": "Ben Cardew",
+    "image": "https://media.pitchfork.com/photos/6a56653044ca42217bc23e50/1:1/w_768,c_limit/4062548142556.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a5e4d10381039966849a1a7",
+    "artist": "diamond*",
+    "title": "BLING SLIME VØL 1: HØSTED BY DJ HØLIDAY",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-07-21T04:02:00.000Z",
+    "dateFormatted": "July 21, 2026",
+    "url": "/reviews/albums/diamond-bling-slime-vol-1-hosted-by-dj-holiday/",
+    "description": "On a new release filled with acrobatic punch-ins and glitzy production, the Atlanta rapper and ØWay figurehead makes the case for being his city’s slickest new emcee.",
+    "reviewer": "Olivier Lafontant",
+    "image": "https://media.pitchfork.com/photos/6a5e4c2902a67c7e032223dc/1:1/w_768,c_limit/diamond*-BLING%20SLIME%20V%C3%98L%201-%20H%C3%98STED%20BY%20DJ%20H%C3%98LIDAY.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a5e7151642b4bf4efec2fcd",
+    "artist": "Lido Pimienta",
+    "title": "Caribenya",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-07-21T04:01:00.000Z",
+    "dateFormatted": "July 21, 2026",
+    "url": "/reviews/albums/lido-pimienta-caribenya/",
+    "description": "The Colombian-born musician’s latest album pairs focused songwriting with a vanguardist streak, broadening the possibilities for what she calls “the Caribbean sublime.”",
+    "reviewer": "Maria Nenet Barrios",
+    "image": "https://media.pitchfork.com/photos/6a5e70536a8427b11c98fa76/1:1/w_768,c_limit/Lido%20Pimienta%20Caribenya.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a5e63d39d4cfbb4099e26c0",
+    "artist": "Luluc",
+    "title": "Sweet Thief",
+    "score": 7.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Folk/Country"
+    ],
+    "date": "2026-07-21T04:00:00.000Z",
+    "dateFormatted": "July 21, 2026",
+    "url": "/reviews/albums/luluc-sweet-thief/",
+    "description": "Like ships in bottles, the Australian duo’s dreamy folk-pop and doo wop songs are small, delicate, and fully detailed.",
+    "reviewer": "Brian Howe",
+    "image": "https://media.pitchfork.com/photos/6a5e632cd5c7f7438eeac664/1:1/w_768,c_limit/Luluc%20-%20Sweet%20Thief%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a5a6578f0cf98e956b89a7c",
     "artist": "Nia Archives",
     "title": "Emotional Junglist",
