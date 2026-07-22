@@ -1,5 +1,77 @@
 [
   {
+    "id": "6a5fbf6fe94b390915957ec6",
+    "artist": "Steve Lacy",
+    "title": "Oh yeah?",
+    "score": 6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-07-22T04:03:00.000Z",
+    "dateFormatted": "July 22, 2026",
+    "url": "/reviews/albums/steve-lacy-oh-yeah/",
+    "description": "From the fragmented breakup anthems to the formulaic moodboard fodder, nothing on Steve Lacy’s new album seems to come naturally.",
+    "reviewer": "Alphonse Pierre",
+    "image": "https://media.pitchfork.com/photos/6a21c189fc892426f2169bc5/1:1/w_768,c_limit/Screenshot%202026-06-04%20at%202.16.49%E2%80%AFPM.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a5fbc1b75590efce2bfd186",
+    "artist": "The Menzingers",
+    "title": "Everything I Ever Saw",
+    "score": 4.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-07-22T04:02:00.000Z",
+    "dateFormatted": "July 22, 2026",
+    "url": "/reviews/albums/the-menzingers-everything-i-ever-saw/",
+    "description": "Rousing paeans to wasted youth get reduced to hokey life lessons on the Pennsylvania punks’ new album, which lacks nearly all the lyrical features that made their best work so lovable.",
+    "reviewer": "Eli Enis",
+    "image": "https://media.pitchfork.com/photos/6a5fbb98592155d0589c4381/1:1/w_768,c_limit/The%20Menzingers%20-%20Everything%20I%20Ever%20Saw%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a5fc51d9f6431052a628691",
+    "artist": "Sofie Birch",
+    "title": "Bivabippabualukka",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-07-22T04:01:00.000Z",
+    "dateFormatted": "July 22, 2026",
+    "url": "/reviews/albums/sofie-birch/bivabippabualukka/",
+    "description": "Collaborating with her brother, the Copenhagen composer takes a whimsical left turn on a sprawling, pleasantly busy new album.",
+    "reviewer": "Shaad D’Souza",
+    "image": "https://media.pitchfork.com/photos/6a5fc442e94b390915957ee4/1:1/w_768,c_limit/Sofie%20Birch%20Bivabippabualukka.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a5fb952592155d0589c4365",
+    "artist": "The Garden",
+    "title": "Bootleg",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-07-22T04:00:00.000Z",
+    "dateFormatted": "July 22, 2026",
+    "url": "/reviews/albums/the-garden-bootleg/",
+    "description": "On their latest album, the Shears brothers bounce from scuffed-up hardcore to breakbeat-infused rap-rock, telling tales of paranormal activity that form an impressive compendium of folklore.",
+    "reviewer": "Jude Noel",
+    "image": "https://media.pitchfork.com/photos/6a5fb8e89f6431052a628602/1:1/w_768,c_limit/The%20Garden-Bootleg.png",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a5e440d02a67c7e0322232e",
     "artist": "Tricky",
     "title": "Different When It’s Silent",
