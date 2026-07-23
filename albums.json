@@ -1,5 +1,77 @@
 [
   {
+    "id": "6a6106e8920e1fc3ab4e385b",
+    "artist": "Rick Ross",
+    "title": "Set in Stone",
+    "score": 6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-07-23T04:03:00.000Z",
+    "dateFormatted": "July 23, 2026",
+    "url": "/reviews/albums/rick-ross-set-in-stone/",
+    "description": "Some flashes of inspiration, some familiar retreads, some egregious missteps, lots of money talk&#8212;it’s another Rick Ross album.",
+    "reviewer": "Dash Lewis",
+    "image": "https://media.pitchfork.com/photos/6a272bb65a0b04ca993e70bd/1:1/w_768,c_limit/656465218148_cover.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a60e08cfe5b6fa9d14c1ea8",
+    "artist": "Nu Jazz",
+    "title": "Un Jazz",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-07-23T04:02:00.000Z",
+    "dateFormatted": "July 23, 2026",
+    "url": "/reviews/albums/nu-jazz-un-jazz/",
+    "description": "The NYC avant-garde supergroup’s latest album collides jazz, prog, metal, and noise into a murky, disorienting brew whose fried extremes belie the players’ virtuosity.",
+    "reviewer": "Sam Goldner",
+    "image": "https://media.pitchfork.com/photos/6a60e036e58c75729d8fc0e8/1:1/w_768,c_limit/Nu%20Jazz%20-%20Un%20Jazz.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a610a168bf8c6f65089c10a",
+    "artist": "Swapmeet",
+    "title": "Mount Zero",
+    "score": 7.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-07-23T04:01:00.000Z",
+    "dateFormatted": "July 23, 2026",
+    "url": "/reviews/albums/swapmeet-mount-zero/",
+    "description": "On its debut album, the Australian quartet weaves quietly arresting details and playful sonic touches into catchy, familiar noise-pop.",
+    "reviewer": "Ethan Beck",
+    "image": "https://media.pitchfork.com/photos/6a61093cce9948ee20977843/1:1/w_768,c_limit/Swapmeet%20Mount%20Zero.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a60da0a3ba75c448f8fe905",
+    "artist": "DJ Cinéma Quartier Latin",
+    "title": "Bruise",
+    "score": 6.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-07-23T04:00:00.000Z",
+    "dateFormatted": "July 23, 2026",
+    "url": "/reviews/albums/dj-cinema-quartier-latin-bruise/",
+    "description": "On a debut album heavy with moody breakbeats, the Montréal producer revels in the shades of gray between body music and brain music.",
+    "reviewer": "Hattie Lindert",
+    "image": "https://media.pitchfork.com/photos/6a60d8e1b8b61c35688107f7/1:1/w_768,c_limit/DJ%20Cine%CC%81ma%20Quartier%20Latin%20-%20Bruise.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a5fbf6fe94b390915957ec6",
     "artist": "Steve Lacy",
     "title": "Oh yeah?",
