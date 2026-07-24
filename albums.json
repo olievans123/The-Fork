@@ -1,5 +1,78 @@
 [
   {
+    "id": "6a62682aab3d027b3880cc63",
+    "artist": "Charli xcx",
+    "title": "Music, Fashion, Film",
+    "score": 8.2,
+    "bnm": true,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B",
+      "Rock"
+    ],
+    "date": "2026-07-24T04:03:00.000Z",
+    "dateFormatted": "July 24, 2026",
+    "url": "/reviews/charli-xcx-music-fashion-film/",
+    "description": "On the follow-up to <em>BRAT,</em> the pop auteur pivots to a referential, proudly tossed-off rock sound that offers mystifying glances behind the curtain of stardom.",
+    "reviewer": "Anna Gaca",
+    "image": "https://media.pitchfork.com/photos/6a1d8c4a7bd12195f2446647/1:1/w_768,c_limit/Charli-XCX-Music-Fashion-Film.jpeg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a6256fbee03086d8ecea2fe",
+    "artist": "Rico Nasty",
+    "title": "RX",
+    "score": 7.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-07-24T04:02:00.000Z",
+    "dateFormatted": "July 24, 2026",
+    "url": "/reviews/albums/rico-nasty-rx/",
+    "description": "Working once again with Kenneth Blume, the high-energy rapper revisits her signature sound for a tight 20-minute album. It’s her most focused and satisfying work in years.",
+    "reviewer": "Mehan Jayasuriya",
+    "image": "https://media.pitchfork.com/photos/6a6118b27ce77adda4da0df2/1:1/w_768,c_limit/823375277606_Cover.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a6266e6aa791c7d041edbf8",
+    "artist": "Yard Act",
+    "title": "You’re Gonna Need a Little Music",
+    "score": 6.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-07-24T04:01:00.000Z",
+    "dateFormatted": "July 24, 2026",
+    "url": "/reviews/albums/yard-act-youre-gonna-need-a-little-music/",
+    "description": "The UK band smooths out its characteristically jagged post-punk for a vaguely uplifting album that brings to mind lots of older British rock groups.",
+    "reviewer": "Victoria Borlando",
+    "image": "https://media.pitchfork.com/photos/6a6265e5f90654ad37042a4e/1:1/w_768,c_limit/Yard%20Act%20You're%20Gonna%20Need%20a%20Little%20Music.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a60f458fe5b6fa9d14c1ec4",
+    "artist": "Oen Sujet",
+    "title": "The Friendliest Fight We Know",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-07-24T04:00:00.000Z",
+    "dateFormatted": "July 24, 2026",
+    "url": "/reviews/albums/oen-sujet-the-friendliest-fight-we-know/",
+    "description": "The singular Montreal collective, led by composer John Winston Phillips, returns after 17 years, committed as ever to its unique brand of labyrinthine, cathartic art-pop.",
+    "reviewer": "Maxie Younger",
+    "image": "https://media.pitchfork.com/photos/6a60ef4a928f841aaafafc9d/1:1/w_768,c_limit/Oen%20Sujet-The%20Friendliest%20Fight%20We%20Know%20.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a6106e8920e1fc3ab4e385b",
     "artist": "Rick Ross",
     "title": "Set in Stone",
