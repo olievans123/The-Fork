@@ -1,5 +1,23 @@
 [
   {
+    "id": "6a627b0bf90654ad37042aac",
+    "artist": "Shania Twain",
+    "title": "Little Miss Twain",
+    "score": 6.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Folk/Country"
+    ],
+    "date": "2026-07-25T04:00:00.000Z",
+    "dateFormatted": "July 25, 2026",
+    "url": "/reviews/shania-twain-little-miss-twain/",
+    "description": "With guests including Tanya Tucker, T Bone Burnett, and Josh Homme, the country star’s seventh album trades the pop sheen of recent releases for rootsy, candidly autobiographical songwriting.",
+    "reviewer": "Amanda Wicks",
+    "image": "https://media.pitchfork.com/photos/6a63c4cabe0b9062fc1c4c3d/1:1/w_768,c_limit/Shania%20Twain%20Little%20Miss%20Twain.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a62682aab3d027b3880cc63",
     "artist": "Charli xcx",
     "title": "Music, Fashion, Film",
