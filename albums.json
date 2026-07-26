@@ -1,5 +1,23 @@
 [
   {
+    "id": "6a63b46a74005510ba9a8a60",
+    "artist": "Janet Jackson",
+    "title": "All for You",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-07-26T04:00:00.000Z",
+    "dateFormatted": "July 26, 2026",
+    "url": "/reviews/janet-jackson-all-for-you/",
+    "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit Janet’s oft-overlooked 2001 album, an emotionally luxurious record released at a turning point in her career.",
+    "reviewer": "Kiana Mickles",
+    "image": "https://media.pitchfork.com/photos/6a63b3d6c89396b732b1afe2/1:1/w_768,c_limit/Janet%20Jackson%20All%20for%20You.jpg",
+    "releaseYear": 2001
+  },
+  {
     "id": "6a627b0bf90654ad37042aac",
     "artist": "Shania Twain",
     "title": "Little Miss Twain",
