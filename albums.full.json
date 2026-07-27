@@ -1,5 +1,76 @@
 [
   {
+    "id": "6a63b72e17770a50d58ba367",
+    "artist": "Picture",
+    "title": "Uuuuuuuu",
+    "score": 8.2,
+    "bnm": true,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-07-27T04:03:00.000Z",
+    "dateFormatted": "July 27, 2026",
+    "url": "/reviews/albums/picture-uuuuuuuu/",
+    "description": "Natal Zaks brings dub techno to a higher level on an energetic and atmospheric 2x12&quot;, another pin in the lapel of the new and outstanding Short Span label.",
+    "reviewer": "H.D. Angel",
+    "image": "https://media.pitchfork.com/photos/6a63b68adf8edba43266a72a/1:1/w_768,c_limit/Picture%20Uuuuuuuu.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a633269a2b2588731566332",
+    "artist": "Foodman",
+    "title": "HIKARIGASASHIKOMU",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-07-27T04:02:00.000Z",
+    "dateFormatted": "July 27, 2026",
+    "url": "/reviews/albums/foodman-hikarigasashikomu/",
+    "description": "The Japanese producer’s tangled, footwork-inspired beats have always been bewildering, but the deranged voices and extreme chaos of his latest LP sounds genuinely menacing.",
+    "reviewer": "Daniel Bromfield",
+    "image": "https://media.pitchfork.com/photos/6a5e930ea4c6d3d7a46c1355/1:1/w_768,c_limit/a0047127759_10.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a627d40ee03086d8ecea434",
+    "artist": "Dux Content",
+    "title": "Lifestyle",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [],
+    "date": "2026-07-27T04:01:00.000Z",
+    "dateFormatted": "July 27, 2026",
+    "url": "/reviews/albums/dux-content-lifestyle/",
+    "description": "PC Music architects A.G. Cook and Danny L Harle reissue their 2012 album as a duo: a playful early adventure in the bubblegum maximalism that would shape the sound of pop.",
+    "reviewer": "Billie Bugara",
+    "image": "https://media.pitchfork.com/photos/6a627ce1ab3d027b3880cd15/1:1/w_768,c_limit/Dux%20Content%20-%20Lifestyle%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a63b1aac89396b732b1afac",
+    "artist": "Judah Weston / IsoKeys",
+    "title": "Why So Much Hate",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap",
+      "Rap"
+    ],
+    "date": "2026-07-27T04:00:00.000Z",
+    "dateFormatted": "July 27, 2026",
+    "url": "/reviews/albums/judah-weston-isokeys-why-so-much-hate/",
+    "description": "The young New York rapper and his producer brother have already found success on TikTok, but their strange and poignant full-length debut proves there’s far more to their craft.",
+    "reviewer": "Lei Takanashi",
+    "image": "https://media.pitchfork.com/photos/6a63b0a174005510ba9a8a38/1:1/w_768,c_limit/Judah%20Weston%20Iso%20Keys%20Why%20So%20Much%20Hate.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a63b46a74005510ba9a8a60",
     "artist": "Janet Jackson",
     "title": "All for You",
