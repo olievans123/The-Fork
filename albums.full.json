@@ -1,5 +1,77 @@
 [
   {
+    "id": "6a67a9dba9f8de12f377c375",
+    "artist": "The Strokes",
+    "title": "Reality Awaits",
+    "score": 6.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-07-28T04:03:00.000Z",
+    "dateFormatted": "July 28, 2026",
+    "url": "/reviews/albums/the-strokes-reality-awaits/",
+    "description": "Full of Auto-Tuned vocals and incisive lyrics, the rock band’s seventh album is doomy, strange, and fully in on the bit.",
+    "reviewer": "Eric Harvey",
+    "image": "https://media.pitchfork.com/photos/69d53f3b3f2d2d0aab878103/1:1/w_768,c_limit/The-Strokes-Reality-Awaits.jpeg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a6391e805f63b62351253c9",
+    "artist": "Syd",
+    "title": "Beard",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-07-28T04:02:00.000Z",
+    "dateFormatted": "July 28, 2026",
+    "url": "/reviews/albums/syd-beard/",
+    "description": "The singer and producer’s third solo album is a paean to self-knowledge gleaned over time, filled with lush arrangements that exude a sense of ease.",
+    "reviewer": "Vrinda Jagota",
+    "image": "https://media.pitchfork.com/photos/6a5661616c6363c28bc73f4a/1:1/w_768,c_limit/093624819783.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a6777ad37086f8f5ed026b2",
+    "artist": "IAN SWEET",
+    "title": "Shiverstruck",
+    "score": 6.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-07-28T04:01:00.000Z",
+    "dateFormatted": "July 28, 2026",
+    "url": "/reviews/albums/ian-sweet-shiverstruck/",
+    "description": "On her fifth album, Jilian Medford reflects on inertia, heartbreak, and a cross-country move, setting allusions to intense feelings against subdued indie pop.",
+    "reviewer": "Abby Jones",
+    "image": "https://media.pitchfork.com/photos/6a6777212e5aa2ed7eb6c5d7/1:1/w_768,c_limit/Ian%20Sweet-Shiverstruck.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a672c25dc867adc9ab0f876",
+    "artist": "Lumtz",
+    "title": "Tesoros",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-07-28T04:00:00.000Z",
+    "dateFormatted": "July 28, 2026",
+    "url": "/reviews/albums/lumtz-tesoros/",
+    "description": "Folding field recordings of his daily walks into delicate and sometimes twee electronic sketches, the Argentinian producer pays tribute to the charms of his Patagonian lakeside hometown.",
+    "reviewer": "Andrew Ryce",
+    "image": "https://media.pitchfork.com/photos/6a672a55dc867adc9ab0f871/1:1/w_768,c_limit/Lumtz%20-%20Tesoros.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a63b72e17770a50d58ba367",
     "artist": "Picture",
     "title": "Uuuuuuuu",
@@ -42,11 +114,13 @@
     "score": 8,
     "bnm": false,
     "bnr": false,
-    "genres": [],
+    "genres": [
+      "Electronic"
+    ],
     "date": "2026-07-27T04:01:00.000Z",
     "dateFormatted": "July 27, 2026",
     "url": "/reviews/albums/dux-content-lifestyle/",
-    "description": "PC Music architects A.G. Cook and Danny L Harle reissue their 2012 album as a duo: a playful early adventure in the bubblegum maximalism that would shape the sound of pop.",
+    "description": "PC Music architects A. G. Cook and Danny L Harle reissue their 2012 album as a duo: a playful early adventure in the bubblegum maximalism that would shape the sound of pop.",
     "reviewer": "Billie Bugara",
     "image": "https://media.pitchfork.com/photos/6a627ce1ab3d027b3880cd15/1:1/w_768,c_limit/Dux%20Content%20-%20Lifestyle%20album%20art.jpg",
     "releaseYear": 2026
