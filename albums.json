@@ -1,5 +1,77 @@
 [
   {
+    "id": "6a67d2304fb1808a76278217",
+    "artist": "zayALLCAPS",
+    "title": "My Uncle Told Me Some Real Ass Sh*t on the Phone Yesterday",
+    "score": 8.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-07-29T04:03:00.000Z",
+    "dateFormatted": "July 29, 2026",
+    "url": "/reviews/albums/zayallcaps-my-uncle-told-me-some-real-ass-shit-on-the-phone-yesterday/",
+    "description": "The California rapper-producer’s new album sifts through an eclectic pileup of influences with X-ray vision, exposing his artistic process and still keeping it breezy.",
+    "reviewer": "Hattie Lindert",
+    "image": "https://media.pitchfork.com/photos/6a554c19a74dbb463068447a/1:1/w_768,c_limit/HNIVvM4bwAAXVwZ.jpeg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a68fa608c56b6604a75ef9d",
+    "artist": "deBasement",
+    "title": "HARDBODY",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-07-29T04:02:00.000Z",
+    "dateFormatted": "July 29, 2026",
+    "url": "/reviews/albums/debasement-hardbody/",
+    "description": "Alli Logout of the punk band Special Interest and rising pop producer Margo XS join forces on a club record whose messy hedonism is matched only by its wicked sense of humor.",
+    "reviewer": "Cameron Cook",
+    "image": "https://media.pitchfork.com/photos/6a57c35e80106f2068e4a8c3/1:1/w_768,c_limit/hardbody_EPcover.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a68eba54afee9ed2cc8c951",
+    "artist": "Shannon Lay ",
+    "title": "Past the Veil",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Folk/Country"
+    ],
+    "date": "2026-07-29T04:01:00.000Z",
+    "dateFormatted": "July 29, 2026",
+    "url": "/reviews/albums/shannon-lay-past-the-veil/",
+    "description": "Embracing jazz mysticism and trip-hop rhythms, the singer-songwriter takes some worthwhile risks on her arresting new album.",
+    "reviewer": "Linnie Greene",
+    "image": "https://media.pitchfork.com/photos/6a68eae0a5c3ee2379c533f5/1:1/w_768,c_limit/Shannon%20Lay%20Past%20the%20Veil.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a67d127a9f8de12f377c3a1",
+    "artist": "Fox BD",
+    "title": "Finessin Distribution Deals",
+    "score": 6.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-07-29T04:00:00.000Z",
+    "dateFormatted": "July 29, 2026",
+    "url": "/reviews/albums/fox-bd-finessin-distribution-deals/",
+    "description": "Fox BD’s out of pocket yet oddly personal punchline rap already made for one of the year’s best mixtapes. His new one could use a little more of that energy.",
+    "reviewer": "Alphonse Pierre",
+    "image": "https://media.pitchfork.com/photos/6a67d0550ac24f1800d86e32/1:1/w_768,c_limit/Fox%20BD%20-%20Finessin%20Distribution%20Deals.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a67a9dba9f8de12f377c375",
     "artist": "The Strokes",
     "title": "Reality Awaits",
