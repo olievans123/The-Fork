@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://the-fork.vercel.app/</loc><priority>1.0</priority></url>
+<url><loc>https://the-fork.vercel.app/album/the-durutti-column-renascent</loc><priority>0.6</priority></url>
+<url><loc>https://the-fork.vercel.app/album/nick-hakim-i-can-see</loc><priority>0.6</priority></url>
+<url><loc>https://the-fork.vercel.app/album/sam-and-louise-sullivan-love-amp-devotion</loc><priority>0.6</priority></url>
+<url><loc>https://the-fork.vercel.app/album/leo-cicada-burnt</loc><priority>0.6</priority></url>
 <url><loc>https://the-fork.vercel.app/album/zayallcaps-my-uncle-told-me-some-real-ass-sh-t-on-the-phone-yesterday</loc><priority>0.6</priority></url>
 <url><loc>https://the-fork.vercel.app/album/debasement-hardbody</loc><priority>0.6</priority></url>
 <url><loc>https://the-fork.vercel.app/album/shannon-lay-past-the-veil</loc><priority>0.6</priority></url>

@@ -1,5 +1,79 @@
 [
   {
+    "id": "6a6a6c22008a826d859fa417",
+    "artist": "The Durutti Column",
+    "title": "Renascent",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental",
+      "Rock"
+    ],
+    "date": "2026-07-30T04:03:00.000Z",
+    "dateFormatted": "July 30, 2026",
+    "url": "/reviews/albums/the-durutti-column-renascent/",
+    "description": "Long in the works, Vini Reilly’s first album in 16 years distills minimalism, romanticism, and ambient into a sort of universal music.",
+    "reviewer": "Jazz Monroe",
+    "image": "https://media.pitchfork.com/photos/6a15b44e0bd0d2182bfacd43/1:1/w_768,c_limit/DC_RENASCENT_STANDARD.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a6918cc8c56b6604a75f057",
+    "artist": "Nick Hakim",
+    "title": "I Can See",
+    "score": 5.9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-07-30T04:02:00.000Z",
+    "dateFormatted": "July 30, 2026",
+    "url": "/reviews/albums/nick-hakim-i-can-see/",
+    "description": "The singer’s fourth album inhabits a balmy medium zone of relentlessly moderate tempos and subdued vocals, where even brief moments of intriguing tension and fuzz get flattened into homogeneity.",
+    "reviewer": "Mitch Therieau",
+    "image": "https://media.pitchfork.com/photos/6a691827f138122eadb95b7c/1:1/w_768,c_limit/Nick%20Hakim-I%20Can%20See.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a6a4c9e103c7a0c9e36f06d",
+    "artist": "Sam and Louise Sullivan",
+    "title": "Love &amp; Devotion",
+    "score": 7.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Folk/Country",
+      "Rock"
+    ],
+    "date": "2026-07-30T04:01:00.000Z",
+    "dateFormatted": "July 30, 2026",
+    "url": "/reviews/albums/sam-and-louise-sullivan-love-and-devotion/",
+    "description": "On its third album, the Philadelphia sibling duo crafts folk-pop gems that are warm, familiar, and slightly surreal.",
+    "reviewer": "W. Reed Putnam",
+    "image": "https://media.pitchfork.com/photos/6a6a4bc2ba16438a6e1702bc/1:1/w_768,c_limit/Sam%20and%20Louise%20Sullivan%20Love%20&%20Devotion.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a6a37baba16438a6e170267",
+    "artist": "Leo",
+    "title": "Cicada Burnt",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-07-30T04:00:00.000Z",
+    "dateFormatted": "July 30, 2026",
+    "url": "/reviews/albums/leo-cicada-burnt/",
+    "description": "On his first appearance for Peak Oil, the Mancunian producer animates foreboding, percussive bass music with tricky details and Escherian grooves.",
+    "reviewer": "Philip Sherburne",
+    "image": "https://media.pitchfork.com/photos/6a6a3748fdd0ba9932ac1d62/1:1/w_768,c_limit/Leo%20-%20Cicada%20Burnt%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a67d2304fb1808a76278217",
     "artist": "zayALLCAPS",
     "title": "My Uncle Told Me Some Real Ass Sh*t on the Phone Yesterday",
