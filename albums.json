@@ -1,5 +1,78 @@
 [
   {
+    "id": "6a6b7f7a97bc3c9f3d9d3937",
+    "artist": "Ariana Grande",
+    "title": "petal",
+    "score": 6.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-07-31T04:03:00.000Z",
+    "dateFormatted": "July 31, 2026",
+    "url": "/reviews/albums/ariana-grande-petal/",
+    "description": "With its downcast, gossamer tone, the pop star’s eighth album scans as intimate and experimental even as it retreads familiar territory.",
+    "reviewer": "Aimee Cliff",
+    "image": "https://media.pitchfork.com/photos/6a691240f138122eadb95b76/1:1/w_768,c_limit/26UMGIM51129.rgb%20(1).jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a67d3450ac24f1800d86e42",
+    "artist": "Tyla",
+    "title": "A*POP",
+    "score": 7.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-07-31T04:02:00.000Z",
+    "dateFormatted": "July 31, 2026",
+    "url": "/reviews/albums/tyla-a-pop/",
+    "description": "Polishing an already polished sound, Tyla’s second album adds reverb-heavy guitar and electronic production to frothy Afropop and amapiano log rhythms.",
+    "reviewer": "E.R. Pulgar",
+    "image": "https://media.pitchfork.com/photos/69e96b47121b65234b52cdf5/1:1/w_768,c_limit/TYLA_APOP_Cvr_10x10_HR.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a6b178253466aaf74d16b22",
+    "artist": "Agazero",
+    "title": "Dissidente",
+    "score": 7.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-07-31T04:01:00.000Z",
+    "dateFormatted": "July 31, 2026",
+    "url": "/reviews/albums/agazero-dissidente/",
+    "description": "Combining sounds from across the electronic spectrum&#8212;tamborzão, techno, dubstep, deconstructed club&#8212;the Brazilian producer paints a gritty picture of São Paulo nightlife at its most adventurous.",
+    "reviewer": "Amanda Cavalcanti",
+    "image": "https://media.pitchfork.com/photos/6a6b1716511267a929ae3cca/1:1/w_768,c_limit/Agazero%20-%20Dissidente.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a6b7e5c9a4dae5404fa1683",
+    "artist": "Juicy J / Project Pat",
+    "title": "Dem Goats",
+    "score": 7.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap",
+      "Rap"
+    ],
+    "date": "2026-07-31T04:00:00.000Z",
+    "dateFormatted": "July 31, 2026",
+    "url": "/reviews/albums/juicy-j-project-pat-dem-goats/",
+    "description": "On their new joint LP, the brothers are older, wiser, and newly invigorated. The timeless Memphis sound is a reminder of where much of the contemporary rap palette originated.",
+    "reviewer": "Dash Lewis",
+    "image": "https://media.pitchfork.com/photos/6a6b7df7103c7a0c9e36f7ef/1:1/w_768,c_limit/Jucy%20J%20Project%20Pat%20-%20Dem%20Goats%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a6a6c22008a826d859fa417",
     "artist": "The Durutti Column",
     "title": "Renascent",
