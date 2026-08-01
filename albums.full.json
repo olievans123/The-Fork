@@ -1,5 +1,24 @@
 [
   {
+    "id": "6a6cb2e78d94c8d0f2f8f57b",
+    "artist": "Ween",
+    "title": "12 Golden Country Greats (Deluxe Edition)",
+    "score": 8.4,
+    "bnm": false,
+    "bnr": true,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-08-01T04:00:00.000Z",
+    "dateFormatted": "August 1, 2026",
+    "url": "/reviews/albums/ween-12-golden-country-greats-deluxe-edition/",
+    "description": "Time has been good to Dean and Gene’s kidding-not-kidding country pivot, recorded with seasoned Nashville pros, and this triple-disc reissue helps contextualize its joy and incongruity.",
+    "reviewer": "Stephen Thomas Erlewine",
+    "image": "https://media.pitchfork.com/photos/6a6cafb0d25cce84dca65355/1:1/w_768,c_limit/Ween%2012%20Country%20Greats%20Deluxe%20Edition.jpg",
+    "releaseYear": 2026,
+    "originalYear": 1996
+  },
+  {
     "id": "6a6b7f7a97bc3c9f3d9d3937",
     "artist": "Ariana Grande",
     "title": "petal",
