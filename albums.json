@@ -1,5 +1,23 @@
 [
   {
+    "id": "6a6ceb53add94dc7fb3ac647",
+    "artist": "Primus",
+    "title": "Pork Soda",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-08-02T04:00:00.000Z",
+    "dateFormatted": "August 2, 2026",
+    "url": "/reviews/albums/primus-pork-soda/",
+    "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we look back at the California funk-metal band’s grisly, oozing third album: one of the weirdest and most upsetting records to ever sell more than a million copies.",
+    "reviewer": "Sasha Geffen",
+    "image": "https://media.pitchfork.com/photos/6a6ceac5310e897939ad4f48/1:1/w_768,c_limit/Primus%20Pork%20Soda.jpg",
+    "releaseYear": 1993
+  },
+  {
     "id": "6a6cb2e78d94c8d0f2f8f57b",
     "artist": "Ween",
     "title": "12 Golden Country Greats (Deluxe Edition)",
