@@ -1,5 +1,77 @@
 [
   {
+    "id": "6a6b10e6970327a5b01aba34",
+    "artist": "DOMi & JD BECK",
+    "title": "WHO ASKED?",
+    "score": 5.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Jazz"
+    ],
+    "date": "2026-08-03T04:03:00.000Z",
+    "dateFormatted": "August 3, 2026",
+    "url": "/reviews/albums/domi-and-jd-beck-who-asked/",
+    "description": "The virtuoso jazz-fusion duo’s second album is a dizzying whirl of drums, keyboards, and chamber orchestra, infusing easy-listening harmonies with an antic, frenzied spirit.",
+    "reviewer": "Rae-Aila Crumble",
+    "image": "https://media.pitchfork.com/photos/6a6b104a9a4dae5404fa14a3/1:1/w_768,c_limit/DOMi%20&%20JD%20BECK_WHO%20ASKED_cover.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a6cc3aa5cc8a2299dfdcfdb",
+    "artist": "Cheekface",
+    "title": "Podium",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-08-03T04:02:00.000Z",
+    "dateFormatted": "August 3, 2026",
+    "url": "/reviews/albums/cheekface-podium/",
+    "description": "On its sixth album and first since viral success, the L.A. nerd-rock band dials up the hooks, the sociopolitical dread, and the sardonic, meme-poisoned humor.",
+    "reviewer": "Zach Schonfeld",
+    "image": "https://media.pitchfork.com/photos/6a6cc2d60a930ffb18166107/1:1/w_768,c_limit/Cheekface%20Podium.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a6bc2acae6b3fe089af1c35",
+    "artist": "Sophie Hunter",
+    "title": "Stereoscope",
+    "score": 5.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-08-03T04:01:00.000Z",
+    "dateFormatted": "August 3, 2026",
+    "url": "/reviews/albums/sophie-hunter-stereoscope/",
+    "description": "The Connecticut rapper’s debut swings from tongue-in-cheek provocations to slam-poetry clunkers, landing a few solid punchlines and pop hooks along the way.",
+    "reviewer": "Lily Goldberg",
+    "image": "https://media.pitchfork.com/photos/6a6bc253ae6b3fe089af1c2f/1:1/w_768,c_limit/Sophie%20Hunter-Stereoscope.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a6cc9768d94c8d0f2f8f75d",
+    "artist": "Omari Lyseight",
+    "title": "Digital",
+    "score": 7.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-08-03T04:00:00.000Z",
+    "dateFormatted": "August 3, 2026",
+    "url": "/reviews/albums/omari-lyseight-digital/",
+    "description": "The South London rapper-producer’s first album for Surf Gang is lucid, soulful, and expertly curated.",
+    "reviewer": "Dylan Green",
+    "image": "https://media.pitchfork.com/photos/6a6cc8fcda27aa8f1afe2f72/1:1/w_768,c_limit/Omari%20Lyseight%20Digital.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a6ceb53add94dc7fb3ac647",
     "artist": "Primus",
     "title": "Pork Soda",
