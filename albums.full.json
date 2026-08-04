@@ -1,5 +1,78 @@
 [
   {
+    "id": "6a70a9b9128fb44852d71af5",
+    "artist": "Arca",
+    "title": "XXXXX",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-08-04T04:03:00.000Z",
+    "dateFormatted": "August 4, 2026",
+    "url": "/reviews/albums/arca-xxxxx/",
+    "description": "The Venezuelan artist’s latest LP harks back to her experimental mixtapes <em>&amp;&amp;&amp;&amp;&amp;</em> and <em>@@@@@,</em> trading the <em>KiCK</em> series’ pop and reggaeton impulses for confrontational, uncompromising electronic sounds.",
+    "reviewer": "Andrew Ryce",
+    "image": "https://media.pitchfork.com/photos/6a70a812b37e008fbc0e799a/1:1/w_768,c_limit/Arca%20-%20XXXXX.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a6cc8fd447cdf558c277dc1",
+    "artist": "Eden Aurelius",
+    "title": "Entre Nous",
+    "score": 7.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-08-04T04:02:00.000Z",
+    "dateFormatted": "August 4, 2026",
+    "url": "/reviews/albums/eden-aurelius-entre-nous/",
+    "description": "The New York-based producer’s ambient dub techno has a sublime glow, even when it’s just drifting in place.",
+    "reviewer": "Philip Sherburne",
+    "image": "https://media.pitchfork.com/photos/6a6cc8bad25cce84dca6545a/1:1/w_768,c_limit/Eden%20Aurelius%20-%20Entre%20Nous.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a70de03bbd4db5fd43d1966",
+    "artist": "Portraits of Tracy",
+    "title": "Q: From Where Do Our Primal Instincts Originate? A: MTV! EP",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-08-04T04:01:00.000Z",
+    "dateFormatted": "August 4, 2026",
+    "url": "/reviews/albums/portraits-of-tracy-q-from-where-do-our-primal-instincts-originate-a-mtv-ep/",
+    "description": "The Los Angeles-based musician reintroduces herself as a chameleonic character actor with a madcap spirit on an EP that draws on dream pop, alt rock, R&amp;B, and more.",
+    "reviewer": "Stephen Kearse",
+    "image": "https://media.pitchfork.com/photos/6a70ddd120dfe5d709d95510/1:1/w_768,c_limit/Portraits%20of%20Tracy-Q-%20From%20Where%20Do%20Our%20Primal%20Instincts%20Originate",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a70d9bd7229b3f271efc585",
+    "artist": "Parts & Labor",
+    "title": "Set of All Sets",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental",
+      "Rock"
+    ],
+    "date": "2026-08-04T04:00:00.000Z",
+    "dateFormatted": "August 4, 2026",
+    "url": "/reviews/albums/parts-and-labor-set-of-all-sets/",
+    "description": "The Brooklyn noise-rock band’s first album in 15 years is uncompromising and unrelenting.",
+    "reviewer": "Arman Khan",
+    "image": "https://media.pitchfork.com/photos/6a70d88f07be9f0184d6dc6b/1:1/w_768,c_limit/Parts%20and%20Labor%20Set%20of%20All%20Sets.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a6b10e6970327a5b01aba34",
     "artist": "DOMi & JD BECK",
     "title": "WHO ASKED?",
