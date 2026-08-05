@@ -1,5 +1,77 @@
 [
   {
+    "id": "6a7236cd4585f0e2aff4d24f",
+    "artist": "Trashcan Sinatras",
+    "title": "Ever the Optimist",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-08-05T04:03:00.000Z",
+    "dateFormatted": "August 5, 2026",
+    "url": "/reviews/albums/trashcan-sinatras-ever-the-optimist/",
+    "description": "The Scottish band’s first album in 10 years is elegant and uplifting while acknowledging the weight of time passed. Its bittersweet tone feels all the more meaningful after the tragic death of guitarist and vocalist John Douglas this week.",
+    "reviewer": "Stephen Thomas Erlewine",
+    "image": "https://media.pitchfork.com/photos/6a69129c23b4a054fcd8a7ae/1:1/w_768,c_limit/5053760149545_cover.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a7233ba8a22892f5228e3e9",
+    "artist": "FLO",
+    "title": "Therapy at the Club",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-08-05T04:02:00.000Z",
+    "dateFormatted": "August 5, 2026",
+    "url": "/reviews/albums/flo-therapy-at-the-club/",
+    "description": "Feeling yourself is the biggest feeling of all on the UK trio’s second album, where plush harmonies power glossy 2000s pop-R&amp;B throwbacks.",
+    "reviewer": "Vrinda Jagota",
+    "image": "https://media.pitchfork.com/photos/69fb4c92d7b8d612f3b905c8/1:1/w_768,c_limit/FLO%20TATC%20Album%20Cover.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a7239849ba627e03f891a18",
+    "artist": "Hana Stretton",
+    "title": "tiarn",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Folk/Country"
+    ],
+    "date": "2026-08-05T04:01:00.000Z",
+    "dateFormatted": "August 5, 2026",
+    "url": "/reviews/albums/hana-stretton-tiarn/",
+    "description": "The second album by the Australian folk musician and sound-collagist presents her most clearly defined songs yet without sacrificing the impressionistic glow of her past work.",
+    "reviewer": "Sam Goldner",
+    "image": "https://media.pitchfork.com/photos/6a7238966fb86ecfa7877d9f/1:1/w_768,c_limit/Tiarn%20by%20Hanna%20Stretton.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a7236be8a22892f5228e3f9",
+    "artist": "Willow",
+    "title": "The Thread",
+    "score": 6.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-08-05T04:00:00.000Z",
+    "dateFormatted": "August 5, 2026",
+    "url": "/reviews/albums/willow-the-thread/",
+    "description": "The genre-bending multi-instrumentalist’s second album of the year finds a groove within its own esoteric logic.",
+    "reviewer": "Erica Campbell",
+    "image": "https://media.pitchfork.com/photos/6a5e92df02f6a16802ac1c75/1:1/w_768,c_limit/5026854988580.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a70a9b9128fb44852d71af5",
     "artist": "Arca",
     "title": "XXXXX",
