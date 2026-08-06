@@ -1,5 +1,77 @@
 [
   {
+    "id": "6a73749bfc43a7acbbe7dfa0",
+    "artist": "Shaboozey",
+    "title": "The Outlaw Cherie Lee &amp; Other Western Tales",
+    "score": 6.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Folk/Country",
+      "Rap"
+    ],
+    "date": "2026-08-06T04:03:00.000Z",
+    "dateFormatted": "August 6, 2026",
+    "url": "/reviews/albums/shaboozey-the-outlaw-cherie-lee-and-other-western-tales/",
+    "description": "Two years after his breakout hit, the country star returns with an ambitious concept album whose strongest moments place him in a deeper conversation with his genre.",
+    "reviewer": "Madeline Frino",
+    "image": "https://media.pitchfork.com/photos/69e67cc3434f1fbd9feb805d/1:1/w_768,c_limit/image%20(4).png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a737f65bb59b91b65b27d32",
+    "artist": "Cel Ray",
+    "title": "Cel Rayzer",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-08-06T04:02:00.000Z",
+    "dateFormatted": "August 6, 2026",
+    "url": "/reviews/albums/cel-ray-cel-rayzer/",
+    "description": "The Chicago post-punks capture the erratic energy of their live shows on their debut album, propelled by singer Maddie Daviss’ quick wit and clever observations.",
+    "reviewer": "Nina Corcoran",
+    "image": "https://media.pitchfork.com/photos/6a737ee5c2c9941107b52ff7/1:1/w_768,c_limit/Cel%20Ray-Cel%20Rayzer.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a7375955fca5c6b7c83143f",
+    "artist": "Sir Richard Bishop",
+    "title": "Hillbilly Erotica",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Folk/Country",
+      "Experimental"
+    ],
+    "date": "2026-08-06T04:01:00.000Z",
+    "dateFormatted": "August 6, 2026",
+    "url": "/reviews/albums/sir-richard-bishop-hillbilly-erotica/",
+    "description": "The guitarist wields his perennial outsider status to toy with the sound, the spirit, and the idea of American primitive.",
+    "reviewer": "Grayson Haver Currin",
+    "image": "https://media.pitchfork.com/photos/6a737558fc43a7acbbe7dfa8/1:1/w_768,c_limit/Sir%20Richard%20Bishop%20-%20Hillbilly%20Erotica%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a7372ff53a037fb193d4c59",
+    "artist": "Unknown",
+    "title": "Melodies International presents Ariwa Sounds",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [],
+    "date": "2026-08-06T04:00:00.000Z",
+    "dateFormatted": "August 6, 2026",
+    "url": "/reviews/albums/various-artists-melodies-international-presents-ariwa-sounds/",
+    "description": "A rangey but remarkably consistent compilation seeks to capture the nearly 50-year history of the storied London dub reggae label in 15 tracks.",
+    "reviewer": "Wayne Marshall",
+    "image": "https://media.pitchfork.com/photos/6a7372c3276456683aded5b1/1:1/w_768,c_limit/V:a%20-%20Melodies%20International%20presents%20Ariwa%20Sounds%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a7236cd4585f0e2aff4d24f",
     "artist": "Trashcan Sinatras",
     "title": "Ever the Optimist",
