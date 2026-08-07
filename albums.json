@@ -1,5 +1,77 @@
 [
   {
+    "id": "6a74d3d391e2b9b9e0698733",
+    "artist": "Ravyn Lenae",
+    "title": "Blue Island",
+    "score": 7.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-08-07T04:03:00.000Z",
+    "dateFormatted": "August 7, 2026",
+    "url": "/reviews/albums/ravyn-lenae-blue-island/",
+    "description": "Reuniting with Dahi for velvety, ’80s-inspired pop, rock, and R&amp;B, the singer explores a widening repertoire that unlocks new melodic possibilities.",
+    "reviewer": "Stephen Kearse",
+    "image": "https://media.pitchfork.com/photos/6a3beb7a8dd76c696cfcfa76/1:1/w_768,c_limit/075679576170.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a74bc1fc1a0f03597651c38",
+    "artist": "Hulder",
+    "title": "Verbolgen",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Metal"
+    ],
+    "date": "2026-08-07T04:02:00.000Z",
+    "dateFormatted": "August 7, 2026",
+    "url": "/reviews/albums/hulder-verbolgen/",
+    "description": "The third album from the Pacific Northwest-via-Belgium duo finds fresh inspiration in the bleak, enduring, and ever-emotive sound of traditional black metal.",
+    "reviewer": "Sadie Sartini Garner",
+    "image": "https://media.pitchfork.com/photos/6a74bb88fee431ac457f86bb/1:1/w_768,c_limit/Hulder%20Verbolgen.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a742073276456683aded791",
+    "artist": "Gi Gi",
+    "title": "In Lieu",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-08-07T04:01:00.000Z",
+    "dateFormatted": "August 7, 2026",
+    "url": "/reviews/albums/gi-gi-in-lieu/",
+    "description": "On his first album for Mood Hut, the Texas-born producer offers a set of dubwise rhythmic workouts, intricately layering soft percussive details to evoke a dreamlike sheen.",
+    "reviewer": "Dash Lewis",
+    "image": "https://media.pitchfork.com/photos/6a741e6e64c4c93cc08a001d/1:1/w_768,c_limit/Gi%20Gi%20-%20In%20Lieu.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a74d5c155d5df9ea7953a9b",
+    "artist": "Frost Children",
+    "title": "Frost Fest Mixtape",
+    "score": 6.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-08-07T04:00:00.000Z",
+    "dateFormatted": "August 7, 2026",
+    "url": "/reviews/albums/frost-children-frost-fest-mixtape/",
+    "description": "New York’s underground pop stars offset a slick new studio EP with a lo-fi dance party mixtape featuring kuru, Blaketheman1000, and Femcels’ Gabrielle Turton.",
+    "reviewer": "James Gui",
+    "image": "https://media.pitchfork.com/photos/6a74d4dd37e55b9ce3ea255a/1:1/w_768,c_limit/Frost%20Children%20-%20Frost%20Fest%20Mixtape%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a73749bfc43a7acbbe7dfa0",
     "artist": "Shaboozey",
     "title": "The Outlaw Cherie Lee &amp; Other Western Tales",
