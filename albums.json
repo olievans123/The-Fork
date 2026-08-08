@@ -1,5 +1,23 @@
 [
   {
+    "id": "6a75f4022cd6fb2598322035",
+    "artist": "Overmono",
+    "title": "Pure Devotion",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-08-08T04:00:00.000Z",
+    "dateFormatted": "August 8, 2026",
+    "url": "/reviews/albums/overmono-pure-devotion/",
+    "description": "The Russell brothers bridge the big-beat thrills and soaring emotions of their live shows with a more intimate, stripped-back, headphone-ready sound.",
+    "reviewer": "Will Pritchard",
+    "image": "https://media.pitchfork.com/photos/6a75f3a5e05982d6ef68daf1/1:1/w_768,c_limit/Overmono%20-%20Pure%20Devotion.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a74d3d391e2b9b9e0698733",
     "artist": "Ravyn Lenae",
     "title": "Blue Island",
