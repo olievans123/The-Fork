@@ -1,5 +1,23 @@
 [
   {
+    "id": "6a761364e05982d6ef68dc5d",
+    "artist": "The Cure",
+    "title": "Mixed Up",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-08-09T04:00:00.000Z",
+    "dateFormatted": "August 9, 2026",
+    "url": "/reviews/albums/the-cure-mixed-up/",
+    "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we consider the club-friendly remix collection that served as a spirited rebuke to critics who wished to paint goth’s posterboys into a corner.",
+    "reviewer": "Sadie Sartini Garner",
+    "image": "https://media.pitchfork.com/photos/6a7612a49c71972df2cbd735/1:1/w_768,c_limit/The%20Cure%20-%20Mixed%20Up.jpg",
+    "releaseYear": 1990
+  },
+  {
     "id": "6a75f4022cd6fb2598322035",
     "artist": "Overmono",
     "title": "Pure Devotion",
