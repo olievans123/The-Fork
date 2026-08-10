@@ -1,5 +1,78 @@
 [
   {
+    "id": "6a761eafd8e0e3d598a1d2c7",
+    "artist": "Lil Uzi Vert",
+    "title": "Maverick “Almost Forever” EP",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-08-10T04:03:00.000Z",
+    "dateFormatted": "August 10, 2026",
+    "url": "/reviews/albums/lil-uzi-vert-maverick-almost-forever-ep/",
+    "description": "The proto-rage rapper is back in fighting form on a surprise EP that revitalizes past strengths without ever feeling like a retread.",
+    "reviewer": "Hattie Lindert",
+    "image": "https://media.pitchfork.com/photos/6a761da5d8e0e3d598a1d2bd/1:1/w_768,c_limit/Lil%20Uzi%20Vert%20Maverick%20%E2%80%9CAlmost%20Forever%E2%80%9D%20EP.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a76016a2cd6fb2598322127",
+    "artist": "Margaret Glaspy",
+    "title": "I Am Both",
+    "score": 7.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-08-10T04:02:00.000Z",
+    "dateFormatted": "August 10, 2026",
+    "url": "/reviews/albums/margaret-glaspy-i-am-both/",
+    "description": "On an album of deceptively skeletal folk music, the New York singer-songwriter rages against the temptations of inaction, both personal and political.",
+    "reviewer": "Caitlin Wolper Phillips",
+    "image": "https://media.pitchfork.com/photos/6a70ef831334bd9d9739b738/1:1/w_768,c_limit/00880882697952_Cover.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a76082ec6c232e0f795d1fd",
+    "artist": "Roy Montgomery / Martha Skye Murphy",
+    "title": "Nebular",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock",
+      "Experimental"
+    ],
+    "date": "2026-08-10T04:01:00.000Z",
+    "dateFormatted": "August 10, 2026",
+    "url": "/reviews/albums/roy-montgomery-martha-skye-murphy-nebular/",
+    "description": "The veteran New Zealand guitarist and rising London avant-pop musician go full mind-meld on an album of foggy ambient drones and wordless, angelic singing.",
+    "reviewer": "Elise Soutar",
+    "image": "https://media.pitchfork.com/photos/6a70ef40661a9b6a558bfa89/1:1/w_768,c_limit/191400680470.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a7623d2aafc36cf5963168c",
+    "artist": "Mallory Hawk",
+    "title": "Chinook",
+    "score": 7.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-08-10T04:00:00.000Z",
+    "dateFormatted": "August 10, 2026",
+    "url": "/reviews/albums/mallory-hawk-chinook/",
+    "description": "The Philadelphia-based indie rock songwriter explores a lifetime of passion on her wide-ranging debut.",
+    "reviewer": "Marissa Lorusso",
+    "image": "https://media.pitchfork.com/photos/6a7620518bb32b1ab4092878/1:1/w_768,c_limit/Mallory%20Hawk%20Chinook.png",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a761364e05982d6ef68dc5d",
     "artist": "The Cure",
     "title": "Mixed Up",
