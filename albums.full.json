@@ -1,5 +1,77 @@
 [
   {
+    "id": "6a74f98837e55b9ce3ea2661",
+    "artist": "Role Model",
+    "title": "Chuck Timely &amp; The Hourglass",
+    "score": 6.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-08-11T04:03:00.000Z",
+    "dateFormatted": "August 11, 2026",
+    "url": "/reviews/albums/role-model-chuck-timely-and-the-hourglass/",
+    "description": "Songwriter Tucker Pillsbury reinvents himself as a time-traveling session musician, laying on the charm for an ersatz barroom country record that’s not totally convincing.",
+    "reviewer": "Molly Mary O’Brien",
+    "image": "https://media.pitchfork.com/photos/6a74f93d55d5df9ea7953bcb/1:1/w_768,c_limit/Role%20Model%20-%20Chuck%20Timely%20&%20The%20Hourglass%20album%20art.jpg"
+  },
+  {
+    "id": "6a7a15b5a87ef6d7cb3ac3d8",
+    "artist": "The Mountain Goats",
+    "title": "Days",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-08-11T04:02:00.000Z",
+    "dateFormatted": "August 11, 2026",
+    "url": "/reviews/albums/the-mountain-goats-days/",
+    "description": "Exploring a motley array of grunge-era characters, the latest Mountain Goats album is very polished and very funny, as the band’s performances convey the same nuance and range as John Darnielle’s writing.",
+    "reviewer": "Samir Chadha",
+    "image": "https://media.pitchfork.com/photos/6a047c64f7177551c7f1a4a2/1:1/w_768,c_limit/the%20Mountain%20Goats%20-%20Days%20_%20Album%20Art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a79fe6aa87ef6d7cb3ac3af",
+    "artist": "The Anchoress",
+    "title": "As We Once Were",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B",
+      "Rock"
+    ],
+    "date": "2026-08-11T04:01:00.000Z",
+    "dateFormatted": "August 11, 2026",
+    "url": "/reviews/albums/the-anchoress-as-we-once-were/",
+    "description": "On her third album of elaborate art-pop, the British singer-songwriter tackles personal upheaval with dry wit, unconventional production, and a more cohesive vision.",
+    "reviewer": "Hannah Jocelyn",
+    "image": "https://media.pitchfork.com/photos/6a79fd7ae8a0cee350c762e0/1:1/w_768,c_limit/The%20Anchoress-As%20We%20Once%20Were.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a79e22ba87ef6d7cb3ac331",
+    "artist": "Citizen",
+    "title": "Halcyon Blues",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-08-11T04:00:00.000Z",
+    "dateFormatted": "August 11, 2026",
+    "url": "/reviews/albums/citizen-halcyon-blues/",
+    "description": "On its sixth album, the Midwest rock group channels a mood of regret and reckoning in songs that balance post-hardcore propulsion with disarming buoyancy.",
+    "reviewer": "Nick Laskin",
+    "image": "https://media.pitchfork.com/photos/6a79e0c8bca9bb2529dc24bd/1:1/w_768,c_limit/Citizen-Halcyon%20Blues.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a761eafd8e0e3d598a1d2c7",
     "artist": "Lil Uzi Vert",
     "title": "Maverick “Almost Forever” EP",
