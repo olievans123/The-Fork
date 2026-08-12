@@ -1,5 +1,79 @@
 [
   {
+    "id": "6a7b61df014de402cb6255a5",
+    "artist": "Nino Paid",
+    "title": "Somewhere Over the Rainbow",
+    "score": 8.3,
+    "bnm": true,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-08-12T04:03:00.000Z",
+    "dateFormatted": "August 12, 2026",
+    "url": "/reviews/albums/nino-paid-somewhere-over-the-rainbow/",
+    "description": "There are many rappers out there who dig deep into their lives for heavy stories of pain and sorrow. The DMV rapper does this too, but he elevates the art form to a whole new level.",
+    "reviewer": "Alphonse Pierre",
+    "image": "https://media.pitchfork.com/photos/6a70ef5fe24a0e2460878423/1:1/w_768,c_limit/196874628348.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a7b5e16be91200f3ce6555d",
+    "artist": "$TARFACE / Tyga",
+    "title": "$TARFACE",
+    "score": 0,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B",
+      "Rap",
+      "Rap"
+    ],
+    "date": "2026-08-12T04:02:00.000Z",
+    "dateFormatted": "August 12, 2026",
+    "url": "/reviews/albums/starface-tyga-starface/",
+    "description": "The rapper’s slop-pop concept album is smug and complacent and depressing. Its very existence has made the world a worse place.",
+    "reviewer": "Drew Millard",
+    "image": "https://media.pitchfork.com/photos/6a7b5ccdbf84e0947b1b9619/1:1/w_768,c_limit/Tyga%20$tarface.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a7b5e80014de402cb625577",
+    "artist": "Worldpeace DMT",
+    "title": "Flowers Powers",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-08-12T04:01:00.000Z",
+    "dateFormatted": "August 12, 2026",
+    "url": "/reviews/albums/worldpeace-dmt-flowers-powers/",
+    "description": "The rising duo of Leo Fincham and Rowan Miles keeps up the momentum with a mixtape that positions its creators as idiosyncratic, postmodern ’60s pop obsessives.",
+    "reviewer": "Shaad D’Souza",
+    "image": "https://media.pitchfork.com/photos/6a7b601fd125e0774c3d37cd/1:1/w_768,c_limit/Worldpeace%20DMT%20Flowers%20Powers.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a7b5b0a8c62ec17640a7f42",
+    "artist": "Kevin Drumm",
+    "title": "The Mild Temper",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-08-12T04:00:00.000Z",
+    "dateFormatted": "August 12, 2026",
+    "url": "/reviews/albums/kevin-drumm-the-mild-temper/",
+    "description": "A six-CD box set from the Chicago experimental musician compiles several years of Bandcamp-exclusive releases, newly mastered by Jim O’Rourke.",
+    "reviewer": "Levi Dayan",
+    "image": "https://media.pitchfork.com/photos/6a7b5976d0a242f87657707c/1:1/w_768,c_limit/Kevin%20Drumm%20The%20Mild%20Temper.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a74f98837e55b9ce3ea2661",
     "artist": "Role Model",
     "title": "Chuck Timely &amp; The Hourglass",

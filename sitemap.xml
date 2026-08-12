@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://the-fork.vercel.app/</loc><priority>1.0</priority></url>
+<url><loc>https://the-fork.vercel.app/album/nino-paid-somewhere-over-the-rainbow</loc><priority>0.6</priority></url>
+<url><loc>https://the-fork.vercel.app/album/tarface-tyga-tarface</loc><priority>0.6</priority></url>
+<url><loc>https://the-fork.vercel.app/album/worldpeace-dmt-flowers-powers</loc><priority>0.6</priority></url>
+<url><loc>https://the-fork.vercel.app/album/kevin-drumm-the-mild-temper</loc><priority>0.6</priority></url>
 <url><loc>https://the-fork.vercel.app/album/role-model-chuck-timely-amp-the-hourglass</loc><priority>0.6</priority></url>
 <url><loc>https://the-fork.vercel.app/album/the-mountain-goats-days</loc><priority>0.6</priority></url>
 <url><loc>https://the-fork.vercel.app/album/the-anchoress-as-we-once-were</loc><priority>0.6</priority></url>
