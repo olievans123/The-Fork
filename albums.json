@@ -1,5 +1,79 @@
 [
   {
+    "id": "6a7cc3b7b7948f1364762c32",
+    "artist": "Phoebe Bridgers",
+    "title": "Lost Weekend",
+    "score": 8.4,
+    "bnm": true,
+    "bnr": false,
+    "genres": [
+      "Folk/Country"
+    ],
+    "date": "2026-08-13T04:03:00.000Z",
+    "dateFormatted": "August 13, 2026",
+    "url": "/reviews/albums/phoebe-bridgers-lost-weekend/",
+    "description": "For her third solo album, Phoebe Bridgers expands and contracts, capturing experiences that are strange, solitary, and hers alone. It is the quietest, most cohesive record in her discography.",
+    "reviewer": "Sam Sodomsky",
+    "image": "https://media.pitchfork.com/photos/6a3bde6801a6ab17fa387818/1:1/w_768,c_limit/unnamed%20(48).jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a7c4da4edd30c6c85364d1e",
+    "artist": "MOLIY",
+    "title": "BADDIES &lt;3 MOLIY",
+    "score": 7.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-08-13T04:02:00.000Z",
+    "dateFormatted": "August 13, 2026",
+    "url": "/reviews/albums/moliy-baddies-3-moliy/",
+    "description": "The Ghanaian artist’s latest mixtape is aimed squarely at the club, with a fusion of global dance styles underpinning a spirited message of self-empowerment.",
+    "reviewer": "Tatiana Lee Rodriguez",
+    "image": "https://media.pitchfork.com/photos/6a7c4a6d991ca302e4999341/1:1/w_768,c_limit/MOLIY%20-%20BADDIES%20%3C3%20MOLIY.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a7cc26c067632ab53445564",
+    "artist": "Kurupt / DJ Battlecat",
+    "title": "Tales From My Hood",
+    "score": 5.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap",
+      "Rap"
+    ],
+    "date": "2026-08-13T04:01:00.000Z",
+    "dateFormatted": "August 13, 2026",
+    "url": "/reviews/albums/kurupt-dj-battlecat-tales-from-my-hood/",
+    "description": "Another album from Death Row’s zombie era suffers from basically everything, but there are hints of soul and funk to keep things interesting.",
+    "reviewer": "Pete Tosiello",
+    "image": "https://media.pitchfork.com/photos/6a7cc17eb8fe735507667c3f/1:1/w_768,c_limit/Kurupt%20:%20DJ%20Battlecat%20Tales%20From%20My%20Hood.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a7ca912067632ab53445519",
+    "artist": "James Ellis Ford",
+    "title": "Lost in Another World",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock",
+      "Experimental"
+    ],
+    "date": "2026-08-13T04:00:00.000Z",
+    "dateFormatted": "August 13, 2026",
+    "url": "/reviews/albums/james-ellis-ford-lost-in-another-world/",
+    "description": "The producer known for his work with Arctic Monkeys, Geese, and more recorded his second solo album while undergoing chemotherapy. It is surreal, tender, and achingly poignant.",
+    "reviewer": "Alastair Shuttleworth",
+    "image": "https://media.pitchfork.com/photos/6a7ca808b8fe735507667ba3/1:1/w_768,c_limit/James%20Ellis%20Ford%20Lost%20in%20Another%20World.png",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a7b61df014de402cb6255a5",
     "artist": "Nino Paid",
     "title": "Somewhere Over the Rainbow",

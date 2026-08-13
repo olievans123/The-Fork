@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://the-fork.vercel.app/</loc><priority>1.0</priority></url>
+<url><loc>https://the-fork.vercel.app/album/phoebe-bridgers-lost-weekend</loc><priority>0.6</priority></url>
+<url><loc>https://the-fork.vercel.app/album/moliy-baddies-lt-3-moliy</loc><priority>0.6</priority></url>
+<url><loc>https://the-fork.vercel.app/album/kurupt-dj-battlecat-tales-from-my-hood</loc><priority>0.6</priority></url>
+<url><loc>https://the-fork.vercel.app/album/james-ellis-ford-lost-in-another-world</loc><priority>0.6</priority></url>
 <url><loc>https://the-fork.vercel.app/album/nino-paid-somewhere-over-the-rainbow</loc><priority>0.6</priority></url>
 <url><loc>https://the-fork.vercel.app/album/tarface-tyga-tarface</loc><priority>0.6</priority></url>
 <url><loc>https://the-fork.vercel.app/album/worldpeace-dmt-flowers-powers</loc><priority>0.6</priority></url>
