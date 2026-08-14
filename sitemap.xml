@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://the-fork.vercel.app/</loc><priority>1.0</priority></url>
+<url><loc>https://the-fork.vercel.app/album/l-rain-fata-morgana</loc><priority>0.6</priority></url>
+<url><loc>https://the-fork.vercel.app/album/open-mike-eagle-kenny-segal-doomed</loc><priority>0.6</priority></url>
+<url><loc>https://the-fork.vercel.app/album/sweeping-promises-you-say-i-romanticize</loc><priority>0.6</priority></url>
+<url><loc>https://the-fork.vercel.app/album/michael-christmas-chris-crack-girl-talk-don-t-come-to-my-house-sharing-your-location</loc><priority>0.6</priority></url>
 <url><loc>https://the-fork.vercel.app/album/phoebe-bridgers-lost-weekend</loc><priority>0.6</priority></url>
 <url><loc>https://the-fork.vercel.app/album/moliy-baddies-lt-3-moliy</loc><priority>0.6</priority></url>
 <url><loc>https://the-fork.vercel.app/album/kurupt-dj-battlecat-tales-from-my-hood</loc><priority>0.6</priority></url>

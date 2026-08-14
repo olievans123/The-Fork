@@ -1,5 +1,80 @@
 [
   {
+    "id": "6a7dfab757e1351a3fc46c49",
+    "artist": "L’Rain",
+    "title": "fata morgana",
+    "score": 8.2,
+    "bnm": true,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-08-14T04:03:00.000Z",
+    "dateFormatted": "August 14, 2026",
+    "url": "/reviews/albums/lrain-fata-morgana/",
+    "description": "The experimental Brooklyn project returns with a serene and spectral new album, using an ever-shifting musical backdrop to explore themes of illusion and doubt.",
+    "reviewer": "Stephen Kearse",
+    "image": "https://media.pitchfork.com/photos/6a29d6e31e3965e99ceed885/1:1/w_768,c_limit/L'Rain%20-%20fata%20morgana%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a7da12c333fe6e1d2dad1d5",
+    "artist": "Open Mike Eagle / Kenny Segal",
+    "title": "DOOMED!",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap",
+      "Rap"
+    ],
+    "date": "2026-08-14T04:02:00.000Z",
+    "dateFormatted": "August 14, 2026",
+    "url": "/reviews/albums/open-mike-eagle-kenny-segal-doomed/",
+    "description": "On their first full-length together, Segal pushes his soulfully psychedelic beats into more forceful territory, offering solid ground for Eagle’s grimly sardonic post-mortem for a failed relationship.",
+    "reviewer": "Dash Lewis",
+    "image": "https://media.pitchfork.com/photos/6a7d9ebd3215fe581f046194/1:1/w_768,c_limit/Open%20Mike%20Eagle%20&%20Kenny%20Segal%20-%20DOOMED.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a7de4853e0948ad75c82099",
+    "artist": "Sweeping Promises",
+    "title": "You Say I Romanticize",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-08-14T04:01:00.000Z",
+    "dateFormatted": "August 14, 2026",
+    "url": "/reviews/albums/sweeping-promises-you-say-i-romanticize/",
+    "description": "On its third album, the Kansas-by-way-of-Boston duo adds a growly, gritty new density to its airtight art-punk songs.",
+    "reviewer": "Elise Soutar",
+    "image": "https://media.pitchfork.com/photos/6a7b7e708c62ec17640a83e4/1:1/w_768,c_limit/600x600bb%20(87).jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a7dfd35a52b699460d4e511",
+    "artist": "Michael Christmas / Chris Crack / Girl Talk",
+    "title": "Don’t Come to My House Sharing Your Location",
+    "score": 6.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap",
+      "Rap",
+      "Electronic"
+    ],
+    "date": "2026-08-14T04:00:00.000Z",
+    "dateFormatted": "August 14, 2026",
+    "url": "/reviews/albums/michael-christmas-chris-crack-girl-talk-dont-come-to-my-house-sharing-your-location/",
+    "description": "The producer and rappers join for a collaborative EP that coasts on natural chemistry, goofy jokes, and subtle accompaniment.",
+    "reviewer": "Matthew Ritchie",
+    "image": "https://media.pitchfork.com/photos/6a4d009b82b25aaa6fa0c6c5/1:1/w_768,c_limit/Girl-Talk-Michael-Christmas-Chris-Crack-Dont-Come-to-My-House-Sharing-Your-Location.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a7cc3b7b7948f1364762c32",
     "artist": "Phoebe Bridgers",
     "title": "Lost Weekend",
