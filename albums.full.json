@@ -1,5 +1,23 @@
 [
   {
+    "id": "6a7da4a9f68d90096523ec5b",
+    "artist": "Nintendo Sound Team",
+    "title": "Donkey Kong Bananza",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-08-15T04:00:00.000Z",
+    "dateFormatted": "August 15, 2026",
+    "url": "/reviews/albums/nintendo-sound-team-donkey-kong-bananza/",
+    "description": "A newly released soundtrack to the latest reinvention of the beloved Nintendo franchise doubles as a playful tribute to music’s central role in the world of Donkey Kong.",
+    "reviewer": "Billie Bugara",
+    "image": "https://media.pitchfork.com/photos/6a7da3ca3215fe581f0461a0/1:1/w_768,c_limit/Donkey%20Kong%20Bananza.jpeg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a7dfab757e1351a3fc46c49",
     "artist": "L’Rain",
     "title": "fata morgana",
