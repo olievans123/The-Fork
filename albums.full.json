@@ -1,5 +1,23 @@
 [
   {
+    "id": "6a7f66792242a90d7cf5631e",
+    "artist": "Future",
+    "title": "Monster",
+    "score": 9.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-08-16T04:00:00.000Z",
+    "dateFormatted": "August 16, 2026",
+    "url": "/reviews/albums/future-monster/",
+    "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we look back at the Atlanta rapper’s extremely raw 2014 mixtape, a mask-off heel turn that stands as the best release of Future’s career.",
+    "reviewer": "Olivier Lafontant",
+    "image": "https://media.pitchfork.com/photos/671fa73c1feac3124ad685f4/1:1/w_768,c_limit/Future-Monster.jpg",
+    "releaseYear": 2014
+  },
+  {
     "id": "6a7da4a9f68d90096523ec5b",
     "artist": "Nintendo Sound Team",
     "title": "Donkey Kong Bananza",
