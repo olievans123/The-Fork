@@ -1,5 +1,77 @@
 [
   {
+    "id": "6a7f24aab1119494d25333da",
+    "artist": "Djrum",
+    "title": "I Wander EP",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-08-17T04:03:00.000Z",
+    "dateFormatted": "August 17, 2026",
+    "url": "/reviews/albums/djrum-i-wander/",
+    "description": "The UK DJ’s new EP is a seamless suite of shuddering breakbeats, swerving tempos, and subtle ambient shading, condensing the firepower of last year’s <em>Under Tangled Silence</em> into 16 incendiary minutes.",
+    "reviewer": "Andrew Ryce",
+    "image": "https://media.pitchfork.com/photos/6a7f235157e1351a3fc47112/1:1/w_768,c_limit/Djrum%20-%20I%20Wander.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a7c9c6f3215fe581f045e0f",
+    "artist": "Kiwi Jr.",
+    "title": "Blowin’ Up",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-08-17T04:02:00.000Z",
+    "dateFormatted": "August 17, 2026",
+    "url": "/reviews/albums/kiwi-jr-blowin-up/",
+    "description": "On its fourth album, the Canadian quartet adds a gritty edge to its jangle-pop sound, letting a sense of exasperation bleed into even its most chipper moments.",
+    "reviewer": "Andy Steiner",
+    "image": "https://media.pitchfork.com/photos/6a7c9be3b8fe735507667b90/1:1/w_768,c_limit/Kiwi%20Jr-Blowin%20Up.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a7f25f21da679816885862c",
+    "artist": "Radiator Hospital",
+    "title": "Distorting Time",
+    "score": 6.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-08-17T04:01:00.000Z",
+    "dateFormatted": "August 17, 2026",
+    "url": "/reviews/albums/radiator-hospital-distorting-time/",
+    "description": "Philadelphia singer-songwriter Sam Cook-Parrott delivers a set of minimal, lo-fi indie-pop songs on his sixth album, whose highlights include heartfelt tales of good and evil.",
+    "reviewer": "Peyton Thomas",
+    "image": "https://media.pitchfork.com/photos/6a7f25590f4df6e1ba5e4eb1/1:1/w_768,c_limit/Radiator%20Hospital-Distorting%20Time.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a7f4e43a52b699460d4eda0",
+    "artist": "Man/Woman/Chainsaw",
+    "title": "Cannonball",
+    "score": 6.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-08-17T04:00:00.000Z",
+    "dateFormatted": "August 17, 2026",
+    "url": "/reviews/albums/man-woman-chainsaw-cannonball/",
+    "description": "The debut album from the UK sextet artfully weaves post-punk experimentation with promising strides toward open-hearted pop songwriting.",
+    "reviewer": "Archie Forde",
+    "image": "https://media.pitchfork.com/photos/6a7f4d8e642b7565f7855ca0/1:1/w_768,c_limit/Man:Woman:Chainsaw%20Cannonball.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a7f66792242a90d7cf5631e",
     "artist": "Future",
     "title": "Monster",
