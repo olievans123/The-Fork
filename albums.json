@@ -1,5 +1,77 @@
 [
   {
+    "id": "6a8355cbab380b028f3a08b2",
+    "artist": "KATSEYE",
+    "title": "Wild EP",
+    "score": 4.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-08-18T04:03:00.000Z",
+    "dateFormatted": "August 18, 2026",
+    "url": "/reviews/albums/katseye-wild-ep/",
+    "description": "KATSEYE offer another perfectly hollow pop record that brings us no closer to their individual personalities or their vision as a girl group.",
+    "reviewer": "Kieran Press-Reynolds",
+    "image": "https://media.pitchfork.com/photos/6a835559522f93743d99134e/1:1/w_768,c_limit/Katseye%20Wild%20EP.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a83289742247c0ee563ac08",
+    "artist": "Karol G",
+    "title": "NO ME ARREPIENTO DE SENTIR TANTO",
+    "score": 6.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-08-18T04:02:00.000Z",
+    "dateFormatted": "August 18, 2026",
+    "url": "/reviews/albums/karol-g-no-me-arrepiento-de-sentir-tanto/",
+    "description": "The Colombian singer-songwriter’s latest album is a post-breakup rollercoaster traversing the emotional peaks and valleys of romantic ecstasy and despair.",
+    "reviewer": "Maria Nenet Barrios",
+    "image": "https://media.pitchfork.com/photos/6a8327f701da532a3f9b853b/1:1/w_768,c_limit/Karol%20K%20-%20No%20Me%20Arrepiento%20de%20Sentir%20Tanto.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a8334bf9f31eca2cfc653cd",
+    "artist": "ksuuvi",
+    "title": "ksuuvi buckets xtended",
+    "score": 6.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-08-18T04:01:00.000Z",
+    "dateFormatted": "August 18, 2026",
+    "url": "/reviews/albums/ksuuvi-ksuuvi-buckets-xtended/",
+    "description": "The Bronx-born rapper-producer has recently been responsible for some of jerk’s haziest iterations. This time, he takes it darker.",
+    "reviewer": "Dylan Green",
+    "image": "https://media.pitchfork.com/photos/6a8332ba9f31eca2cfc65327/1:1/w_768,c_limit/ksuuvi%20-%20buckets%20xtended.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a834ebb5eeaf65ef2de9a62",
+    "artist": "Laura Veirs",
+    "title": "Temple Songs",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-08-18T04:00:00.000Z",
+    "dateFormatted": "August 18, 2026",
+    "url": "/reviews/albums/laura-veirs-temple-songs/",
+    "description": "Made in a backyard studio, the singer-songwriter’s latest record plays like a respite from chaos, filled with lilting melodies and hopeful reflections.",
+    "reviewer": "Stephen Thomas Erlewine",
+    "image": "https://media.pitchfork.com/photos/6a834e07ab380b028f3a0836/1:1/w_768,c_limit/Laura%20Veirs-Temple%20Songs.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a7f24aab1119494d25333da",
     "artist": "Djrum",
     "title": "I Wander EP",
@@ -2027,7 +2099,7 @@
     "date": "2026-07-13T04:02:00.000Z",
     "dateFormatted": "July 13, 2026",
     "url": "/reviews/albums/twisted-teens-florida-water-blues/",
-    "description": "The third album from the Montreal trio breaks free with restless energy and earnest, worldweary songwriting.",
+    "description": "The New Orleans duo’s second album of the year is another set of gnarled, bite-sized garage-rock gems with an added dose of quiet melancholy.",
     "reviewer": "David Glickman",
     "image": "https://media.pitchfork.com/photos/6a4c83868ca4c51df6cdf325/1:1/w_768,c_limit/Twisted-Teens-Florida-Water-Blues-1200.jpg",
     "releaseYear": 2026
