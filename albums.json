@@ -1,5 +1,77 @@
 [
   {
+    "id": "6a848b09f814efc436930985",
+    "artist": "King Gizzard & the Lizard Wizard",
+    "title": "Alien Metal",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-08-19T04:03:00.000Z",
+    "dateFormatted": "August 19, 2026",
+    "url": "/reviews/albums/king-gizzard-and-the-lizard-wizard-alien-metal/",
+    "description": "The prolific Australian group embraces electronic music on an audacious record that doubles as a cautionary tale about technological apocalypse.",
+    "reviewer": "Liam Inscoe-Jones",
+    "image": "https://media.pitchfork.com/photos/6a4e461a5b672a73e06b0e2d/1:1/w_768,c_limit/King%20Gizzard%20&%20the%20Lizard%20Wizard%20__%20'Alien%20Metal'%20-%20LP%20Artwork.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a848464d4f3128997404c5d",
+    "artist": "The Womack Sisters",
+    "title": "The Womack Sisters",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-08-19T04:02:00.000Z",
+    "dateFormatted": "August 19, 2026",
+    "url": "/reviews/albums/the-womack-sisters-the-womack-sisters/",
+    "description": "Three sisters descended from one of soul music’s greatest legacies offer a retro-modern take on a classic, ’60s-inspired sound.",
+    "reviewer": "Marcus J. Moore",
+    "image": "https://media.pitchfork.com/photos/6a848222d4f3128997404c58/1:1/w_768,c_limit/The%20Womack%20Sisters%20-%20The%20Womack%20Sisters.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a84ac68db3657fec56ae3e3",
+    "artist": "Icona Pop",
+    "title": "Ritual",
+    "score": 5.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-08-19T04:01:00.000Z",
+    "dateFormatted": "August 19, 2026",
+    "url": "/reviews/albums/icona-pop-ritual/",
+    "description": "The electropop duo continues its 2020s comeback with an album that seeks renewal on the dancefloor but ends up feeling like a retread.",
+    "reviewer": "Cassidy Sollazzo",
+    "image": "https://media.pitchfork.com/photos/6a84abb3d4f3128997404fb8/1:1/w_768,c_limit/Icona%20Pop%20Ritual.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a84aae2f8d0edf80c040517",
+    "artist": "Papangu",
+    "title": "Celestial",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-08-19T04:00:00.000Z",
+    "dateFormatted": "August 19, 2026",
+    "url": "/reviews/albums/papangu-celestial/",
+    "description": "Making proudly old-school music with proudly old-school equipment, the Brazilian band summons the sound of classic prog rock with a mystical, psychedelic epic.",
+    "reviewer": "Amanda Cavalcanti",
+    "image": "https://media.pitchfork.com/photos/6a84aa25c17d93d27be4e9b8/1:1/w_768,c_limit/Papangu%20Celestial.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a8355cbab380b028f3a08b2",
     "artist": "KATSEYE",
     "title": "Wild EP",
