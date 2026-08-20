@@ -1,5 +1,78 @@
 [
   {
+    "id": "6a85e178c38d2c7fc20c1b59",
+    "artist": "Hovvdy",
+    "title": "Big World",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-08-20T04:03:00.000Z",
+    "dateFormatted": "August 20, 2026",
+    "url": "/reviews/albums/hovvdy-big-world/",
+    "description": "Reflecting candidly on aging, forgiveness, and self-improvement, the indie-pop duo returns with a charming new album that takes the world in stride.",
+    "reviewer": "Abby Jones",
+    "image": "https://media.pitchfork.com/photos/6a049ffc77bf643c017d8f99/1:1/w_768,c_limit/Hovvdy%20-%20Big%20World%20_%20Album%20Art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a84a4abf814efc436930bb2",
+    "artist": "Dinner Party",
+    "title": "Whatchu Bringing?",
+    "score": 7.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Jazz",
+      "Pop/R&B"
+    ],
+    "date": "2026-08-20T04:02:00.000Z",
+    "dateFormatted": "August 20, 2026",
+    "url": "/reviews/albums/dinner-party-whatchu-bringing/",
+    "description": "On a brief new album, the jazz supergroup locks into a relaxed, comfortable groove with communal atmosphere and a hip-hop sensibility.",
+    "reviewer": "Matthew Ismael Ruiz",
+    "image": "https://media.pitchfork.com/photos/6a4be94b3e562ef9b2843431/1:1/w_768,c_limit/Screenshot%202026-07-06%20at%201.16.56%20PM.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a85e38751f053501d3b16ad",
+    "artist": "Prairie Princess",
+    "title": "Jewish American Prairie Princess",
+    "score": 7.9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Folk/Country"
+    ],
+    "date": "2026-08-20T04:01:00.000Z",
+    "dateFormatted": "August 20, 2026",
+    "url": "/reviews/albums/prairie-princess-jewish-american-prairie-princess/",
+    "description": "Nebraska-raised songwriter Emerson Borakove’s country-fried anti-folk-rock overflows with idiosyncratic humor and tender heart.",
+    "reviewer": "Lily Goldberg",
+    "image": "https://media.pitchfork.com/photos/6a85e3181a76128674729990/1:1/w_768,c_limit/Prairie%20Princess%20-%20Jewish%20American%20Prairie%20Princess%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a85d54fcf56144a2fd11246",
+    "artist": "730turk",
+    "title": "Trapculinary vol.2 (the recipe)",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-08-20T04:00:00.000Z",
+    "dateFormatted": "August 20, 2026",
+    "url": "/reviews/albums/730turk-trapculinary-vol2-the-recipe/",
+    "description": "The Florida rapper faces off with himself on a hilariously animated new tape, ping-ponging between high and low voices over groovy Florida-via-Michigan beats.",
+    "reviewer": "Mano Sundaresan",
+    "image": "https://media.pitchfork.com/photos/6a85d4efd51ddfb2b5de6524/1:1/w_768,c_limit/730turk%20-%20Trapculinary%20vol.2%20(the%20recipe)%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a848b09f814efc436930985",
     "artist": "King Gizzard & the Lizard Wizard",
     "title": "Alien Metal",
