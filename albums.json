@@ -1,5 +1,80 @@
 [
   {
+    "id": "6a870d79c252c18253318828",
+    "artist": "GB",
+    "title": "Herzsprung",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-08-21T04:03:00.000Z",
+    "dateFormatted": "August 21, 2026",
+    "url": "/reviews/albums/gb-herzsprung/",
+    "description": "Like fellow Rhythmic Music Conservatory alum ML Buch, the Danish musician recontextualizes hoary sounds in surprising ways, flipping ’80s AOR and jazz fusion into sleek, mysterious art rock.",
+    "reviewer": "Rob Arcand",
+    "image": "https://media.pitchfork.com/photos/69fb42c97f922509bfaaebda/1:1/w_768,c_limit/GB-Herzsprung.jpeg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a848bf2f8d0edf80c0403f6",
+    "artist": "Squirrel Flower",
+    "title": "Say a Prayer to the Gods of Getting Going",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-08-21T04:02:00.000Z",
+    "dateFormatted": "August 21, 2026",
+    "url": "/reviews/albums/squirrel-flower-say-a-prayer-to-the-gods-of-getting-going/",
+    "description": "On her fourth record of tender, twangy indie rock, Ella Williams probes the capacity of the open road to cure anything that ails the heart.",
+    "reviewer": "Grace Robins-Somerville",
+    "image": "https://media.pitchfork.com/photos/6a31c25e3097cc9623857c6d/1:1/w_768,c_limit/PRC-526_Cover_Web_.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a8720ea5fb04444d94fa896",
+    "artist": "Fred again.. / Latin Mafia",
+    "title": "9 months &amp; 50 hours",
+    "score": 6.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B",
+      "Rap",
+      "Electronic",
+      "Pop/R&B"
+    ],
+    "date": "2026-08-21T04:01:00.000Z",
+    "dateFormatted": "August 21, 2026",
+    "url": "/reviews/albums/fred-again-latin-mafia-9-months-and-50-hours/",
+    "description": "The British DJ and Mexican alt-pop band livestreamed the production of their new joint mixtape, which highlights a shared interest in freeform music shaped by real-time experience.",
+    "reviewer": "Lucas Villa",
+    "image": "https://media.pitchfork.com/photos/6a8720405fb04444d94fa891/1:1/w_768,c_limit/Latin%20Mafia%20&%20Fred%20again..%20-%209%20months%20&%2050%20hours%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a87236b6e4b21705ad27886",
+    "artist": "Faith Leazae",
+    "title": "Faith EP",
+    "score": 6.9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-08-21T04:00:00.000Z",
+    "dateFormatted": "August 21, 2026",
+    "url": "/reviews/albums/faith-leazae-faith-ep/",
+    "description": "The Sacramento rapper’s 16-minute EP is tailor-made for viral engagement, but her outlandish hooks and motivational energy ensure it’s strong enough to stand on its own.",
+    "reviewer": "H.D. Angel",
+    "image": "https://media.pitchfork.com/photos/6a87223dc035b41e3f65886c/1:1/w_768,c_limit/Faith%20Leazae%20Faith%20EP.png",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a85e178c38d2c7fc20c1b59",
     "artist": "Hovvdy",
     "title": "Big World",
@@ -407,7 +482,8 @@
     "bnm": true,
     "bnr": false,
     "genres": [
-      "Folk/Country"
+      "Folk/Country",
+      "Rock"
     ],
     "date": "2026-08-13T04:03:00.000Z",
     "dateFormatted": "August 13, 2026",
