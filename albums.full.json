@@ -1,5 +1,23 @@
 [
   {
+    "id": "6a8873701ef1ce0cdd6af132",
+    "artist": "The Cramps",
+    "title": "Gravest Gravy",
+    "score": 8.6,
+    "bnm": false,
+    "bnr": true,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-08-22T04:00:00.000Z",
+    "dateFormatted": "August 22, 2026",
+    "url": "/reviews/albums/the-cramps-gravest-gravy/",
+    "description": "The songs may be familiar to diehards, but on a long-awaited collection of early Alex Chilton recordings they appear in their most primordial form, just sprouting legs and walking on land.",
+    "reviewer": "Stephen M. Deusner",
+    "image": "https://media.pitchfork.com/photos/6a8872df3ebe66b3901a1406/1:1/w_768,c_limit/The%20Cramps%20-%20Gravest%20Gravy%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a870d79c252c18253318828",
     "artist": "GB",
     "title": "Herzsprung",
