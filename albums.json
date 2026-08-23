@@ -1,5 +1,23 @@
 [
   {
+    "id": "6a88a1f1bae9f66ea6243e39",
+    "artist": "Paradis",
+    "title": "Recto Verso",
+    "score": 8.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-08-23T04:00:00.000Z",
+    "dateFormatted": "August 23, 2026",
+    "url": "/reviews/albums/paradis-recto-verso/",
+    "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. This week, we revisit a 2016 album from France that reinvented the decade’s electro-pop as an idyllic Mediterranean dream.",
+    "reviewer": "Jesse Dorris",
+    "image": "https://media.pitchfork.com/photos/6a88a1bcbae9f66ea6243e31/1:1/w_768,c_limit/Paradis%20-%20Recto%20Verso.jpg",
+    "releaseYear": 2016
+  },
+  {
     "id": "6a8873701ef1ce0cdd6af132",
     "artist": "The Cramps",
     "title": "Gravest Gravy",
