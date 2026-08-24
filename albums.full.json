@@ -1,5 +1,77 @@
 [
   {
+    "id": "6a888eca7bae2306ca195a29",
+    "artist": "Weezer",
+    "title": "Weezer (Gold Album)",
+    "score": 6.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-08-24T04:03:00.000Z",
+    "dateFormatted": "August 24, 2026",
+    "url": "/reviews/albums/weezer-weezer-gold-album/",
+    "description": "Spurred on by producer Kenneth Blume, Weezer get back in a room together to write rock songs that wallow, reminisce, and, very occasionally, wow.",
+    "reviewer": "Grayson Haver Currin",
+    "image": "https://media.pitchfork.com/photos/6a205096c0ce040395a78f32/1:1/w_768,c_limit/weezer_album_artwork_hires.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a889146bae9f66ea6243e00",
+    "artist": "Chelsea Wolfe",
+    "title": "The Dark",
+    "score": 6.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-08-24T04:02:00.000Z",
+    "dateFormatted": "August 24, 2026",
+    "url": "/reviews/albums/chelsea-wolfe-the-dark/",
+    "description": "The singer-songwriter returns for a prestige goth reinvention, singing dramatic anthems of self-preservation that feel grander and bolder than anything she’s ever attempted.",
+    "reviewer": "Sadie Sartini Garner",
+    "image": "https://media.pitchfork.com/photos/6a8890a5502a11a0a1da21c5/1:1/w_768,c_limit/Chelsea%20Wolfe%20The%20Dark.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a88532c44bdb63576f6f9d5",
+    "artist": "Black Marble",
+    "title": "Life in Small Spaces",
+    "score": 7.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-08-24T04:01:00.000Z",
+    "dateFormatted": "August 24, 2026",
+    "url": "/reviews/albums/black-marble-life-in-small-spaces/",
+    "description": "The Brooklyn musician’s synth pop remains almost uncannily retro, but a new emphasis on guitar and sharper-edged songwriting give his latest album a personality of its own.",
+    "reviewer": "Andrew Ryce",
+    "image": "https://media.pitchfork.com/photos/6a860c28fedd9cb97f0eaf4b/1:1/w_768,c_limit/66000.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a886ffb83611c26b0eda61a",
+    "artist": "Pooh Shiesty",
+    "title": "All Eyes on Shiest",
+    "score": 5.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-08-24T04:00:00.000Z",
+    "dateFormatted": "August 24, 2026",
+    "url": "/reviews/albums/pooh-shiesty-all-eyes-on-shiest/",
+    "description": "As the Memphis rapper faces life in prison for an alleged attempt to get out of his record contract, the hard-nosed raps on his studio debut are either thrilling or depressing to witness.",
+    "reviewer": "Andre Gee",
+    "image": "https://media.pitchfork.com/photos/6a886f8951ccbf48e2e566ed/1:1/w_768,c_limit/Pooh%20Shiesty%20-%20All%20Eyes%20on%20Sheist%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a88a1f1bae9f66ea6243e39",
     "artist": "Paradis",
     "title": "Recto Verso",
