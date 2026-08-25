@@ -1,5 +1,77 @@
 [
   {
+    "id": "6a8c5ed26bceb1671f844ae5",
+    "artist": "Lambchop",
+    "title": "Punching the Clown",
+    "score": 8.5,
+    "bnm": true,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-08-25T04:03:00.000Z",
+    "dateFormatted": "August 25, 2026",
+    "url": "/reviews/albums/lambchop-punching-the-clown/",
+    "description": "Kurt Wagner reinvents his band yet again, this time slimming down to a bare-bones acoustic setup and stripping away the studio artifice. But his storytelling remains as expansive as ever.",
+    "reviewer": "Sam Sodomsky",
+    "image": "https://media.pitchfork.com/photos/6a8c5ccc67a78f90c0d9d783/1:1/w_768,c_limit/Lambchop%20-%20Punching%20the%20Clown.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a8c7c2f5e01afc6383ab54e",
+    "artist": "Brandon Flowers",
+    "title": "THRASHER",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-08-25T04:02:00.000Z",
+    "dateFormatted": "August 25, 2026",
+    "url": "/reviews/albums/brandon-flowers-thrasher/",
+    "description": "With Waylon Jennings’ drawl and a profound sincerity, the Killers frontman sells the blustery, Nashville-via-Utah sound of his gaudy but affecting new country album.",
+    "reviewer": "Jayson Greene",
+    "image": "https://media.pitchfork.com/photos/6a860baecf56144a2fd11513/1:1/w_768,c_limit/26UMGIM69978.rgb.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a8c67bf9159dce2093a54eb",
+    "artist": "Nate Sib",
+    "title": "Reborn",
+    "score": 4.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-08-25T04:01:00.000Z",
+    "dateFormatted": "August 25, 2026",
+    "url": "/reviews/albums/nate-sib-reborn/",
+    "description": "The singer tries to fashion himself as a troubled and thirsted-after pop idol on his debut album, but relies too heavily on mall-pop beats and formulaic lyrics to craft a compelling character.",
+    "reviewer": "Kieran Press-Reynolds",
+    "image": "https://media.pitchfork.com/photos/6a8c664f67a78f90c0d9d8f5/1:1/w_768,c_limit/Nate%20Sib-Reborn.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a8c5e398a71dbab54cc5292",
+    "artist": "Jorja Smith",
+    "title": "What Are the Odds",
+    "score": 6.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-08-25T04:00:00.000Z",
+    "dateFormatted": "August 25, 2026",
+    "url": "/reviews/albums/jorja-smith-what-are-the-odds/",
+    "description": "On her dance-oriented third LP, the UK singer glides through producer P2J’s tasteful, frictionless blend of two-step garage, UK funky, and house.",
+    "reviewer": "Boutayna Chokrane",
+    "image": "https://media.pitchfork.com/photos/6a860da751f053501d3b17f0/1:1/w_768,c_limit/820233401784.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a888eca7bae2306ca195a29",
     "artist": "Weezer",
     "title": "Weezer (Gold Album)",
