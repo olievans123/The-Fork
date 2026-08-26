@@ -1,5 +1,77 @@
 [
   {
+    "id": "6a8db7d1b1ed6c3b1bfbad94",
+    "artist": "Sam Smith",
+    "title": "Hazel Eyes",
+    "score": 6.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-08-26T04:03:00.000Z",
+    "dateFormatted": "August 26, 2026",
+    "url": "/reviews/albums/sam-smith-hazel-eyes/",
+    "description": "The pop star’s new album trades aesthetic sleekness for a more organic sound, telling a real-life love story through sophisticated, romantic songs that tap jazz, blues, soul, and Feist.",
+    "reviewer": "Molly Mary O’Brien",
+    "image": "https://media.pitchfork.com/photos/6a8db6f405876d0b5784d943/1:1/w_768,c_limit/Sam%20Smith%20-%20Hazel%20Eyes%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a8dc715c6d74379323af78e",
+    "artist": "Julia Holter",
+    "title": "Materia",
+    "score": 7.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-08-26T04:02:00.000Z",
+    "dateFormatted": "August 26, 2026",
+    "url": "/reviews/albums/julia-holter-materia/",
+    "description": "The seven-track companion to 2024’s <em>Something in the Room She Moves</em> blends new songs with reshaped versions of previously released material to offer a new glimpse at the L.A. musician’s creative process.",
+    "reviewer": "Linnie Greene",
+    "image": "https://media.pitchfork.com/photos/6a8dc63fcd6bee8fd4517349/1:1/w_768,c_limit/Julia%20Holter%20Materia.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a8db5cbc6d74379323af62d",
+    "artist": "Living Weapon",
+    "title": "Death in the Family",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-08-26T04:01:00.000Z",
+    "dateFormatted": "August 26, 2026",
+    "url": "/reviews/albums/living-weapon-death-in-the-family/",
+    "description": "Members of hardcore bruisers Vein.fm and nu-gaze breakouts Fleshwater reassemble beneath the metalcore banner, combining brute strength and progressive instincts into a slab of unrelenting violence.",
+    "reviewer": "Eli Enis",
+    "image": "https://media.pitchfork.com/photos/6a8db484ec136da2630cf396/1:1/w_768,c_limit/Living%20Weapon%20-%20Death%20in%20the%20Family.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a8de552cd6bee8fd4517418",
+    "artist": "Glizzy Glow",
+    "title": "Trench Baddie",
+    "score": 5.9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-08-26T04:00:00.000Z",
+    "dateFormatted": "August 26, 2026",
+    "url": "/reviews/albums/glizzy-glow-trench-baddie/",
+    "description": "The “Cutwater” rapper’s debut LP tests the water with rehashed takes on trending sounds, none more effective than the homegrown Chicago juke that fueled her breakout.",
+    "reviewer": "Alphonse Pierre",
+    "image": "https://media.pitchfork.com/photos/6a8de48cde940b8279edad1e/1:1/w_768,c_limit/Glizzy%20Glow%20Trench%20Baddie.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a8c5ed26bceb1671f844ae5",
     "artist": "Lambchop",
     "title": "Punching the Clown",
