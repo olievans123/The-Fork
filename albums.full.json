@@ -1,5 +1,77 @@
 [
   {
+    "id": "6a8f082ddea1150bd0bcbe9d",
+    "artist": "Wild Pink",
+    "title": "Still Coming Down",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-08-27T04:03:00.000Z",
+    "dateFormatted": "August 27, 2026",
+    "url": "/reviews/albums/wild-pink-still-coming-down/",
+    "description": "The sixth album from John Ross’ heartland indie project offers terse, literary tales of American detritus while exuding an unshowy charm.",
+    "reviewer": "Shaad D’Souza",
+    "image": "https://media.pitchfork.com/photos/6a16fc63908be9531706c6e4/1:1/w_768,c_limit/Still%20Coming%20Down%20by%20Wild%20Pink.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a8f1a85a2eb4cd9f8e40a34",
+    "artist": "Plum",
+    "title": "Bodies in Motion",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-08-27T04:02:00.000Z",
+    "dateFormatted": "August 27, 2026",
+    "url": "/reviews/albums/plum-bodies-in-motion/",
+    "description": "Inspired by new wave classics, the latest album from the Chicago post-punk band is a raging, uncontrollable dance party.",
+    "reviewer": "Nina Corcoran",
+    "image": "https://media.pitchfork.com/photos/6a8f1a35565c2e1489e66737/1:1/w_768,c_limit/Plum%20Bodies%20in%20Motion.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a8ef242dea1150bd0bcbd0a",
+    "artist": "Frances Chang",
+    "title": "been thinking bout confession",
+    "score": 7.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-08-27T04:01:00.000Z",
+    "dateFormatted": "August 27, 2026",
+    "url": "/reviews/albums/frances-chang-been-thinking-bout-confession/",
+    "description": "The Brooklyn musician brings first-thought-best-thought energy to her meditative songwriting, pairing muted introspection with stripped-down baroque-pop arrangements for piano, strings, and synth.",
+    "reviewer": "Sam Goldner",
+    "image": "https://media.pitchfork.com/photos/6a8ef1e2565c2e1489e6661b/1:1/w_768,c_limit/Frances%20Chang%20-%20been%20thinking%20bout%20confession.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a8f0201a2eb4cd9f8e408ce",
+    "artist": "Elanor Moss",
+    "title": "The Knife, The Needle",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Folk/Country"
+    ],
+    "date": "2026-08-27T04:00:00.000Z",
+    "dateFormatted": "August 27, 2026",
+    "url": "/reviews/albums/elanor-moss-the-knife-the-needle/",
+    "description": "On her debut album, the British singer-songwriter frames interpersonal tension as a wellspring of potential connection in a set of hushed psych-folk songs.",
+    "reviewer": "Vrinda Jagota",
+    "image": "https://media.pitchfork.com/photos/6a8f01acdea1150bd0bcbe8d/1:1/w_768,c_limit/Elanor%20Moss-The%20Knife%20The%20Needle.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a8db7d1b1ed6c3b1bfbad94",
     "artist": "Sam Smith",
     "title": "Hazel Eyes",
@@ -2923,7 +2995,7 @@
   },
   {
     "id": "6a47ec69db3001f372b339e8",
-    "artist": "Twentythree",
+    "artist": "twentythree",
     "title": "6ix Pop",
     "score": 7.4,
     "bnm": false,
