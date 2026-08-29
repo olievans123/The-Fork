@@ -1,5 +1,23 @@
 [
   {
+    "id": "6a8f024d6b2f189e6a30f6d6",
+    "artist": "Dinosaur Jr.",
+    "title": "There Near",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-08-29T04:00:00.000Z",
+    "dateFormatted": "August 29, 2026",
+    "url": "/reviews/albums/dinosaur-jr-there-near/",
+    "description": "The trio’s first album in five years marks a gloriously messy return to form, dredging up the scuzz of the group’s early work and privileging melody over showiness.",
+    "reviewer": "Jude Noel",
+    "image": "https://media.pitchfork.com/photos/6a8f00a61c95da845ff938aa/1:1/w_768,c_limit/Dinosaur%20Jr.%20-%20There%20Near.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a907608cddd9fbd7306953f",
     "artist": "Interpol",
     "title": "This Mirror Weighs a Ton",
