@@ -1,5 +1,23 @@
 [
   {
+    "id": "6a9097ddbea3737e9c6f897c",
+    "artist": "The Eagles",
+    "title": "Their Greatest Hits (1971-1975)",
+    "score": 8.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-08-30T04:00:00.000Z",
+    "dateFormatted": "August 30, 2026",
+    "url": "/reviews/albums/the-eagles-their-greatest-hits-1971-1975/",
+    "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we look back at one of the best-selling albums of all time and consider what it says about the unbelievable power of the Eagles and the kind of rock’n’roll they created.",
+    "reviewer": "Grayson Haver Currin",
+    "image": "https://media.pitchfork.com/photos/6a90973f9fa36bd060020b48/1:1/w_768,c_limit/The%20Eagle%20-%20Their%20Greatest%20Hits%20(1971-1975)%20album%20art.jpg",
+    "releaseYear": 1976
+  },
+  {
     "id": "6a8f024d6b2f189e6a30f6d6",
     "artist": "Dinosaur Jr.",
     "title": "There Near",
