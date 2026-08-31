@@ -1,5 +1,77 @@
 [
   {
+    "id": "6a46693183152c5e2eb99c22",
+    "artist": "Mastodon",
+    "title": "Marrow Deep",
+    "score": 6.9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Metal"
+    ],
+    "date": "2026-08-31T04:03:00.000Z",
+    "dateFormatted": "August 31, 2026",
+    "url": "/reviews/albums/mastodon-marrow-deep/",
+    "description": "On its first album since the death of guitarist and vocalist Brent Hinds, the metal band reckons with grief while gesturing toward the wild, energetic sound of its past.",
+    "reviewer": "Brad Sanders",
+    "image": "https://media.pitchfork.com/photos/6a54ea6df9f7a8b7b20bfcb7/1:1/w_768,c_limit/unnamed%20(50).jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a9078279fa36bd060020396",
+    "artist": "Liim",
+    "title": "A Sunflower Garden in Harlem Is Hard to Find",
+    "score": 6.9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-08-31T04:02:00.000Z",
+    "dateFormatted": "August 31, 2026",
+    "url": "/reviews/albums/liim-a-sunflower-garden-in-harlem-is-hard-to-find/",
+    "description": "The young New York artist’s summery new album bounces from jazz-funk to swag rap to ’80s throwback, a prodigious display of talent in search of a singular vision.",
+    "reviewer": "Samuel Hyland",
+    "image": "https://media.pitchfork.com/photos/6a9077e8a6997764896b9743/1:1/w_768,c_limit/Liim%20-%20A%20Sunflower%20Garden%20in%20Harlem%20Is%20Hard%20to%20Find%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a87137fb9d6adbd0d76708c",
+    "artist": "Westside Cowboy",
+    "title": "It Goes On",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-08-31T04:01:00.000Z",
+    "dateFormatted": "August 31, 2026",
+    "url": "/reviews/albums/westside-cowboy-it-goes-on/",
+    "description": "The much-hyped Manchester group sheds some of its early country influences, focusing instead on tightly wound indie rock and sharp, thoughtful songwriting. It’s a winning combination.",
+    "reviewer": "Victoria Borlando",
+    "image": "https://media.pitchfork.com/photos/6a860ae807359433c2e0aec9/1:1/w_768,c_limit/26UMGIM54625.rgb.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a8dba55c6d74379323af6a8",
+    "artist": "María Isabel",
+    "title": "Miss Me Much?",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-08-31T04:00:00.000Z",
+    "dateFormatted": "August 31, 2026",
+    "url": "/reviews/albums/maria-isabel-miss-me-much/",
+    "description": "Produced by El Guincho, the Queens-born singer’s new EP threads dembow, reggaeton, and Jersey club into polished R&amp;B with retro warmth.",
+    "reviewer": "Tatiana Lee Rodriguez",
+    "image": "https://media.pitchfork.com/photos/6a8db9c484f30078af815de3/1:1/w_768,c_limit/Maria%20Isabel%20-%20Miss%20Me%20Much",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a9097ddbea3737e9c6f897c",
     "artist": "The Eagles",
     "title": "Their Greatest Hits (1971-1975)",
