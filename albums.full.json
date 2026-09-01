@@ -1,5 +1,77 @@
 [
   {
+    "id": "6a95cd200e28f9730d371c43",
+    "artist": "Turnstile",
+    "title": "NEVER ENOUGH: VERSIONS",
+    "score": 7.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-09-01T04:03:00.000Z",
+    "dateFormatted": "September 1, 2026",
+    "url": "/reviews/albums/turnstile-never-enough-versions/",
+    "description": "With a features list that reads like a festival lineup, the sprawling remix edition of the Baltimore band’s 2025 album demonstrates there’s almost nowhere its songs can’t go.",
+    "reviewer": "Brad Shoup",
+    "image": "https://media.pitchfork.com/photos/6a95ccc28b32f5a6c140bf14/1:1/w_768,c_limit/Turnstile%20-%20Never%20Enough%20Versions%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a95c43766cba4b5ed729a8a",
+    "artist": "The Afghan Whigs",
+    "title": "Soft Control",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-09-01T04:02:00.000Z",
+    "dateFormatted": "September 1, 2026",
+    "url": "/reviews/albums/the-afghan-whigs-soft-control/",
+    "description": "On their fourth album since reuniting, Greg Dulli and co. seem animated by a desire to keep learning, pushing the soul-grunge of their past into more graceful territory.",
+    "reviewer": "Grayson Haver Currin",
+    "image": "https://media.pitchfork.com/photos/6a206210af6ee683a4a40891/1:1/w_768,c_limit/The%20Afghan%20Whigs%20-%20Soft%20Control%20.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a957f032d0116adf88d9245",
+    "artist": "Sarah Davachi",
+    "title": "The Will of Tongues",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-09-01T04:01:00.000Z",
+    "dateFormatted": "September 1, 2026",
+    "url": "/reviews/albums/sarah-davachi-the-will-of-tongues/",
+    "description": "A mammoth compendium of compositions for choir, chamber ensemble, and pipe organ captures the minimalist composer’s work at its most gloriously austere.",
+    "reviewer": "Daniel Bromfield",
+    "image": "https://media.pitchfork.com/photos/6a957e54b5df8a9112ce0fda/1:1/w_768,c_limit/Sarah%20Davachi%20-%20The%20Will%20of%20Tongues.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a918fabfc8d76689291b429",
+    "artist": "Donatell",
+    "title": "Water, CA",
+    "score": 7.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-09-01T04:00:00.000Z",
+    "dateFormatted": "September 1, 2026",
+    "url": "/reviews/albums/donatell-water-ca/",
+    "description": "On a brief and breezy new album, the Los Angeles producer offers amorphous ambient pop songs filled with retro trappings, like a soundtrack to an imaginary city of perpetual dusk.",
+    "reviewer": "Philip Sherburne",
+    "image": "https://media.pitchfork.com/photos/6a918ed6aa37da17d039f3db/1:1/w_768,c_limit/Donatell-Water,%20CA.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a46693183152c5e2eb99c22",
     "artist": "Mastodon",
     "title": "Marrow Deep",
