@@ -1,5 +1,78 @@
 [
   {
+    "id": "6a9706010e320a38ee216488",
+    "artist": "Asher White",
+    "title": "Love Aggregates",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-09-02T04:03:00.000Z",
+    "dateFormatted": "September 2, 2026",
+    "url": "/reviews/albums/asher-white-love-aggregates/",
+    "description": "Melody is the beating heart of the songwriter’s new album, which spins tales of loves real and imagined from dense, curlicued arrangements of guitar, piano, and strings.",
+    "reviewer": "Mitch Therieau",
+    "image": "https://media.pitchfork.com/photos/6a4e57789b8aa766740a73f1/1:1/w_768,c_limit/Asher-White-Love-Aggregates.jpeg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a9702fc573253431d51562b",
+    "artist": "Mike Shabb",
+    "title": "Sewaside IV",
+    "score": 7.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-09-02T04:02:00.000Z",
+    "dateFormatted": "September 2, 2026",
+    "url": "/reviews/albums/mike-shabb-sewaside-iv/",
+    "description": "The Montreal rapper’s fresh take on 1990s golden-age throwbacks matches tried-and-true production with modern flourish.",
+    "reviewer": "Andre Gee",
+    "image": "https://media.pitchfork.com/photos/6a9702740e320a38ee216461/1:1/w_768,c_limit/Mike%20Shabb%20-%20Sewaside%20IV%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a9705419832c1d3d031bd84",
+    "artist": "iKeda",
+    "title": "Bangs N Braces EP",
+    "score": 7.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-09-02T04:01:00.000Z",
+    "dateFormatted": "September 2, 2026",
+    "url": "/reviews/albums/ikeda-bangs-n-braces-ep/",
+    "description": "The rising London pop singer’s new EP is a spirited mix of late-aughts electronic pop, dancehall experimentation, and storybook charm.",
+    "reviewer": "Harry Tafoya",
+    "image": "https://media.pitchfork.com/photos/6a9703eb573253431d515665/1:1/w_768,c_limit/iKeda%20-%20Bangs%20and%20Braces%20EP%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a96f8855408cc183beb5752",
+    "artist": "Credit Card",
+    "title": "Devil&#39;s Night / Dead Internet",
+    "score": 7.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic",
+      "Rock"
+    ],
+    "date": "2026-09-02T04:00:00.000Z",
+    "dateFormatted": "September 2, 2026",
+    "url": "/reviews/albums/credit-card-devils-night-dead-internet/",
+    "description": "The Detroit duo moves between fractured EBM and synth-punk songs and pleasingly ugly sound collage on a mixtape fueled by noise and nihilism.",
+    "reviewer": "Sadie Sartini Garner",
+    "image": "https://media.pitchfork.com/photos/6a96f75b0e320a38ee216195/1:1/w_768,c_limit/Credit%20Card-Devil's%20Night%20:%20Dead%20Internet.png",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a95cd200e28f9730d371c43",
     "artist": "Turnstile",
     "title": "NEVER ENOUGH: VERSIONS",
