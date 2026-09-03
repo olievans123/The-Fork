@@ -1,5 +1,78 @@
 [
   {
+    "id": "6a98584ce6b407a4b82cfe4b",
+    "artist": "Lex Walton",
+    "title": "Ultimate Love Forever",
+    "score": 8.3,
+    "bnm": true,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-09-03T04:03:00.000Z",
+    "dateFormatted": "September 3, 2026",
+    "url": "/reviews/albums/lex-walton-ultimate-love-forever/",
+    "description": "Earnest and disaffected, ironic and confrontational, the Brooklyn songwriter’s Sub Pop debut channels trans rage into scrappy DIY punk with no patience left.",
+    "reviewer": "Hannah Jocelyn",
+    "image": "https://media.pitchfork.com/photos/6a9857dd83bf94901ac8f2c6/1:1/w_768,c_limit/Lex%20Walton%20-%20Ultimate%20Love%20Forever%20album%20art.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a9863070d8477415f900681",
+    "artist": "Billy Strings",
+    "title": "So Much for Goodbyes",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Folk/Country"
+    ],
+    "date": "2026-09-03T04:02:00.000Z",
+    "dateFormatted": "September 3, 2026",
+    "url": "/reviews/albums/billy-strings-so-much-for-goodbyes/",
+    "description": "A year after his mother died of an overdose, the boundary-breaking bluegrass guitarist returns with an idiosyncratic and personal new record.",
+    "reviewer": "Grayson Haver Currin",
+    "image": "https://media.pitchfork.com/photos/6a8caf5ec35155215e69bad7/1:1/w_768,c_limit/093624821106.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a983ed083bf94901ac8f266",
+    "artist": "Nina Winder-Lind",
+    "title": "Wild Love",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock",
+      "Folk/Country"
+    ],
+    "date": "2026-09-03T04:01:00.000Z",
+    "dateFormatted": "September 3, 2026",
+    "url": "/reviews/albums/nina-winder-lind-wild-love/",
+    "description": "The Swedish songwriter fills her solo debut of textural art-rock with ferocious portraits of girlhood and surges of gratitude for every sensation available to her.",
+    "reviewer": "Grace Robins-Somerville",
+    "image": "https://media.pitchfork.com/photos/6a983e56a9e4df8e0b37e8a6/1:1/w_768,c_limit/Nina%20Winder-Lind-Wild%20Love.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a98567ee6b407a4b82cfe47",
+    "artist": "Guiding Light",
+    "title": "Fear on My Own Time",
+    "score": 7.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-09-03T04:00:00.000Z",
+    "dateFormatted": "September 3, 2026",
+    "url": "/reviews/albums/guiding-light-fear-on-my-own-time/",
+    "description": "The Texas band pairs mostly German-language lyrics with boisterous but buttoned-up post-punk for a debut that could almost pass for a lost European import.",
+    "reviewer": "Nina Corcoran",
+    "image": "https://media.pitchfork.com/photos/6a9855eb83bf94901ac8f2ae/1:1/w_768,c_limit/Guiding%20Light%20-%20Fear%20on%20My%20Own%20Time%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a9706010e320a38ee216488",
     "artist": "Asher White",
     "title": "Love Aggregates",
@@ -56,7 +129,7 @@
   {
     "id": "6a96f8855408cc183beb5752",
     "artist": "Credit Card",
-    "title": "Devil&#39;s Night / Dead Internet",
+    "title": "Devil’s Night / Dead Internet",
     "score": 7.3,
     "bnm": false,
     "bnr": false,
