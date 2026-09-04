@@ -1,5 +1,79 @@
 [
   {
+    "id": "6a99a2d5dd4bc9b4e956c9df",
+    "artist": "Erykah Badu / The Alchemist",
+    "title": "Before the World Blows: The Abi and Alan Experiment",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B",
+      "Rap"
+    ],
+    "date": "2026-09-04T04:03:00.000Z",
+    "dateFormatted": "September 4, 2026",
+    "url": "/reviews/albums/erykah-badu-the-alchemist-before-the-world-blows-the-abi-and-alan-experiment/",
+    "description": "The neo-soul priestess and the hip-hop producer throw it back on a seductive, pleasantly rambly collaborative album that returns them both to their roots.",
+    "reviewer": "Kiana Mickles",
+    "image": "https://media.pitchfork.com/photos/6a8ef8c91c95da845ff9382f/1:1/w_768,c_limit/c068fd03-7874-4f5e-b62a-a20f68dd1a4c.jpeg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a9995b62e0313e6a5a838c7",
+    "artist": "Chat Pile",
+    "title": "Who Loves the Sun",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock",
+      "Metal"
+    ],
+    "date": "2026-09-04T04:02:00.000Z",
+    "dateFormatted": "September 4, 2026",
+    "url": "/reviews/albums/chat-pile-who-loves-the-sun/",
+    "description": "The Oklahoma sludge-metal band has never spoken in subtleties, but its third album is its most pointed statement yet: a merciless depiction of a world in decline.",
+    "reviewer": "Eli Enis",
+    "image": "https://media.pitchfork.com/photos/6a282b34cab12a15a412baaf/1:1/w_768,c_limit/unnamed%20(47).jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a9990df6d8c905f538ebc37",
+    "artist": "Sleep",
+    "title": "Hempispheres",
+    "score": 4.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Metal"
+    ],
+    "date": "2026-09-04T04:01:00.000Z",
+    "dateFormatted": "September 4, 2026",
+    "url": "/reviews/albums/sleep-hempispheres/",
+    "description": "The stoner-doom institution returns, minus founding guitarist Matt Pike, for a monotonous album of timid riffs and bad weed puns.",
+    "reviewer": "Brad Sanders",
+    "image": "https://media.pitchfork.com/photos/6a733beff2099ddd9073c918/1:1/w_768,c_limit/%5BAlbum%20Artwork%5D%20Sleep%20-%20Hempispheres.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a99a29cfc092412a9e13896",
+    "artist": "The Linda Lindas",
+    "title": "GOTTA GET OUT",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-09-04T04:00:00.000Z",
+    "dateFormatted": "September 4, 2026",
+    "url": "/reviews/albums/the-linda-lindas-gotta-get-out/",
+    "description": "The L.A. quartet expands its sound for its major-label debut, channeling post-adolescent anxiety into pop-punk inflected with new-wave, hardcore, and post-punk.",
+    "reviewer": "Konstantinos Pappis",
+    "image": "https://media.pitchfork.com/photos/6a906016bce3e78385e06d5d/1:1/w_768,c_limit/The%20Linda%20Lindas%20Gotta%20Get%20Out.png",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a98584ce6b407a4b82cfe4b",
     "artist": "Lex Walton",
     "title": "Ultimate Love Forever",
