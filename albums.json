@@ -1,5 +1,23 @@
 [
   {
+    "id": "6a99aac2bb02c23e47bc3c1b",
+    "artist": "Alabama Shakes",
+    "title": "I Must Be Dreaming",
+    "score": 7.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-09-05T04:00:00.000Z",
+    "dateFormatted": "September 5, 2026",
+    "url": "/reviews/albums/alabama-shakes-i-must-be-dreaming/",
+    "description": "After more than a decade away, Brittany Howard’s influential rock band still has a knack for righteous, retro catharsis, but the signature moves can’t help but feel a little safe.",
+    "reviewer": "Lily Goldberg",
+    "image": "https://media.pitchfork.com/photos/6a8cae4267a78f90c0d9db9e/1:1/w_768,c_limit/unnamed%20(29).png",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a99a2d5dd4bc9b4e956c9df",
     "artist": "Erykah Badu / The Alchemist",
     "title": "Before the World Blows: The Abi and Alan Experiment",
