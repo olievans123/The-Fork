@@ -1,5 +1,77 @@
 [
   {
+    "id": "6a9992f4dd60790db0007c76",
+    "artist": "Lily Seabird",
+    "title": "Lightspheres on Their Way",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-09-08T04:03:00.000Z",
+    "dateFormatted": "September 8, 2026",
+    "url": "/reviews/albums/lily-seabird-lightspheres-on-their-way/",
+    "description": "The Burlington-based singer-songwriter channels her rootsy influences into empathetic, rambling rock songs marked by existential doubt and moody sprawl.",
+    "reviewer": "Marissa Lorusso",
+    "image": "https://media.pitchfork.com/photos/6a9992986d8c905f538ebcd9/1:1/w_768,c_limit/Lily%20Seabird%20-%20Lightspheres%20on%20Their%20Way.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a998c92cad7ddf793a33a09",
+    "artist": "Carmen Villain",
+    "title": "Memoria",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-09-08T04:02:00.000Z",
+    "dateFormatted": "September 8, 2026",
+    "url": "/reviews/albums/carmen-villain-memoria/",
+    "description": "The Oslo musician’s latest album marks a departure from the airy, pastel tones of its predecessor, folding shuddering dub rhythms into a cold, mechanistic palette.",
+    "reviewer": "Andrew Ryce",
+    "image": "https://media.pitchfork.com/photos/6a95ea8f66cba4b5ed729b39/1:1/w_768,c_limit/66927.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a9b05c7d44c373bc9a1ebb8",
+    "artist": "Ken Carson",
+    "title": "xperiment - cartunez",
+    "score": 6.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-09-08T04:01:00.000Z",
+    "dateFormatted": "September 8, 2026",
+    "url": "/reviews/albums/ken-carson-xperiment-cartunez/",
+    "description": "The quick follow-up to July’s <em>xperiment</em> injects some much-needed passion and dynamism into the rage-rapper’s formula.",
+    "reviewer": "Olivier Lafontant",
+    "image": "https://media.pitchfork.com/photos/6a9b04b1d44c373bc9a1eb78/1:1/w_768,c_limit/ken%20carson%20experiment%20cartunez.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a9991053cbe0c47da9475ff",
+    "artist": "Windy & Carl / Optigan Conservatory",
+    "title": "Windy &amp; Carl Meet Optigan Conservatory",
+    "score": 7.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-09-08T04:00:00.000Z",
+    "dateFormatted": "September 8, 2026",
+    "url": "/reviews/albums/windy-and-carl-optigan-conservatory-windy-and-carl-meet-optigan-conservatory/",
+    "description": "The Dearborn ambient duo teams up with a pair of experimental musicians on a richly detailed study of drone music for organ, electric piano, and guitar.",
+    "reviewer": "Daniel Bromfield",
+    "image": "https://media.pitchfork.com/photos/6a999079dd4bc9b4e956c935/1:1/w_768,c_limit/Windy%20&%20Carl%20Meet%20Optigan%20Conservatory%20.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a99aac2bb02c23e47bc3c1b",
     "artist": "Alabama Shakes",
     "title": "I Must Be Dreaming",
