@@ -1,5 +1,78 @@
 [
   {
+    "id": "6aa04f97592568e001720e73",
+    "artist": "ADÉLA",
+    "title": "PRIMA",
+    "score": 5.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-09-09T04:03:00.000Z",
+    "dateFormatted": "September 9, 2026",
+    "url": "/reviews/albums/adela-prima/",
+    "description": "Born in Bratislava and boosted by reality TV, pop’s latest aspirant arrives with a debut album that’s got all the makings of an edgy cult fave. If only the music were more interesting.",
+    "reviewer": "Walden Green",
+    "image": "https://media.pitchfork.com/photos/6aa07d0735fd7ba3dfde3039/1:1/w_768,c_limit/Adela%20-%20Prima%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6aa04e14f96c2c12b7a516b6",
+    "artist": "Busta Rhymes / J Dilla",
+    "title": "Dillagence II",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap",
+      "Rap"
+    ],
+    "date": "2026-09-09T04:02:00.000Z",
+    "dateFormatted": "September 9, 2026",
+    "url": "/reviews/albums/busta-rhymes-j-dilla-dillagence-ii/",
+    "description": "Featuring 19 never-released Dilla beats, brand-new Busta raps, and a D’Angelo feature, the sequel to 2007’s <em>Dillagence</em> is slightly less exciting than the original but still full of thrills.",
+    "reviewer": "Christopher R. Weingarten",
+    "image": "https://media.pitchfork.com/photos/6aa04bd3f229e9caeb0fa83c/1:1/w_768,c_limit/Busta%20Rhymes%20J%20Dilla%20-%20Dillagence%20II%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a9af856e64d71ea660182ef",
+    "artist": "Mykki Blanco",
+    "title": "Cafe Paradiso",
+    "score": 7.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-09-09T04:01:00.000Z",
+    "dateFormatted": "September 9, 2026",
+    "url": "/reviews/albums/mykki-blanco-cafe-paradiso/",
+    "description": "The shapeshifting artist swerves through ’80s grooves, indie-rock riffs, bawdy raps, and club beats to craft his most glamorous and indulgent record yet.",
+    "reviewer": "Sue Park",
+    "image": "https://media.pitchfork.com/photos/6a95eae09b5978355a5abcc6/1:1/w_768,c_limit/a0836246603_10.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6aa035880c8bb03121730fe9",
+    "artist": "Bitchin Bajas",
+    "title": "Isle Peaks EP",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-09-09T04:00:00.000Z",
+    "dateFormatted": "September 9, 2026",
+    "url": "/reviews/albums/bitchin-bajas-isle-peaks-ep/",
+    "description": "Recorded during the same sessions as last year’s song-oriented Inland See, a new EP from the experimental trio returns to a cosmic, hypnotic drift.",
+    "reviewer": "Philip Sherburne",
+    "image": "https://media.pitchfork.com/photos/6aa034a5a1c613de5e93e769/1:1/w_768,c_limit/Bitchin%20Bajas%20Isle%20Peaks.png",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a9992f4dd60790db0007c76",
     "artist": "Lily Seabird",
     "title": "Lightspheres on Their Way",
