@@ -1,5 +1,79 @@
 [
   {
+    "id": "6aa1aa6d47cdf650cd62ff19",
+    "artist": "Beyoncé",
+    "title": "B’DAY (20th ANNIVERSARY EDITION)",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Folk/Country",
+      "Pop/R&B"
+    ],
+    "date": "2026-09-10T04:03:00.000Z",
+    "dateFormatted": "September 10, 2026",
+    "url": "/reviews/albums/beyonce-bday-20th-anniversary-edition/",
+    "description": "With independent spirit and fresh inspiration from New York rap, Beyoncé’s 2006 solo album was a creative breakthrough, but this prestige reissue does little to contextualize its pivotal moment in her career.",
+    "reviewer": "Alphonse Pierre",
+    "image": "https://media.pitchfork.com/photos/6aa1a9ed01cfe7470fe4dc9d/1:1/w_768,c_limit/Beyonce%CC%81%20-%20B'Day%2020th%20anniversary%20album%20art.jpg",
+    "releaseYear": 2026,
+    "originalYear": 2006
+  },
+  {
+    "id": "6aa06a7938e657229aa42018",
+    "artist": "Argento",
+    "title": "Miraggi",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-09-10T04:02:00.000Z",
+    "dateFormatted": "September 10, 2026",
+    "url": "/reviews/albums/argento-miraggi/",
+    "description": "Inspired by the riches of the Tuscan coast, producer David August and percussionist Lorenzo Setti concoct a pitch-perfect nirvana of Mediterranean chill-out music.",
+    "reviewer": "Sam Goldner",
+    "image": "https://media.pitchfork.com/photos/6aa1c192a8a311277de07f33/1:1/w_768,c_limit/Argento_Miraggi.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6aa1985114de6d1b31f7b3c3",
+    "artist": "Black Bananas",
+    "title": "Bad Bunch",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-09-10T04:01:00.000Z",
+    "dateFormatted": "September 10, 2026",
+    "url": "/reviews/albums/black-bananas-bad-bunch/",
+    "description": "On her band’s first LP in 12 years, Royal Trux’s Jennifer Herrema trades the vintage hard rock of previous albums for a woozy mix of hip-hop, R&amp;B, dub, and pawn-shop electronics.",
+    "reviewer": "Stuart Berman",
+    "image": "https://media.pitchfork.com/photos/6aa1977a4714346d49249eee/1:1/w_768,c_limit/Black%20Bananas%20-%20Bad%20Bunch.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6aa1a94447cdf650cd62feea",
+    "artist": "skaiwater",
+    "title": "femme fatale",
+    "score": 7.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-09-10T04:00:00.000Z",
+    "dateFormatted": "September 10, 2026",
+    "url": "/reviews/albums/skaiwater-femme-fatale/",
+    "description": "The UK-born rapper’s second album of the year is busy but breezy, a well-calibrated mix of rage textures and mellower grooves with Caribbean and Afrobeats influences.",
+    "reviewer": "Dylan Green",
+    "image": "https://media.pitchfork.com/photos/6aa1a8fde5b3f222e1e80541/1:1/w_768,c_limit/skaiwater%20-%20femme%20fatale%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6aa04f97592568e001720e73",
     "artist": "ADÉLA",
     "title": "PRIMA",
