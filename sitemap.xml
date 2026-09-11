@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://the-fork.vercel.app/</loc><priority>1.0</priority></url>
+<url><loc>https://the-fork.vercel.app/album/this-is-lorelei-the-singer-in-my-band</loc><priority>0.6</priority></url>
+<url><loc>https://the-fork.vercel.app/album/bonobo-distance-in-static</loc><priority>0.6</priority></url>
+<url><loc>https://the-fork.vercel.app/album/young-stoner-life-young-thug-slime-language-3</loc><priority>0.6</priority></url>
+<url><loc>https://the-fork.vercel.app/album/russian-circles-nine</loc><priority>0.6</priority></url>
 <url><loc>https://the-fork.vercel.app/album/beyonce-b-day-20th-anniversary-edition</loc><priority>0.6</priority></url>
 <url><loc>https://the-fork.vercel.app/album/argento-miraggi</loc><priority>0.6</priority></url>
 <url><loc>https://the-fork.vercel.app/album/black-bananas-bad-bunch</loc><priority>0.6</priority></url>

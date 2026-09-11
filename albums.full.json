@@ -1,5 +1,80 @@
 [
   {
+    "id": "6aa2e1bad7cc50afedcb93e9",
+    "artist": "This Is Lorelei",
+    "title": "The Singer in My Band",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-09-11T04:03:00.000Z",
+    "dateFormatted": "September 11, 2026",
+    "url": "/reviews/albums/this-is-lorelei-the-singer-in-my-band/",
+    "description": "On his first album for Matador, Nate Amos trades the magpie charm of his past solo work for a warm, twangy, and tightly constructed approach. It’s the sound of a songwriter sketching out his own gospel.",
+    "reviewer": "Laura Snapes",
+    "image": "https://media.pitchfork.com/photos/6a3aa2af3d85cbbe413a9dc2/1:1/w_768,c_limit/This%20Is%20Lorelei%20-%20The%20Singer%20in%20My%20Band%20_%20Album%20Art%20(1).jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6aa1bd5457e7f037d30c8509",
+    "artist": "Bonobo",
+    "title": "Distance in Static",
+    "score": 6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic",
+      "Jazz"
+    ],
+    "date": "2026-09-11T04:02:00.000Z",
+    "dateFormatted": "September 11, 2026",
+    "url": "/reviews/albums/bonobo-distance-in-static/",
+    "description": "On what he has hinted may be his final “traditional” LP as Bonobo, the UK producer cycles through moods and styles, with a particular focus on the clubby soundscapes of his DJ era.",
+    "reviewer": "Megan Buerger",
+    "image": "https://media.pitchfork.com/photos/6aa1bae87fc5f11743d20ac7/1:1/w_768,c_limit/Bonobo%20-%20Distance%20in%20Static.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6aa1ca16b66f8d2775ba6dd3",
+    "artist": "Young Stoner Life / Young Thug",
+    "title": "Slime Language 3",
+    "score": 7.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap",
+      "Rap"
+    ],
+    "date": "2026-09-11T04:01:00.000Z",
+    "dateFormatted": "September 11, 2026",
+    "url": "/reviews/albums/young-stoner-life-young-thug-slime-language-3/",
+    "description": "The gargantuan third installment of Young Thug’s label compilation series inducts a new class of YSL and ØWay acolytes to the collective’s post-RICO reconstruction. It’s a rich and unwieldy text.",
+    "reviewer": "Narsimha Chintaluri",
+    "image": "https://media.pitchfork.com/photos/6a9103e5bea3737e9c6f8c11/1:1/w_768,c_limit/Young-Thug-Slime-Language-3-Side-B.jpeg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6aa2e7a42d59bd8ddb27db81",
+    "artist": "Russian Circles",
+    "title": "Nine",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Metal",
+      "Rock"
+    ],
+    "date": "2026-09-11T04:00:00.000Z",
+    "dateFormatted": "September 11, 2026",
+    "url": "/reviews/albums/russian-circles-nine/",
+    "description": "The instrumental trio spends its ninth album almost entirely in attack mode, pulling from death metal and hardcore for one of its heaviest and most riff-forward releases to date.",
+    "reviewer": "Andrew Sacher",
+    "image": "https://media.pitchfork.com/photos/6aa2e72b2d59bd8ddb27db7c/1:1/w_768,c_limit/Russian%20Circles-Nine.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6aa1aa6d47cdf650cd62ff19",
     "artist": "Beyoncé",
     "title": "B’DAY (20th ANNIVERSARY EDITION)",
@@ -34,7 +109,7 @@
     "url": "/reviews/albums/argento-miraggi/",
     "description": "Inspired by the riches of the Tuscan coast, producer David August and percussionist Lorenzo Setti concoct a pitch-perfect nirvana of Mediterranean chill-out music.",
     "reviewer": "Sam Goldner",
-    "image": "https://media.pitchfork.com/photos/6aa1c192a8a311277de07f33/1:1/w_768,c_limit/Argento_Miraggi.png",
+    "image": "https://media.pitchfork.com/photos/6aa2bfca80b513ca9353c897/1:1/w_768,c_limit/MFM084_ARGENTO_MIRAGGI_DIGITAL_FRONT_3000.jpg",
     "releaseYear": 2026
   },
   {
