@@ -1,5 +1,23 @@
 [
   {
+    "id": "6aa2f4f23147308ef09ffa1c",
+    "artist": "Mac DeMarco",
+    "title": "Dog on the Rock / Seven Off the Two / Seaplane Dog / The View from Tian Tan",
+    "score": 4.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-09-12T04:00:00.000Z",
+    "dateFormatted": "September 12, 2026",
+    "url": "/reviews/albums/mac-demarco-dog-on-the-rock-seven-off-the-two-seaplane-dog-the-view-from-tian-tan/",
+    "description": "Originally issued as tour-only CD-Rs, these four diaristic albums from the singer-songwriter bundle together half-formed suites of slow, seasick recordings aimed squarely at the die-hards.",
+    "reviewer": "Daniel Bromfield",
+    "image": "https://media.pitchfork.com/photos/6aa2f33182c08b3dd55d3d44/1:1/w_768,c_limit/Mac%20DeMarco%20Dog%20on%20the%20Rock.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6aa2e1bad7cc50afedcb93e9",
     "artist": "This Is Lorelei",
     "title": "The Singer in My Band",
@@ -51,7 +69,7 @@
     "dateFormatted": "September 11, 2026",
     "url": "/reviews/albums/young-stoner-life-young-thug-slime-language-3/",
     "description": "The gargantuan third installment of Young Thug’s label compilation series inducts a new class of YSL and ØWay acolytes to the collective’s post-RICO reconstruction. It’s a rich and unwieldy text.",
-    "reviewer": "Narsimha Chintaluri",
+    "reviewer": "Narsimha Gour Chintaluri",
     "image": "https://media.pitchfork.com/photos/6a9103e5bea3737e9c6f8c11/1:1/w_768,c_limit/Young-Thug-Slime-Language-3-Side-B.jpeg",
     "releaseYear": 2026
   },
