@@ -1,5 +1,25 @@
 [
   {
+    "id": "6aa4215bfc44394c8a822fd0",
+    "artist": "Art of Noise",
+    "title": "In Visible Silence",
+    "score": 8.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic",
+      "Experimental",
+      "Rock"
+    ],
+    "date": "2026-09-13T04:00:00.000Z",
+    "dateFormatted": "September 13, 2026",
+    "url": "/reviews/albums/art-of-noise-in-visible-silence/",
+    "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit the second album from a mischievous group of provocateurs whose high-tech hijinks anticipated a sea change in pop, dance, and hip-hop.",
+    "reviewer": "Andy Cush",
+    "image": "https://media.pitchfork.com/photos/6aa42086d587e093eaa81564/1:1/w_768,c_limit/The%20Art%20of%20Noise%20In%20Visible%20Silence.jpg",
+    "releaseYear": 1986
+  },
+  {
     "id": "6aa2f4f23147308ef09ffa1c",
     "artist": "Mac DeMarco",
     "title": "Dog on the Rock / Seven Off the Two / Seaplane Dog / The View from Tian Tan",
