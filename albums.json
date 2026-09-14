@@ -1,5 +1,75 @@
 [
   {
+    "id": "6aa3f754fc44394c8a822c4b",
+    "artist": "Sylvan Esso",
+    "title": "Ow ∞",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-09-14T04:03:00.000Z",
+    "dateFormatted": "September 14, 2026",
+    "url": "/reviews/albums/sylvan-esso-ow-infinity/",
+    "description": "The world has finally caught up with the North Carolina alt-pop duo, whose playful and unsettled fourth album speaks to its moment with newfound lucidity.",
+    "reviewer": "Will Hermes",
+    "image": "https://media.pitchfork.com/photos/6aa3f6f220783d7990d461a0/1:1/w_768,c_limit/Sylvan%20Esso%20Ow.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6aa2b4547f72bd1fdc20f5ee",
+    "artist": "Valerie June",
+    "title": "Brighter Blue EP",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Folk/Country"
+    ],
+    "date": "2026-09-14T04:02:00.000Z",
+    "dateFormatted": "September 14, 2026",
+    "url": "/reviews/albums/valerie-june-brighter-blue-ep/",
+    "description": "On her latest covers EP, the singer-songwriter offers refreshing, timely interpretations of blues and gospel classics.",
+    "reviewer": "Stephen M. Deusner",
+    "image": "https://media.pitchfork.com/photos/6aa2b28cd7cc50afedcb9214/1:1/w_768,c_limit/valerie_june_-_brighter_blue.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6a7cc3b26382d4fd01729d7d",
+    "artist": "Unknown",
+    "title": "Synthetic Water Music",
+    "score": 7.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [],
+    "date": "2026-09-14T04:01:00.000Z",
+    "dateFormatted": "September 14, 2026",
+    "url": "/reviews/albums/various-artists-synthetic-water-music/",
+    "description": "Following a 2023 compilation dedicated to birdsong, the Slovak label Mappa turns its focus to aquascapes both real and imagined, spanning decades of field recordings and ambient experiments.",
+    "reviewer": "Jakub Knera",
+    "image": "https://media.pitchfork.com/photos/6aa424d1ce5a0c8cb6c99c4f/1:1/w_768,c_limit/Various%20Artists%20Synthetic%20Water%20Music.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6aa423d7ba6eb6de196fdb4b",
+    "artist": "Helena Gao",
+    "title": "Gao Dan Dan EP",
+    "score": 7.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-09-14T04:00:00.000Z",
+    "dateFormatted": "September 14, 2026",
+    "url": "/reviews/albums/helena-gao-gao-dan-dan-ep/",
+    "description": "The Danish Chinese musician (and Zara Larsson collaborator) concentrates her multi-cultural cool into a collection of bilingual club bangers and sparkling alt-pop gems.",
+    "reviewer": "Harry Tafoya",
+    "image": "https://media.pitchfork.com/photos/6aa422cfb2fc3a5873c48719/1:1/w_768,c_limit/Helena%20Gao%20Gao%20Dan%20Dan%20EP.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6aa4215bfc44394c8a822fd0",
     "artist": "Art of Noise",
     "title": "In Visible Silence",
