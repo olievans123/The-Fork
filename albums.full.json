@@ -1,5 +1,79 @@
 [
   {
+    "id": "6aa814340d8209284f1f588d",
+    "artist": "Angela Autumn",
+    "title": "Believer",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock",
+      "Folk/Country"
+    ],
+    "date": "2026-09-15T04:03:00.000Z",
+    "dateFormatted": "September 15, 2026",
+    "url": "/reviews/albums/angela-autumn-believer/",
+    "description": "The Nashville-based songwriter channels her Appalachian roots into empathetic, slightly psychedelic banjo- and guitar-led songs that explore what a leap of faith can offer when certainty is gone.",
+    "reviewer": "Emma Madden",
+    "image": "https://media.pitchfork.com/photos/6aa1b4e647cdf650cd630001/1:1/w_768,c_limit/126849.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6aa814b2ae3e28fd3939bde0",
+    "artist": "Bloc Party",
+    "title": "Anatomy of a Brief Romance",
+    "score": 2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-09-15T04:02:00.000Z",
+    "dateFormatted": "September 15, 2026",
+    "url": "/reviews/albums/bloc-party-anatomy-of-a-brief-romance/",
+    "description": "Twenty-one years ago, the group opened its debut LP with a breakup song for the ages. Its latest comeback is a breakup record that may have even longtime fans eyeing the exit.",
+    "reviewer": "Will Lynch",
+    "image": "https://media.pitchfork.com/photos/6aa812d3643c10588dc1bdfd/1:1/w_768,c_limit/Bloc%20Party%20-%20Anatomy%20of%20a%20Brief%20Romance.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6aa821630d8209284f1f596b",
+    "artist": "Rio Da Yung OG",
+    "title": "The World Is Yours",
+    "score": 5.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-09-15T04:01:00.000Z",
+    "dateFormatted": "September 15, 2026",
+    "url": "/reviews/albums/rio-da-yung-og-the-world-is-yours/",
+    "description": "The 32-year-old rapper made his name with audacious punchlines and moments of startling candor, but his latest album is weighed down by a pervasive air of exhaustion.",
+    "reviewer": "Eli Enis",
+    "image": "https://media.pitchfork.com/photos/6aa81e5bba5465c58fc879cc/1:1/w_768,c_limit/Rio%20Da%20Yung%20OG%20-%20The%20World%20Is%20Yours.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6aa818b6fc9433b4f792b6a2",
+    "artist": "Hakushi Hasegawa",
+    "title": "Honest Feeling Album (素直な気持ちアルバム)",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic",
+      "Experimental"
+    ],
+    "date": "2026-09-15T04:00:00.000Z",
+    "dateFormatted": "September 15, 2026",
+    "url": "/reviews/albums/hakushi-hasegawa-honest-feeling-album/",
+    "description": "The omnivorous Japanese producer’s new LP jams a little of almost everything: knotty freeform jazz, proggy pop, noisy electronics, and triumphant J-rock.",
+    "reviewer": "Aly Eleanor",
+    "image": "https://media.pitchfork.com/photos/6aa817de9fa9afd2969a49a4/1:1/w_768,c_limit/Hakushi%20Hasegawa%20-%20Honest%20Feeling%20Album%20art.png",
+    "releaseYear": 2026
+  },
+  {
     "id": "6aa3f754fc44394c8a822c4b",
     "artist": "Sylvan Esso",
     "title": "Ow ∞",
@@ -12,7 +86,7 @@
     "date": "2026-09-14T04:03:00.000Z",
     "dateFormatted": "September 14, 2026",
     "url": "/reviews/albums/sylvan-esso-ow-infinity/",
-    "description": "The world has finally caught up with the North Carolina alt-pop duo, whose playful and unsettled fourth album speaks to its moment with newfound lucidity.",
+    "description": "The world has finally caught up with the North Carolina alt-pop duo, whose playful and unsettled fifth album speaks to its moment with newfound lucidity.",
     "reviewer": "Will Hermes",
     "image": "https://media.pitchfork.com/photos/6aa3f6f220783d7990d461a0/1:1/w_768,c_limit/Sylvan%20Esso%20Ow.jpg",
     "releaseYear": 2026
@@ -120595,7 +120669,8 @@
     "description": "A new “definitive” reissue series begins with the bedroom artist’s earliest Haunted Graffiti records, which now sound more prescient and ghostly than ever.",
     "reviewer": "Nathan Taylor Pemberton",
     "image": "https://media.pitchfork.com/photos/5db1e048fd8a1f0009ad5929/1:1/w_768,c_limit/underground.jpg",
-    "releaseYear": 2019
+    "releaseYear": 2019,
+    "originalYear": 1998
   },
   {
     "id": "5db88548029c7900082ec53f",
