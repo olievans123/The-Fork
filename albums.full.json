@@ -1,5 +1,76 @@
 [
   {
+    "id": "6aa96e4cc562b0ff68b0a03d",
+    "artist": "The Tubs",
+    "title": "Hard Life",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-09-16T04:03:00.000Z",
+    "dateFormatted": "September 16, 2026",
+    "url": "/reviews/albums/the-tubs-hard-life/",
+    "description": "The UK band’s Merge debut is an album of survival: a set of fatalistic jangle-rock anthems with just enough joy to keep going.",
+    "reviewer": "Jazz Monroe",
+    "image": "https://media.pitchfork.com/photos/6aa1b43f7fc5f11743d20a23/1:1/w_768,c_limit/66347.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6aa832a2f3e0d111e20d40df",
+    "artist": "Haruomi Hosono",
+    "title": "Yours Sincerely",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic",
+      "Pop/R&B"
+    ],
+    "date": "2026-09-16T04:02:00.000Z",
+    "dateFormatted": "September 16, 2026",
+    "url": "/reviews/albums/haruomi-hosono-yours-sincerely/",
+    "description": "On his 23rd solo album, the 79-year-old musician&#8212;and lone surviving member of Yellow Magic Orchestra&#8212;is in a reflective mood, reworking curios from his catalog in an intimate, contemplative fashion.",
+    "reviewer": "Shy Clara Thompson",
+    "image": "https://media.pitchfork.com/photos/6a0a11d470a2bbce5315ac23/1:1/w_768,c_limit/Screenshot%202026-05-17%20at%202.03.26%E2%80%AFPM.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6aa967e7bea23663d35c3193",
+    "artist": "Karrahbooo",
+    "title": "NOT DA 2",
+    "score": 6.9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-09-16T04:01:00.000Z",
+    "dateFormatted": "September 16, 2026",
+    "url": "/reviews/albums/karrahbooo-not-da-2/",
+    "description": "The Atlanta rapper’s debut mixtape delivers her from label limbo with sturdy trap beats, studied nonchalance, and a sense of potential still unfulfilled.",
+    "reviewer": "Hattie Lindert",
+    "image": "https://media.pitchfork.com/photos/6aa967780d6b491dfe4e3376/1:1/w_768,c_limit/Karrahbooo%20-%20NOT%20DA%202%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6aa9564c39f35db58d72fe21",
+    "artist": "Unknown",
+    "title": "Denshattack! (Original Game Soundtrack)",
+    "score": 8.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [],
+    "date": "2026-09-16T04:00:00.000Z",
+    "dateFormatted": "September 16, 2026",
+    "url": "/reviews/albums/various-artists-denshattack-original-game-soundtrack/",
+    "description": "Bringing together video-game score veterans and rising composers, the soundtrack for the nostalgic platformer remixes and revitalizes the iconic sounds of Y2K gaming.",
+    "reviewer": "Billie Bugara",
+    "image": "https://media.pitchfork.com/photos/6aa95577bc3b60800fc8163d/1:1/w_768,c_limit/Denshattack%20soundtrack.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6aa814340d8209284f1f588d",
     "artist": "Angela Autumn",
     "title": "Believer",
