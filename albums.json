@@ -1,5 +1,77 @@
 [
   {
+    "id": "6aaaaad678aaeae7af77f685",
+    "artist": "AKRIILA",
+    "title": "lucy miró al mundo y notó que está girando",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-09-17T04:03:00.000Z",
+    "dateFormatted": "September 17, 2026",
+    "url": "/reviews/albums/akriila-lucy-miro-al-mundo-y-noto-que-esta-girando/",
+    "description": "With an assist from Jane Remover and under the influence of the Beatles, the rising Chilean star crafts a digirock ode to emotional overload.",
+    "reviewer": "Kieran Press-Reynolds",
+    "image": "https://media.pitchfork.com/photos/6aaaaa5bde98d8784f7068e8/1:1/w_768,c_limit/AKRIILA%20-%20lucy%20miro%CC%81%20al%20mundo%20y%20noto%CC%81%20que%20esta%CC%81%20girando%20review%20.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6aaae4b4be4ab066651f1d24",
+    "artist": "Black Meteoric Star",
+    "title": "Wet",
+    "score": 7.9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-09-17T04:02:00.000Z",
+    "dateFormatted": "September 17, 2026",
+    "url": "/reviews/albums/black-meteoric-star-wet/",
+    "description": "Steamy and subversive, the new album from former LCD Soundsystem collaborator Gavilán Rayna Russom’s long-running project is a queer electro manifesto.",
+    "reviewer": "Kiana Mickles",
+    "image": "https://media.pitchfork.com/photos/6aaae3cbbca8b6db9ea5f604/1:1/w_768,c_limit/Black%20Meteoric%20Star%20Wet.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6aaac860d7a5cbac3a7cef71",
+    "artist": "Curbside Lambsear",
+    "title": "Put Rings on All My Fingers to Weigh Down My Hands EP",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-09-17T04:01:00.000Z",
+    "dateFormatted": "September 17, 2026",
+    "url": "/reviews/albums/curbside-lambsear-put-rings-on-all-my-fingers-to-weigh-down-my-hands/",
+    "description": "The London band’s mesmeric debut EP suffuses noise and drone in pastoral loveliness&#8212;or is it the other way around?",
+    "reviewer": "Shaad D’Souza",
+    "image": "https://media.pitchfork.com/photos/6aaac655bca8b6db9ea5f44d/1:1/w_768,c_limit/Curbside%20Lambsyear%20-%20Put%20Rings%20on%20All%20My%20Fingers%20to%20Weigh%20Down%20My%20Hands.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6aaaaee6e6077163c6b14f14",
+    "artist": "Rhiannon Giddens",
+    "title": "Hope Is the Thing With Feathers",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Folk/Country"
+    ],
+    "date": "2026-09-17T04:00:00.000Z",
+    "dateFormatted": "September 17, 2026",
+    "url": "/reviews/albums/rhiannon-giddens-hope-is-the-thing-with-feathers/",
+    "description": "Focused on community and resilience, the folk singer and multi-instrumentalist’s new album anchors her wide-ranging musical explorations in her Carolina roots.",
+    "reviewer": "Stephen Thomas Erlewine",
+    "image": "https://media.pitchfork.com/photos/6aaaae3fde98d8784f70691c/1:1/w_768,c_limit/Rhiannon%20Giddens-Hope%20Is%20the%20Thing%20With%20Feathers.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6aa96e4cc562b0ff68b0a03d",
     "artist": "The Tubs",
     "title": "Hard Life",
