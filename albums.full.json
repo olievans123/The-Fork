@@ -1,5 +1,78 @@
 [
   {
+    "id": "6aabfa44d82cf7b042476f2a",
+    "artist": "Carly Rae Jepsen",
+    "title": "Day and Night",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-09-18T04:03:00.000Z",
+    "dateFormatted": "September 18, 2026",
+    "url": "/reviews/albums/carly-rae-jepsen-day-and-night/",
+    "description": "Carly Rae Jepsen’s sprawling new double album celebrates full-time love and commitment with sweet, sunny tracks for <em>Day</em> and sleeker, dancier songs for <em>Night</em>.",
+    "reviewer": "Marissa Lorusso",
+    "image": "https://media.pitchfork.com/photos/6a39559a7da85ddc43e1b0d4/1:1/w_768,c_limit/Carly-Rae-Jepsen-Day-and-Night.jpeg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6aac13c35447618b97c58355",
+    "artist": "Beabadoobee",
+    "title": "Pylon",
+    "score": 7.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-09-18T04:02:00.000Z",
+    "dateFormatted": "September 18, 2026",
+    "url": "/reviews/albums/beabadoobee-pylon/",
+    "description": "Members of Turnstile, Deftones, Paramore, and Pinegrove push Bea Kristi toward slightly grungier, angstier territory on her fourth album.",
+    "reviewer": "Molly Mary O’Brien",
+    "image": "https://media.pitchfork.com/photos/6a3c1c2dd4c4a1314d627bbe/1:1/w_768,c_limit/beabadoobee%20Pylon%20Packshot%20FINAL.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6aac17c5c3e7e6561c52b015",
+    "artist": "Lizzy McAlpine",
+    "title": "Angel",
+    "score": 6.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B",
+      "Rock"
+    ],
+    "date": "2026-09-18T04:01:00.000Z",
+    "dateFormatted": "September 18, 2026",
+    "url": "/reviews/albums/lizzy-mcalpine-angel/",
+    "description": "After going viral with swooning, rom-com-ready songs, the singer-songwriter takes a more homespun approach on her fourth album, a set of folk-influenced tracks buoyed by a wandering spirit.",
+    "reviewer": "Heven Haile",
+    "image": "https://media.pitchfork.com/photos/6aac13df5447618b97c58374/1:1/w_768,c_limit/Lizzy%20McAlpine-Angel.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6aac1488a6cb139c329cb561",
+    "artist": "Jawdropped",
+    "title": "Secret to Spare",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-09-18T04:00:00.000Z",
+    "dateFormatted": "September 18, 2026",
+    "url": "/reviews/albums/jawdropped-secret-to-spare/",
+    "description": "On its debut album, the refreshingly sincere L.A. power-pop quartet wears its heart&#8212;and its influences&#8212;on its sleeve.",
+    "reviewer": "Abby Jones",
+    "image": "https://media.pitchfork.com/photos/6aac152b4a0b58532218c059/1:1/w_768,c_limit/Jawdropped%20Secret%20to%20Spare.png",
+    "releaseYear": 2026
+  },
+  {
     "id": "6aaaaad678aaeae7af77f685",
     "artist": "AKRIILA",
     "title": "lucy miró al mundo y notó que está girando",
