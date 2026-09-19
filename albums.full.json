@@ -1,5 +1,24 @@
 [
   {
+    "id": "6aad475594de84dca359d187",
+    "artist": "Neil Young / The Chrome Hearts",
+    "title": "Second Song",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock",
+      "Rock"
+    ],
+    "date": "2026-09-19T04:00:00.000Z",
+    "dateFormatted": "September 19, 2026",
+    "url": "/reviews/albums/neil-young-and-the-chrome-hearts-second-song/",
+    "description": "The 80-year-old musician’s 50th studio album emphasizes atmosphere over songcraft, but its long, rambling tracks offer ample reminders of his melodic dexterity and lyrical gifts.",
+    "reviewer": "Sam Sodomsky",
+    "image": "https://media.pitchfork.com/photos/6a7615e62cd6fb2598322219/1:1/w_768,c_limit/unnamed%20-%202026-08-07T131858.350.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6aabfa44d82cf7b042476f2a",
     "artist": "Carly Rae Jepsen",
     "title": "Day and Night",
