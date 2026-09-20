@@ -1,5 +1,21 @@
 [
   {
+    "id": "6aad3e8974a1d6209f3f9522",
+    "artist": "Unknown",
+    "title": "Easy Rider (Music From the Soundtrack)",
+    "score": 8.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [],
+    "date": "2026-09-20T04:00:00.000Z",
+    "dateFormatted": "September 20, 2026",
+    "url": "/reviews/albums/various-artists-easy-rider-music-from-the-soundtrack/",
+    "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit the blockbuster soundtrack for the 1969 biker classic: a generational bounty of radio hits that, taken together, sounds like a dying dream.",
+    "reviewer": "Elizabeth Nelson",
+    "image": "https://media.pitchfork.com/photos/6aad3db35d1e10272ab0f0da/1:1/w_768,c_limit/Easy%20Rider%20(Music%20From%20the%20Soundtrack).jpg",
+    "releaseYear": 1969
+  },
+  {
     "id": "6aad475594de84dca359d187",
     "artist": "Neil Young / The Chrome Hearts",
     "title": "Second Song",
