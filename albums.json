@@ -1,5 +1,77 @@
 [
   {
+    "id": "6aad61eef8bab68b6f6a6a15",
+    "artist": "Beck",
+    "title": "Ride Lonesome",
+    "score": 6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-09-21T04:03:00.000Z",
+    "dateFormatted": "September 21, 2026",
+    "url": "/reviews/albums/beck-ride-lonesome/",
+    "description": "The blues sound a little gray on Beck’s new album, a spiritual sequel to <em>Morning Phase</em> blending country-folk songwriting and gently psychedelic West Coast rock.",
+    "reviewer": "Stephen M. Deusner",
+    "image": "https://media.pitchfork.com/photos/6aad616f0bd44f61e66f76e2/1:1/w_768,c_limit/Beck%20-%20Ride%20Lonesome%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6aad608d0daa6ee8bdb17b18",
+    "artist": "Rebecca Black",
+    "title": "Age of the Exhibitionist",
+    "score": 7.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-09-21T04:02:00.000Z",
+    "dateFormatted": "September 21, 2026",
+    "url": "/reviews/albums/rebecca-black-age-of-the-exhibitionist/",
+    "description": "The pop singer’s second album constructs a voyeuristic fantasy out of durable, club-friendly dance-pop with enough eccentricities to keep things interesting.",
+    "reviewer": "Lydia Wei",
+    "image": "https://media.pitchfork.com/photos/6aad60200daa6ee8bdb17b10/1:1/w_768,c_limit/Rebecca%20Black%20-%20Age%20of%20the%20Exhibitionist%20album%20art.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6aad3c9774a1d6209f3f94dd",
+    "artist": "Krallice",
+    "title": "Scour Order",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Metal"
+    ],
+    "date": "2026-09-21T04:01:00.000Z",
+    "dateFormatted": "September 21, 2026",
+    "url": "/reviews/albums/krallice-scour-order/",
+    "description": "Amid a career of ceaseless experimentation, the New York black metal band finally gives into nostalgia. They’re having a blast just letting it rip.",
+    "reviewer": "Brad Sanders",
+    "image": "https://media.pitchfork.com/photos/6aad3c10c61bbc6cd679e632/1:1/w_768,c_limit/Krallice%20Krallice.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6aabba67265e75fd898401a2",
+    "artist": "Emma Ruth Rundle",
+    "title": "These Killing Times",
+    "score": 7.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-09-21T04:00:00.000Z",
+    "dateFormatted": "September 21, 2026",
+    "url": "/reviews/albums/emma-ruth-rundle-these-killing-times/",
+    "description": "Casting a wide collaborative net across the world of heavy music, the Portland musician captures a newfound sense of momentum, even optimism, in her doomy, downcast songwriting.",
+    "reviewer": "Colin Joyce",
+    "image": "https://media.pitchfork.com/photos/6aabb935171dd454749a64ed/1:1/w_768,c_limit/Emma%20Ruth%20Rundle%20-%20These%20Killing%20Times.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6aad3e8974a1d6209f3f9522",
     "artist": "Unknown",
     "title": "Easy Rider (Music From the Soundtrack)",
