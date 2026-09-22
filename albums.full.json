@@ -1,5 +1,78 @@
 [
   {
+    "id": "6aabc6884a0b58532218bba6",
+    "artist": "Actress",
+    "title": "Radical Frame",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-09-22T04:03:00.000Z",
+    "dateFormatted": "September 22, 2026",
+    "url": "/reviews/albums/actress-radical-frame/",
+    "description": "Depressive electro epics, mangled bursts of spoken word, self-destructing rap anthems: The UK avant-techno producer sounds unusually prickly on his 10th album.",
+    "reviewer": "Andrew Ryce",
+    "image": "https://media.pitchfork.com/photos/6aa86b3aae3e28fd3939c15d/1:1/w_768,c_limit/5054429207088.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ab1628af99f7bf88c241c6e",
+    "artist": "After",
+    "title": "Fell Asleep in the Sun",
+    "score": 5.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B",
+      "Electronic"
+    ],
+    "date": "2026-09-22T04:02:00.000Z",
+    "dateFormatted": "September 22, 2026",
+    "url": "/reviews/albums/after-fell-asleep-in-the-sun/",
+    "description": "The Los Angeles band’s note-perfect reverence for 2000s trip-hop, soft rock, and breakbeat pop makes for a superficially pretty but frustratingly shallow debut LP.",
+    "reviewer": "Billie Bugara",
+    "image": "https://media.pitchfork.com/photos/6ab16233882ead5224eb3311/1:1/w_768,c_limit/After%20-%20Fell%20Asleep%20in%20the%20Sun%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ab14a2c06bd4642732cce09",
+    "artist": "The Drin",
+    "title": "I Lost My Way for Centuries",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-09-22T04:01:00.000Z",
+    "dateFormatted": "September 22, 2026",
+    "url": "/reviews/albums/the-drin-i-lost-my-way-for-centuries/",
+    "description": "On a sprawling yet accessible double album that trades murky electronics for mostly analog instruments, Dylan McCartney and co. inject record-collector touchstones with a contemporary sense of unease.",
+    "reviewer": "Stuart Berman",
+    "image": "https://media.pitchfork.com/photos/6ab149d316371b41ccca52ba/1:1/w_768,c_limit/The%20Drin-I%20Lost%20My%20Way%20for%20Centuries.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ab16f887fcf853df109cf73",
+    "artist": "Agnes Obel",
+    "title": "The Meaning of Flowers",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-09-22T04:00:00.000Z",
+    "dateFormatted": "September 22, 2026",
+    "url": "/reviews/albums/agnes-obel-the-meaning-of-flowers/",
+    "description": "Dominated by exquisite vocal melodies and an abiding sense of mystery, the Danish musician’s new album is simultaneously otherworldly and profoundly earthy.",
+    "reviewer": "Ben Cardew",
+    "image": "https://media.pitchfork.com/photos/6ab16f2de1cdfe6681b36492/1:1/w_768,c_limit/Agnes%20Obel%20-%20The%20Meaning%20of%20Flowers%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6aad61eef8bab68b6f6a6a15",
     "artist": "Beck",
     "title": "Ride Lonesome",
