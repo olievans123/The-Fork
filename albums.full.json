@@ -1,5 +1,79 @@
 [
   {
+    "id": "6a9147ca5ffcafd34aa6a0e7",
+    "artist": "Boy Harsher",
+    "title": "GET MEAN",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-09-23T04:03:00.000Z",
+    "dateFormatted": "September 23, 2026",
+    "url": "/reviews/albums/boy-harsher-get-mean/",
+    "description": "On its major-label debut, the industrial-dance duo embraces brighter tones and wider vistas, but traces of the group’s claustrophobic murk remain.",
+    "reviewer": "Madison Bloom",
+    "image": "https://media.pitchfork.com/photos/6ab2d15953bdeef50ce595a9/1:1/w_768,c_limit/Boy%20Harsher%20-%20Get%20Mean%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ab2b956f99f7bf88c242476",
+    "artist": "Alex G",
+    "title": "Teenage Sex and Death at Camp Miasma (Original Motion Picture Score)",
+    "score": 7.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-09-23T04:02:00.000Z",
+    "dateFormatted": "September 23, 2026",
+    "url": "/reviews/albums/alex-g-teenage-sex-and-death-at-camp-miasma-original-motion-picture-score/",
+    "description": "Alex G’s score for Jane Schoenbrun’s horror-romance-comedy serves as a rhapsodic complement to the film and hints at ambitious new territory for him as a composer.",
+    "reviewer": "Jayson Greene",
+    "image": "https://media.pitchfork.com/photos/6ab2b8da272200043ff4dee8/1:1/w_768,c_limit/Alex%20G%20Teenage%20Sex%20and%20Death%20at%20Camp%20Miasma%20(Original%20Motion%20Picture%20Score).jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ab29bd3272200043ff4dc5b",
+    "artist": "BEASTIE",
+    "title": "Maria EP",
+    "score": 7.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B",
+      "Rap"
+    ],
+    "date": "2026-09-23T04:01:00.000Z",
+    "dateFormatted": "September 23, 2026",
+    "url": "/reviews/albums/beastie-maria-ep/",
+    "description": "The songs on the South Londoner’s second EP are spectral and grimly psychedelic, filtering the tough, stoic sound of grime through bedroom-pop sincerity and R&amp;B sensuality.",
+    "reviewer": "Emma Madden",
+    "image": "https://media.pitchfork.com/photos/6ab299d95d835d848591ef76/1:1/w_768,c_limit/Beastie-Maria%20EP.jpeg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ab2b0cd5d835d848591f089",
+    "artist": "Fetty P Franklin / Bandplay",
+    "title": "THE FRANK PLAY",
+    "score": 6.9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap",
+      "Rap"
+    ],
+    "date": "2026-09-23T04:00:00.000Z",
+    "dateFormatted": "September 23, 2026",
+    "url": "/reviews/albums/fetty-p-franklin-bandplay-the-frank-play/",
+    "description": "The North Carolinian embodies the go-getter spirit of old school Southern hustle rap on a hard-hitting new tape with producer Bandplay.",
+    "reviewer": "Alphonse Pierre",
+    "image": "https://media.pitchfork.com/photos/6ab2acc1235403fbe6a5fa2c/1:1/w_768,c_limit/Fetty%20P%20Franklin%20Bandplay%20-%20The%20Frank%20Play%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6aabc6884a0b58532218bba6",
     "artist": "Actress",
     "title": "Radical Frame",
