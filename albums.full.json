@@ -1,5 +1,77 @@
 [
   {
+    "id": "6ab40f7017bdfadce13ca5a1",
+    "artist": "Miley Cyrus",
+    "title": "Bass Persuades",
+    "score": 5.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-09-24T04:03:00.000Z",
+    "dateFormatted": "September 24, 2026",
+    "url": "/reviews/albums/miley-cyrus-bass-persuades/",
+    "description": "Miley Cyrus has a distinctive voice, outsize charisma, and an infamous weird streak, but her short, uninspired new album sounds dated on arrival.",
+    "reviewer": "Hattie Lindert",
+    "image": "https://media.pitchfork.com/photos/6a96f87daef9a595c8383718/1:1/w_768,c_limit/Miley-Cyrus-Bass-Persuades.jpeg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ab40b85b4d4f67701eb0732",
+    "artist": "AZ Chike",
+    "title": "No Rest for the Wicked",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-09-24T04:02:00.000Z",
+    "dateFormatted": "September 24, 2026",
+    "url": "/reviews/albums/az-chike-no-rest-for-the-wicked/",
+    "description": "With A&amp;R assistance from Kendrick Lamar, the L.A. rapper shows off his versatility and knack for hooks on an album that effortlessly balances fury, swagger, and introspection.",
+    "reviewer": "Andre Gee",
+    "image": "https://media.pitchfork.com/photos/6ab40a47a1e14fdca21ea8b8/1:1/w_768,c_limit/AZ%20Chike%20-%20No%20Rest%20for%20the%20Wicked.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ab40955465adfc43444502a",
+    "artist": "Slow Pulp",
+    "title": "Melodie",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-09-24T04:01:00.000Z",
+    "dateFormatted": "September 24, 2026",
+    "url": "/reviews/albums/slow-pulp-melodie/",
+    "description": "The Midwest indie rock band returns with a new wave-influenced album that explores our innate desire to understand and be understood.",
+    "reviewer": "Abby Jones",
+    "image": "https://media.pitchfork.com/photos/6a29c7544360aada47098162/1:1/w_768,c_limit/unnamed%20(84).jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ab3e5666c260e3d38e39d68",
+    "artist": "Kim Ximya",
+    "title": "Dogma",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-09-24T04:00:00.000Z",
+    "dateFormatted": "September 24, 2026",
+    "url": "/reviews/albums/kim-ximya-dogma/",
+    "description": "The combative Korean rapper leans into club music on his first album in six years, wrapping rhythmically inventive bilingual refrains around tough, futuristic beats.",
+    "reviewer": "James Gui",
+    "image": "https://media.pitchfork.com/photos/6ab3e508f858e5e35673672a/1:1/w_768,c_limit/Kim%20Ximya%20-%20Dogma.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6a9147ca5ffcafd34aa6a0e7",
     "artist": "Boy Harsher",
     "title": "GET MEAN",
