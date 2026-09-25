@@ -1,5 +1,77 @@
 [
   {
+    "id": "6ab555a24455ff5cbc7392bb",
+    "artist": "Gilla Band",
+    "title": "Pugnello",
+    "score": 8.8,
+    "bnm": true,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-09-25T04:03:00.000Z",
+    "dateFormatted": "September 25, 2026",
+    "url": "/reviews/albums/gilla-band-pugnello/",
+    "description": "Exploding its signature blend of noise-punk and dance music to masterful extremes, the Irish band gets louder, rawer, funnier, and more methodical on its exhilarating fourth album.",
+    "reviewer": "Madison Bloom",
+    "image": "https://media.pitchfork.com/photos/6ab1778795d5696b67afdb32/1:1/w_768,c_limit/191402061673.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ab543fcfcdb651e5995fcb0",
+    "artist": "Jae Stephens",
+    "title": "AUDACITY",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-09-25T04:02:00.000Z",
+    "dateFormatted": "September 25, 2026",
+    "url": "/reviews/albums/jae-stephens-audacity/",
+    "description": "A Beyoncé stan turned pop songwriter, the L.A.-based singer steps out with a major label debut that highlights her versatile vocals, winking humor, and close study of the Top 40.",
+    "reviewer": "Allison Harris",
+    "image": "https://media.pitchfork.com/photos/6ab5436bfcdb651e5995fca6/1:1/w_768,c_limit/Jae%20Stephens%20-%20AUDACITY%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ab4169ef858e5e356736d18",
+    "artist": "Tom Morello",
+    "title": "Everyone Gets Everything They Want",
+    "score": 4.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-09-25T04:01:00.000Z",
+    "dateFormatted": "September 25, 2026",
+    "url": "/reviews/albums/tom-morello-everyone-gets-everything-they-want/",
+    "description": "The Rage Against the Machine guitarist’s towering legacy and sincere political convictions are at painful odds with the sanitized blues-rawk and tedious folk poetry on his new solo album.",
+    "reviewer": "Eli Enis",
+    "image": "https://media.pitchfork.com/photos/6ab41596460d9566ff76f23f/1:1/w_768,c_limit/Tom%20Morello%20-%20Everyone%20Gets%20Everything%20They%20Want%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ab556de17bdfadce13cb207",
+    "artist": "Leon Bridges",
+    "title": "Happiness Anytime",
+    "score": 6.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-09-25T04:00:00.000Z",
+    "dateFormatted": "September 25, 2026",
+    "url": "/reviews/albums/leon-bridges-happiness-anytime/",
+    "description": "The retro R&amp;B singer surrenders to the groove on a versatile and rhythmic new album that keeps the momentum going without ever really getting anywhere.",
+    "reviewer": "Stephen Thomas Erlewine",
+    "image": "https://media.pitchfork.com/photos/6ab5565be790472573f4b157/1:1/w_768,c_limit/Leon%20Bridges%20Happiness%20Anytime.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6ab40f7017bdfadce13ca5a1",
     "artist": "Miley Cyrus",
     "title": "Bass Persuades",
