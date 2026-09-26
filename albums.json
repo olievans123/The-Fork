@@ -1,5 +1,23 @@
 [
   {
+    "id": "6ab6445f5402a61bfc019097",
+    "artist": "Joy Division",
+    "title": "Eternal (Live)",
+    "score": 9,
+    "bnm": false,
+    "bnr": true,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-09-26T04:00:00.000Z",
+    "dateFormatted": "September 26, 2026",
+    "url": "/reviews/albums/joy-division-eternal-live/",
+    "description": "A 16-disc box set captures 14 months of live sets from the post-punk titans’ prime. Despite their dour reputation, they prove consistently thrilling on stage, led by Ian Curtis’ whirlwind intensity.",
+    "reviewer": "Sean T. Collins",
+    "image": "https://media.pitchfork.com/photos/6ab6422f43b1170d7975a5f6/1:1/w_768,c_limit/Joy%20Division%20-%20Eternal%20(Live).jpeg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6ab555a24455ff5cbc7392bb",
     "artist": "Gilla Band",
     "title": "Pugnello",
