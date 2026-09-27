@@ -1,5 +1,24 @@
 [
   {
+    "id": "6ab69c1a065eaf90025ae98b",
+    "artist": "Sasha / John Digweed",
+    "title": "Northern Exposure",
+    "score": 8.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic",
+      "Electronic"
+    ],
+    "date": "2026-09-27T04:00:00.000Z",
+    "dateFormatted": "September 27, 2026",
+    "url": "/reviews/albums/sasha-john-digweed-northern-exposure/",
+    "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit the British DJs’ monumental 1996 mix, a virtuosic blend of after-hours grooves and floor-filling intensity that helped to canonize the elusive sound of progressive house.",
+    "reviewer": "Philip Sherburne",
+    "image": "https://media.pitchfork.com/photos/6ab6f1223e0766e51cb65f45/1:1/w_768,c_limit/Sasha%20and%20Digweed%20-%20Northern%20Exposure%20album%20art.png",
+    "releaseYear": 1996
+  },
+  {
     "id": "6ab6445f5402a61bfc019097",
     "artist": "Joy Division",
     "title": "Eternal (Live)",
