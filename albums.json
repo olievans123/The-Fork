@@ -1,5 +1,79 @@
 [
   {
+    "id": "6ab687779a8df6f188097476",
+    "artist": "M83",
+    "title": "I Wrote You a Letter",
+    "score": 5.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic",
+      "Rock"
+    ],
+    "date": "2026-09-28T04:03:00.000Z",
+    "dateFormatted": "September 28, 2026",
+    "url": "/reviews/albums/m83-i-wrote-you-a-letter/",
+    "description": "Anthony Gonzalez returns to his roots on a largely instrumental new album, but these compositions lack the drama and dynamism of his best work.",
+    "reviewer": "Patrick Lyons",
+    "image": "https://media.pitchfork.com/photos/6ab6a19e43b1170d7975a935/1:1/w_768,c_limit/M83%20I%20Wrote%20You%20A%20Letter.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ab6a8e3065eaf90025ae9f7",
+    "artist": "Bullion",
+    "title": "Nearly",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-09-28T04:02:00.000Z",
+    "dateFormatted": "September 28, 2026",
+    "url": "/reviews/albums/bullion-nearly/",
+    "description": "Saying more with reverb and echo than with words, the London producer’s new album gives the impression of ECM jazz records collaged into effortless sophisti-pop ballads.",
+    "reviewer": "Jude Noel",
+    "image": "https://media.pitchfork.com/photos/6ab414a217bdfadce13ca87a/1:1/w_768,c_limit/Bullion-%20Nearly%20.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ab631dc5402a61bfc019093",
+    "artist": "Orville Peck",
+    "title": "Mule",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Folk/Country"
+    ],
+    "date": "2026-09-28T04:01:00.000Z",
+    "dateFormatted": "September 28, 2026",
+    "url": "/reviews/albums/orville-peck-mule/",
+    "description": "The South African-born country singer’s latest album is a hell-and-back tale of addiction and redemption. But where other artists might opt for austerity, Peck goes all in on his usual pomp.",
+    "reviewer": "Stephen Thomas Erlewine",
+    "image": "https://media.pitchfork.com/photos/6a62a500ee03086d8ecea647/1:1/w_768,c_limit/Orville%20Peck%20-%20Mule.jpeg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ab695b5065eaf90025ae987",
+    "artist": "The Mary Wallopers ",
+    "title": "Paddywhackery",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock",
+      "Folk/Country"
+    ],
+    "date": "2026-09-28T04:00:00.000Z",
+    "dateFormatted": "September 28, 2026",
+    "url": "/reviews/albums/the-mary-wallopers-paddywhackery/",
+    "description": "Righteous sociopolitical furor sounds timeless and accessible on the sextet’s third album, which combines Irish trad with rock and punk to interrogate history, identity, and class struggle.",
+    "reviewer": "Ryan Leas",
+    "image": "https://media.pitchfork.com/photos/6ab6951521399d4c3b417121/1:1/w_768,c_limit/The%20Mary%20Wallopers-Paddywhackery.png",
+    "releaseYear": 2026
+  },
+  {
     "id": "6ab69c1a065eaf90025ae98b",
     "artist": "Sasha / John Digweed",
     "title": "Northern Exposure",
