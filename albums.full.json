@@ -1,5 +1,77 @@
 [
   {
+    "id": "6aba99e4d14e11f17ee446a0",
+    "artist": "Taylor Swift",
+    "title": "The Life of a Showgirl: The Encore",
+    "score": 4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-09-29T04:03:00.000Z",
+    "dateFormatted": "September 29, 2026",
+    "url": "/reviews/albums/taylor-swift-the-life-of-a-showgirl-the-encore/",
+    "description": "Four new songs appended to last year’s blockbuster album do little to reverse the downward trajectory of the songwriter’s recent work.",
+    "reviewer": "Shaad D’Souza",
+    "image": "https://media.pitchfork.com/photos/6ab3d199bacac9b4a37a9489/1:1/w_768,c_limit/HS52gb3WkAEW07Y.jpeg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6aba7993d14e11f17ee4465b",
+    "artist": "Julia Jacklin",
+    "title": "The Gem",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-09-29T04:02:00.000Z",
+    "dateFormatted": "September 29, 2026",
+    "url": "/reviews/albums/julia-jacklin-the-gem/",
+    "description": "On her fourth album, the Australian singer-songwriter surrenders to the idea of change, filling her warm, reassuring songs with poignant imagery and a greater sense of perspective.",
+    "reviewer": "Jayson Greene",
+    "image": "https://media.pitchfork.com/photos/6a2ffb396d5aa71b3e09de84/1:1/w_768,c_limit/Julia-Jacklin-the-Gem.jpeg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6aba9fb6d14e11f17ee4471f",
+    "artist": "Ty Segall",
+    "title": "Chrome",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-09-29T04:01:00.000Z",
+    "dateFormatted": "September 29, 2026",
+    "url": "/reviews/albums/ty-segall-chrome/",
+    "description": "The prolific songwriter goes back to the garage, revisiting the primal sound of his early work with the tighter craftsmanship he’s developed over the past decade.",
+    "reviewer": "Stuart Berman",
+    "image": "https://media.pitchfork.com/photos/6a281970eca9b16e6ce653a2/1:1/w_768,c_limit/unnamed%20(46).jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6aba93bbd41b05c7a59a88b2",
+    "artist": "Jules Reidy",
+    "title": "Clerestory",
+    "score": 6.9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-09-29T04:00:00.000Z",
+    "dateFormatted": "September 29, 2026",
+    "url": "/reviews/albums/jules-reidy-clerestory/",
+    "description": "The guitarist refracts yearning harmonic exercises performed by New York’s JACK Quartet through a variety of lenses, pushing the microtonal language of their compositions in unexpected directions.",
+    "reviewer": "H.D. Angel",
+    "image": "https://media.pitchfork.com/photos/6ab4147df7ef2378a6776d51/1:1/w_768,c_limit/Jules%20Reidy-%20Clerestory.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6ab687779a8df6f188097476",
     "artist": "M83",
     "title": "I Wrote You a Letter",
