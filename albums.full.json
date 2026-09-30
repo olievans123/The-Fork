@@ -1,5 +1,77 @@
 [
   {
+    "id": "6abbf619255c3d4832945abc",
+    "artist": "Tinashe",
+    "title": "Popstar",
+    "score": 9,
+    "bnm": true,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-09-30T04:03:00.000Z",
+    "dateFormatted": "September 30, 2026",
+    "url": "/reviews/albums/tinashe-popstar/",
+    "description": "Tinashe’s eighth album is her best and bravest yet: more ambitious, more focused, and effortlessly in touch with the zeitgeist. It’s the best pop album of the year.",
+    "reviewer": "Anna Gaca",
+    "image": "https://media.pitchfork.com/photos/6ab4131ef7ef2378a6776d41/1:1/w_768,c_limit/Tinashe-%20Popstar%20.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6abbc5f9130d9c78abd4fafd",
+    "artist": "Jhené Aiko",
+    "title": "Westside Whimsy",
+    "score": 6.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-09-30T04:02:00.000Z",
+    "dateFormatted": "September 30, 2026",
+    "url": "/reviews/albums/jhene-aiko-westside-whimsy/",
+    "description": "After records steeped in grief and heartbreak, the singer’s latest album is framed as a laid-back ode to Los Angeles, but it can be tough to tease out the substance behind the sunny vibes.",
+    "reviewer": "Vrinda Jagota",
+    "image": "https://media.pitchfork.com/photos/6abbc506df6776cb6ab029e4/1:1/w_768,c_limit/Jhene%CC%81%20Aiko%20-%20Westside%20Whimsy.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6abbf9015d1654f4a04fae67",
+    "artist": "megiapa",
+    "title": "Intentions",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-09-30T04:01:00.000Z",
+    "dateFormatted": "September 30, 2026",
+    "url": "/reviews/albums/megiapa-intentions/",
+    "description": "On her International Anthem debut, the Los Angeles-based singer threads R&amp;B, jazz, and downbeat electronic into lovestruck reveries that still feel true to life.",
+    "reviewer": "Stephen Kearse",
+    "image": "https://media.pitchfork.com/photos/6abbf850df6776cb6ab02c89/1:1/w_768,c_limit/megiapa%20-%20Intentions%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6abbe83b255c3d48329459b2",
+    "artist": "Empress Of",
+    "title": "Dream House",
+    "score": 6.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-09-30T04:00:00.000Z",
+    "dateFormatted": "September 30, 2026",
+    "url": "/reviews/albums/empress-of-dream-house/",
+    "description": "Lorely Rodriguez’s fifth album contends with the grief of losing her childhood home in a wildfire. These songs still center her virtuosic voice, but sometimes smother her eccentric perspective.",
+    "reviewer": "Elise Soutar",
+    "image": "https://media.pitchfork.com/photos/6abbe7635d1654f4a04fadb6/1:1/w_768,c_limit/Empress%20Of-Dream%20House.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6aba99e4d14e11f17ee446a0",
     "artist": "Taylor Swift",
     "title": "The Life of a Showgirl: The Encore",
