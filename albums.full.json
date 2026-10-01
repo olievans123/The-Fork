@@ -1,5 +1,81 @@
 [
   {
+    "id": "6abd51c5255c3d4832946145",
+    "artist": "300SkullsAndCounting / Jenny Sparks",
+    "title": "THIS IS SPA TOWN!",
+    "score": 8.2,
+    "bnm": true,
+    "bnr": false,
+    "genres": [
+      "Experimental",
+      "Rap",
+      "Experimental"
+    ],
+    "date": "2026-10-01T04:03:00.000Z",
+    "dateFormatted": "October 1, 2026",
+    "url": "/reviews/albums/300skullsandcounting-jenny-sparks-this-is-spa-town/",
+    "description": "The UK artist brings a frenzy of club-grime provocation and internet humor to his glitched-out emo, but his portrayal of small-town malaise is what makes it a riot.",
+    "reviewer": "Alphonse Pierre",
+    "image": "https://media.pitchfork.com/photos/6abd510c90e6bf2bda5674d9/1:1/w_768,c_limit/300SkullsAndCounting%20Jenny%20Sparks%20This%20Is%20Spa%20Town.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6abd4100389b86b41c3545d3",
+    "artist": "Hallucinator",
+    "title": "Landlocked",
+    "score": 8.5,
+    "bnm": false,
+    "bnr": true,
+    "genres": [
+      "Electronic",
+      "Experimental"
+    ],
+    "date": "2026-10-01T04:02:00.000Z",
+    "dateFormatted": "October 1, 2026",
+    "url": "/reviews/albums/hallucinator-landlocked/",
+    "description": "Expanding dub techno’s spare grid toward rave and industrial, the UK trio’s newly reissued 1999 compilation summons roiling synth, excoriating feedback, and percussion that feels almost improvisatory.",
+    "reviewer": "Philip Sherburne",
+    "image": "https://media.pitchfork.com/photos/6abd402d7326f7eb48e6c5fe/1:1/w_768,c_limit/Hallucinator%20-%20Landlocked%20album%20art.jpg",
+    "releaseYear": 2026,
+    "originalYear": 1999
+  },
+  {
+    "id": "6abd2ebb1a38dc9c35e7b308",
+    "artist": "Tove Lo",
+    "title": "ESTRUS",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-10-01T04:01:00.000Z",
+    "dateFormatted": "October 1, 2026",
+    "url": "/reviews/albums/tove-lo-estrus/",
+    "description": "The Swedish pop singer’s sixth album mainly leans on a familiar, hedonistic electro-pop sound. Its best moments explore what happens when full-bodied pleasure meets a fearful mind.",
+    "reviewer": "Aimee Cliff",
+    "image": "https://media.pitchfork.com/photos/6abd2c90f479e560d71f0149/1:1/w_768,c_limit/Tove%20Lo-ESTRUS.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6abd3df0970c261d8eaa5b24",
+    "artist": "Toxe",
+    "title": "Bubble Treasure",
+    "score": 7.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-10-01T04:00:00.000Z",
+    "dateFormatted": "October 1, 2026",
+    "url": "/reviews/albums/toxe-bubble-treasure/",
+    "description": "The Swedish singer-producer abandons club convention on her new album, opting instead for soft keys, chimes, and featherlight vocals, along with undulating arrangements teasing drops that never come.",
+    "reviewer": "Billie Bugara",
+    "image": "https://media.pitchfork.com/photos/6abd3d06061d1e7ca3ebefa0/1:1/w_768,c_limit/Toxe%20-%20Bubble%20Treasure.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6abbf619255c3d4832945abc",
     "artist": "Tinashe",
     "title": "Popstar",
@@ -43,7 +119,8 @@
     "bnm": false,
     "bnr": false,
     "genres": [
-      "Pop/R&B"
+      "Pop/R&B",
+      "Electronic"
     ],
     "date": "2026-09-30T04:01:00.000Z",
     "dateFormatted": "September 30, 2026",
@@ -200,7 +277,7 @@
   },
   {
     "id": "6ab695b5065eaf90025ae987",
-    "artist": "The Mary Wallopers ",
+    "artist": "The Mary Wallopers",
     "title": "Paddywhackery",
     "score": 7.5,
     "bnm": false,
