@@ -1,5 +1,78 @@
 [
   {
+    "id": "6abea5c9aa7b55cc47e7860f",
+    "artist": "The Beatles",
+    "title": "Rubber Soul (Super Deluxe)",
+    "score": 10,
+    "bnm": false,
+    "bnr": true,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-10-02T04:03:00.000Z",
+    "dateFormatted": "October 2, 2026",
+    "url": "/reviews/albums/the-beatles-rubber-soul-super-deluxe/",
+    "description": "Pop and art, stereo and mono, Britain and America, John and Paul: An expansive reissue of one of the 20th century’s most important works of art suspends its heady contradictions in a state of perfect flux.",
+    "reviewer": "Andy Cush",
+    "image": "https://media.pitchfork.com/photos/6abea4df4a96d507bac1dc8b/1:1/w_768,c_limit/The%20Beatles%20Rubber%20Soul%20Super%20Deluxe.jpg",
+    "releaseYear": 2026,
+    "originalYear": 1965
+  },
+  {
+    "id": "6abe9888d1d34111bf52712d",
+    "artist": "Miranda Lambert",
+    "title": "Crisco",
+    "score": 6.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Folk/Country"
+    ],
+    "date": "2026-10-02T04:02:00.000Z",
+    "dateFormatted": "October 2, 2026",
+    "url": "/reviews/albums/miranda-lambert-crisco/",
+    "description": "It’s smooth sailing on the country star’s new album, a spotless approximation of late-’70s country disco with thoughtful string arrangements and an appearance from protégé Ella Langley.",
+    "reviewer": "Alfred Soto",
+    "image": "https://media.pitchfork.com/photos/6abe97eb4a96d507bac1dc4f/1:1/w_768,c_limit/Miranda%20Lambert%20-%20Crisco.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6abd45f5389b86b41c3545d7",
+    "artist": "Stef Chura",
+    "title": "Dancing Alone on the Concrete",
+    "score": 7.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-10-02T04:01:00.000Z",
+    "dateFormatted": "October 2, 2026",
+    "url": "/reviews/albums/stef-chura-dancing-alone-on-the-concrete/",
+    "description": "On her first album in seven years, the Detroit singer-songwriter channels a sense of ambivalence, with songs that once again showcase her idiosyncratic, excellent voice.",
+    "reviewer": "Ethan Beck",
+    "image": "https://media.pitchfork.com/photos/6abd44cd255c3d4832946089/1:1/w_768,c_limit/Stef%20Chura-Dancing%20Alone%20on%20the%20Concrete.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6abe7808aa7b55cc47e78465",
+    "artist": "Meernaa",
+    "title": "Methuselah",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-10-02T04:00:00.000Z",
+    "dateFormatted": "October 2, 2026",
+    "url": "/reviews/albums/meernaa-methuselah/",
+    "description": "Carly Bond’s magnetic voice and expert band steady her through all kinds of uncertainty on a graceful new album with vintage soul spirit.",
+    "reviewer": "Laura Snapes",
+    "image": "https://media.pitchfork.com/photos/6abe778a948de2fc99b1f698/1:1/w_768,c_limit/Meernaa%20-%20Methuselah%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6abd51c5255c3d4832946145",
     "artist": "300SkullsAndCounting / Jenny Sparks",
     "title": "THIS IS SPA TOWN!",
