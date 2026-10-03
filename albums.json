@@ -1,5 +1,24 @@
 [
   {
+    "id": "6abfe2277ca9e5adca7c546d",
+    "artist": "Elvis Costello",
+    "title": "My Aim Is True (49th Anniversary Edition)",
+    "score": 9.5,
+    "bnm": false,
+    "bnr": true,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-10-03T04:00:00.000Z",
+    "dateFormatted": "October 3, 2026",
+    "url": "/reviews/albums/elvis-costello-my-aim-is-true-49th-anniversary-edition/",
+    "description": "A 104-track box set fleshes out the seemingly out-of-nowhere brilliance of Elvis Costello’s debut: a portrait of the artist as a fidgety young man, trying on literal and figurative hats.",
+    "reviewer": "Elizabeth Nelson",
+    "image": "https://media.pitchfork.com/photos/6abfd347c6db02d433b467a1/1:1/w_768,c_limit/My%20Aim%20Is%20True%20(49th%20Anniversary%20Edition).jpg",
+    "releaseYear": 2026,
+    "originalYear": 1977
+  },
+  {
     "id": "6abea5c9aa7b55cc47e7860f",
     "artist": "The Beatles",
     "title": "Rubber Soul (Super Deluxe)",
