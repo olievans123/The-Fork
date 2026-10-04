@@ -1,5 +1,24 @@
 [
   {
+    "id": "6abff8dbadd37ec5cb9175b4",
+    "artist": "Bowery Electric",
+    "title": "Beat",
+    "score": 9.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic",
+      "Rock"
+    ],
+    "date": "2026-10-04T04:00:00.000Z",
+    "dateFormatted": "October 4, 2026",
+    "url": "/reviews/albums/bowery-electric-beat/",
+    "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit the New York duo’s brilliant second album, a synthesis of shoegaze, ambient, and trip-hop that permeated the boundaries of rock and electronic music.",
+    "reviewer": "Sadie Sartini Garner",
+    "image": "https://media.pitchfork.com/photos/6abff970c6db02d433b46846/1:1/w_768,c_limit/Bowery%20Electric%20Beat%20Album%20Cover.jpg",
+    "releaseYear": 1996
+  },
+  {
     "id": "6abfe2277ca9e5adca7c546d",
     "artist": "Elvis Costello",
     "title": "My Aim Is True (49th Anniversary Edition)",
