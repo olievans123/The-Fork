@@ -1,5 +1,77 @@
 [
   {
+    "id": "6abfbc22401716fe5e06bfc1",
+    "artist": "Emily A. Sprague",
+    "title": "Cyano",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-10-05T04:03:00.000Z",
+    "dateFormatted": "October 5, 2026",
+    "url": "/reviews/albums/emily-a-sprague-cyano/",
+    "description": "The Florist musician’s latest ambient release blends her intuitive, associative songwriting with her increasingly immersive voice as a composer for modular synth.",
+    "reviewer": "Emma Madden",
+    "image": "https://media.pitchfork.com/photos/6abfbbb4b1d8689d3617249a/1:1/w_768,c_limit/Emily%20Sprague%20Cyano.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6abfe40cadd37ec5cb917579",
+    "artist": "B0YG1RL",
+    "title": "B0YG1RL",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-10-05T04:02:00.000Z",
+    "dateFormatted": "October 5, 2026",
+    "url": "/reviews/albums/b0yg1rl-b0yg1rl/",
+    "description": "The Miami experimental dance duo’s new album pushes their capricious, explosive mix of bouyon, synth-pop, and electroclash to anxious extremes.",
+    "reviewer": "Olivier Lafontant",
+    "image": "https://media.pitchfork.com/photos/6ab584579bf6b62aec676cd6/1:1/w_768,c_limit/b0yg1rl%20rough%20trade.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6abe71e14a96d507bac1dabd",
+    "artist": "Godflesh",
+    "title": "Decay",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Metal"
+    ],
+    "date": "2026-10-05T04:01:00.000Z",
+    "dateFormatted": "October 5, 2026",
+    "url": "/reviews/albums/godflesh-decay/",
+    "description": "For decades, industrial metal titan Justin K. Broadrick screamed so hard that it shredded his insides. He softens his attack on the band’s penultimate album, but they’re not going out gently.",
+    "reviewer": "Madison Bloom",
+    "image": "https://media.pitchfork.com/photos/6ab41594272200043ff4eb82/1:1/w_768,c_limit/Godflesh-%20Decay.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6abff2dbb1d8689d3617250a",
+    "artist": "Jake Xerxes Fussell",
+    "title": "The Old Beloved Path",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Folk/Country"
+    ],
+    "date": "2026-10-05T04:00:00.000Z",
+    "dateFormatted": "October 5, 2026",
+    "url": "/reviews/albums/jake-xerxes-fussell-the-old-beloved-path/",
+    "description": "The North Carolina folk musician pulls from centuries-old ballads and blues standards for a meditative set full of drifters, sailors, and wistful travelers.",
+    "reviewer": "Habib Sabet",
+    "image": "https://media.pitchfork.com/photos/6aa86bfaae3e28fd3939c1bc/1:1/w_768,c_limit/820233608909.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6abff8dbadd37ec5cb9175b4",
     "artist": "Bowery Electric",
     "title": "Beat",

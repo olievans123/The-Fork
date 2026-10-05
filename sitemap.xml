@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://the-fork.vercel.app/</loc><priority>1.0</priority></url>
+<url><loc>https://the-fork.vercel.app/album/emily-a-sprague-cyano</loc><priority>0.6</priority></url>
+<url><loc>https://the-fork.vercel.app/album/b0yg1rl-b0yg1rl</loc><priority>0.6</priority></url>
+<url><loc>https://the-fork.vercel.app/album/godflesh-decay</loc><priority>0.6</priority></url>
+<url><loc>https://the-fork.vercel.app/album/jake-xerxes-fussell-the-old-beloved-path</loc><priority>0.6</priority></url>
 <url><loc>https://the-fork.vercel.app/album/bowery-electric-beat</loc><priority>0.6</priority></url>
 <url><loc>https://the-fork.vercel.app/album/elvis-costello-my-aim-is-true-49th-anniversary-edition</loc><priority>0.6</priority></url>
 <url><loc>https://the-fork.vercel.app/album/the-beatles-rubber-soul-super-deluxe</loc><priority>0.6</priority></url>
