@@ -1,5 +1,77 @@
 [
   {
+    "id": "6ac3e2dd9c284e2dc1737b16",
+    "artist": "Greg Freeman",
+    "title": "All Set the Bone",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-10-06T04:03:00.000Z",
+    "dateFormatted": "October 6, 2026",
+    "url": "/reviews/albums/greg-freeman-all-set-the-bone/",
+    "description": "The indie rock songwriter’s latest album is menacing and ambitious, overflowing with quotable lyrics and the feverish energy of something about to fall apart.",
+    "reviewer": "Jayson Greene",
+    "image": "https://media.pitchfork.com/photos/6a5f8c0b3c4dfb9fde52303b/1:1/w_768,c_limit/Greg%20Freeman%20-%20All%20Set%20The%20Bone%20_%20Album%20Art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ac3f1922f03407037013c6f",
+    "artist": "Protomartyr",
+    "title": "Hotel Usona",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-10-06T04:02:00.000Z",
+    "dateFormatted": "October 6, 2026",
+    "url": "/reviews/albums/protomartyr-hotel-usona/",
+    "description": "You can check out but you’ll never leave the Detroit post-punks’ new concept album, which grimly parodies the United States’ ugliest realities as odious guests at a cursed hotel.",
+    "reviewer": "Nina Corcoran",
+    "image": "https://media.pitchfork.com/photos/6ab1797ee1cdfe6681b364ad/1:1/w_768,c_limit/887828057160.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ac3a33fd1a2533137786198",
+    "artist": "Jam City",
+    "title": "My World",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-10-06T04:01:00.000Z",
+    "dateFormatted": "October 6, 2026",
+    "url": "/reviews/albums/jam-city-my-world/",
+    "description": "The UK avant-dance producer has spent recent years wandering pop music’s hinterlands, but he sounds reenergized on his latest amalgam of ’80s-tinged club, pop, and R&amp;B.",
+    "reviewer": "Andrew Ryce",
+    "image": "https://media.pitchfork.com/photos/6ac3a26925d8e15b70177a40/1:1/w_768,c_limit/Jam%20City%20-%20My%20World.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ac3f3a3d1a2533137786318",
+    "artist": "Cara Delevingne",
+    "title": "Not Normal",
+    "score": 6.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-10-06T04:00:00.000Z",
+    "dateFormatted": "October 6, 2026",
+    "url": "/reviews/albums/cara-delevingne-not-normal/",
+    "description": "As it flashes from synth-pop experimentation to introspective balladry to heavy distortion, the model and actress’ debut LP is both intriguing and exhausting.",
+    "reviewer": "Hannah Jocelyn",
+    "image": "https://media.pitchfork.com/photos/6ac3f2e12f03407037013c74/1:1/w_768,c_limit/Cara%20Delevingne%20-%20Not%20Normal%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6abfbc22401716fe5e06bfc1",
     "artist": "Emily A. Sprague",
     "title": "Cyano",
