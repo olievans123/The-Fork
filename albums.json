@@ -1,5 +1,149 @@
 [
   {
+    "id": "6ac6641e57d07363842bd460",
+    "artist": "Helen",
+    "title": "Linda’s Head",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-10-08T04:03:00.000Z",
+    "dateFormatted": "October 8, 2026",
+    "url": "/reviews/albums/helen-lindas-head/",
+    "description": "Over a decade since its debut, the shoegaze trio fronted by Grouper’s Liz Harris returns for a brisk new album with its eyes trained on the sky.",
+    "reviewer": "Sasha Geffen",
+    "image": "https://media.pitchfork.com/photos/6a720fc6315db0fbba4a3f47/1:1/w_768,c_limit/Helen-Lindas-Head.jpeg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ac51d68a92c652861f37109",
+    "artist": "MNEK",
+    "title": "BULLDOZER!!",
+    "score": 6.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-10-08T04:02:00.000Z",
+    "dateFormatted": "October 8, 2026",
+    "url": "/reviews/albums/mnek-bulldozer/",
+    "description": "On their second album, the London-based producer and songwriter offers bold, hook-heavy club pop, but their lyrics about self-love and queer identity often land like platitudes.",
+    "reviewer": "Cassidy Sollazzo",
+    "image": "https://media.pitchfork.com/photos/6ac51d09adf451e6bf74f1df/1:1/w_768,c_limit/MNEK-BULLDOZER!!.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ac54238adf451e6bf74f370",
+    "artist": "Lucy Bedroque",
+    "title": "c",
+    "score": 6.9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-10-08T04:01:00.000Z",
+    "dateFormatted": "October 8, 2026",
+    "url": "/reviews/albums/lucy-bedroque-c/",
+    "description": "Like a cross between a fashionable rave and a final boss battle, the 20 year old’s latest album is both their sleekest and most overclocked, made more for mosh pits than headphone reveries.",
+    "reviewer": "H.D. Angel",
+    "image": "https://media.pitchfork.com/photos/6ac541a55f04feffaad28ecc/1:1/w_768,c_limit/Lucy%20Bedroque%20-%20c.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ac63f03780f7688f3bf437d",
+    "artist": "Your Old Droog",
+    "title": "Bread &amp; Butter",
+    "score": 6.9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-10-08T04:00:00.000Z",
+    "dateFormatted": "October 8, 2026",
+    "url": "/reviews/albums/your-old-droog-bread-and-butter/",
+    "description": "The New York rapper carves out a middle ground between belligerence and introspection on his latest record, expressing gratitude for the little things in life without sacrificing his slick wordplay.",
+    "reviewer": "Dylan Green",
+    "image": "https://media.pitchfork.com/photos/6ac63e6a57d07363842bd3b1/1:1/w_768,c_limit/Your%20Old%20Droog-Bread%20&%20Butter.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ac50f58a92c652861f36f0c",
+    "artist": "Quavo",
+    "title": "QRÖMELIFE",
+    "score": 3.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-10-07T04:03:00.000Z",
+    "dateFormatted": "October 7, 2026",
+    "url": "/reviews/albums/quavo-qromelife/",
+    "description": "Quavo feels like an afterthought on his own new solo album, which suffers from phoned-in Pharrell beats, weak features, and exhausting levels of brand placement.",
+    "reviewer": "Alphonse Pierre",
+    "image": "https://media.pitchfork.com/photos/6abbfadc061d1e7ca3ebec57/1:1/w_768,c_limit/26UM1IM02290.rgb.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ac50df59c284e2dc1737e67",
+    "artist": "Victoria Monét",
+    "title": "Frequency of Love",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-10-07T04:02:00.000Z",
+    "dateFormatted": "October 7, 2026",
+    "url": "/reviews/albums/victoria-monet-frequency-of-love/",
+    "description": "The singer and songwriter’s sprawling, meticulously polished new album stretches out with swoony ballads, cinematic strings, and timeless quiet storm.",
+    "reviewer": "Molly Mary O’Brien",
+    "image": "https://media.pitchfork.com/photos/6a60ef3d26f57e7b7f1973bd/1:1/w_768,c_limit/VictoriaMonet_FOL_Cover_Digital_060326_01%20(1).jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ac4fa5badf451e6bf74f085",
+    "artist": "Klein",
+    "title": "my own fairytale",
+    "score": 6.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-10-07T04:01:00.000Z",
+    "dateFormatted": "October 7, 2026",
+    "url": "/reviews/albums/klein-my-own-fairytale/",
+    "description": "The South London artist channels Disney soundtrack tropes into claustrophobic strings and drones, while a handful of vocal tracks hint darkly at real-world family drama.",
+    "reviewer": "Daniel Bromfield",
+    "image": "https://media.pitchfork.com/photos/6abaa7b3c7133574666efdd3/1:1/w_768,c_limit/klein%20my%20own%20fairy%20tale.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ac52a5c780f7688f3bf403e",
+    "artist": "Haywire",
+    "title": "I Don’t Wanna Say Goodbye",
+    "score": 7.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-10-07T04:00:00.000Z",
+    "dateFormatted": "October 7, 2026",
+    "url": "/reviews/albums/haywire-i-dont-wanna-say-goodbye/",
+    "description": "The Boston hardcore band aims at wider audiences on a sweetly melodic breakup album that burns as hot and fast as the ill-fated relationship it describes.",
+    "reviewer": "Andrew Sacher",
+    "image": "https://media.pitchfork.com/photos/6ac529de6bd2ab7424d820ab/1:1/w_768,c_limit/Haywire%20I%20Don%E2%80%99t%20Wanna%20Say%20Goodbye.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6ac3e2dd9c284e2dc1737b16",
     "artist": "Greg Freeman",
     "title": "All Set the Bone",
