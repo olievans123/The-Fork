@@ -1,5 +1,77 @@
 [
   {
+    "id": "6ac7a7323d647beb7017783a",
+    "artist": "Cameron Winter",
+    "title": "Live at Carnegie Hall",
+    "score": 8.9,
+    "bnm": true,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-10-09T04:03:00.000Z",
+    "dateFormatted": "October 9, 2026",
+    "url": "/reviews/albums/cameron-winter-live-at-carnegie-hall/",
+    "description": "With new songs that rank among his very best, the Geese frontman’s solo live album is an exquisite rendering of a had-to-be-there night and a work of real-time mythmaking.",
+    "reviewer": "Walden Green",
+    "image": "https://media.pitchfork.com/photos/6a8374d55eeaf65ef2de9c77/1:1/w_768,c_limit/Live%20at%20Carnegie%20Hall_1500X.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ac6257532058c9c5c6416d6",
+    "artist": "Dawn Richard",
+    "title": "creole culture",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-10-09T04:02:00.000Z",
+    "dateFormatted": "October 9, 2026",
+    "url": "/reviews/albums/dawn-richard-creole-culture/",
+    "description": "The third album in Richards’ trilogy dedicated to her hometown is a celebration of New Orleans’ dynamism: colorful, communal, triumphantly on the move.",
+    "reviewer": "Stephen Kearse",
+    "image": "https://media.pitchfork.com/photos/6a733ddef9a2e451bfdf19fe/1:1/w_768,c_limit/Dawn-Richard-Creole-Culture.jpeg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ac63d9bb0ad0781c113c7f8",
+    "artist": "Remi Wolf",
+    "title": "Mud",
+    "score": 7.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-10-09T04:01:00.000Z",
+    "dateFormatted": "October 9, 2026",
+    "url": "/reviews/albums/remi-wolf-mud/",
+    "description": "The pop singer’s dynamic but uneven third record provides a portrait of semi-reformed adulthood, powered mostly by her sheer charisma and impressive voice.",
+    "reviewer": "Enzo Escober",
+    "image": "https://media.pitchfork.com/photos/6a846e7bf8d0edf80c0400c1/1:1/w_768,c_limit/MUD-cover.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ac514dad50ecf316829f488",
+    "artist": "Fat Dog",
+    "title": "Cancel Me (I’m Tired)",
+    "score": 3.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-10-09T04:00:00.000Z",
+    "dateFormatted": "October 9, 2026",
+    "url": "/reviews/albums/fat-dog-cancel-me-im-tired/",
+    "description": "The London band wastes a great title on a second album of garish agit-rave punk that’s larded with references and desperately short on ideas.",
+    "reviewer": "Laura Snapes",
+    "image": "https://media.pitchfork.com/photos/6ac5144f9c284e2dc1737eb7/1:1/w_768,c_limit/Fat%20Dog%20-%20Cancel%20Me%20(I%E2%80%99m%20Tired)%20album%20art.png",
+    "releaseYear": 2026
+  },
+  {
     "id": "6ac6641e57d07363842bd460",
     "artist": "Helen",
     "title": "Linda’s Head",
