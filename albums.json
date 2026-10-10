@@ -1,5 +1,23 @@
 [
   {
+    "id": "6ac7f68f526073d92107f1dd",
+    "artist": "Stevie Wonder",
+    "title": "Songs in the Key of Life - The EP",
+    "score": 9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-10-10T04:00:00.000Z",
+    "dateFormatted": "October 10, 2026",
+    "url": "/reviews/albums/stevie-wonder-songs-in-the-key-of-life-the-ep/",
+    "description": "A rare glimpse into the artist’s legendary and largely untapped vault of unreleased music presents four stunning outtakes from a hot streak that remains unparalleled in pop history.",
+    "reviewer": "Stephen Thomas Erlewine",
+    "image": "https://media.pitchfork.com/photos/6ac7f4da26778676bec2e141/1:1/w_768,c_limit/Stevie%20Wonder%20Songs%20in%20the%20Key%20of%20Life%20The%20EP.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6ac7a7323d647beb7017783a",
     "artist": "Cameron Winter",
     "title": "Live at Carnegie Hall",
