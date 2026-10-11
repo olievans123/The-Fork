@@ -1,5 +1,23 @@
 [
   {
+    "id": "6ac901fc8272da049edcaa41",
+    "artist": "The Chicks",
+    "title": "Taking the Long Way",
+    "score": 8.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Folk/Country"
+    ],
+    "date": "2026-10-11T04:00:00.000Z",
+    "dateFormatted": "October 11, 2026",
+    "url": "/reviews/albums/the-chicks-taking-the-long-way/",
+    "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit the iconoclastic trio’s embattled and cathartic 2006 album: a swan song for the artists’ imperial phase and for their bitterly fractured country.",
+    "reviewer": "Shaad D’Souza",
+    "image": "https://media.pitchfork.com/photos/6ac90149fc8a5752f3b0dc77/1:1/w_768,c_limit/The%20Chicks%20Taking%20the%20Long%20Way.jpg",
+    "releaseYear": 2006
+  },
+  {
     "id": "6ac7f68f526073d92107f1dd",
     "artist": "Stevie Wonder",
     "title": "Songs in the Key of Life - The EP",
