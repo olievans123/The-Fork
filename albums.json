@@ -1,5 +1,77 @@
 [
   {
+    "id": "6ac91b6f2efa2e01c94f9641",
+    "artist": "Marina Herlop",
+    "title": "Dja Dja",
+    "score": 8.5,
+    "bnm": true,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-10-12T04:03:00.000Z",
+    "dateFormatted": "October 12, 2026",
+    "url": "/reviews/albums/marina-herlop-dja-dja/",
+    "description": "Modeled after the literary concept of the hero’s journey, the Catalan composer’s latest album is her most ambitious yet: It’s weirder, wilder, and more dazzling than anything she’s done to date.",
+    "reviewer": "Matthew Blackwell",
+    "image": "https://media.pitchfork.com/photos/6a452b81a7029f511eacd6da/1:1/w_768,c_limit/Marina-Herlop-Dja-Dja.jpeg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ac7efd3d1e096c849ba8c98",
+    "artist": "Teenage Fanclub",
+    "title": "Do Not Dare to Dream",
+    "score": 6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-10-12T04:02:00.000Z",
+    "dateFormatted": "October 12, 2026",
+    "url": "/reviews/albums/teenage-fanclub-do-not-dare-to-dream/",
+    "description": "The latest album from the Scottish band settles into pleasant but predictable folk-rock doldrums.",
+    "reviewer": "Ethan Beck",
+    "image": "https://media.pitchfork.com/photos/6ac7ef5ad1e096c849ba8c71/1:1/w_768,c_limit/Teenage%20Fanclub%20Do%20Not%20Dare%20to%20Dream.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ac90e7c597c28a377204dda",
+    "artist": "Kaitlyn Aurelia Smith",
+    "title": "RUIN: It’s Not Just Music",
+    "score": 6.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-10-12T04:01:00.000Z",
+    "dateFormatted": "October 12, 2026",
+    "url": "/reviews/albums/kaitlyn-aurelia-smith-ruin-its-not-just-music/",
+    "description": "The California musician has been moving away from new age and ambient for a while, but her latest album is still surprising: a headfirst leap into drum’n’bass and brightly colored EDM.",
+    "reviewer": "Andrew Ryce",
+    "image": "https://media.pitchfork.com/photos/6abbfb1687c6f137636455bb/1:1/w_768,c_limit/3663729437259_cover.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ac7fb254902e30e945fef8b",
+    "artist": "Maxime Denuc",
+    "title": "Club Imperiale",
+    "score": 7.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-10-12T04:00:00.000Z",
+    "dateFormatted": "October 12, 2026",
+    "url": "/reviews/albums/maxime-denuc-club-imperiale/",
+    "description": "In an ode to the Mediterranean discotheques of yore, the French composer uses MIDI-controlled pipe organs to smear elements of trance and techno into a hazy state of ecstatic longing.",
+    "reviewer": "Philip Sherburne",
+    "image": "https://media.pitchfork.com/photos/6ac7fa9c72e89ec54ce0557a/1:1/w_768,c_limit/Maxime%20Denuc-Club%20Imperiale.png",
+    "releaseYear": 2026
+  },
+  {
     "id": "6ac901fc8272da049edcaa41",
     "artist": "The Chicks",
     "title": "Taking the Long Way",
