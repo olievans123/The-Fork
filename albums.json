@@ -1,5 +1,77 @@
 [
   {
+    "id": "6acd1c5be40a73d39f25c837",
+    "artist": "Jess Williamson",
+    "title": "A Mile South of Heaven",
+    "score": 8.4,
+    "bnm": true,
+    "bnr": false,
+    "genres": [
+      "Folk/Country"
+    ],
+    "date": "2026-10-13T05:54:08.180Z",
+    "dateFormatted": "October 13, 2026",
+    "url": "/reviews/albums/jess-williamson-a-mile-south-of-heaven/",
+    "description": "Torn between Texas and Topanga but fully herself, the songwriter sounds at home in the outlaw country idiom on an intimate, searching new record produced by Shooter Jennings.",
+    "reviewer": "Sadie Sartini Garner",
+    "image": "https://media.pitchfork.com/photos/6ab178b1e1cdfe6681b364a7/1:1/w_768,c_limit/3605.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6acd1d803f0506547bbbb8b7",
+    "artist": "Deafheaven",
+    "title": "At Work in the Fields of the Bomb EP",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Metal"
+    ],
+    "date": "2026-10-13T04:02:00.000Z",
+    "dateFormatted": "October 13, 2026",
+    "url": "/reviews/albums/deafheaven-at-work-in-the-fields-of-the-bomb-ep/",
+    "description": "On a blistering surprise EP, Deafheaven find the vicious attack and grandiose drama of symphonic black metal perfectly suited to their purposes.",
+    "reviewer": "Patrick Lyons",
+    "image": "https://media.pitchfork.com/photos/6ac803d6c3f6632564b720d0/1:1/w_768,c_limit/Deafheaven%20-%20AWITFOTB%20-%20EP%20Artwork.jpeg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6accf542107094c6276c7656",
+    "artist": "Space Afrika",
+    "title": "Quiet Storm",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-10-13T04:01:00.000Z",
+    "dateFormatted": "October 13, 2026",
+    "url": "/reviews/albums/space-afrika-quiet-storm/",
+    "description": "Born as the score to a surreal short film set on Manchester’s empty streets, the ambient duo’s latest album folds classical instrumentation and field recordings into a mood of deep introspection.",
+    "reviewer": "Kiana Mickles",
+    "image": "https://media.pitchfork.com/photos/6accf4be107094c6276c7651/1:1/w_768,c_limit/Space%20Afrika%20-%20Quiet%20Storm.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6accee6e0e440dc3f0410484",
+    "artist": "Gash",
+    "title": "at least you know what you’re laughing at",
+    "score": 7.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-10-13T04:00:00.000Z",
+    "dateFormatted": "October 13, 2026",
+    "url": "/reviews/albums/gash-at-least-you-know-what-youre-laughing-at/",
+    "description": "On its fourth album, the experimental rock band chases down whimsical creative impulses and arranges them into a brisk, spectral eight-song collage.",
+    "reviewer": "Nina Corcoran",
+    "image": "https://media.pitchfork.com/photos/6accee11bbe6c01c54481945/1:1/w_768,c_limit/gash-at%20least%20you%20know%20what%20you're%20laughing%20at.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6ac91b6f2efa2e01c94f9641",
     "artist": "Marina Herlop",
     "title": "Dja Dja",
