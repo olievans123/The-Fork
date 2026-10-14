@@ -1,5 +1,77 @@
 [
   {
+    "id": "6ace84c806c4ac8cd755533a",
+    "artist": "Troye Sivan",
+    "title": "She’s the Best",
+    "score": 7.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-10-14T04:03:00.000Z",
+    "dateFormatted": "October 14, 2026",
+    "url": "/reviews/albums/troye-sivan-shes-the-best/",
+    "description": "The pop star’s fourth album explores the cracks between the hits, the climaxes, and the comedowns. When he steps off the dancefloor, he finds a looser and more liberated sound.",
+    "reviewer": "Harry Tafoya",
+    "image": "https://media.pitchfork.com/photos/6a7f252f84348e8cbb2b41ac/1:1/w_768,c_limit/Troye%20Sivan%20She's%20the%20Best.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ace4da87c6afe7624a756e6",
+    "artist": "Ovrkast.",
+    "title": "STRIKING",
+    "score": 6.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-10-14T04:02:00.000Z",
+    "dateFormatted": "October 14, 2026",
+    "url": "/reviews/albums/ovrkast-striking/",
+    "description": "The Bay Area rapper’s latest record boasts vivid scenes and careful character studies, backed by live instrumentation and occasionally staid samples.",
+    "reviewer": "Alphonse Pierre",
+    "image": "https://media.pitchfork.com/photos/6ace4d6fd38747617e6922fd/1:1/w_768,c_limit/Ovrkast.-Striking.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ace35b32fc802a2451263e0",
+    "artist": "Wishy",
+    "title": "Nature’s Pill",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-10-14T04:01:00.000Z",
+    "dateFormatted": "October 14, 2026",
+    "url": "/reviews/albums/wishy-natures-pill/",
+    "description": "A deep longing aches at the core of the Indianapolis indie-pop group’s music, making good on the bittersweet promise of twee at its most heartfelt.",
+    "reviewer": "Colin Joyce",
+    "image": "https://media.pitchfork.com/photos/6abbfaa0c7133574666f02da/1:1/w_768,c_limit/65809.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ace7f6d782c63944fc9d400",
+    "artist": "Logic1000",
+    "title": "Confirmation!",
+    "score": 5.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-10-14T04:00:00.000Z",
+    "dateFormatted": "October 14, 2026",
+    "url": "/reviews/albums/logic1000-confirmation/",
+    "description": "The producer’s second LP flows through dulcet synth-pop collaborations, throwback trip-hop, and sound collages without leaving much impression.",
+    "reviewer": "Cassidy Sollazzo",
+    "image": "https://media.pitchfork.com/photos/6ace7ef0db59a31ef68a40d5/1:1/w_768,c_limit/Logic1000%20-%20Confirmation!%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6acd1c5be40a73d39f25c837",
     "artist": "Jess Williamson",
     "title": "A Mile South of Heaven",
