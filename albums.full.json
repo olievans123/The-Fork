@@ -1,5 +1,77 @@
 [
   {
+    "id": "6acfbed38ba2db87372f9d35",
+    "artist": "Fontaines D.C.",
+    "title": "Dopamine Chamber",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-10-15T04:03:00.000Z",
+    "dateFormatted": "October 15, 2026",
+    "url": "/reviews/albums/fontaines-dc-dopamine-chamber/",
+    "description": "The Irish band’s fifth album balances profound cynicism and genuine beauty as its ice-hearted stadium rock grows to darkly apocalyptic proportions.",
+    "reviewer": "Shaad D’Souza",
+    "image": "https://media.pitchfork.com/photos/6a83bc50522f93743d9915c4/1:1/w_768,c_limit/Dopamine%20Chamber%20by%20Fontaines%20D.C..jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6acf85707175a2a71bfe63bd",
+    "artist": "The Koreatown Oddity",
+    "title": "Purdy",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-10-15T04:02:00.000Z",
+    "dateFormatted": "October 15, 2026",
+    "url": "/reviews/albums/the-koreatown-oddity-purdy/",
+    "description": "The L.A. rapper knows that working artists don’t have it easy. His latest album attempts to reconcile a life of precarity with the spiritual rewards of finding one’s voice.",
+    "reviewer": "Dash Lewis",
+    "image": "https://media.pitchfork.com/photos/6acf847e76129a3879302f2c/1:1/w_768,c_limit/The%20Koreatown%20Oddity%20-%20Purdy.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6acf9caf8ba2db87372f9b0d",
+    "artist": "Errol Holden",
+    "title": "SUPREME MAGNETIC 3",
+    "score": 7.9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-10-15T04:01:00.000Z",
+    "dateFormatted": "October 15, 2026",
+    "url": "/reviews/albums/errol-holden-supreme-magnetic-3/",
+    "description": "On his latest release, the prolific Harlem rapper burrows deep into the minutiae of his memories, pairing thrilling, detailed vignettes with ominous beats.",
+    "reviewer": "Matthew Ritchie",
+    "image": "https://media.pitchfork.com/photos/6acf9c095d9dcf13afc8d0e4/1:1/w_768,c_limit/Errol%20Holden-SUPREME%20MAGNETIC%203.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6acf976fe615cb2f4737f0a3",
+    "artist": "Oren Ambarchi",
+    "title": "Cooked",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-10-15T04:00:00.000Z",
+    "dateFormatted": "October 15, 2026",
+    "url": "/reviews/albums/oren-ambarchi-cooked/",
+    "description": "Building an international band that includes Eiko Ishibashi, Jim O’Rourke, and a whistler, the Australian guitarist shapes longform spells of emotional and musical ambiguity.",
+    "reviewer": "Grayson Haver Currin",
+    "image": "https://media.pitchfork.com/photos/6acf970d75d631e933dbaa2a/1:1/w_768,c_limit/Oren%20Ambarchi%20-%20Cooked.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6ace84c806c4ac8cd755533a",
     "artist": "Troye Sivan",
     "title": "She’s the Best",
@@ -120,7 +192,7 @@
     "date": "2026-10-13T04:01:00.000Z",
     "dateFormatted": "October 13, 2026",
     "url": "/reviews/albums/space-afrika-quiet-storm/",
-    "description": "Born as the score to a surreal short film set on Manchester’s empty streets, the ambient duo’s latest album folds classical instrumentation and field recordings into a mood of deep introspection.",
+    "description": "The Manchester/Berlin ambient duo’s latest album folds classical instrumentation and field recordings into a mood of deep introspection.",
     "reviewer": "Kiana Mickles",
     "image": "https://media.pitchfork.com/photos/6accf4be107094c6276c7651/1:1/w_768,c_limit/Space%20Afrika%20-%20Quiet%20Storm.jpg",
     "releaseYear": 2026
