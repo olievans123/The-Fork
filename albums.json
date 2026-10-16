@@ -1,5 +1,79 @@
 [
   {
+    "id": "6ad1237f897ef4ba5187c687",
+    "artist": "@ ",
+    "title": "Autosmile",
+    "score": 8.6,
+    "bnm": true,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-10-16T04:03:00.000Z",
+    "dateFormatted": "October 16, 2026",
+    "url": "/reviews/albums/at-sign-autosmile/",
+    "description": "The Philly duo’s folk music radiates a special kind of energy. Their second album is tinged with psychedelia, a wicker wunderkammer of songs, spells, and secrets.",
+    "reviewer": "Sophie Kemp",
+    "image": "https://media.pitchfork.com/photos/6a3be91e393fc0fa5a7423cb/1:1/w_768,c_limit/@-Autosmile.jpeg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6acfbb189d44182959920f6e",
+    "artist": "Rachel Chinouriri",
+    "title": "I think I spoke too soon",
+    "score": 7.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B",
+      "Rock"
+    ],
+    "date": "2026-10-16T04:02:00.000Z",
+    "dateFormatted": "October 16, 2026",
+    "url": "/reviews/albums/rachel-chinouriri-i-think-i-spoke-too-soon/",
+    "description": "The London pop singer mines the pitfalls of young womanhood for dramedy on her sleeker, more polished second record, finding a sweet spot where goofy melodrama and emotional realism meet.",
+    "reviewer": "Grace Robins-Somerville",
+    "image": "https://media.pitchfork.com/photos/6ab179d106bd4642732ccf88/1:1/w_768,c_limit/1200214614201.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ad0fb2755d07c15782a2709",
+    "artist": "Jeremiah Chiu",
+    "title": "Edge Conditions",
+    "score": 7.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental",
+      "Electronic"
+    ],
+    "date": "2026-10-16T04:01:00.000Z",
+    "dateFormatted": "October 16, 2026",
+    "url": "/reviews/albums/jeremiah-chiu-edge-conditions/",
+    "description": "The Los Angeles synthesist steps out from improvising quintet SML to deliver a playful collection of rhythmic studies, electronic abstractions, and even a wriggly acid jam.",
+    "reviewer": "Jude Noel",
+    "image": "https://media.pitchfork.com/photos/6ad0fa9162c02f46ed117491/1:1/w_768,c_limit/Jeremiah%20Chiu%20-%20Edge%20Conditions.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ad0d7b1f0019c9f782352a7",
+    "artist": "Jon Hassell",
+    "title": "Music Is Invisible (Pentimento Volume Three)",
+    "score": 7.9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-10-16T04:00:00.000Z",
+    "dateFormatted": "October 16, 2026",
+    "url": "/reviews/albums/jon-hassell-music-is-invisible-pentimento-volume-three/",
+    "description": "The final entry in a painting-inspired trilogy of records draws on the trumpeter and composer’s last live show before his death, highlighting his focused, distinctive musical presence.",
+    "reviewer": "Mark Richardson",
+    "image": "https://media.pitchfork.com/photos/6a7c8bd5d4319edfaf67e65b/1:1/w_768,c_limit/Music%20Is%20Invisible%20by%20Jon%20Hassell.jpeg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6acfbed38ba2db87372f9d35",
     "artist": "Fontaines D.C.",
     "title": "Dopamine Chamber",
