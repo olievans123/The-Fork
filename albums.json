@@ -1,5 +1,23 @@
 [
   {
+    "id": "6ad0ea0f056973d40b8be8a3",
+    "artist": "Djrum",
+    "title": "DJ-Kicks",
+    "score": 8.4,
+    "bnm": true,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-10-17T04:00:00.000Z",
+    "dateFormatted": "October 17, 2026",
+    "url": "/reviews/albums/djrum-dj-kicks/",
+    "description": "The UK selector throws caution&#8212;and genre&#8212;to the winds on an audacious 82-minute set that careens between ambient, drill’n’bass, post-punk, breakcore, and more.",
+    "reviewer": "Ben Cardew",
+    "image": "https://media.pitchfork.com/photos/6ad0e91d056973d40b8be89e/1:1/w_768,c_limit/Djrum%20-%20DJ-Kicks.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6ad1237f897ef4ba5187c687",
     "artist": "@ ",
     "title": "Autosmile",
