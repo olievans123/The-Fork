@@ -1,5 +1,23 @@
 [
   {
+    "id": "6ad132aa7c7e85489863cd7e",
+    "artist": "Spacemen 3",
+    "title": "The Perfect Prescription",
+    "score": 9.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-10-18T04:00:00.000Z",
+    "dateFormatted": "October 18, 2026",
+    "url": "/reviews/albums/spacemen-3-the-perfect-prescription/",
+    "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we investigate J Spaceman and Sonic Boom’s 1987 psychedelic rock album, a mythically drugged-out method of divine transport.",
+    "reviewer": "Gabriel Szatan",
+    "image": "https://media.pitchfork.com/photos/6ad131e362c02f46ed1175c3/1:1/w_768,c_limit/Spacemen%203%20-%20The%20Perfect%20Prescription%20album%20art.jpg",
+    "releaseYear": 1987
+  },
+  {
     "id": "6ad0ea0f056973d40b8be8a3",
     "artist": "Djrum",
     "title": "DJ-Kicks",
