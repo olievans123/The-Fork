@@ -1,5 +1,77 @@
 [
   {
+    "id": "6ad13346f0019c9f78235476",
+    "artist": "Worldpeace DMT",
+    "title": "Stick Around for Tea",
+    "score": 8.3,
+    "bnm": true,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-10-19T04:03:00.000Z",
+    "dateFormatted": "October 19, 2026",
+    "url": "/reviews/albums/worldpeace-dmt-stick-around-for-tea/",
+    "description": "The irreverent duo of Leo Fincham and Rowan Please plies its brilliantly digitized indie-pop bricolage on an album with the ragtag splendor of a low-budget musical.",
+    "reviewer": "Samuel Hyland",
+    "image": "https://media.pitchfork.com/photos/6ad133ea47a15edc7845996a/1:1/w_768,c_limit/Worldpeace%20DMT%20-%20Stick%20Around%20for%20Tea%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ad104b3056973d40b8be8d5",
+    "artist": "They Are Gutting a Body of Water",
+    "title": "KOOL FAITH / LOOSIES II",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-10-19T04:02:00.000Z",
+    "dateFormatted": "October 19, 2026",
+    "url": "/reviews/albums/they-are-gutting-a-body-of-water-kool-faith-loosies-ii/",
+    "description": "The Philly shoegaze band calls on friends from across genres for a wide-spanning compilation that’s equal parts label sampler, B-sides showcase, and assembly of rising stars.",
+    "reviewer": "Abby Jones",
+    "image": "https://media.pitchfork.com/photos/6ab3e168ad1203b50827a447/1:1/w_768,c_limit/They%20Are%20Gutting%20a%20Body%20of%20Water%20Kool%20Faith%20Loosies%20II.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ad28017c0b3f01fb418b0e9",
+    "artist": "Teller Bank$",
+    "title": "NOAH",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-10-19T04:01:00.000Z",
+    "dateFormatted": "October 19, 2026",
+    "url": "/reviews/albums/teller-banks-noah/",
+    "description": "Teller Bank$ extends his visionary streak on his third album this year, a biblically inspired concept record that takes full advantage of his skillful pen and chimeric delivery.",
+    "reviewer": "Olivier Lafontant",
+    "image": "https://media.pitchfork.com/photos/6ad27f1843dd5de235952ef5/1:1/w_768,c_limit/Teller%20Bank$%20-%20Noah%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ad276da3a8d6ac39206bbcc",
+    "artist": "fish narc",
+    "title": "Uncle",
+    "score": 6.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-10-19T04:00:00.000Z",
+    "dateFormatted": "October 19, 2026",
+    "url": "/reviews/albums/fish-narc-uncle/",
+    "description": "The Olympia, Washington songwriter known for underground rap production pivots to sunny, nostalgic power-pop with distinct affection for the college-rock era.",
+    "reviewer": "Jeff Yerger",
+    "image": "https://media.pitchfork.com/photos/6ad275720dd1470351a8a233/1:1/w_768,c_limit/fish%20narc%20-%20Uncle%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6ad132aa7c7e85489863cd7e",
     "artist": "Spacemen 3",
     "title": "The Perfect Prescription",
