@@ -1,5 +1,77 @@
 [
   {
+    "id": "6ad65a8a788cdfdaacd85043",
+    "artist": "The Avalanches",
+    "title": "No Bad Memories",
+    "score": 8.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-10-20T04:03:00.000Z",
+    "dateFormatted": "October 20, 2026",
+    "url": "/reviews/albums/the-avalanches-no-bad-memories/",
+    "description": "Patching in audio logos and advertising dialog without interrupting the dreamlike sampledelic flow, the Australian band’s new album summons nostalgia for the era of truly mass media.",
+    "reviewer": "Philip Sherburne",
+    "image": "https://media.pitchfork.com/photos/6a74dae2af72977b209d59da/1:1/w_768,c_limit/No%20Bad%20Memories%20by%20the%20Avalanches.png",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ad65335e6ca4759ddfe6c2e",
+    "artist": "Zach Bryan",
+    "title": "Young Manhood and Other Donatable Organs EP",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Folk/Country"
+    ],
+    "date": "2026-10-20T04:02:00.000Z",
+    "dateFormatted": "October 20, 2026",
+    "url": "/reviews/albums/zach-bryan-young-manhood-and-other-donatable-organs-ep/",
+    "description": "On his first new music since getting sober, the prolific 30-year-old singer-songwriter offers a sense of adult clarity&#8212;and some welcome self-editing.",
+    "reviewer": "Grayson Haver Currin",
+    "image": "https://media.pitchfork.com/photos/6ad28eea0dd1470351a8a266/1:1/w_768,c_limit/Zach%20Bryan%20-%20Young%20Manhood%20and%20Other%20Donatable%20Organs%20EP%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ad64553e9e57aab49ce0c26",
+    "artist": "Way Dynamic",
+    "title": "Massive Shoe",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-10-20T04:01:00.000Z",
+    "dateFormatted": "October 20, 2026",
+    "url": "/reviews/albums/way-dynamic-massive-shoe/",
+    "description": "Dylan Young and his Melbourne group fill their third album with winsome and warm tracks whose best moments combine rambling guitars with tales of bruising regret.",
+    "reviewer": "Linnie Greene",
+    "image": "https://media.pitchfork.com/photos/6ad64354e6ca4759ddfe6b50/1:1/w_768,c_limit/Way%20Dynamic-Massive%20Shoe.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ad63b7aac61f96d843e544d",
+    "artist": "Renny Conti",
+    "title": "Split Second",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-10-20T04:00:00.000Z",
+    "dateFormatted": "October 20, 2026",
+    "url": "/reviews/albums/renny-conti-split-second/",
+    "description": "The singer-songwriter’s hushed meditations on grief unfold like a series of hazy recollections, occasionally punctured by vivid descriptions and urgent arrangements.",
+    "reviewer": "Alex Robert Ross",
+    "image": "https://media.pitchfork.com/photos/6ad63ada92212513baf7ebae/1:1/w_768,c_limit/Renny%20Conti-Split%20Second.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6ad13346f0019c9f78235476",
     "artist": "Worldpeace DMT",
     "title": "Stick Around for Tea",
