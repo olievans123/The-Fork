@@ -1,5 +1,78 @@
 [
   {
+    "id": "6ad780ed0684aacfe7e8afeb",
+    "artist": "Sophia Stel",
+    "title": "the greatest album of all time",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-10-21T04:03:00.000Z",
+    "dateFormatted": "October 21, 2026",
+    "url": "/reviews/albums/sophia-stel-the-greatest-album-of-all-time/",
+    "description": "Casual but never unconsidered, the Canadian songwriter’s porous blend of pop, trip-hop, and hip-hop evokes late-night group hangs and intense body highs.",
+    "reviewer": "Walden Green",
+    "image": "https://media.pitchfork.com/photos/6acfa1617b620b9086574c22/1:1/w_768,c_limit/600x600bb%20(88).jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ad7bb87b9675e3c8c53e802",
+    "artist": "Andy Shauf",
+    "title": "The Party (10th Anniversary Edition)",
+    "score": 8.5,
+    "bnm": false,
+    "bnr": true,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-10-21T04:02:00.000Z",
+    "dateFormatted": "October 21, 2026",
+    "url": "/reviews/albums/andy-shauf-the-party-10th-anniversary-edition/",
+    "description": "Tracing the events of a single evening, the Canadian songwriter’s cult-favorite concept album gets a new reissue with demos and outtakes that add darker shades to its intimate, soft-rock vignettes.",
+    "reviewer": "Lily Goldberg",
+    "image": "https://media.pitchfork.com/photos/6ad7c55a0684aacfe7e8b107/1:1/w_768,c_limit/TheParty_AndyShauf_1600x1600.jpg",
+    "releaseYear": 2026,
+    "originalYear": 2016
+  },
+  {
+    "id": "6ad76ad3f8dcc9c36aed626b",
+    "artist": "Seventhirtyatmorning",
+    "title": "Antione’s Son",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-10-21T04:01:00.000Z",
+    "dateFormatted": "October 21, 2026",
+    "url": "/reviews/albums/seventhirtyatmorning-antiones-son/",
+    "description": "The core elements&#8212;airy melodies, drug talk, copious ad-libs&#8212;are old hat, but frank tales of suburban ennui and romantic strife give the Minneapolis rapper’s latest album a refreshingly personal air.",
+    "reviewer": "Alphonse Pierre",
+    "image": "https://media.pitchfork.com/photos/6ad769a607793ccccc6d6ac5/1:1/w_768,c_limit/Seventhirtyatmorning%20-%20Antione's%20Son.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ad781b2697742c7de82d974",
+    "artist": "Zukenee",
+    "title": "BLUNTS &amp; BLADES",
+    "score": 7.9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-10-21T04:00:00.000Z",
+    "dateFormatted": "October 21, 2026",
+    "url": "/reviews/albums/zukenee-blunts-and-blades/",
+    "description": "Zukenee’s acrobatic performances and appreciation for Atlanta rap history outshine even his suit of medieval armor.",
+    "reviewer": "Narsimha Gour Chintaluri",
+    "image": "https://media.pitchfork.com/photos/6ab41534f7ef2378a6776d57/1:1/w_768,c_limit/Zukenee-%20Blunts%20and%20Blades.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6ad65a8a788cdfdaacd85043",
     "artist": "The Avalanches",
     "title": "No Bad Memories",
