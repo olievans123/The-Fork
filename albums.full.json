@@ -1,5 +1,77 @@
 [
   {
+    "id": "6ad90934307e18bf9f5d1871",
+    "artist": "Alchemical Sisters",
+    "title": "Alchemical Sisters",
+    "score": 8.3,
+    "bnm": true,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-10-22T04:03:00.000Z",
+    "dateFormatted": "October 22, 2026",
+    "url": "/reviews/albums/alchemical-sisters-alchemical-sisters/",
+    "description": "For their collaborative full-length debut, Eris Drew and Octo Octa hunkered down in their New Hampshire cabin to craft a celebratory, sample-heavy tribute to the maximalist dance music of yore.",
+    "reviewer": "Andrew Ryce",
+    "image": "https://media.pitchfork.com/photos/6a885e2c3ebe66b3901a13cd/1:1/w_768,c_limit/Eris-Drew-Octo-Octa-Alchemical-Sisters.jpeg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ad8d9b3ef24002f55bad3fa",
+    "artist": "Ryan Hemsworth",
+    "title": "Numbskull",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-10-22T04:02:00.000Z",
+    "dateFormatted": "October 22, 2026",
+    "url": "/reviews/albums/ryan-hemsworth-numbskull/",
+    "description": "On his first album in eight years, the Canadian DJ and producer reconnects with the guitar music of his youth, drawing on punk, emo, and shoegaze for an album that plays like a handmade mixtape.",
+    "reviewer": "Mehan Jayasuriya",
+    "image": "https://media.pitchfork.com/photos/6a7b8a52050964276156a80d/1:1/w_768,c_limit/Numbskull%20album%20art_credit_CoreySchmitz.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ad8ea66a22d39bf5b2f7083",
+    "artist": "Baba Stiltz",
+    "title": "Totally",
+    "score": 6.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-10-22T04:01:00.000Z",
+    "dateFormatted": "October 22, 2026",
+    "url": "/reviews/albums/baba-stiltz-totally/",
+    "description": "The Swedish polymath explores the sounds, language, and imagery of Americana on a drolly observational singer-songwriter album.",
+    "reviewer": "Harry Thorfinn-George",
+    "image": "https://media.pitchfork.com/photos/6ad8e9e813dcf53c610da82c/1:1/w_768,c_limit/Baba%20Stiltz%20Totally.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ad7844c0684aacfe7e8b044",
+    "artist": "Dummy",
+    "title": "do you love the color of the sky?",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-10-22T04:00:00.000Z",
+    "dateFormatted": "October 22, 2026",
+    "url": "/reviews/albums/dummy-do-you-love-the-color-of-the-sky/",
+    "description": "The Los Angeles band dials up the hazy distortion and synthetic sheen surrounding its spacey blend of shoegaze guitars and breakbeats.",
+    "reviewer": "Sue Park",
+    "image": "https://media.pitchfork.com/photos/6a7dd69bca14a077a056d363/1:1/w_768,c_limit/unnamed%20-%202026-08-13T103639.912.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6ad780ed0684aacfe7e8afeb",
     "artist": "Sophia Stel",
     "title": "the greatest album of all time",
