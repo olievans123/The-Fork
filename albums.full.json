@@ -1,5 +1,75 @@
 [
   {
+    "id": "6ada5d44f00eb0165f8136bf",
+    "artist": "Fine",
+    "title": "Jazz dreams",
+    "score": 8.7,
+    "bnm": true,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-10-23T04:03:00.000Z",
+    "dateFormatted": "October 23, 2026",
+    "url": "/reviews/albums/fine-jazz-dreams/",
+    "description": "The Danish artist achieves a beguiling flow state on her second solo album: a set of future standards full of empty space.",
+    "reviewer": "Hattie Lindert",
+    "image": "https://media.pitchfork.com/photos/6ab1771595d5696b67afdb2c/1:1/w_768,c_limit/a0271857415_10.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ad9c6e6e9233676198d4971",
+    "artist": "Jacques Greene",
+    "title": "jg",
+    "score": 7.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-10-23T04:02:00.000Z",
+    "dateFormatted": "October 23, 2026",
+    "url": "/reviews/albums/jacques-greene-jg/",
+    "description": "A year after his moody collab with Nosaj Thing, the Montreal producer returns with his clubbiest album yet. But even when it bangs, his music still sounds as dreamy as ever.",
+    "reviewer": "Kiana Mickles",
+    "image": "https://media.pitchfork.com/photos/6ad9c65110f23c4740171808/1:1/w_768,c_limit/Jacques%20Greene%20-%20jg.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ada5a4b7e90220feda21246",
+    "artist": "Shabazz Palaces",
+    "title": "It’s a Style Sport",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-10-23T04:01:00.000Z",
+    "dateFormatted": "October 23, 2026",
+    "url": "/reviews/albums/shabazz-palaces-its-a-style-sport/",
+    "description": "Ishmael Butler explores the cosmos within on a shadowy and uncharacteristically introspective new album.",
+    "reviewer": "Dash Lewis",
+    "image": "https://media.pitchfork.com/photos/6ada59e651345c8f17678d01/1:1/w_768,c_limit/Shabazz%20Palaces%20It's%20A%20Style%20Sport.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ad9014df6a56a2545c47481",
+    "artist": "Unknown",
+    "title": "Beirut City Pop",
+    "score": 7.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [],
+    "date": "2026-10-23T04:00:00.000Z",
+    "dateFormatted": "October 23, 2026",
+    "url": "/reviews/albums/various-artists-beirut-city-pop/",
+    "description": "Habibi Funk’s latest compilation shines a spotlight on the vintage soul, disco, and jazz that sprang up as a homegrown response to Lebanon’s brutal civil war.",
+    "reviewer": "Shy Clara Thompson",
+    "image": "https://media.pitchfork.com/photos/6ad8ffeb96279ee60f9f9373/1:1/w_768,c_limit/Beirut%20City%20Pop.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6ad90934307e18bf9f5d1871",
     "artist": "Alchemical Sisters",
     "title": "Alchemical Sisters",
