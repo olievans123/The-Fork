@@ -1,5 +1,24 @@
 [
   {
+    "id": "6ada3976c44496c6b9907708",
+    "artist": "Amy Winehouse",
+    "title": "Back to Black (20th Anniversary Edition)",
+    "score": 9.2,
+    "bnm": false,
+    "bnr": true,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-10-24T04:00:00.000Z",
+    "dateFormatted": "October 24, 2026",
+    "url": "/reviews/albums/amy-winehouse-back-to-black-20th-anniversary-edition/",
+    "description": "Even with unreleased demos on the tracklist, there’s hardly anything to add to Amy Winehouse’s 2006 blockbuster, one of the all-time great breakup albums.",
+    "reviewer": "Rich Juzwiak",
+    "image": "https://media.pitchfork.com/photos/6ada38d1f00eb0165f8135ae/1:1/w_768,c_limit/Amy%20Winehouse%20-%20Back%20to%20Black%2020th%20anniversary%20edition%20album%20art.jpg",
+    "releaseYear": 2026,
+    "originalYear": 2006
+  },
+  {
     "id": "6ada5d44f00eb0165f8136bf",
     "artist": "Fine",
     "title": "Jazz dreams",
