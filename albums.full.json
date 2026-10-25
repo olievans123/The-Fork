@@ -1,5 +1,23 @@
 [
   {
+    "id": "6ada6e9f82ae618a2927a695",
+    "artist": "Ne-Yo",
+    "title": "In My Own Words",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-10-25T04:00:00.000Z",
+    "dateFormatted": "October 25, 2026",
+    "url": "/reviews/albums/ne-yo-in-my-own-words/",
+    "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible.  Today, we revisit the 2006 debut from Ne-Yo, a gifted young songwriter whose suave, supportive love songs put ladies first.",
+    "reviewer": "Clover Hope",
+    "image": "https://media.pitchfork.com/photos/6ada6e3198461794d4a4a34f/1:1/w_768,c_limit/Ne-Yo%20-%20In%20My%20Own%20Words%20album%20art.jpg",
+    "releaseYear": 2006
+  },
+  {
     "id": "6ada3976c44496c6b9907708",
     "artist": "Amy Winehouse",
     "title": "Back to Black (20th Anniversary Edition)",
