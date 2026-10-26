@@ -1,5 +1,77 @@
 [
   {
+    "id": "6adb862eeb79c260502e9103",
+    "artist": "heavensouls",
+    "title": "cantu of the sower",
+    "score": 8.2,
+    "bnm": true,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-10-26T04:03:00.000Z",
+    "dateFormatted": "October 26, 2026",
+    "url": "/reviews/albums/heavensouls-cantu-of-the-sower-ep/",
+    "description": "An album-length EP by the 20-year-old producer is a dizzying and boundless collage of collages, using free-jazz logic and digital overload to chart new emotional terrain.",
+    "reviewer": "Kieran Press-Reynolds",
+    "image": "https://media.pitchfork.com/photos/6adb85c8eb79c260502e90fb/1:1/w_768,c_limit/heavensouls%20Cantu%20of%20the%20sower.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6adb709f870a7909ca5ee872",
+    "artist": "Caroline Rose",
+    "title": "Gentling the Horse at the Walt Whitman Mall",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-10-26T04:02:00.000Z",
+    "dateFormatted": "October 26, 2026",
+    "url": "/reviews/albums/caroline-rose-gentling-the-horse-at-the-walt-whitman-mall/",
+    "description": "The singer-songwriter’s seventh album is their wackiest and funniest to date, with a madcap gleam coursing through its portraits of lovable weirdos and suburban dread.",
+    "reviewer": "Zach Schonfeld",
+    "image": "https://media.pitchfork.com/photos/6ad9138a99efacf8991d37c0/1:1/w_768,c_limit/3000x3000bb-100%20(1).jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ad910f699efacf8991d3738",
+    "artist": "Holidays in United States",
+    "title": "How to Count to Five",
+    "score": 6.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-10-26T04:01:00.000Z",
+    "dateFormatted": "October 26, 2026",
+    "url": "/reviews/albums/holidays-in-united-states-how-to-count-to-five/",
+    "description": "The New York City emo band’s debut LP splits the difference between the genre’s first and second waves with sincerity and self-deprecating charm.",
+    "reviewer": "Nick Laskin",
+    "image": "https://media.pitchfork.com/photos/6ad910aff6a56a2545c47504/1:1/w_768,c_limit/Holidays%20in%20United%20States%20-%20How%20to%20Count%20to%20Five%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6adb8ca3a8228db999f7c46c",
+    "artist": "Andy Boay",
+    "title": "Doomed",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-10-26T04:00:00.000Z",
+    "dateFormatted": "October 26, 2026",
+    "url": "/reviews/albums/andy-boay-doomed/",
+    "description": "On his latest solo album, the Tonstartssbandht guitarist/vocalist crafts a serene, psychedelic opus that invites us to become immersed.",
+    "reviewer": "Ryan Meehan",
+    "image": "https://media.pitchfork.com/photos/6adb8c090ac26c3bad94e14d/1:1/w_768,c_limit/Andy%20Boay%20Doomed.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6ada6e9f82ae618a2927a695",
     "artist": "Ne-Yo",
     "title": "In My Own Words",
