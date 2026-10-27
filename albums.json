@@ -1,5 +1,77 @@
 [
   {
+    "id": "6adf80a434ae3fce8b12a62a",
+    "artist": "Loidis",
+    "title": "From the Toolkit of Lovers",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-10-27T04:03:00.000Z",
+    "dateFormatted": "October 27, 2026",
+    "url": "/reviews/albums/loidis-from-the-toolkit-of-lovers/",
+    "description": "The artist better known as Huerco S. nudges the minimal-house revival toward new extremes&#8212;of detail, duration, sensuousness&#8212;on a sprawling triple LP of hypnotic, late-night grooves.",
+    "reviewer": "Daniel Bromfield",
+    "image": "https://media.pitchfork.com/photos/6adf80357100ccad9466ea62/1:1/w_768,c_limit/Loidis%20-%20From%20the%20Toolkit%20of%20Lovers.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6adf67e32b9c0fcc1de155c8",
+    "artist": "Tony Iommi",
+    "title": "From the Dark",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Metal"
+    ],
+    "date": "2026-10-27T04:02:00.000Z",
+    "dateFormatted": "October 27, 2026",
+    "url": "/reviews/albums/tony-iommi-from-the-dark/",
+    "description": "Teaming with Norwegian vocalist Jørn Lande, the 78-year-old Black Sabbath guitarist gets back to heavy-metal basics on a proudly uncompromising new solo album.",
+    "reviewer": "Brad Sanders",
+    "image": "https://media.pitchfork.com/photos/6adf67212b9c0fcc1de155c3/1:1/w_768,c_limit/Tony%20Iommi%20From%20the%20Dark.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6adf9c4498bbebd5e51cd175",
+    "artist": "Hysterical Love Project",
+    "title": "February’s Album",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-10-27T04:01:00.000Z",
+    "dateFormatted": "October 27, 2026",
+    "url": "/reviews/albums/hysterical-love-project-februarys-album/",
+    "description": "The Melbourne duo taps into trip-hop’s essential strangeness on its latest album, trading the genre’s boilerplate languor for dejected moods, menacing auras, and slippery, all-consuming bass.",
+    "reviewer": "Sam Goldner",
+    "image": "https://media.pitchfork.com/photos/6adf629398bbebd5e51cd09c/1:1/w_768,c_limit/Hysterial%20Love%20Project%20-%20February's%20Album.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6adf8bb5baf3c8bb4e22481e",
+    "artist": "Skino",
+    "title": "Blood &amp; Oil",
+    "score": 6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-10-27T04:00:00.000Z",
+    "dateFormatted": "October 27, 2026",
+    "url": "/reviews/albums/skino-blood-and-oil/",
+    "description": "The Washington, D.C. rapper’s new album epitomizes the best and worst of free car music: palatial experimental beats full of atmospheric drama and dull, interchangeable delivery.",
+    "reviewer": "Olivier Lafontant",
+    "image": "https://media.pitchfork.com/photos/6adf8b34baf3c8bb4e224819/1:1/w_768,c_limit/Skino%20-%20Blood%20&%20Oil%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6adb862eeb79c260502e9103",
     "artist": "heavensouls",
     "title": "cantu of the sower",
