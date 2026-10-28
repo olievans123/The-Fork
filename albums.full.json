@@ -1,5 +1,78 @@
 [
   {
+    "id": "6ae0bb62aa9a54fd537b99e0",
+    "artist": "Yung Miami",
+    "title": "Watch Dis!",
+    "score": 6.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-10-28T04:03:00.000Z",
+    "dateFormatted": "October 28, 2026",
+    "url": "/reviews/albums/yung-miami-watch-dis/",
+    "description": "The former City Girl’s solo LP is entertaining enough to overlook the weaker features and superfluous “Spend Dat” remixes. The song dedicated to Diddy, not so much.",
+    "reviewer": "Alphonse Pierre",
+    "image": "https://media.pitchfork.com/photos/6abe76f0cfa7613edd653e56/1:1/w_768,c_limit/frontcover(noPA).jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6adf9d2866a3cbd8b341c544",
+    "artist": "Sour Widows",
+    "title": "Sigil",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-10-28T04:02:00.000Z",
+    "dateFormatted": "October 28, 2026",
+    "url": "/reviews/albums/sour-widows-sigil/",
+    "description": "The California band channels uneasy dreams and looming threats into tense, slowcore-infused indie rock on a new album produced with Jay Som’s Melina Duterte.",
+    "reviewer": "Marissa Lorusso",
+    "image": "https://media.pitchfork.com/photos/6a6a01cdfdd0ba9932ac17df/1:1/w_768,c_limit/Sour-Widows-Sigil.jpeg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ae0dbf9971514a8a4fb3213",
+    "artist": "Mackeeper",
+    "title": "Believe You Me",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-10-28T04:01:00.000Z",
+    "dateFormatted": "October 28, 2026",
+    "url": "/reviews/albums/mackeeper-believe-you-me/",
+    "description": "On their full-length debut, the buzzy NYC siblings pay tribute to the fuckboy charm of the aughts with their precocious, mischievous, and rapidly evolving pop music.",
+    "reviewer": "Samuel Hyland",
+    "image": "https://media.pitchfork.com/photos/6ae0db906448153e84a5459c/1:1/w_768,c_limit/Mackeeper%20Believe%20You%20Me.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ae0c2b16940a92a86fc3e67",
+    "artist": "Susanne Sundfør",
+    "title": "Revelations of Divine Love",
+    "score": 7.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Folk/Country",
+      "Experimental"
+    ],
+    "date": "2026-10-28T04:00:00.000Z",
+    "dateFormatted": "October 28, 2026",
+    "url": "/reviews/albums/susanne-sundfor-revelations-of-divine-love/",
+    "description": "On her eighth album, the Norwegian singer, backed by pipe organ, draws on a 14th-century Christian text for a record wholly devoted to the divine.",
+    "reviewer": "Emma Madden",
+    "image": "https://media.pitchfork.com/photos/6ae0c1f701eb9afa5af3c088/1:1/w_768,c_limit/Susanne%20Sundfor-Revelations%20of%20Divine%20Love.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6adf80a434ae3fce8b12a62a",
     "artist": "Loidis",
     "title": "From the Toolkit of Lovers",
