@@ -1,5 +1,78 @@
 [
   {
+    "id": "6ae225242352218f846427b4",
+    "artist": "The Olivia Tremor Control",
+    "title": "The Same Place",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-10-29T04:03:00.000Z",
+    "dateFormatted": "October 29, 2026",
+    "url": "/reviews/albums/the-olivia-tremor-control-the-same-place/",
+    "description": "Following the deaths of two founding members, the long-in-the-works final album from the Elephant 6 group is a dark, psychedelic epic that unfolds with eerie clairvoyance and intensity.",
+    "reviewer": "Patrick Lyons",
+    "image": "https://media.pitchfork.com/photos/6ae22497903c0fd4dcfc1d19/1:1/w_768,c_limit/The%20Olivia%20Tremor%20Control%20The%20Same%20Place.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ae225eefb12d4cb10371c8e",
+    "artist": "brakence",
+    "title": "marroW",
+    "score": 6.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-10-29T04:02:00.000Z",
+    "dateFormatted": "October 29, 2026",
+    "url": "/reviews/albums/brakence-marrow/",
+    "description": "The Ohio artist’s first album in four years is paranoid, indulgent, and theatrical, unfolding like a dark romantasy novel.",
+    "reviewer": "Kieran Press-Reynolds",
+    "image": "https://media.pitchfork.com/photos/6ad913bf0c92ad66cf11be07/1:1/w_768,c_limit/3000x3000bb-100%20(2).jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ae0c01a971514a8a4fb3121",
+    "artist": "Anderson .Paak / Cordae",
+    "title": "Heavy Is the Crown",
+    "score": 6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B",
+      "Rap"
+    ],
+    "date": "2026-10-29T04:01:00.000Z",
+    "dateFormatted": "October 29, 2026",
+    "url": "/reviews/albums/anderson-paak-cordae-heavy-is-the-crown/",
+    "description": "Anderson .Paak and Cordae kick back over a suite of boom-bap and trap-adjacent slappers on their lopsided but entertaining collaborative album.",
+    "reviewer": "Dylan Green",
+    "image": "https://media.pitchfork.com/photos/6a85bffccf56144a2fd11199/1:1/w_768,c_limit/Anderson-Paak-Heavy-Is-the-Crown.jpeg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ae21cd4268b1975939f3278",
+    "artist": "Water Damage",
+    "title": "Repair",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-10-29T04:00:00.000Z",
+    "dateFormatted": "October 29, 2026",
+    "url": "/reviews/albums/water-damage-repair/",
+    "description": "The Austin ensemble makes minimalism feel enveloping and unruly on its latest record, where new melodic details are always emerging from a swarming mass of sound.",
+    "reviewer": "Vanessa Ague",
+    "image": "https://media.pitchfork.com/photos/6ae21b827b487fd17701118a/1:1/w_768,c_limit/Water%20Damage-Repair.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6ae0bb62aa9a54fd537b99e0",
     "artist": "Yung Miami",
     "title": "Watch Dis!",
@@ -147,7 +220,7 @@
   {
     "id": "6adb862eeb79c260502e9103",
     "artist": "heavensouls",
-    "title": "cantu of the sower",
+    "title": "cantu of the sower EP",
     "score": 8.2,
     "bnm": true,
     "bnr": false,
