@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://the-fork.vercel.app/</loc><priority>1.0</priority></url>
+<url><loc>https://the-fork.vercel.app/album/diiv-zirp</loc><priority>0.6</priority></url>
+<url><loc>https://the-fork.vercel.app/album/heathers-awesome</loc><priority>0.6</priority></url>
+<url><loc>https://the-fork.vercel.app/album/satanic-planet-dead-deities</loc><priority>0.6</priority></url>
+<url><loc>https://the-fork.vercel.app/album/more-eaze-valley-and-structure</loc><priority>0.6</priority></url>
 <url><loc>https://the-fork.vercel.app/album/the-olivia-tremor-control-the-same-place</loc><priority>0.6</priority></url>
 <url><loc>https://the-fork.vercel.app/album/brakence-marrow</loc><priority>0.6</priority></url>
 <url><loc>https://the-fork.vercel.app/album/anderson-paak-cordae-heavy-is-the-crown</loc><priority>0.6</priority></url>

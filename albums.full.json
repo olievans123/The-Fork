@@ -1,5 +1,77 @@
 [
   {
+    "id": "6ae3695913936ee9eac88a34",
+    "artist": "DIIV",
+    "title": "ZIRP!",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-10-30T04:03:00.000Z",
+    "dateFormatted": "October 30, 2026",
+    "url": "/reviews/albums/diiv-zirp/",
+    "description": "The shoegaze band teams with producer A. G. Cook for its most pop-leaning record yet. Despite some welcome shifts in tone, the best moments sound like no one but DIIV.",
+    "reviewer": "Larry Fitzmaurice",
+    "image": "https://media.pitchfork.com/photos/6a73e45ad12418ea88fa0f4d/1:1/w_768,c_limit/diiv-zirp!-cover-3k-rgb.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ae3693b13936ee9eac88a30",
+    "artist": "Heathers",
+    "title": "Awesome",
+    "score": 7.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-10-30T04:02:00.000Z",
+    "dateFormatted": "October 30, 2026",
+    "url": "/reviews/albums/heathers-awesome/",
+    "description": "Upstart guitarist Heath Michael Thomas’ shaggy, groove-heavy garage rock captures the raucous interplay of a much more practiced band.",
+    "reviewer": "Sam Goldner",
+    "image": "https://media.pitchfork.com/photos/6ae368415ab3de1a43c5f859/1:1/w_768,c_limit/Heathers%20-%20Awesome%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ae36ca0efb3062cf478c68b",
+    "artist": "Satanic Planet",
+    "title": "Dead Deities",
+    "score": 6.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Metal"
+    ],
+    "date": "2026-10-30T04:01:00.000Z",
+    "dateFormatted": "October 30, 2026",
+    "url": "/reviews/albums/satanic-planet-dead-deities/",
+    "description": "The metal supergroup led by the co-founder and spokesperson of the Satanic Temple returns with a provocative, maximalist, and pretty solid second album.",
+    "reviewer": "Sadie Sartini Garner",
+    "image": "https://media.pitchfork.com/photos/6ae36a8ea7a049e9e3b0e7e9/1:1/w_768,c_limit/Satanic%20Planet%20Dead%20Deities.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ae36f1fefb3062cf478c6c3",
+    "artist": "more eaze",
+    "title": "valley and structure",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-10-30T04:00:00.000Z",
+    "dateFormatted": "October 30, 2026",
+    "url": "/reviews/albums/more-eaze-valley-and-structure/",
+    "description": "The experimental musician refines her approach to structured repetition on her second solo album of the year, finding melancholic beauty by subtly transforming Americana-inflected loops and patterns.",
+    "reviewer": "Henry Ivry",
+    "image": "https://media.pitchfork.com/photos/6ae36eae95988ef7e2e81f6c/1:1/w_768,c_limit/More%20Eaze-valley%20and%20structure.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6ae225242352218f846427b4",
     "artist": "The Olivia Tremor Control",
     "title": "The Same Place",
