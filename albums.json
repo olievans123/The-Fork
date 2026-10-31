@@ -1,5 +1,23 @@
 [
   {
+    "id": "6ae3788c46314d3f67566207",
+    "artist": "Aphex Twin",
+    "title": "Drukqs (25th Anniversary Edition)",
+    "score": 9.5,
+    "bnm": false,
+    "bnr": true,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-10-31T04:00:00.000Z",
+    "dateFormatted": "October 31, 2026",
+    "url": "/reviews/albums/aphex-twin-drukqs-25th-anniversary-edition/",
+    "description": "Richard D. James’ once divisive 2001 album today looks, with 25 years of hindsight, like the keystone of his career, joining rave mischief and academic rigor in a sprawling, 100-minute package.",
+    "reviewer": "Andy Cush",
+    "image": "https://media.pitchfork.com/photos/6ae377d7efb3062cf478c6cd/1:1/w_768,c_limit/Aphex%20Twin%20-%20Drukqs%202026.jpg",
+    "releaseYear": 2001
+  },
+  {
     "id": "6ae3695913936ee9eac88a34",
     "artist": "DIIV",
     "title": "ZIRP!",
