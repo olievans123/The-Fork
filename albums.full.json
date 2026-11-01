@@ -1,5 +1,21 @@
 [
   {
+    "id": "6ae4b458b3dcf37f45c56a7d",
+    "artist": "Unknown",
+    "title": "Katamari Fortissimo Damacy",
+    "score": 9.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [],
+    "date": "2026-11-01T04:00:00.000Z",
+    "dateFormatted": "November 1, 2026",
+    "url": "/reviews/albums/various-artists-katamari-fortissimo-damacy/",
+    "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we reconnect with a 2004 cult-classic game whose postmodernist soundtrack doubles as a treatise on the meaning of life.",
+    "reviewer": "Billie Bugara",
+    "image": "https://media.pitchfork.com/photos/6ae36f01c138238a931e34e7/1:1/w_768,c_limit/Various%20-%20Katamari%20Fortissimo%20Damacy%20(original).jpg",
+    "releaseYear": 2004
+  },
+  {
     "id": "6ae3788c46314d3f67566207",
     "artist": "Aphex Twin",
     "title": "Drukqs (25th Anniversary Edition)",
