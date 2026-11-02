@@ -1,5 +1,78 @@
 [
   {
+    "id": "6ae21451f181ae0e808e8edf",
+    "artist": "Andy Stott",
+    "title": "Late Loop",
+    "score": 7.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-11-02T05:03:00.000Z",
+    "dateFormatted": "November 2, 2026",
+    "url": "/reviews/albums/andy-stott-late-loop/",
+    "description": "Featuring heartbroken vocal performances and stripped of frills like basslines or reverb, the Manchester producer’s latest album of bruised electronica is his starkest and most forlorn yet.",
+    "reviewer": "Chal Ravens",
+    "image": "https://media.pitchfork.com/photos/6ab17549f99f7bf88c241c73/1:1/w_768,c_limit/5060165488810.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ae3ba0d48e8fef397820f79",
+    "artist": "Ashe",
+    "title": "The Girl of Your Dreams",
+    "score": 6.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-11-02T05:02:00.000Z",
+    "dateFormatted": "November 2, 2026",
+    "url": "/reviews/albums/ashe-the-girl-of-your-dreams/",
+    "description": "The “Stop the Wedding!” singer’s vintage-styled new album combines stately pop classicism and exuberant ’70s pastiche.",
+    "reviewer": "Molly Mary O’Brien",
+    "image": "https://media.pitchfork.com/photos/6ae3b9afdd353d3745bb9abf/1:1/w_768,c_limit/Ashe%20-%20The%20Girl%20of%20Your%20Dreams%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ae4bdf60b7e9ab8ceb58331",
+    "artist": "William Basinski",
+    "title": "Passing the Cup of Sorrows",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-11-02T05:01:00.000Z",
+    "dateFormatted": "November 2, 2026",
+    "url": "/reviews/albums/william-basinski-passing-the-cup-of-sorrows/",
+    "description": "<em>The Disintegration Loops</em> made the composer’s name synonymous with weighty meditations on memory and loss, but his latest album&#8212;calm, focused, tender&#8212;is a reminder of his fondness for beauty.",
+    "reviewer": "Brian Howe",
+    "image": "https://media.pitchfork.com/photos/6ae4bc8c00019c3ef93fb729/1:1/w_768,c_limit/William%20Basinski%20-%20Passing%20the%20Cup%20of%20Sorrows.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ae3759a78d2041d1206c2d4",
+    "artist": "Shovel Dance Collective",
+    "title": "Everything in Readiness",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock",
+      "Folk/Country"
+    ],
+    "date": "2026-11-02T05:00:00.000Z",
+    "dateFormatted": "November 2, 2026",
+    "url": "/reviews/albums/shovel-dance-collective-everything-in-readiness/",
+    "description": "Marrying lush arrangements and field-recording experiments, the English revivalists honor folk music’s radical tradition by reinforcing its contemporary significance.",
+    "reviewer": "Alastair Shuttleworth",
+    "image": "https://media.pitchfork.com/photos/6ae36bbdd83a22061522fc42/1:1/w_768,c_limit/Shovel%20Dance%20Collective%20-%20Everything%20in%20Readiness%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6ae4b458b3dcf37f45c56a7d",
     "artist": "Unknown",
     "title": "Katamari Fortissimo Damacy",
