@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://the-fork.vercel.app/</loc><priority>1.0</priority></url>
+<url><loc>https://the-fork.vercel.app/album/kali-malone-burning-song</loc><priority>0.6</priority></url>
+<url><loc>https://the-fork.vercel.app/album/lydia-loveless-accolades-ep</loc><priority>0.6</priority></url>
+<url><loc>https://the-fork.vercel.app/album/two-shell-infinite-now</loc><priority>0.6</priority></url>
+<url><loc>https://the-fork.vercel.app/album/cecil-taylor-unit-live-at-the-kimo-theater-albuquerque-1979</loc><priority>0.6</priority></url>
 <url><loc>https://the-fork.vercel.app/album/andy-stott-late-loop</loc><priority>0.6</priority></url>
 <url><loc>https://the-fork.vercel.app/album/ashe-the-girl-of-your-dreams</loc><priority>0.6</priority></url>
 <url><loc>https://the-fork.vercel.app/album/william-basinski-passing-the-cup-of-sorrows</loc><priority>0.6</priority></url>

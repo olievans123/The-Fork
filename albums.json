@@ -1,5 +1,77 @@
 [
   {
+    "id": "6ae8b766a33795fdee21c641",
+    "artist": "Kali Malone",
+    "title": "Burning Song",
+    "score": 8.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-11-03T05:03:00.000Z",
+    "dateFormatted": "November 3, 2026",
+    "url": "/reviews/albums/kali-malone-burning-song/",
+    "description": "Unlike the composer’s typically massive, sprawling drones, these pieces for pipe organ&#8212;accompanied by guitarist Stephen O’Malley and cellist Lucy Railton&#8212;are finely filigreed miniatures.",
+    "reviewer": "Sasha Geffen",
+    "image": "https://media.pitchfork.com/photos/6ae8b6b76f5468feebccc392/1:1/w_768,c_limit/Kali%20Malone%20-%20Burning%20Song.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ae49e701534acc465ada84c",
+    "artist": "Lydia Loveless",
+    "title": "Accolades EP",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Folk/Country"
+    ],
+    "date": "2026-11-03T05:02:00.000Z",
+    "dateFormatted": "November 3, 2026",
+    "url": "/reviews/albums/lydia-loveless-accolades-ep/",
+    "description": "On a new EP, the Ohio singer-songwriter writes with focus and immediacy, their lyrics blending a love of chaos with an eye toward long-term stability.",
+    "reviewer": "Stephen M. Deusner",
+    "image": "https://media.pitchfork.com/photos/6ae49e061534acc465ada843/1:1/w_768,c_limit/Lydia%20Loveless-Accolades.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ae8aea92f2c8ff8b844ef80",
+    "artist": "Two Shell",
+    "title": "Infinite Now",
+    "score": 3.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-11-03T05:01:00.000Z",
+    "dateFormatted": "November 3, 2026",
+    "url": "/reviews/albums/two-shell-infinite-now/",
+    "description": "The perennially unserious duo’s embrace of AI is the least of the problems weighing down its latest album (and 55-track bonus compendium) of post-ironic club pop.",
+    "reviewer": "Andrew Ryce",
+    "image": "https://media.pitchfork.com/photos/6ae8add83ad14b0f5282eace/1:1/w_768,c_limit/Two%20Shell%20-%20Infinite%20Now.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ae4e02eb0e00150a5661628",
+    "artist": "Cecil Taylor Unit",
+    "title": "Live at the KiMo Theater Albuquerque 1979",
+    "score": 8.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Jazz"
+    ],
+    "date": "2026-11-03T05:00:00.000Z",
+    "dateFormatted": "November 3, 2026",
+    "url": "/reviews/albums/cecil-taylor-unit-live-at-the-kimo-theater-albuquerque-1979/",
+    "description": "A newly unearthed live performance, originally intended for broadcast on NPR, showcases a unique and transitional moment for the free-jazz pianist&#39;s ensemble.",
+    "reviewer": "Levi Dayan",
+    "image": "https://media.pitchfork.com/photos/6ae4de958cc155b23b3f707a/1:1/w_768,c_limit/Cecil%20Taylor%20Unit%20Live%20at%20the%20KiMo%20Theater%20Albuquerque%201979.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6ae21451f181ae0e808e8edf",
     "artist": "Andy Stott",
     "title": "Late Loop",
