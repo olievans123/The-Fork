@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://the-fork.vercel.app/</loc><priority>1.0</priority></url>
+<url><loc>https://the-fork.vercel.app/album/baby-osamaa-on-tha-run</loc><priority>0.6</priority></url>
+<url><loc>https://the-fork.vercel.app/album/niagara-catedral-gotica</loc><priority>0.6</priority></url>
+<url><loc>https://the-fork.vercel.app/album/june-mcdoom-follow-the-light</loc><priority>0.6</priority></url>
+<url><loc>https://the-fork.vercel.app/album/dis-fig-what-to-make-of-these-mortal-hands</loc><priority>0.6</priority></url>
 <url><loc>https://the-fork.vercel.app/album/kali-malone-burning-song</loc><priority>0.6</priority></url>
 <url><loc>https://the-fork.vercel.app/album/lydia-loveless-accolades-ep</loc><priority>0.6</priority></url>
 <url><loc>https://the-fork.vercel.app/album/two-shell-infinite-now</loc><priority>0.6</priority></url>

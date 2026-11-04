@@ -1,5 +1,76 @@
 [
   {
+    "id": "6aea0afcb2a4ae06c18ac619",
+    "artist": "Baby Osamaa",
+    "title": "On Tha Run",
+    "score": 8.2,
+    "bnm": true,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-11-04T05:03:00.000Z",
+    "dateFormatted": "November 4, 2026",
+    "url": "/reviews/albums/baby-osamaa-on-tha-run/",
+    "description": "With delirious melodic instincts, the Bronx rapper’s new tape evokes Young Money-era swag on a SoundCloud budget.",
+    "reviewer": "Alphonse Pierre",
+    "image": "https://media.pitchfork.com/photos/6aea06e6b2a4ae06c18ac614/1:1/w_768,c_limit/Baby%20Osamaa%20-%20On%20Tha%20Run%20album%20art.jpg"
+  },
+  {
+    "id": "6ae9fb43152d4b391f26ca4f",
+    "artist": "Niagara",
+    "title": "Catedral Gótica",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-11-04T05:02:00.000Z",
+    "dateFormatted": "November 4, 2026",
+    "url": "/reviews/albums/niagara-catedral-gotica/",
+    "description": "The Lisbon trio trades the laid-back feel of its earlier, more disco-indebted work for skeletal machine minimalism, twisted sequencer fugues, and lo-fi ambient that conceals more than it reveals.",
+    "reviewer": "Shaad D’Souza",
+    "image": "https://media.pitchfork.com/photos/6ae9fa49a678072465a4a4ae/1:1/w_768,c_limit/Niagara%20-%20Catedral%20Go%CC%81tica.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6aea1d92152d4b391f26ca97",
+    "artist": "June McDoom",
+    "title": "Follow the Light",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Folk/Country"
+    ],
+    "date": "2026-11-04T05:01:00.000Z",
+    "dateFormatted": "November 4, 2026",
+    "url": "/reviews/albums/june-mcdoom-follow-the-light/",
+    "description": "On her debut album, the musician combines her family’s Jamaican mento legacy with her personal love of folk for a set of graceful, winningly direct songs.",
+    "reviewer": "Emma Madden",
+    "image": "https://media.pitchfork.com/photos/6aea1ce888ed135c4885e5cd/1:1/w_768,c_limit/June%20McDoom-Follow%20the%20Light.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6ae3b92178d2041d1206c475",
+    "artist": "Dis Fig",
+    "title": "What to Make of These Mortal Hands",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-11-04T05:00:00.000Z",
+    "dateFormatted": "November 4, 2026",
+    "url": "/reviews/albums/dis-fig-what-to-make-of-these-mortal-hands/",
+    "description": "Experimental artist Felicia Chen’s high-contrast compositions unite whispers and shrieks, intimate acoustics and inhuman distortion.",
+    "reviewer": "James Gui",
+    "image": "https://media.pitchfork.com/photos/6ae3b8af13936ee9eac88b6a/1:1/w_768,c_limit/Dis%20Fig%20-%20What%20to%20Make%20of%20These%20Mortal%20Hands.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6ae8b766a33795fdee21c641",
     "artist": "Kali Malone",
     "title": "Burning Song",
