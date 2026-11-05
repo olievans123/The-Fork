@@ -1,5 +1,77 @@
 [
   {
+    "id": "6aeb621d92285c714cb83dd1",
+    "artist": "Twisted Teens",
+    "title": "The Holy Cross Tigers",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-11-05T05:03:00.000Z",
+    "dateFormatted": "November 5, 2026",
+    "url": "/reviews/albums/twisted-teens-the-holy-cross-tigers/",
+    "description": "On their third album this year, the New Orleans garage rockers embrace conflicting emotions and clashing sounds, balancing hard-charging rave-ups with exploratory tape experiments.",
+    "reviewer": "Stuart Berman",
+    "image": "https://media.pitchfork.com/photos/6aeb5fe71d58dfb46e474b86/1:1/w_768,c_limit/Twisted%20Teens%20-%20The%20Holy%20Cross%20Tigers.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6aeb87621819790e2dd6b3a7",
+    "artist": "Yeah Yeah Yeahs",
+    "title": "Hidden in Pieces: Live at the Royal Albert Hall",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-11-05T05:02:00.000Z",
+    "dateFormatted": "November 5, 2026",
+    "url": "/reviews/albums/yeah-yeah-yeahs-hidden-in-pieces-live-at-the-royal-albert-hall/",
+    "description": "On its first live album, the New York trio recasts a quarter-century of rock songs for strings, piano, and acoustic guitar, highlighting the ache and vulnerability at the heart of its music.",
+    "reviewer": "Megan Buerger",
+    "image": "https://media.pitchfork.com/photos/6aeb86b471a068f3a6c90517/1:1/w_768,c_limit/Yeah%20Yeah%20Yeahs-Hidden%20in%20Pieces%20Live%20at%20the%20Royal%20Albert%20Hall.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6aeb615436ed93ad958c8e93",
+    "artist": "Brat Star",
+    "title": "Southern Ontario Gothic",
+    "score": 7.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-11-05T05:01:00.000Z",
+    "dateFormatted": "November 5, 2026",
+    "url": "/reviews/albums/brat-star-southern-ontario-gothic/",
+    "description": "So post-ironic it’s deadass, the Toronto songwriter’s debut renders a thoroughly modern affect with rare authenticity.",
+    "reviewer": "Hattie Lindert",
+    "image": "https://media.pitchfork.com/photos/6aeb6043ffd893c2f7b9bf8c/1:1/w_768,c_limit/Brat%20Star%20-%20Southern%20Ontario%20Gothic%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6aeb5f5636dc15f46c7d1bfd",
+    "artist": "John Errol",
+    "title": "Damage",
+    "score": 7.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-11-05T05:00:00.000Z",
+    "dateFormatted": "November 5, 2026",
+    "url": "/reviews/albums/john-errol-damage/",
+    "description": "Too challenging to qualify as radio rock, the Los Angeles songwriter’s cloudy, lo-fi grunge is stuffed with ’90s references and opaque secrets.",
+    "reviewer": "Hannah Jocelyn",
+    "image": "https://media.pitchfork.com/photos/6aeb5ef792285c714cb83d91/1:1/w_768,c_limit/John%20Errol%20-%20Damage%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6aea0afcb2a4ae06c18ac619",
     "artist": "Baby Osamaa",
     "title": "On Tha Run",
