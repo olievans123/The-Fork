@@ -1,5 +1,78 @@
 [
   {
+    "id": "6aecc0ee834013a89db2f335",
+    "artist": "untitled (halo)",
+    "title": "untitled (halo)",
+    "score": 5.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-11-06T05:03:00.000Z",
+    "dateFormatted": "November 6, 2026",
+    "url": "/reviews/albums/untitled-halo-untitled-halo/",
+    "description": "The Los Angeles band’s debut puts an appealing studio gloss on the sullen, ambiguous sound of cloud rock, and the mystery doesn’t go much deeper than that.",
+    "reviewer": "Sam Goldner",
+    "image": "https://media.pitchfork.com/photos/6aecc0946de58f9ada4bfd2a/1:1/w_768,c_limit/untitled%20(halo)%20-%20untitled%20(halo)%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6aecd97178d0dfa19820dd30",
+    "artist": "Laila!",
+    "title": "We’ll Never Be This Young Again",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B",
+      "Rap"
+    ],
+    "date": "2026-11-06T05:02:00.000Z",
+    "dateFormatted": "November 6, 2026",
+    "url": "/reviews/albums/laila-well-never-be-this-young-again/",
+    "description": "The New York songwriter and producer’s second album meditates on the passage of time, with immersive, lush songs that balance the optimism and anxiety of young adulthood.",
+    "reviewer": "Vrinda Jagota",
+    "image": "https://media.pitchfork.com/photos/6aecd91478d0dfa19820dd27/1:1/w_768,c_limit/Laila-We%E2%80%99ll%20Never%20Be%20This%20Young%20Again.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6aecd9bd78d0dfa19820dd34",
+    "artist": "nomi.",
+    "title": "this wolf may cry",
+    "score": 6.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-11-06T05:01:00.000Z",
+    "dateFormatted": "November 6, 2026",
+    "url": "/reviews/albums/nomi-this-wolf-may-cry/",
+    "description": "The upcoming R&amp;B singer’s debut is a showcase for unique beats with bedroom-pop intimacy, but her restrained vocal style keeps the feelings in reserve.",
+    "reviewer": " Precious Fondren",
+    "image": "https://media.pitchfork.com/photos/6aecc416d1ad83d11d55727e/1:1/w_768,c_limit/nomi.%20-%20this%20wolf%20may%20cry%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6aecaa3bd1ad83d11d556beb",
+    "artist": "gyrofield",
+    "title": "Great Jobs",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-11-06T05:00:00.000Z",
+    "dateFormatted": "November 6, 2026",
+    "url": "/reviews/albums/gyrofield-great-jobs/",
+    "description": "The Hong Kong-born producer moves far beyond their drum’n’bass and club-music roots, twisting dubby pulses and psychedelic sound design into shapes both introspective and exploratory.",
+    "reviewer": "Lisle Younger",
+    "image": "https://media.pitchfork.com/photos/6aeca9b677ca41c6e0456d40/1:1/w_768,c_limit/gyrofield%20-%20Great%20Jobs.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6aeb621d92285c714cb83dd1",
     "artist": "Twisted Teens",
     "title": "The Holy Cross Tigers",
