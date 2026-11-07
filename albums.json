@@ -1,5 +1,23 @@
 [
   {
+    "id": "6aedee5bc1e973346d7a4d7a",
+    "artist": "Bob Dylan",
+    "title": "The Rolling Thunder Revue: The 1976 Live Recordings",
+    "score": 9,
+    "bnm": false,
+    "bnr": true,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-11-07T05:00:00.000Z",
+    "dateFormatted": "November 7, 2026",
+    "url": "/reviews/albums/bob-dylan-the-rolling-thunder-revue-the-1976-live-recordings/",
+    "description": "For half a century, the spring 1976 leg of the Rolling Thunder Revue was overshadowed by the mayhem of the year before. An electrifying 39-disc box set corrects the record.",
+    "reviewer": "Grayson Haver Currin",
+    "image": "https://media.pitchfork.com/photos/6aedeca0c1e973346d7a4d75/1:1/w_768,c_limit/Bob%20Dylan%20-%20The%20Rolling%20Thunder%20Review%20.jpeg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6aecc0ee834013a89db2f335",
     "artist": "untitled (halo)",
     "title": "untitled (halo)",
