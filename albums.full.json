@@ -1,5 +1,23 @@
 [
   {
+    "id": "6aee2649aa16e3fed6ea2600",
+    "artist": "Donald Fagen",
+    "title": "The Nightfly",
+    "score": 9.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-11-08T05:00:00.000Z",
+    "dateFormatted": "November 8, 2026",
+    "url": "/reviews/albums/donald-fagen-the-nightfly/",
+    "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Tonight, we join Steely Dan’s Donald Fagen under cover as an after-hours radio DJ, bringing studio perfection to the music of his adolescent dreams.",
+    "reviewer": "Mark Richardson",
+    "image": "https://media.pitchfork.com/photos/6aee25d6d19586adfe8e3537/1:1/w_768,c_limit/Donald%20Fagen%20-%20The%20Nightfly%20album%20art.jpg",
+    "releaseYear": 1982
+  },
+  {
     "id": "6aedee5bc1e973346d7a4d7a",
     "artist": "Bob Dylan",
     "title": "The Rolling Thunder Revue: The 1976 Live Recordings",
