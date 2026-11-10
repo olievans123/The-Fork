@@ -1,5 +1,150 @@
 [
   {
+    "id": "6af20a8a5b5e04c97146f89f",
+    "artist": "Bassvictim",
+    "title": "PEACE + WAR",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-11-10T05:03:00.000Z",
+    "dateFormatted": "November 10, 2026",
+    "url": "/reviews/albums/bassvictim-peace-and-war/",
+    "description": "The impish, fluorescent collages of beats and electronics on the duo’s new album capture something ineffable yet unfocused.",
+    "reviewer": "Olivier Lafontant",
+    "image": "https://media.pitchfork.com/photos/6ad8c722307e18bf9f5d1583/1:1/w_768,c_limit/bassvictim-peace-war-album-art.jpeg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6af205bb51284555eff79074",
+    "artist": "Corridos Ketamina",
+    "title": "Cktriz",
+    "score": 7.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-11-10T05:02:00.000Z",
+    "dateFormatted": "November 10, 2026",
+    "url": "/reviews/albums/corridos-ketamina-cktriz/",
+    "description": "The Pomona/Phoenix duo’s latest record meshes corridos tumbados with rap, emo, and slow-burning guitar ballads, balancing unabashed sex talk with candid reflections on fame and identity.",
+    "reviewer": "Marcos Sanoja",
+    "image": "https://media.pitchfork.com/photos/6af2024f101779a2910f677c/1:1/w_768,c_limit/Corridos%20Ketamina%20-%20Cktriz.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6af20e8420df5d7ac144d9a6",
+    "artist": "Chuck Roth",
+    "title": "Texture Songs",
+    "score": 7.9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental",
+      "Rock"
+    ],
+    "date": "2026-11-10T05:01:00.000Z",
+    "dateFormatted": "November 10, 2026",
+    "url": "/reviews/albums/chuck-roth-texture-songs/",
+    "description": "The New York guitarist’s latest album combines bracing extended techniques and dulcet, understated vocals; it’s a dazzlingly inventive fusion of singer-songwriter forms and free-improv energy.",
+    "reviewer": "Andy Cush",
+    "image": "https://media.pitchfork.com/photos/6af20dfd20df5d7ac144d99e/1:1/w_768,c_limit/Chuck%20Roth%20-%20Texture%20Songs.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6af2263653e63bad060aed6c",
+    "artist": "Boundary",
+    "title": "PROXIMA CENTAURI",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-11-10T05:00:00.000Z",
+    "dateFormatted": "November 10, 2026",
+    "url": "/reviews/albums/boundary-proxima-centauri/",
+    "description": "With a heady concept based in the cosmos, the latest record from the Dominican producer builds grand, emotional payoffs from stark arrangements inspired by vintage video games.",
+    "reviewer": "Philip Sherburne",
+    "image": "https://media.pitchfork.com/photos/6af225a1101779a2910f6d6f/1:1/w_768,c_limit/Boundary%20Proxima%20Centauri.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6aee21346de58f9ada4c1b6c",
+    "artist": "Skepta",
+    "title": "The Fork and Knife",
+    "score": 7.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-11-09T05:03:00.000Z",
+    "dateFormatted": "November 9, 2026",
+    "url": "/reviews/albums/skepta-the-fork-and-knife/",
+    "description": "After a slightly creaky start, Skepta’s first album in seven years takes shape as a mature reflection on legacy from an icon of UK grime and a face of modern Britain.",
+    "reviewer": "Will Pritchard",
+    "image": "https://media.pitchfork.com/photos/6aee20aa78d0dfa19820ee36/1:1/w_768,c_limit/Skepta%20-%20The%20Fork%20and%20Knife%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6aee250dd1ad83d11d557f89",
+    "artist": "Kings of Leon",
+    "title": "O My Beloved",
+    "score": 6.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-11-09T05:02:00.000Z",
+    "dateFormatted": "November 9, 2026",
+    "url": "/reviews/albums/kings-of-leon-o-my-beloved/",
+    "description": "The band’s 10th album is a shocking and largely impressive reinvention that’s also the loosest they’ve sounded in decades.",
+    "reviewer": "Larry Fitzmaurice",
+    "image": "https://media.pitchfork.com/photos/6aee2440d1ad83d11d557f80/1:1/w_768,c_limit/Kings%20of%20Leon%20-%20O%20My%20Beloved%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6aee22a6ac3c503f2a26a628",
+    "artist": "Ciarán",
+    "title": "Róisín",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-11-09T05:01:00.000Z",
+    "dateFormatted": "November 9, 2026",
+    "url": "/reviews/ciaran-roisin/",
+    "description": "The former Bearface of Brockhampton emerges for a solo album of slouchy bedroom pop-soul whose cramped pileup of influences guards a promising sensitivity.",
+    "reviewer": "H.D. Angel",
+    "image": "https://media.pitchfork.com/photos/6aee21e806e89e006e0fae99/1:1/w_768,c_limit/Ciara%CC%81n%20-%20Ro%CC%81isi%CC%81n%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6aedf1c5ac3c503f2a26a464",
+    "artist": "Dream Unending",
+    "title": "Certain Uncertainties",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Metal"
+    ],
+    "date": "2026-11-09T05:00:00.000Z",
+    "dateFormatted": "November 9, 2026",
+    "url": "/reviews/albums/dream-unending-certain-uncertainties/",
+    "description": "On its third album, the dream-doom duo continues to tip the scales of its sound towards psychedelia, with a cowboy jazz record dotted with references to its creators’ metal roots.",
+    "reviewer": "Patrick Lyons",
+    "image": "https://media.pitchfork.com/photos/6adfc8e8baf3c8bb4e224a64/1:1/w_768,c_limit/3000x3000bb-100%20(7).jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6aee2649aa16e3fed6ea2600",
     "artist": "Donald Fagen",
     "title": "The Nightfly",
