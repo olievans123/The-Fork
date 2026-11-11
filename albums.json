@@ -1,5 +1,77 @@
 [
   {
+    "id": "6af1ebd366555f23ece96fda",
+    "artist": "Sufjan Stevens",
+    "title": "Worst Christmas Ever!",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Folk/Country"
+    ],
+    "date": "2026-11-11T05:03:00.000Z",
+    "dateFormatted": "November 11, 2026",
+    "url": "/reviews/albums/sufjan-stevens-worst-christmas-ever/",
+    "description": "In the great tradition of Christmas CD repackagings, Sufjan has plucked an album’s worth of material from his many volumes of holiday fare&#8212;plus one new song&#8212;for an eccentric yet charming compilation.",
+    "reviewer": "Jayson Greene",
+    "image": "https://media.pitchfork.com/photos/6ae8a8893ad14b0f5282e9b6/1:1/w_768,c_limit/sufjan-worst-christmas-ever-art.JPG",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6af208b25b5e04c97146f843",
+    "artist": "Shygirl",
+    "title": "SWALLOW!",
+    "score": 7.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-11-11T05:02:00.000Z",
+    "dateFormatted": "November 11, 2026",
+    "url": "/reviews/albums/shygirl-swallow/",
+    "description": "In palpitating trip-hop and wind-tunnel big beat, the producer’s lovestruck second album seeks a softer, more romantic home on the dancefloor.",
+    "reviewer": "Walden Green",
+    "image": "https://media.pitchfork.com/photos/6aa2ae550d473e45f673155a/1:1/w_768,c_limit/Swallow!%20by%20Shygirl.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6af227c651284555eff79736",
+    "artist": "daine",
+    "title": "In Endless Awe &amp; Agony",
+    "score": 6.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-11-11T05:01:00.000Z",
+    "dateFormatted": "November 11, 2026",
+    "url": "/reviews/albums/daine/in-endless-awe-and-agony/",
+    "description": "The Australian singer’s debut cultivates a joyful button-bashing feeling as it toggles between power-, hyper-, and synth-pop.",
+    "reviewer": "Aimee Cliff",
+    "image": "https://media.pitchfork.com/photos/6ab1765953bdeef50ce58d0e/1:1/w_768,c_limit/612891028300.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6af36056101779a2910f76f6",
+    "artist": "The Cat’s Miaow",
+    "title": "When You Smiled and Turned Away",
+    "score": 7.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-11-11T05:00:00.000Z",
+    "dateFormatted": "November 11, 2026",
+    "url": "/reviews/albums/the-cats-miaow-when-you-smiled-and-turned-away/",
+    "description": "More than 30 years after forming, the Melbourne indie-pop greats issue their full-length debut: a pristine collection that adds newfound wisdom and clarity to their intimate sound.",
+    "reviewer": "David Glickman",
+    "image": "https://media.pitchfork.com/photos/6af35d925b5e04c971470712/1:1/w_768,c_limit/The%20Cat's%20Miaow%20When%20You%20Smiled%20and%20Turned%20Away.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6af20a8a5b5e04c97146f89f",
     "artist": "Bassvictim",
     "title": "PEACE + WAR",
