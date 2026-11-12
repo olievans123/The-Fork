@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://the-fork.vercel.app/</loc><priority>1.0</priority></url>
+<url><loc>https://the-fork.vercel.app/album/u2-carnaval-de-luz</loc><priority>0.6</priority></url>
+<url><loc>https://the-fork.vercel.app/album/2hollis-pirouette</loc><priority>0.6</priority></url>
+<url><loc>https://the-fork.vercel.app/album/dawuna-love-s-arp</loc><priority>0.6</priority></url>
+<url><loc>https://the-fork.vercel.app/album/sun-araw-rapid-response-ep</loc><priority>0.6</priority></url>
 <url><loc>https://the-fork.vercel.app/album/sufjan-stevens-worst-christmas-ever</loc><priority>0.6</priority></url>
 <url><loc>https://the-fork.vercel.app/album/shygirl-swallow</loc><priority>0.6</priority></url>
 <url><loc>https://the-fork.vercel.app/album/daine-in-endless-awe-amp-agony</loc><priority>0.6</priority></url>

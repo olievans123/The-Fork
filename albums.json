@@ -1,5 +1,79 @@
 [
   {
+    "id": "6af4cb53a3f38b15704db6b4",
+    "artist": "U2",
+    "title": "Carnaval De Luz",
+    "score": 6.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-11-12T05:03:00.000Z",
+    "dateFormatted": "November 12, 2026",
+    "url": "/reviews/alums/u2-carnaval-de-luz/",
+    "description": "With a sense of appreciation for their own longevity, U2 return with their first new album in nearly a decade to ask: What if rock’n’roll is the friends we made along the way?",
+    "reviewer": "Sam Sodomsky",
+    "image": "https://media.pitchfork.com/photos/6ab55679b4d4f67701eb12f2/1:1/w_768,c_limit/U2-%20Carnaval%20De%20Luz%20.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6af4ca4feb628381272f7942",
+    "artist": "2hollis",
+    "title": "Pirouette",
+    "score": 7.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B",
+      "Electronic"
+    ],
+    "date": "2026-11-12T05:02:00.000Z",
+    "dateFormatted": "November 12, 2026",
+    "url": "/reviews/albums/2hollis-pirouette/",
+    "description": "The underground star’s new album sands off the EDM-pop sheen, revealing ragged-edged rave beats full of romantic declarations and kitchen-sink experimentation.",
+    "reviewer": "Hattie Lindert",
+    "image": "https://media.pitchfork.com/photos/6af4c94ec1e733ba34a283c6/1:1/w_768,c_limit/2hollis%20Pirouette.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6af4ae16eb628381272f7789",
+    "artist": "Dawuna",
+    "title": "Love’s Arp",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B",
+      "Experimental"
+    ],
+    "date": "2026-11-12T05:01:00.000Z",
+    "dateFormatted": "November 12, 2026",
+    "url": "/reviews/albums/dawuna-loves-arp/",
+    "description": "On his fourth album, the Baltimore artist offers a work of devotion to both a particular romantic connection and the history of Black music, relayed through muted, experimental R&amp;B.",
+    "reviewer": "Alex Robert Ross",
+    "image": "https://media.pitchfork.com/photos/6af4ad8bfaf63d904aab75b9/1:1/w_768,c_limit/Dawuna-Love's%20Arp.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6af4c48c4d1a33729b8cbed9",
+    "artist": "Sun Araw",
+    "title": "Rapid Response EP",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-11-12T05:00:00.000Z",
+    "dateFormatted": "November 12, 2026",
+    "url": "/reviews/albums/sun-araw-rapid-response-ep/",
+    "description": "A heady new 12&quot; from the psychedelic artist continues his career-long journey into the dark outer reaches of new age.",
+    "reviewer": "Daniel Bromfield",
+    "image": "https://media.pitchfork.com/photos/6af4c3dceb628381272f78c9/1:1/w_768,c_limit/Sun%20Araw%20Rapid%20Response%20EP.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6af1ebd366555f23ece96fda",
     "artist": "Sufjan Stevens",
     "title": "Worst Christmas Ever!",
