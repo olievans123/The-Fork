@@ -1,5 +1,77 @@
 [
   {
+    "id": "6af5f4418ecbac71e40b8e0e",
+    "artist": "Armand Hammer",
+    "title": "Snakes &amp; Ladders",
+    "score": 8.3,
+    "bnm": true,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-11-13T05:03:00.000Z",
+    "dateFormatted": "November 13, 2026",
+    "url": "/reviews/albums/armand-hammer-snakes-and-ladders/",
+    "description": "It’s a marathon and the New York duo keeps the faith, delivering another lyrical masterclass over engrossing beats from the indie rap all-stars whose work they’ve cultivated.",
+    "reviewer": "Andre Gee",
+    "image": "https://media.pitchfork.com/photos/6af5f3f605ae8a8ec42748c2/1:1/w_768,c_limit/Armand%20Hammer%20-%20Snakes%20&%20Ladders%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6af61669f4500b3e50133988",
+    "artist": "Krill",
+    "title": "Secret Language",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-11-13T05:02:00.000Z",
+    "dateFormatted": "November 13, 2026",
+    "url": "/reviews/albums/krill-secret-language/",
+    "description": "On its first album in over a decade, the DIY rock group returns with new perspective, new instrumental touches, and a new element of optimism within its self-reflexive songwriting.",
+    "reviewer": "Marissa Lorusso",
+    "image": "https://media.pitchfork.com/photos/6ab28d32598fea73efdcdc4b/1:1/w_768,c_limit/krill-secret-language-art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6af61c129e50db7ac61ed73c",
+    "artist": "Wavves",
+    "title": "Cherry Soda",
+    "score": 6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-11-13T05:01:00.000Z",
+    "dateFormatted": "November 13, 2026",
+    "url": "/reviews/albums/wavves-cherry-soda/",
+    "description": "Totally normal new Wavves album, why do you ask?",
+    "reviewer": "Larry Fitzmaurice",
+    "image": "https://media.pitchfork.com/photos/6aa81ca30d8209284f1f5959/1:1/w_768,c_limit/Wavves-Cherry-Soda.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6af5fc7fbbdcadac5c7ed6be",
+    "artist": "Grumpy",
+    "title": "Unfindable Ring",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-11-13T05:00:00.000Z",
+    "dateFormatted": "November 13, 2026",
+    "url": "/reviews/albums/grumpy-unfindable-ring/",
+    "description": "The Brooklyn group prizes playfulness over conformity on its latest album, plumbing country, folk, indie rock, art pop, and more for an album of giddy love songs and existential gender trouble.",
+    "reviewer": "Cameron Cook",
+    "image": "https://media.pitchfork.com/photos/6af5fc02b03647bd524e3bf4/1:1/w_768,c_limit/Grumpy-Unfindable%20Ring.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6af4cb53a3f38b15704db6b4",
     "artist": "U2",
     "title": "Carnaval De Luz",
