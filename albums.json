@@ -1,5 +1,23 @@
 [
   {
+    "id": "6af73902edc9c2750fdfa28c",
+    "artist": "Hiroshi Yoshimura",
+    "title": "Quiet Forest",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-11-14T05:00:00.000Z",
+    "dateFormatted": "November 14, 2026",
+    "url": "/reviews/albums/hiroshi-yoshimura-quiet-forest/",
+    "description": "Inspired by a visit to the Pacific Northwest, this 1996 record was the final album-length work released during the composer’s lifetime; it offers a rare glimpse of his most playful side.",
+    "reviewer": "Shy Clara Thompson",
+    "image": "https://media.pitchfork.com/photos/6af7365f3b980032c8f00492/1:1/w_768,c_limit/Hiroshi%20Yoshimura%20-%20Quiet%20Forest.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6af5f4418ecbac71e40b8e0e",
     "artist": "Armand Hammer",
     "title": "Snakes &amp; Ladders",
@@ -84,6 +102,24 @@
     "date": "2026-11-12T05:03:00.000Z",
     "dateFormatted": "November 12, 2026",
     "url": "/reviews/alums/u2-carnaval-de-luz/",
+    "description": "With a sense of appreciation for their own longevity, U2 return with their first new album in nearly a decade to ask: What if rock’n’roll is the friends we made along the way?",
+    "reviewer": "Sam Sodomsky",
+    "image": "https://media.pitchfork.com/photos/6ab55679b4d4f67701eb12f2/1:1/w_768,c_limit/U2-%20Carnaval%20De%20Luz%20.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6af4cb53a3f38b15704db6b4",
+    "artist": "U2",
+    "title": "Carnaval De Luz",
+    "score": 6.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-11-12T05:03:00.000Z",
+    "dateFormatted": "November 12, 2026",
+    "url": "/reviews/albums/u2-carnaval-de-luz/",
     "description": "With a sense of appreciation for their own longevity, U2 return with their first new album in nearly a decade to ask: What if rock’n’roll is the friends we made along the way?",
     "reviewer": "Sam Sodomsky",
     "image": "https://media.pitchfork.com/photos/6ab55679b4d4f67701eb12f2/1:1/w_768,c_limit/U2-%20Carnaval%20De%20Luz%20.jpg",
