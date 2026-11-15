@@ -1,5 +1,23 @@
 [
   {
+    "id": "6af74db7829743962fb4edef",
+    "artist": "Pearl Jam",
+    "title": "Yield",
+    "score": 8.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-11-15T05:00:00.000Z",
+    "dateFormatted": "November 15, 2026",
+    "url": "/reviews/albums/pearl-jam-yield/",
+    "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit the outspoken grunge icons’ daring and emotionally complicated fifth album, a test of faith after a series of controversies, tragedies, and failures.",
+    "reviewer": "Grayson Haver Currin",
+    "image": "https://media.pitchfork.com/photos/6af74d56badf0bc3a76e3b90/1:1/w_768,c_limit/Pearl%20Jam%20-%20Yield%20album%20art.jpg",
+    "releaseYear": 1998
+  },
+  {
     "id": "6af73902edc9c2750fdfa28c",
     "artist": "Hiroshi Yoshimura",
     "title": "Quiet Forest",
