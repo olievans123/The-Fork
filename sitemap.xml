@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://the-fork.vercel.app/</loc><priority>1.0</priority></url>
+<url><loc>https://the-fork.vercel.app/album/aesop-rock-blockhead-trouble-mountain</loc><priority>0.6</priority></url>
+<url><loc>https://the-fork.vercel.app/album/or-music-for-empty-stadiums</loc><priority>0.6</priority></url>
+<url><loc>https://the-fork.vercel.app/album/sam-gendel-advanced-white-trash</loc><priority>0.6</priority></url>
+<url><loc>https://the-fork.vercel.app/album/blackhaine-saints-in-the-wethouse</loc><priority>0.6</priority></url>
 <url><loc>https://the-fork.vercel.app/album/pearl-jam-yield</loc><priority>0.6</priority></url>
 <url><loc>https://the-fork.vercel.app/album/hiroshi-yoshimura-quiet-forest</loc><priority>0.6</priority></url>
 <url><loc>https://the-fork.vercel.app/album/armand-hammer-snakes-amp-ladders</loc><priority>0.6</priority></url>

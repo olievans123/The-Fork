@@ -1,5 +1,78 @@
 [
   {
+    "id": "6af72eb669ea943d7abe8ea8",
+    "artist": "Aesop Rock / Blockhead",
+    "title": "Trouble Mountain",
+    "score": 7.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap",
+      "Rap"
+    ],
+    "date": "2026-11-16T05:03:00.000Z",
+    "dateFormatted": "November 16, 2026",
+    "url": "/reviews/albums/aesop-rock-blockhead-trouble-mountain/",
+    "description": "Aesop Rock is a maverick solo traveler in the craggy cartography of Blockhead’s sample-rich beats on the duo’s second full-length collaboration.",
+    "reviewer": "Stephen Kearse",
+    "image": "https://media.pitchfork.com/photos/6aaac624ad0fe83d03e9ab40/1:1/w_768,c_limit/unnamed%20-%202026-09-16T123102.621.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6af72b638f7ba4bb06a787d0",
+    "artist": "OR",
+    "title": "Music for Empty Stadiums",
+    "score": 6.9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-11-16T05:01:00.000Z",
+    "dateFormatted": "November 16, 2026",
+    "url": "/reviews/albums/or-music-for-empty-stadiums/",
+    "description": "Producer John Talabot’s pandemic peak-time tracks envision the vacant dancefloors of spring 2020 with serrated supersaws and endlessly cycling arpeggios that feel like climbing the walls.",
+    "reviewer": "Philip Sherburne",
+    "image": "https://media.pitchfork.com/photos/6af72b09df86836dcc15cc34/1:1/w_768,c_limit/OR%20-%20Music%20for%20Empty%20Stadiums%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6af74554beca80cb470cae65",
+    "artist": "Sam Gendel",
+    "title": "Advanced White Trash",
+    "score": 6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Jazz"
+    ],
+    "date": "2026-11-16T05:01:00.000Z",
+    "dateFormatted": "November 16, 2026",
+    "url": "/reviews/albums/sam-gendel-advanced-white-trash/",
+    "description": "The prolific Los Angeles saxophonist’s latest album is a curveball, trading his typically jazz-adjacent turf for a fantasy land of Auto-Tuned sing-rapping, hip-hop beats, and dragon slaying.",
+    "reviewer": "Linnie Greene",
+    "image": "https://media.pitchfork.com/photos/6af743ede1ccc152eeb10913/1:1/w_768,c_limit/Sam%20Gendel%20-%20Advanced%20White%20Trash.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6af72afedf86836dcc15cc2f",
+    "artist": "Blackhaine",
+    "title": "Saints in the Wethouse",
+    "score": 7.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-11-16T05:00:00.000Z",
+    "dateFormatted": "November 16, 2026",
+    "url": "/reviews/albums/blackhaine-saints-in-the-wethouse/",
+    "description": "The Lancashire rapper’s debut album is a noise-rap juggernaut of overwhelming bass and anguished bloodletting, the fullest expression yet of his theatrical sensibility.",
+    "reviewer": "Hugh Morris",
+    "image": "https://media.pitchfork.com/photos/6af72a073b980032c8f00453/1:1/w_768,c_limit/Blackhaine%20-%20Saints%20in%20the%20Wethous.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6af74db7829743962fb4edef",
     "artist": "Pearl Jam",
     "title": "Yield",
