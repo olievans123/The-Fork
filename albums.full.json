@@ -1,5 +1,78 @@
 [
   {
+    "id": "6afb1fa374b8164976da3b76",
+    "artist": "Snoh Aalegra",
+    "title": "Legendary Love",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-11-17T05:03:00.000Z",
+    "dateFormatted": "November 17, 2026",
+    "url": "/reviews/albums/snoh-aalegra-legendary-love/",
+    "description": "On her most ambitious release yet, the Swedish Iranian R&amp;B singer channels the Minneapolis sound in a set of slinky, decadent compositions about unfulfilled longing.",
+    "reviewer": "Vrinda Jagota",
+    "image": "https://media.pitchfork.com/photos/6afb1ec6a9d568336bb37310/1:1/w_768,c_limit/Snoh%20Aalegra-Legendary%20Love.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6afb33f7a9d568336bb37325",
+    "artist": "Aaron Dilloway",
+    "title": "No Skill Comedy Mind Reading",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-11-17T05:02:00.000Z",
+    "dateFormatted": "November 17, 2026",
+    "url": "/reviews/albums/aaron-dilloway-no-skill-comedy-mind-reading/",
+    "description": "A sense of creepy unease permeates the Ohio noise veteran’s latest album, in which funny ha-ha is never far from funny uh-oh.",
+    "reviewer": "Matthew Blackwell",
+    "image": "https://media.pitchfork.com/photos/6afb330d5e0eb4442fcb4119/1:1/w_768,c_limit/Aaron%20Dilloway%20-%20No%20Skill%20Comedy%20Mind%20Reading.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6afb2718a71db743e65f6c43",
+    "artist": "cute",
+    "title": "history is not woven by innocent hands",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock",
+      "Experimental"
+    ],
+    "date": "2026-11-17T05:01:00.000Z",
+    "dateFormatted": "November 17, 2026",
+    "url": "/reviews/albums/cute-history-is-not-woven-by-innocent-hands/",
+    "description": "On its first album, the Canadian quartet hones its apocalyptic sludgegaze to reflect our unforgiving world and the psychological turmoil it foments.",
+    "reviewer": "Stuart Berman",
+    "image": "https://media.pitchfork.com/photos/6afb25f8e30a1ace7e9fa1fc/1:1/w_768,c_limit/cute-history%20is%20not%20woven%20by%20innocent%20hands.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6afb2a2de79b17f35ca6dd37",
+    "artist": "Nori",
+    "title": "file_1",
+    "score": 7.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-11-17T05:00:00.000Z",
+    "dateFormatted": "November 17, 2026",
+    "url": "/reviews/albums/nori-file-1/",
+    "description": "Inspired by the video games and grime music he grew up on, the 24-year-old English rapper applies the hard-hitting flows to songs full of bright synths and heavy emotions.",
+    "reviewer": "Anthony Seaman",
+    "image": "https://media.pitchfork.com/photos/6afb29aaa71db743e65f6c48/1:1/w_768,c_limit/Nori%20-%20file_1%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6af72eb669ea943d7abe8ea8",
     "artist": "Aesop Rock / Blockhead",
     "title": "Trouble Mountain",
