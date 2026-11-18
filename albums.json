@@ -1,5 +1,77 @@
 [
   {
+    "id": "6afc7b8b1d2cc6cf817b3c8e",
+    "artist": "Chxrry",
+    "title": "U, Me &amp; My Ego (Deluxe)",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-11-18T05:03:00.000Z",
+    "dateFormatted": "November 18, 2026",
+    "url": "/reviews/albums/chxrry-u-me-and-my-ego-deluxe/",
+    "description": "The Toronto singer caps her breakout year with a deluxe edition of her debut, a potent blend of 2010s R&amp;B glam, sticky synth-pop, and heroic self-hype.",
+    "reviewer": "Tatiana Lee Rodriguez",
+    "image": "https://media.pitchfork.com/photos/6afc7b2c169506d236d4fd0c/1:1/w_768,c_limit/Chxrry%20-%20U%20Me%20&%20My%20Ego%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6afc9be3eaee62d8f4d65c21",
+    "artist": "Oso Oso",
+    "title": "An Exchange of Information",
+    "score": 7.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-11-18T05:02:00.000Z",
+    "dateFormatted": "November 18, 2026",
+    "url": "/reviews/albums/oso-oso-an-exchange-of-information/",
+    "description": "On his sixth album, Jade Lilitri reckons with a crowded mind, a shortened attention span, and the dream of better days ahead in a set of jittery emo and power-pop songs.",
+    "reviewer": "Grace Robins-Somerville",
+    "image": "https://media.pitchfork.com/photos/6a96de8259fd204d41fb1ead/1:1/w_768,c_limit/Oso-Oso-An-Exchange-of-Information.jpeg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6afc77491d2cc6cf817b3c23",
+    "artist": "Anna Butterss / John Raymond / Ben Lumsdaine",
+    "title": "Beginningless",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Jazz"
+    ],
+    "date": "2026-11-18T05:01:00.000Z",
+    "dateFormatted": "November 18, 2026",
+    "url": "/reviews/anna-butterss-john-raymond-ben-lumsdaine-beginningless/",
+    "description": "A group with ties to SML and Jeff Parker’s ETA IVtet puts an atmospheric spin on the classic bass/drums/horn trio format, using subtle electronic detailing to play up the music’s shifting textures.",
+    "reviewer": "Rae-Aila Crumble",
+    "image": "https://media.pitchfork.com/photos/6afc76081d2cc6cf817b3c09/1:1/w_768,c_limit/Anna%20Butterss,%20John%20Raymond,%20Ben%20Lumsdaine%20-%20Beginningless.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6afc808c1d2cc6cf817b3da8",
+    "artist": "Camden Malik",
+    "title": "40 Acres",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rap"
+    ],
+    "date": "2026-11-18T05:00:00.000Z",
+    "dateFormatted": "November 18, 2026",
+    "url": "/reviews/albums/camden-malik-40-acres/",
+    "description": "The DMV-based rapper spotlights his community and his loose, nonchalant flow on a breezy new project, executive-produced by MIKE and Surf Gang’s Elipropperr.",
+    "reviewer": "Oba Awolowo",
+    "image": "https://media.pitchfork.com/photos/6afc7fb8ab102c59817a9644/1:1/w_768,c_limit/Camden%20Malik%2040%20Acres.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6afb1fa374b8164976da3b76",
     "artist": "Snoh Aalegra",
     "title": "Legendary Love",
