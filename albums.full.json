@@ -1,5 +1,77 @@
 [
   {
+    "id": "6afdf50b91b9e9dfaf6ca0ea",
+    "artist": "Ecco2k",
+    "title": "Echo",
+    "score": 7.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-11-19T05:03:00.000Z",
+    "dateFormatted": "November 19, 2026",
+    "url": "/reviews/albums/ecco2k-echo/",
+    "description": "On his first new album in seven years, Drain Gang’s Ecco2k collects field recordings and cloudgazing synth-rap, venturing through watery textures and fog in search of elusive connection.",
+    "reviewer": "Olivier Lafontant",
+    "image": "https://media.pitchfork.com/photos/6afdf4be2ccb5dc77dc106bd/1:1/w_768,c_limit/Ecco2k%20-%20Echo%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6afdc964d8189f05b214fb50",
+    "artist": "Radie Peat",
+    "title": "No Human Tongue Can Tell",
+    "score": 8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Folk/Country"
+    ],
+    "date": "2026-11-19T05:02:00.000Z",
+    "dateFormatted": "November 19, 2026",
+    "url": "/reviews/albums/radie-peat-no-human-tongue-can-tell/",
+    "description": "Spotlighting her astounding vocals, the solo debut from the Lankum member is a kaleidoscopic set of folk songs that collapses the centuries.",
+    "reviewer": "Brad Sanders",
+    "image": "https://media.pitchfork.com/photos/6afdc8c4e2d3dfb07dcd68b9/1:1/w_768,c_limit/Radie%20Peat%20No%20Human%20Tongue%20Can%20Tell.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6afdcbd997025f1e4d4d9d49",
+    "artist": "Boys Noize",
+    "title": "7LLVSION",
+    "score": 6.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-11-19T05:01:00.000Z",
+    "dateFormatted": "November 19, 2026",
+    "url": "/reviews/albums/boys-noize-7llvsion/",
+    "description": "Alex Ridha channels Berlin’s digital hardcore tradition on a pummeling fusion of industrial-strength techno and headbanging riffs, with energy-stoking features from Brutalismus 3000 and Safety Trance.",
+    "reviewer": "Cameron Cook",
+    "image": "https://media.pitchfork.com/photos/6afdcae3e2d3dfb07dcd6918/1:1/w_768,c_limit/Boys%20Noize%20-%207LLVSION.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6afdf3ed2ccb5dc77dc106b8",
+    "artist": "Thoom",
+    "title": "Everyday, Everything Is at Stake",
+    "score": 7.4,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-11-19T05:00:00.000Z",
+    "dateFormatted": "November 19, 2026",
+    "url": "/reviews/albums/thoom-everyday-everything-is-at-stake/",
+    "description": "Combining hyperpop production and Arabic instrumentation, the Los Angeles-based singer’s debut mixtape finds a dramatic and unexpectedly organic expression of feeling.",
+    "reviewer": "Harry Tafoya",
+    "image": "https://media.pitchfork.com/photos/6afdf3c59bf886ff7ea6b1a4/1:1/w_768,c_limit/Thoom%20-%20Everyday,%20Everything%20Is%20at%20Stake%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6afc7b8b1d2cc6cf817b3c8e",
     "artist": "Chxrry",
     "title": "U, Me &amp; My Ego (Deluxe)",
