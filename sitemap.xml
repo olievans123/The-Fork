@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://the-fork.vercel.app/</loc><priority>1.0</priority></url>
+<url><loc>https://the-fork.vercel.app/album/kim-deal-live-at-the-barbican</loc><priority>0.6</priority></url>
+<url><loc>https://the-fork.vercel.app/album/donato-dozzy-astro</loc><priority>0.6</priority></url>
+<url><loc>https://the-fork.vercel.app/album/rois-mo-lean</loc><priority>0.6</priority></url>
+<url><loc>https://the-fork.vercel.app/album/nickolas-mohanna-whistler</loc><priority>0.6</priority></url>
 <url><loc>https://the-fork.vercel.app/album/ecco2k-echo</loc><priority>0.6</priority></url>
 <url><loc>https://the-fork.vercel.app/album/radie-peat-no-human-tongue-can-tell</loc><priority>0.6</priority></url>
 <url><loc>https://the-fork.vercel.app/album/boys-noize-7llvsion</loc><priority>0.6</priority></url>

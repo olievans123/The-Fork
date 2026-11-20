@@ -1,5 +1,78 @@
 [
   {
+    "id": "6aff3980684991ff02c96833",
+    "artist": "Kim Deal",
+    "title": "Live at the Barbican",
+    "score": 7.7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-11-20T05:03:00.000Z",
+    "dateFormatted": "November 20, 2026",
+    "url": "/reviews/albums/kim-deal-live-at-the-barbican/",
+    "description": "Two years after her long-awaited solo debut, the Pixes/Breeders/Amps singer-songwriter returns with an opulent concert album that pushes her abundant personality to the fore.",
+    "reviewer": "Ben Cardew",
+    "image": "https://media.pitchfork.com/photos/6aff37595a61c257bf1fe255/1:1/w_768,c_limit/Kim%20Deal%20-%20Live%20at%20the%20Barbican.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6aff09f0a9a6e7302a17fd51",
+    "artist": "Donato Dozzy",
+    "title": "Astro",
+    "score": 7.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Electronic"
+    ],
+    "date": "2026-11-20T05:02:00.000Z",
+    "dateFormatted": "November 20, 2026",
+    "url": "/reviews/albums/donato-dozzy-astro/",
+    "description": "The veteran Italian techno producer draws on the sounds of his childhood, transforming vintage anime anthems into a heady electronic odyssey.",
+    "reviewer": "Megan Buerger",
+    "image": "https://media.pitchfork.com/photos/6aff066d49f8edabf6f2aa38/1:1/w_768,c_limit/Donato%20Dozzy%20-%20Astro.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6aff1d283f06b12243f809b7",
+    "artist": "RÓIS",
+    "title": "MO LÉAN",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental",
+      "Folk/Country"
+    ],
+    "date": "2026-11-20T05:01:00.000Z",
+    "dateFormatted": "November 20, 2026",
+    "url": "/reviews/albums/rois-mo-lean/",
+    "description": "Rose Connolly’s newly reissued second album explores suppressed Irish mourning customs. In her mix of electronic processing and traditional music, she uncovers a communal, expressive vision of grief.",
+    "reviewer": "Emma Madden",
+    "image": "https://media.pitchfork.com/photos/6aff1c8d6a68e8be0716e894/1:1/w_768,c_limit/ROIS-MO%20L%C3%89AN.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6aff593330bb1ee6fe984bab",
+    "artist": "Nickolas Mohanna",
+    "title": "Whistler",
+    "score": 7.8,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-11-20T05:00:00.000Z",
+    "dateFormatted": "November 20, 2026",
+    "url": "/reviews/albums/nickolas-mohanna-whistler/",
+    "description": "The New York guitarist and producer fits the anxiety, hope, and frustration of a day into six pieces of sculptural guitar din and beauty.",
+    "reviewer": "Grayson Haver Currin",
+    "image": "https://media.pitchfork.com/photos/6aff584d3a31102026cc1713/1:1/w_768,c_limit/Nickolas%20Mohanna%20%20Whistler.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6afdf50b91b9e9dfaf6ca0ea",
     "artist": "Ecco2k",
     "title": "Echo",
@@ -66,7 +139,7 @@
     "date": "2026-11-19T05:00:00.000Z",
     "dateFormatted": "November 19, 2026",
     "url": "/reviews/albums/thoom-everyday-everything-is-at-stake/",
-    "description": "Combining hyperpop production and Arabic instrumentation, the Los Angeles-based singer’s debut mixtape finds a dramatic and unexpectedly organic expression of feeling.",
+    "description": "Combining hyperpop production and Arabic instrumentation, the Los Angeles-based singer’s debut finds a dramatic and unexpectedly organic expression of feeling.",
     "reviewer": "Harry Tafoya",
     "image": "https://media.pitchfork.com/photos/6afdf3c59bf886ff7ea6b1a4/1:1/w_768,c_limit/Thoom%20-%20Everyday,%20Everything%20Is%20at%20Stake%20album%20art.jpg",
     "releaseYear": 2026
@@ -2229,7 +2302,7 @@
     "bnm": true,
     "bnr": false,
     "genres": [
-      "Electronic"
+      "Experimental"
     ],
     "date": "2026-10-12T04:03:00.000Z",
     "dateFormatted": "October 12, 2026",
