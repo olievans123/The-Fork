@@ -1,5 +1,24 @@
 [
   {
+    "id": "6aff671830bb1ee6fe984bdf",
+    "artist": "R.E.M.",
+    "title": "Reveal (25th Anniversary Edition)",
+    "score": 8.1,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-11-21T05:00:00.000Z",
+    "dateFormatted": "November 21, 2026",
+    "url": "/reviews/albums/rem-reveal-25th-anniversary-edition/",
+    "description": "The rock band’s sunny synth-pop pivot remains an undersung gem. On a new reissue, it also feels like a touchstone for the sound of indie-pop in the 21st century.",
+    "reviewer": "Will Hermes",
+    "image": "https://media.pitchfork.com/photos/6aff6684624692a5bce87452/1:1/w_768,c_limit/R.E.M.%20Reveal%20(25th%20Anniversary%20Edition).jpg",
+    "releaseYear": 2026,
+    "originalYear": 2001
+  },
+  {
     "id": "6aff3980684991ff02c96833",
     "artist": "Kim Deal",
     "title": "Live at the Barbican",
