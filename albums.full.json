@@ -1,5 +1,23 @@
 [
   {
+    "id": "6aff6dfecf9176131d6d963e",
+    "artist": "Mariah Carey",
+    "title": "Glitter",
+    "score": 8.2,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B"
+    ],
+    "date": "2026-11-22T05:00:00.000Z",
+    "dateFormatted": "November 22, 2026",
+    "url": "/reviews/albums/mariah-carey-glitter/",
+    "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit the superstar’s infamous eighth album and film soundtrack, an effervescent blend of retro synth-pop, aughties hip-hop, and piano balladry with legendary baggage.",
+    "reviewer": "Jackson Howard",
+    "image": "https://media.pitchfork.com/photos/6b00602902cabd14213c4964/1:1/w_768,c_limit/mariah%20carey-%20glitter%202001%20album%20art.jpg",
+    "releaseYear": 2001
+  },
+  {
     "id": "6aff671830bb1ee6fe984bdf",
     "artist": "R.E.M.",
     "title": "Reveal (25th Anniversary Edition)",
