@@ -1,5 +1,60 @@
 [
   {
+    "id": "6b00548e6f30fddce8dc082f",
+    "artist": "Atlas Sound",
+    "title": "Thanatos",
+    "score": 8.5,
+    "bnm": true,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-11-23T05:02:00.000Z",
+    "dateFormatted": "November 23, 2026",
+    "url": "/reviews/albums/atlas-sound-thanatos/",
+    "description": "Bradford Cox’s first solo album in 15 years is a haunted, autumnal meditation on all forms of decay: bodily, spiritual, political, and sonic.",
+    "reviewer": "Andy Cush",
+    "image": "https://media.pitchfork.com/photos/6aff1bf1a9a6e7302a17fdd2/1:1/w_768,c_limit/218d258c-b21a-4910-88d1-cdf890c692cd.jpeg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6b0056bd40d468bfa5dcab83",
+    "artist": "Lambchop",
+    "title": "Demoed EP",
+    "score": 7.9,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-11-23T05:01:00.000Z",
+    "dateFormatted": "November 23, 2026",
+    "url": "/reviews/albums/lambchop-demoed-ep/",
+    "description": "MJ Lenderman, Circuit des Yeux, Flock of Dimes, and more lend their voices to stripped-down versions of songs from this year’s Punching the Clown on a new EP that continues the remarkable transformation of Lambchop.",
+    "reviewer": "Philip Sherburne",
+    "image": "https://media.pitchfork.com/photos/6ae0b6bc01eb9afa5af3bfda/1:1/w_768,c_limit/demoed.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6b005c223a31102026cc1a6e",
+    "artist": "Sheherazaad",
+    "title": "Khudgarzi",
+    "score": 7.6,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Pop/R&B",
+      "Experimental"
+    ],
+    "date": "2026-11-23T05:00:00.000Z",
+    "dateFormatted": "November 23, 2026",
+    "url": "/reviews/albums/sheherazaad-khudgarzi/",
+    "description": "The Brooklyn and Delhi-based singer-songwriter tells stories of strange and solitary women cast out by society: murderers, sex workers, and schemers determined to secure their freedom by any means.",
+    "reviewer": "Vrinda Jagota",
+    "image": "https://media.pitchfork.com/photos/6b005ab1e17d93d83598572b/1:1/w_768,c_limit/Sheherazaad%20-%20Khudgarzi.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6aff6dfecf9176131d6d963e",
     "artist": "Mariah Carey",
     "title": "Glitter",
