@@ -1,5 +1,42 @@
 [
   {
+    "id": "6b047d0ece5d624cdf13e27b",
+    "artist": "Emma Ogier",
+    "title": "Fly 1111",
+    "score": 7.3,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Folk/Country",
+      "Pop/R&B"
+    ],
+    "date": "2026-11-24T05:01:00.000Z",
+    "dateFormatted": "November 24, 2026",
+    "url": "/reviews/albums/emma-ogier-fly-1111/",
+    "description": "The Texas singer-songwriter’s debut channels a cool-girl-next-door vibe and a twangy alt-pop sound. At her best, she sounds wise beyond her years, with a knack for hooks and a literary imagination.",
+    "reviewer": "Lily Goldberg",
+    "image": "https://media.pitchfork.com/photos/6b047c8c1ab7156046ffcdff/1:1/w_768,c_limit/Emma%20Ogier-Fly%201111.jpg",
+    "releaseYear": 2026
+  },
+  {
+    "id": "6b0477bf03ced2e43b60b84c",
+    "artist": "Font",
+    "title": "American Bully XL",
+    "score": 7.5,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Rock"
+    ],
+    "date": "2026-11-24T05:00:00.000Z",
+    "dateFormatted": "November 24, 2026",
+    "url": "/reviews/albums/font-american-bully-xl/",
+    "description": "On its second album, the Texas quartet runs classic country influences through blasts of distortion, pairing its noisy palette with newly confessional lyrics.",
+    "reviewer": "Sue Park",
+    "image": "https://media.pitchfork.com/photos/6b04773003ced2e43b60b83c/1:1/w_768,c_limit/font-american%20bully%20xl.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6b00548e6f30fddce8dc082f",
     "artist": "Atlas Sound",
     "title": "Thanatos",
