@@ -1,5 +1,23 @@
 [
   {
+    "id": "6b04ac25a18d23966dba141d",
+    "artist": "Liz Harris",
+    "title": "Music for Two Films About Water",
+    "score": 7,
+    "bnm": false,
+    "bnr": false,
+    "genres": [
+      "Experimental"
+    ],
+    "date": "2026-11-27T05:00:00.000Z",
+    "dateFormatted": "November 27, 2026",
+    "url": "/reviews/albums/liz-harris-music-for-two-films-about-water/",
+    "description": "On her first release under her own name, Liz Harris immerses us in the the ambient side of Grouper with two long-form instrumental compositions.",
+    "reviewer": "Daniel Bromfield",
+    "image": "https://media.pitchfork.com/photos/6b04abcdef0d5f3b21696f7c/1:1/w_768,c_limit/Liz%20Harris%20-%20Music%20for%20Two%20Films%20About%20Water%20album%20art.jpg",
+    "releaseYear": 2026
+  },
+  {
     "id": "6b04572aa18d23966dba0f70",
     "artist": "Weird Baile",
     "title": "Collected Rips 2004-2024",
